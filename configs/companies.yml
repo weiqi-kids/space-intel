@@ -1,0 +1,189 @@
+companies:
+- id: rocket_lab
+  name: Rocket Lab
+  aliases:
+  - 火箭實驗室
+  ticker: RKLB
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 運載火箭
+  description: 小型衛星發射服務商
+  downstream:
+  - planet
+  - spire
+- id: northrop
+  name: Northrop Grumman
+  aliases:
+  - 諾格
+  - 諾斯洛普格魯曼
+  ticker: NOC
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 火箭/太空系統
+  description: 固體火箭推進器與太空系統
+  downstream:
+  - l3harris
+- id: boeing
+  name: Boeing
+  aliases:
+  - 波音
+  ticker: BA
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 運載火箭
+  description: SLS 火箭與 Starliner 太空船
+  downstream:
+  - ses
+  - iridium
+- id: lockheed
+  name: Lockheed Martin
+  aliases:
+  - 洛馬
+  - 洛克希德馬丁
+  ticker: LMT
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 太空系統
+  description: GPS 衛星與太空系統整合商
+  downstream:
+  - ses
+  - iridium
+- id: intuitive
+  name: Intuitive Machines
+  aliases:
+  - 直覺機器
+  ticker: LUNR
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 月球探測
+  description: 月球著陸器與太空基礎設施
+  upstream:
+  - rocket_lab
+- id: l3harris
+  name: L3Harris Technologies
+  aliases: []
+  ticker: LHX
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 衛星酬載
+  description: 軍事衛星酬載與通訊系統
+  upstream:
+  - northrop
+- id: redwire
+  name: Redwire
+  aliases: []
+  ticker: RDW
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 太空製造
+  description: 太空基礎設施與3D列印
+- id: planet
+  name: Planet Labs
+  aliases:
+  - 行星實驗室
+  ticker: PL
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 地球觀測
+  description: 地球觀測衛星星座
+  upstream:
+  - rocket_lab
+- id: iridium
+  name: Iridium Communications
+  aliases:
+  - 銥星通訊
+  ticker: IRDM
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 衛星通訊
+  description: 低軌衛星通訊網路
+  upstream:
+  - lockheed
+  - boeing
+- id: ses
+  name: SES S.A.
+  aliases: []
+  ticker: SESG.PA
+  market: EURONEXT
+  currency: EUR
+  position: downstream
+  role: 衛星通訊
+  description: 中軌衛星通訊服務商
+  upstream:
+  - lockheed
+  - boeing
+- id: viasat
+  name: Viasat
+  aliases: []
+  ticker: VSAT
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 衛星寬頻
+  description: 衛星寬頻網路服務
+- id: ast_spacemobile
+  name: AST SpaceMobile
+  aliases: []
+  ticker: ASTS
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 太空通訊
+  description: 直接連接手機的太空基地台
+- id: globalstar
+  name: Globalstar
+  aliases: []
+  ticker: GSAT
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 衛星通訊
+  description: 低軌衛星通訊服務
+- id: spire
+  name: Spire Global
+  aliases: []
+  ticker: SPIR
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 衛星數據
+  description: 衛星數據與分析服務
+  upstream:
+  - rocket_lab
+etfs:
+- id: ufo
+  name: Procure Space ETF
+  ticker: UFO
+  market: NASDAQ
+  currency: USD
+  description: 太空產業 ETF
+- id: arkx
+  name: ARK Space Exploration & Innovation ETF
+  ticker: ARKX
+  market: BATS
+  currency: USD
+  description: 太空探索與創新 ETF
+supply_chain_positions:
+  upstream:
+  - 運載火箭
+  - 火箭/太空系統
+  - 太空系統
+  midstream:
+  - 月球探測
+  - 衛星酬載
+  - 太空製造
+  downstream:
+  - 地球觀測
+  - 衛星通訊
+  - 衛星寬頻
+  - 太空通訊
+  - 衛星數據

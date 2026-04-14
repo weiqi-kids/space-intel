@@ -1,0 +1,185 @@
+{
+  "companies": [
+    {
+      "id": "rocket_lab",
+      "name": "Rocket Lab",
+      "short_name": "火箭實驗室",
+      "position": "upstream",
+      "role": "運載火箭",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "northrop",
+      "name": "Northrop Grumman",
+      "short_name": "諾格",
+      "position": "upstream",
+      "role": "火箭/太空系統",
+      "x": 0.119,
+      "y": 0.34
+    },
+    {
+      "id": "boeing",
+      "name": "Boeing",
+      "short_name": "波音",
+      "position": "upstream",
+      "role": "運載火箭",
+      "x": 0.188,
+      "y": 0.34
+    },
+    {
+      "id": "lockheed",
+      "name": "Lockheed Martin",
+      "short_name": "洛馬",
+      "position": "upstream",
+      "role": "太空系統",
+      "x": 0.258,
+      "y": 0.34
+    },
+    {
+      "id": "intuitive",
+      "name": "Intuitive Machines",
+      "short_name": "直覺機器",
+      "position": "midstream",
+      "role": "月球探測",
+      "x": 0.327,
+      "y": 0.34
+    },
+    {
+      "id": "l3harris",
+      "name": "L3Harris Technologies",
+      "short_name": "L3Harris Technologies",
+      "position": "midstream",
+      "role": "衛星酬載",
+      "x": 0.396,
+      "y": 0.34
+    },
+    {
+      "id": "redwire",
+      "name": "Redwire",
+      "short_name": "Redwire",
+      "position": "midstream",
+      "role": "太空製造",
+      "x": 0.465,
+      "y": 0.34
+    },
+    {
+      "id": "planet",
+      "name": "Planet Labs",
+      "short_name": "行星實驗室",
+      "position": "downstream",
+      "role": "地球觀測",
+      "x": 0.535,
+      "y": 0.34
+    },
+    {
+      "id": "iridium",
+      "name": "Iridium Communications",
+      "short_name": "銥星通訊",
+      "position": "downstream",
+      "role": "衛星通訊",
+      "x": 0.604,
+      "y": 0.34
+    },
+    {
+      "id": "ses",
+      "name": "SES S.A.",
+      "short_name": "SES S.A.",
+      "position": "downstream",
+      "role": "衛星通訊",
+      "x": 0.673,
+      "y": 0.34
+    },
+    {
+      "id": "viasat",
+      "name": "Viasat",
+      "short_name": "Viasat",
+      "position": "downstream",
+      "role": "衛星寬頻",
+      "x": 0.742,
+      "y": 0.34
+    },
+    {
+      "id": "ast_spacemobile",
+      "name": "AST SpaceMobile",
+      "short_name": "AST SpaceMobile",
+      "position": "downstream",
+      "role": "太空通訊",
+      "x": 0.812,
+      "y": 0.34
+    },
+    {
+      "id": "globalstar",
+      "name": "Globalstar",
+      "short_name": "Globalstar",
+      "position": "downstream",
+      "role": "衛星通訊",
+      "x": 0.881,
+      "y": 0.34
+    },
+    {
+      "id": "spire",
+      "name": "Spire Global",
+      "short_name": "Spire Global",
+      "position": "downstream",
+      "role": "衛星數據",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "rocket_lab",
+      "target": "planet",
+      "strength": 2
+    },
+    {
+      "source": "rocket_lab",
+      "target": "spire",
+      "strength": 2
+    },
+    {
+      "source": "northrop",
+      "target": "l3harris",
+      "strength": 2
+    },
+    {
+      "source": "boeing",
+      "target": "ses",
+      "strength": 2
+    },
+    {
+      "source": "boeing",
+      "target": "iridium",
+      "strength": 2
+    },
+    {
+      "source": "lockheed",
+      "target": "ses",
+      "strength": 2
+    },
+    {
+      "source": "lockheed",
+      "target": "iridium",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_ufo",
+      "name": "Procure Space ETF",
+      "ticker": "UFO",
+      "market": "NASDAQ",
+      "currency": "USD",
+      "description": "太空產業 ETF"
+    },
+    {
+      "id": "etf_arkx",
+      "name": "ARK Space Exploration & Innovation ETF",
+      "ticker": "ARKX",
+      "market": "BATS",
+      "currency": "USD",
+      "description": "太空探索與創新 ETF"
+    }
+  ]
+}
