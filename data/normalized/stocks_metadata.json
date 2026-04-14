@@ -1,82 +1,82 @@
 {
   "rocket_lab": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "northrop": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "boeing": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "lockheed": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "intuitive": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "l3harris": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "redwire": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "planet": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "iridium": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "ses": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-22",
     "latest": "2026-04-14",
-    "count": 63
+    "count": 250
   },
   "viasat": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "ast_spacemobile": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "globalstar": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "spire": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "etf_ufo": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   },
   "etf_arkx": {
-    "earliest": "2026-01-14",
+    "earliest": "2025-04-21",
     "latest": "2026-04-14",
-    "count": 62
+    "count": 247
   }
 }

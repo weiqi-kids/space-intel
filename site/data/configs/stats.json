@@ -1,0 +1,86 @@
+{
+  "company_count": 14,
+  "topic_count": 4,
+  "alias_count": 30,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "rocket_lab",
+      "short_name": "Rocket Lab",
+      "tier": ""
+    },
+    {
+      "id": "northrop",
+      "short_name": "Northrop Grumman",
+      "tier": ""
+    },
+    {
+      "id": "boeing",
+      "short_name": "Boeing",
+      "tier": ""
+    },
+    {
+      "id": "lockheed",
+      "short_name": "Lockheed Martin",
+      "tier": ""
+    },
+    {
+      "id": "intuitive",
+      "short_name": "Intuitive Machines",
+      "tier": ""
+    },
+    {
+      "id": "l3harris",
+      "short_name": "L3Harris Technologies",
+      "tier": ""
+    },
+    {
+      "id": "redwire",
+      "short_name": "Redwire",
+      "tier": ""
+    },
+    {
+      "id": "planet",
+      "short_name": "Planet Labs",
+      "tier": ""
+    },
+    {
+      "id": "iridium",
+      "short_name": "Iridium Communications",
+      "tier": ""
+    },
+    {
+      "id": "ses",
+      "short_name": "SES S.A.",
+      "tier": ""
+    },
+    {
+      "id": "viasat",
+      "short_name": "Viasat",
+      "tier": ""
+    },
+    {
+      "id": "ast_spacemobile",
+      "short_name": "AST SpaceMobile",
+      "tier": ""
+    },
+    {
+      "id": "globalstar",
+      "short_name": "Globalstar",
+      "tier": ""
+    },
+    {
+      "id": "spire",
+      "short_name": "Spire Global",
+      "tier": ""
+    }
+  ]
+}
