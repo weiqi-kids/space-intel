@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-15T09:15:56.825008+00:00",
+  "updated_at": "2026-04-15T12:07:53.710125+00:00",
   "companies": {
     "rocket_lab": {
       "name": "Rocket Lab",
@@ -613,7 +613,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 584442,
           "pct_held": 0.16,
-          "value": 3629384
+          "value": 3636690
         }
       ]
     },
@@ -826,13 +826,13 @@
         {
           "holder": "325 Capital Llc",
           "shares": 1875000,
-          "pct_held": 5.6,
+          "pct_held": 5.59,
           "value": 38887499
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 1664665,
-          "pct_held": 4.97,
+          "pct_held": 4.96,
           "value": 34525151
         },
         {
@@ -868,7 +868,7 @@
         {
           "holder": "Stifel Financial Corporation",
           "shares": 524579,
-          "pct_held": 1.57,
+          "pct_held": 1.56,
           "value": 10879768
         },
         {
