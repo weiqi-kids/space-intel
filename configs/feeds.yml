@@ -1,0 +1,64 @@
+# Space industry news feeds
+feeds:
+# --- Company IR feeds ---
+- id: northrop_ir
+  name: Northrop Grumman Investor News
+  url: https://investor.northropgrumman.com/rss/news-releases.xml
+  description: Northrop Grumman investor news and press releases
+
+- id: lockheed_ir
+  name: Lockheed Martin News
+  url: https://news.lockheedmartin.com/rss
+  description: Lockheed Martin press releases and news
+
+- id: boeing_ir
+  name: Boeing Investor News
+  url: https://investors.boeing.com/investors/investor-resources/rss/news-releases.xml
+  description: Boeing investor news and press releases
+
+- id: viasat_ir
+  name: Viasat Investor News
+  url: https://investors.viasat.com/rss/news-releases.xml
+  description: Viasat investor news and press releases
+
+- id: iridium_ir
+  name: Iridium Communications Investor News
+  url: https://investor.iridium.com/rss/news-releases.xml
+  description: Iridium Communications investor news
+
+- id: globalstar_ir
+  name: Globalstar Investor News
+  url: https://investors.globalstar.com/rss/news-releases.xml
+  description: Globalstar investor news and press releases
+
+# --- Industry media feeds ---
+- id: spacenews
+  name: SpaceNews
+  url: https://spacenews.com/feed/
+  description: Most trusted source for space industry news and analysis since 1989
+
+- id: spacecom
+  name: Space.com
+  url: https://www.space.com/feeds/all
+  description: NASA, space exploration and astronomy news
+
+- id: nasa_breaking
+  name: NASA Breaking News
+  url: https://www.nasa.gov/news-release/feed/
+  description: Official NASA news releases
+
+- id: spaceflight_now
+  name: Spaceflight Now
+  url: https://spaceflightnow.com/feed/
+  description: Launch schedule, mission coverage and space industry news
+
+# --- Google News topic feeds ---
+- id: google_satellite_launch
+  name: Google News - Satellite Launch
+  url: https://news.google.com/rss/search?q=satellite+launch+rocket+space&hl=en
+  description: Google News aggregation for satellite launches and space missions
+
+- id: google_space_industry
+  name: Google News - Space Industry
+  url: https://news.google.com/rss/search?q=space+industry+commercial+space+SpaceX+Rocket+Lab&hl=en
+  description: Google News aggregation for commercial space industry

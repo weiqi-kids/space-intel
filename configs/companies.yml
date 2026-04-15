@@ -23,6 +23,7 @@ companies:
   position: upstream
   role: 火箭/太空系統
   description: 固體火箭推進器與太空系統
+  rss_url: https://investor.northropgrumman.com/rss/news-releases.xml
   downstream:
   - l3harris
 - id: boeing
@@ -35,6 +36,7 @@ companies:
   position: upstream
   role: 運載火箭
   description: SLS 火箭與 Starliner 太空船
+  rss_url: https://investors.boeing.com/investors/investor-resources/rss/news-releases.xml
   downstream:
   - ses
   - iridium
@@ -49,6 +51,7 @@ companies:
   position: upstream
   role: 太空系統
   description: GPS 衛星與太空系統整合商
+  rss_url: https://news.lockheedmartin.com/rss
   downstream:
   - ses
   - iridium
@@ -106,6 +109,7 @@ companies:
   position: downstream
   role: 衛星通訊
   description: 低軌衛星通訊網路
+  rss_url: https://investor.iridium.com/rss/news-releases.xml
   upstream:
   - lockheed
   - boeing
@@ -130,6 +134,7 @@ companies:
   position: downstream
   role: 衛星寬頻
   description: 衛星寬頻網路服務
+  rss_url: https://investors.viasat.com/rss/news-releases.xml
 - id: ast_spacemobile
   name: AST SpaceMobile
   aliases: []
@@ -148,6 +153,7 @@ companies:
   position: downstream
   role: 衛星通訊
   description: 低軌衛星通訊服務
+  rss_url: https://investors.globalstar.com/rss/news-releases.xml
 - id: spire
   name: Spire Global
   aliases: []
