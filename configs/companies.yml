@@ -9,6 +9,7 @@ companies:
   position: upstream
   role: 運載火箭
   description: 小型衛星發射服務商
+  rss_url: https://news.google.com/rss/search?q="Rocket+Lab"&hl=en&gl=US&ceid=US:en
   downstream:
   - planet
   - spire
@@ -65,6 +66,7 @@ companies:
   position: midstream
   role: 月球探測
   description: 月球著陸器與太空基礎設施
+  rss_url: https://news.google.com/rss/search?q="Intuitive+Machines"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
 - id: l3harris
@@ -76,6 +78,7 @@ companies:
   position: midstream
   role: 衛星酬載
   description: 軍事衛星酬載與通訊系統
+  rss_url: https://news.google.com/rss/search?q="L3Harris+Technologies"&hl=en&gl=US&ceid=US:en
   upstream:
   - northrop
 - id: redwire
@@ -87,6 +90,7 @@ companies:
   position: midstream
   role: 太空製造
   description: 太空基礎設施與3D列印
+  rss_url: https://news.google.com/rss/search?q="Redwire"+space+manufacturing&hl=en&gl=US&ceid=US:en
 - id: planet
   name: Planet Labs
   aliases:
@@ -97,6 +101,7 @@ companies:
   position: downstream
   role: 地球觀測
   description: 地球觀測衛星星座
+  rss_url: https://news.google.com/rss/search?q="Planet+Labs"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
 - id: iridium
@@ -122,6 +127,7 @@ companies:
   position: downstream
   role: 衛星通訊
   description: 中軌衛星通訊服務商
+  rss_url: https://news.google.com/rss/search?q="SES+S.A."&hl=en&gl=US&ceid=US:en
   upstream:
   - lockheed
   - boeing
@@ -144,6 +150,7 @@ companies:
   position: downstream
   role: 太空通訊
   description: 直接連接手機的太空基地台
+  rss_url: https://news.google.com/rss/search?q="AST+SpaceMobile"&hl=en&gl=US&ceid=US:en
 - id: globalstar
   name: Globalstar
   aliases: []
@@ -163,6 +170,7 @@ companies:
   position: downstream
   role: 衛星數據
   description: 衛星數據與分析服務
+  rss_url: https://news.google.com/rss/search?q="Spire+Global"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
 etfs:
