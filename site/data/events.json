@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-16-003",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Space Force reorg signals end of SDA as standalone agency",
+    "summary": "<figure><img width=\"1024\" height=\"573\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/SDAT3_LHX-2026.jpg-scaled.jpeg?fit=1024%2C573&amp;ssl=1\" class=\"attachment-rss-image-size size-rs",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-15-002",
     "date": "2026-04-15",
     "companies": [],
@@ -57,6 +69,71 @@
     "impact": "neutral",
     "title": "West Coast SpaceX Falcon 9 mission launches 25 Starlink satellites - Spaceflight Now",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQXE2UzhnS3hlREItN1p4WjhCZXl2d3F4M3IxTE5OeWY1ZEloLUhfUjhnRGRnU1VtVHNNczBQbm11YTVFdkROcUlEbGx4Rjkwa2pzWFZhN2JNSXUtdFZkSWVvQk1XVmRQWHdPY1RqUD",
+    "sources": []
+  },
+  {
+    "id": "rocket_lab-2026-04-15-001",
+    "date": "2026-04-15",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rocket Lab (RKLB) Price Forecast: Bullish Reversal Gains Momentum - FXEmpire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ191Um84SHpZUDA4aGxwYUVoRXlVSThjdTY2OTBqcEppNVBJRTQ3bXpVam5GRkRQMEkxRHhtbDhnNnJQYlM4T3dzYV9NbUtxOGxINE9GY1NUS25tVFFWNWNrbjVzUXYxY1M0RVc1Zm",
+    "sources": []
+  },
+  {
+    "id": "globalstar-2026-04-15-002",
+    "date": "2026-04-15",
+    "companies": [
+      "globalstar",
+      "iridium",
+      "ast_spacemobile",
+      "viasat"
+    ],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Why AST SpaceMobile Could Buy Iridium, Viasat Spectrum To Counter Amazon's Globalstar Deal - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPSEpfRlFSRUNreEs1b3QzbjREWUkxQmZEMGtFcHBXT0l4Zlo0ZGx0aVFWWE1yMjZPN2huMWhDV0QzUmMzRFo4QlVQbENvXzZueXZWd3RMSUhZQkoyLWJOQjJla2dueVlOTzk0NmRoMU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-006",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Space combat was 'critical to mission success' in US war in Iran, Space Force chief says",
+    "summary": "\n                             The head of the U.S. Space Force said the United States' ongoing war in Iran shows the service has become a fully \"combat credible\" force. \n                              ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-007",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Blue Origin one step closer to launching New Glenn from Vandenberg Space Force Base",
+    "summary": "The U.S. Space Force said that it down-selected the company owned by Jeff Bezos to potentially develop a new launch site in California. <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.com/2026",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-008",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches two Starlink satellite groups 19 hours apart - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOM19FaUctb0hOYWJHeHNlN2xyWnpHR2wzWWwyRUM2TkRhN1lrMllGYmF2RjA4OUQ5eXJXQW05ZVZmdlA0Y2RmUmd4WF9jNG5WdXdQckpoNmdZWnB3aVAwZ3BvYlctU1Q1ZDRBMUZTb1",
     "sources": []
   },
   {
@@ -310,6 +387,30 @@
     "impact": "neutral",
     "title": "US Space Force moves GPS launch to SpaceX Falcon 9 due to Vulcan rocket glitch - Space",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNV9wZGMxY1k3VU1Pc1dQVW9RcF9QRnZMMW85cFZESU1XeVhmTlBVM2o3M0t1dlNLR0w4aFl4aFNCd0JUUmlnSEEzaElFQk96bjh0SDFDVERuRHFmekpXQlctQ2VIaTM2Ulg0WV92Xz",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-20-009",
+    "date": "2026-03-20",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1J4SXVFaU0yS056R3hRdHNrajlEOHRFLUpoSmdjMFhzTnV1NTR0LWNXc1ZSS01iWC1pM0Y3eDd2ZlJMNGI4eEluV215VWFxZUtqQXUtRXp2MGI0WmZDdURxWlIzSXVOLW1TMXl3Y1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-18-010",
+    "date": "2026-03-18",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches 29 Starlink satellites on Falcon 9 rocket from Cape Canaveral - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQNEhfNEVnV0hQdWJOT056YlN4TDFfUkd3eUpKNld0NHNtWXJLek5lV3BJeHA2VWNlWUlSRW15UkxDekhTRFVNVTgxdDlhVXRXYzhxeU9SYzV3X1dtRi1BcUMzQnp2dlpUbDVtRjJ3bk",
     "sources": []
   },
   {
