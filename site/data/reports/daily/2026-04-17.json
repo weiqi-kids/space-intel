@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-17T09:14:00.758060Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-04-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "May 7 brings Rocket Lab earnings report, investor call at 5 p.m. ET - Stock Titan",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "planet-2026-04-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look Back at Data & Business Process Services Stocks’ Q4 Earnings: Planet Labs (NYSE:PL) Vs The Rest Of The Pack - StockStory",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為火箭實驗室、行星實驗室相關動態：「May 7 brings Rocket Lab earnings report, investor call at...」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "May 7 brings Rocket Lab earnings report, investor call at 5 p.m. ET - Stock T...",
+        "level": "green"
+      },
+      {
+        "text": "A Look Back at Data & Business Process Services Stocks’ Q4 Earnings: Planet L...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
