@@ -1,5 +1,30 @@
 [
   {
+    "id": "unknown-2026-04-18-004",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo",
+    "summary": "<figure><img width=\"1024\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/space-minds-podcast-investment-2000-1500-1.jpg?fit=1024%2C768&amp;ssl=1\" class=\"attachment-rss-im",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-005",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
+    "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT",
+    "sources": []
+  },
+  {
     "id": "rocket_lab-2026-04-17-002",
     "date": "2026-04-17",
     "companies": [
@@ -21,6 +46,30 @@
     "impact": "neutral",
     "title": "A Look Back at Data & Business Process Services Stocks’ Q4 Earnings: Planet Labs (NYSE:PL) Vs The Rest Of The Pack - StockStory",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxORDY4aGl2V1piVXllSGxubHVzdEpnMkJCVzF4QVVJYW1PUjFDWVlQWE1tM2U2YW5HbDVqMU93eDRDZDJUTG9hdnlOVm1TcnlPUFlraFItcl9fanBLd2dtSjRtNGZHMTlISmpCVGExUG",
+    "sources": []
+  },
+  {
+    "id": "planet-2026-04-17-002",
+    "date": "2026-04-17",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "A Look Back at Data & Business Process Services Stocks’ Q4 Earnings: Planet Labs (NYSE:PL) Vs The Rest Of The Pack - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXprN01ya2lpdFluWkswMnU1YTk1Nk9fZ1huNGJDaFcwb2d1T09BZ09OSEIyZ0hkdUw0MWxIbUF5V3JjNWRYQWc3a3JSeHQwODIyLXZLNll4RV9kSnplU2k3NDhPY0dpeXNnSjNybW",
+    "sources": []
+  },
+  {
+    "id": "ast_spacemobile-2026-04-17-003",
+    "date": "2026-04-17",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AST SpaceMobile stock price forecast: $87.27–$91.53 range as ASTS falls 3.01% - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQblVwREdQTVAza3pSMWw5QUhOUmQ5QjFUOUJWOUtHMG1NZmsya1VONTcyOHhqQmg3UWxGUmdvWkhnY1FwU3N2eU16cGVWdU9LdUZ0WjFzTkl1MlRHRG5tQWdyVXk1MzV4bk1WSnVqM0",
     "sources": []
   },
   {

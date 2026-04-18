@@ -1,0 +1,104 @@
+{
+  "date": "2026-04-18",
+  "generated_at": "2026-04-18T08:44:25.754132Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-04-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast Starlink mission",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation",
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "space_defense",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為太空防禦、衛星星座相關動態：「The Space Force’s ‘commercial first’ strategy in action w...」。主要關注主題為太空防禦、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "The Space Force’s ‘commercial first’ strategy in action with Col. Tim Trimailo（太空防禦）",
+        "level": "green"
+      },
+      {
+        "text": "Live coverage: SpaceX attempts 600th Falcon booster landing amid West Coast S...（衛星星座、太空防禦）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
