@@ -1,5 +1,55 @@
 [
   {
+    "id": "ast_spacemobile-2026-04-19-001",
+    "date": "2026-04-19",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "launch_cost"
+    ],
+    "impact": "neutral",
+    "title": "Blue Origin Rocket Launches, Then Loses AST SpaceMobile BlueBird Satellite - PCMag",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjFFaGUyR3pyV205RDJlY0p1Z2tUby1zeEV4OGlnWDZPZjR1NXB3dGgxd1pvUUdGQjFZeFBCWXcweXhKZDh4VWZHNGlPSzhKbEpLODJKQXZ4VHBjWVdLX1hjUmVQSlV2dEdJcHRkal",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-003",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Space Force weighs Vulcan flights without solid boosters",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/01/G9gq1UwWIAAosaE-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-i",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-004",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Watch SpaceX launch advanced GPS satellite for US Space Force early on April 21",
+    "summary": "\n                             SpaceX will launch a new GPS satellite for the U.S. Space Force early Tuesday morning (April 21), and you can watch the action live. \n                                    ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-19-007",
+    "date": "2026-04-19",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Watch SpaceX launch advanced GPS satellite for US Space Force early on April 21 - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlhOTWVZUkx3MWd6dmRvV2lMdUZlVGRnZy1XdS04UkxUR3lmMG0tN0pybFVPaG52c3FPOVNQTnBEQWsyZ3UtcXYyazE3aUNXU3ZtcjlNWjF4ZVdvZEM0WThxQk54a3dObG9QdUJkT2",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-18-004",
     "date": "2026-04-18",
     "companies": [],
@@ -49,6 +99,19 @@
     "impact": "neutral",
     "title": "SpaceX to attempt 600th Falcon booster landing amid West Coast Starlink mission",
     "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 7:33:40 a.m. PDT (10:33:40 a.m. EDT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-18-006",
+    "date": "2026-04-18",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX to attempt 600th Falcon booster landing amid West Coast Starlink mission",
+    "summary": "The Starlink 17-22 will see SpaceX launch 25 broadband internet satellites into low Earth orbit. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled for 9:03:09 a.m. PDT (12:03:09 pm EDT /",
     "sources": []
   },
   {
@@ -109,6 +172,18 @@
     "impact": "neutral",
     "title": "Vandenberg rocket launch this weekend. Where to see SpaceX mission - Ventura County Star",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWUwYmFJWkZIWXl3bWVUZ0hvWl9JTWFUZl9mLWJsS1JaT3pSY2lNYWZCNmI4bmtKdzkydlpSZWFZNDc4RV94cndJS2llVUVNbDJWMzNkNFRxcHZ0QzZ6OHZnaVBSQ2wtWmtHOVdDVV",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-17-008",
+    "date": "2026-04-17",
+    "companies": [],
+    "topics": [
+      "launch_cost"
+    ],
+    "impact": "neutral",
+    "title": "Blue Origin’s New Glenn rocket launches telecommunications satellite - Spectrum News 13",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxONm9QNHdPczlHRXIwUFQ4MHluUVdvYVczS3lHa0FxRGRxYmlGMTBOYklDNER2SVJ4WUxrY2w1c0lvdmtxZlJaSmlLb0xVMU9wT0k5UmFyLU1NQzFrbllSVzI4RGg0dWgyVmFDSWFqeG",
     "sources": []
   },
   {
@@ -173,6 +248,19 @@
     "impact": "positive",
     "title": "Ast Spacemobile vs. Iridium Communications: Comparing Revenue Growth and Stability - The Globe and Mail",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeGRuLVZTS0ZIeTlnQ21nUzIyaG80OEtTVTBYdm5PanhlMFpoclUxT1RBZEhKeHBuVlpld0NEaDhQUWhLNHRxOUN1TkFFRXdGMjVSSEhHemxwcDUyRlNIR2J0dFI4ako3X01FQ3I2bH",
+    "sources": []
+  },
+  {
+    "id": "ast_spacemobile-2026-04-16-002",
+    "date": "2026-04-16",
+    "companies": [
+      "ast_spacemobile",
+      "iridium"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Ast Spacemobile vs. Iridium Communications: Comparing Revenue Growth and Stability - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0lDQWc1UnJwMUFadnJZbGVYRzRRWjhZWkY0YXdyUzgycG5LY00xWW5ZVmNZWWl6ZXByVjlvd3NYWTVsZEFnLV9HUzlRMEZULWZLNWhteXhORG5sS0c4SUhRZklIS3J5eTZRTHNCbE",
     "sources": []
   },
   {
@@ -685,6 +773,18 @@
     "impact": "neutral",
     "title": "U.S. Space Force switches rockets for upcoming GPS satellite launch - Spaceflight Now",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR2JneDZneFFjZnJvcTNvYVZIS0RFeWF4NU9HaS1FZjNKZ204MjNQVnNHd3pDQzZ2VV9NNkR1ckM0UTZidHd0ek5EZWplTzZJZGxkTlJYdGpMdjBrTWFxUkRISkdXOFZ3QTh0YXZNb1",
+    "sources": []
+  },
+  {
+    "id": "unknown-2025-12-23-009",
+    "date": "2025-12-23",
+    "companies": [],
+    "topics": [
+      "launch_cost"
+    ],
+    "impact": "positive",
+    "title": "Indian rocket launches record-breaking BlueBird 6 smartphone satellite to orbit (video) - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWS1BaURWUm93SmltM18yZmRocnJRam5yODRsV0tPSy1STTgyNVR6VFBabmwxUHplemdMa3owV2I1MzUwaF9OdnRpS2haWWxHWGFhU0hBZ1VWSzJSUE5lTkJ2dzZJOE1yX0xqcG56LV",
     "sources": []
   },
   {

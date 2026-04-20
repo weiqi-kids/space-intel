@@ -1,82 +1,82 @@
 {
   "rocket_lab": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "northrop": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "boeing": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "lockheed": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "intuitive": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "l3harris": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "redwire": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "planet": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "iridium": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "ses": {
-    "earliest": "2023-11-01",
-    "latest": "2026-04-17",
-    "count": 626
+    "earliest": "2023-08-03",
+    "latest": "2026-04-20",
+    "count": 691
   },
   "viasat": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "ast_spacemobile": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "globalstar": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "spire": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "etf_ufo": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   },
   "etf_arkx": {
-    "earliest": "2023-10-31",
+    "earliest": "2023-08-02",
     "latest": "2026-04-17",
-    "count": 617
+    "count": 680
   }
 }
