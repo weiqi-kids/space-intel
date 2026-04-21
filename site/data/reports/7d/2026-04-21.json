@@ -1,0 +1,114 @@
+{
+  "date": "2026-04-21",
+  "date_range": {
+    "start": "2026-04-15",
+    "end": "2026-04-21"
+  },
+  "generated_at": "2026-04-21T09:22:49.615088Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "globalstar-2026-04-15-002",
+      "date": "2026-04-15",
+      "title": "Why AST SpaceMobile Could Buy Iridium, Viasat Spectrum To Counter Amazon's Globalstar Deal - Investor's Business Daily",
+      "importance_score": 0.7
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "iridium",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "satellite_constellation": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 6,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "planet": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 14,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-15",
+      "event_count": 5,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-17",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-18",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-21",
+      "event_count": 4,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-15 ~ 2026-04-21）共 14 則事件，重點為「Why AST SpaceMobile Could Buy Iridium, Viasat S...」。衛星星座、太空防禦、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "銥星通訊",
+        "reason": "受發射成本議題影響，供應鏈壓力可能上升。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

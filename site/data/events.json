@@ -1,5 +1,102 @@
 [
   {
+    "id": "unknown-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX to launches final GPS III satellite for the U.S. Space Force",
+    "summary": "This is the final spacecraft of this generation of precision, navigation, and timing satellites before the U.S. Space Force shifts to launching GPS IIIF satellites. Liftoff from pad 40 at Cape Canaver",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-007",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches advanced GPS satellite for US Space Force after rocket swap (photos) - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlhOTWVZUkx3MWd6dmRvV2lMdUZlVGRnZy1XdS04UkxUR3lmMG0tN0pybFVPaG52c3FPOVNQTnBEQWsyZ3UtcXYyazE3aUNXU3ZtcjlNWjF4ZVdvZEM0WThxQk54a3dObG9QdUJkT2",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-009",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "launch_cost"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX rocket launches GPS III-8 SV 10 satellite from Cape Canaveral - Florida Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxPc2lEeV84cldRbU9wVkV4VXJFY3BqcERlMXl5eTlNc0xGa1VIT0tBdFFKS1piUUFMMTZINmhRQnIzWGNXdXNNakdpX3FiYWRpUG5HeVNEZ01QU3g2VmFoWTE2eGx0UGhvejYzT0hxbG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-21-011",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX to launch final GPS III satellite for the U.S. Space Force - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaW5rSnNNYUFkMVo4MUN0M3lhS0Y2bmZYd1JmZ3R4MnlFLXJ3cFVMNDlJRHh1dklBSHRiVHgwSE5WcVNXWXAwM1VGTnVCRVpxUVFkOTRWbllHYTQwdnZ6VGhhbU1TY2daVDBxM2QzNE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "launch_cost"
+    ],
+    "impact": "neutral",
+    "title": "Number of rocket launches expected to soar from Wallops Island soon - WAVY.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPWEQ0OU5EcUdGLV85MVRNaGZwNEhZcWt0R1hZWmlEa1VxNklIUXdBN0RySXBqaDQtREpFakszbVRoY3pUTlREMzZoSmxpbWlCNjY4cUZyNWZaYm9BRER5WU4xTTlWVmpOZ2g2Ump5Z0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-003",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch (video)",
+    "summary": "\n                             A SpaceX Falcon 9 rocket carrying 25 Starlink satellites lifted off from Vandenberg Space Force Station in California on April 19. The mission featured the 600th landing ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-008",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "With planned GPS launch, Space Force turns again to SpaceX amid ULA Vulcan issues - Orlando Sentinel",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdUVOTGRJNkhNcW8xVm9jNU9lNmxGX3NGZzFPXzE4SGVzUWZjUnpYVWloSG9QaFBQUlVPbks4MV9USng3Zi1hUzNoQktFa0dSQUM1QW9oTUNmMWx3c1duOXNOd0tlcmhhYS1Rb0NaTn",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-010",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "600 rocket landings! SpaceX notches another milestone during Sunday Starlink launch (video) - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTlKamswa1ZlWFJsSEZwbUdWRW1kZGRZaGhlTWFtZGQ2NXZHY1BjRy1BaW9uT2hjUHp1ZmRDUElnNTdqb2ExMWdkVklQaHdER0VfQ3cxUTNJRTlsdW45dXRNQnhlSkdyQUJUNmgyT0",
+    "sources": []
+  },
+  {
     "id": "ast_spacemobile-2026-04-19-001",
     "date": "2026-04-19",
     "companies": [
@@ -700,6 +797,18 @@
     "impact": "neutral",
     "title": "SpaceX launches 600th Starlink satellite of 2026 during predawn Falcon 9 rocket flight from Cape Canaveral - Spaceflight Now",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQclNYYzh0aHIwYkhqbjdDcndndHIyTjNpbmhHUFhSa3p1bllXalNCRllOZXhiTDZ3aUtEVVFUZWxKcXh2YVdJeEVoRlBQUkZLMUo5STRGSlhEQ2xpemZFQWdSMVhFbG5uVloyQkJ5Y3",
+    "sources": []
+  },
+  {
+    "id": "ses-2026-03-02-002",
+    "date": "2026-03-02",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SES S.A. (SGBAF) Reports FY Revenue of €2.62 Billion - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1NtclAzVHVEVWtjbDdiYm53QWI3MFh3OVFmcFlVRUIzZFBKSE1UMHpCdXlPeXo4U3V1Q09HU25wX0Zva1hkQlkteTNnV0I2d0ZwMVRzeXM0QTNLM2toM3hROXl6Y25UbDJoZ1JFUT",
     "sources": []
   },
   {
