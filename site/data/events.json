@@ -1,5 +1,77 @@
 [
   {
+    "id": "rocket_lab-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rocket Lab’s Second JAXA Launch Highlights Growing Government Revenue Potential - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQLXJzdmpWcUdiakpCQUtJNGNMNVZpYndoaV9ybkVpNERDcjh6dDY0MldTeTV6RjljTDlmOVNuNURhOWoyNEItc25BemZETkJ4ZjAwVmpFZmREeElaLUxhNURXOGxRTUpVOUdEU2NseT",
+    "sources": []
+  },
+  {
+    "id": "l3harris-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (LHX) Expected to Announce Quarterly Earnings on Thursday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNYlJnMXRhM0M1OUE4d0U1UWRwc2ttOW1qWkdZYTlKUWR1NzQ1dDhGVzVEbXpackNGQXpNNzZDei02U1d2WVc1aGhrWC0xOXgxYV83by1hOTdsNlc5UWV6T3VXZFk0TnVLOEYyX1NKaX",
+    "sources": []
+  },
+  {
+    "id": "planet-2026-04-23-003",
+    "date": "2026-04-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "PL (Planet Labs PBC) delivers 100% Q1 2026 EPS upside, with shares falling 3.53% in today’s trading session. - Revenue Growth Rate - Xã Thanh Hà",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcXplR1EzU3ExZXNyVjU2RlFVeU9jWThhNWxfZFh5Z0JjUUU3ZzU3bWlHRFVmbnVZM3psaXM4cnItVEdRTlBFanFBZXdteWY1TWFnTWQzaWF3TEMxcHNkSjR6OFFpSDFVeFJxbHA5Tl",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB",
+    "summary": "The mission is the 40th launch of the year from SpaceX, dedicated to flying its broadband internet satellites. Liftoff of the Starlink 17-14 mission happened at 8:23:09 p.m. PDT (11:23:09 p.m. EDT / 0",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches 24 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVowalJEZXEzXzFYWHRHaTJONUhhNXZKU1NUT2c0Q2JadUx4d3BPT3R1QVFsb1FaV0JoOE10WFVLWnFkSEZaMk1aR2prcXliQVItT1pZaHE3ZHNFY1NJaHhWQ28zQ00xeFQtTndaSG",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-006",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Space Force awards contracts to Leidos, MapLarge for ‘battle planning’ software",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/04/8855383-scaled.jpg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-21-005",
     "date": "2026-04-21",
     "companies": [],
@@ -119,6 +191,20 @@
     "impact": "neutral",
     "title": "SpaceX launches advanced GPS satellite for US Space Force after rocket swap (video, photos) - Space",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlhOTWVZUkx3MWd6dmRvV2lMdUZlVGRnZy1XdS04UkxUR3lmMG0tN0pybFVPaG52c3FPOVNQTnBEQWsyZ3UtcXYyazE3aUNXU3ZtcjlNWjF4ZVdvZEM0WThxQk54a3dObG9QdUJkT2",
+    "sources": []
+  },
+  {
+    "id": "ast_spacemobile-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Secures FCC Nod to Compete With Starlink Mobile - PCMag",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNWHo3T2U5allQREZTWDIwdWZUVndlcktWWHNodG5WZ2tIMEJDeWxZZFNab2pZN1hncTR3RVpSRHM4V3lrM0N6YkNFR2xpeHVsQjF5UW1yOGx0QktGR2VKckk0dWh1aGh4a2pia2JpS1",
     "sources": []
   },
   {
@@ -895,6 +981,18 @@
     "impact": "neutral",
     "title": "SES S.A. (SGBAF) Reports FY Revenue of €2.62 Billion - GuruFocus",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQV1NtclAzVHVEVWtjbDdiYm53QWI3MFh3OVFmcFlVRUIzZFBKSE1UMHpCdXlPeXo4U3V1Q09HU25wX0Zva1hkQlkteTNnV0I2d0ZwMVRzeXM0QTNLM2toM3hROXl6Y25UbDJoZ1JFUT",
+    "sources": []
+  },
+  {
+    "id": "ses-2026-03-02-004",
+    "date": "2026-03-02",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SES Reports Strong 2025 Growth Following Intelsat Acquisition, Revenue Hits €2.63 Billion - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPVnlmMEdFeGN1RU1KUldnMkJsWGt6Sk14MVI4UmtRR1pCUnZDMjhHRlc0SFZmMGVSSUxvTF94V0k3QlVldnQ5Z2M5VWYzQ3B2dmJGOENDRnNhLS1aNUFWYmdHVlNkbEl5UG13bU0ybG",
     "sources": []
   },
   {
