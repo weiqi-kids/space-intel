@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T09:24:05.590211Z",
+  "updated_at": "2026-04-24T09:28:39.847000Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -21,14 +21,14 @@
       "name": "波音",
       "ticker": "BA",
       "currency": "USD",
-      "ar": 2773000000,
-      "ar_prev": 3314000000,
-      "ar_qoq": "-16%",
-      "inventory": 84679000000,
-      "inv_prev": 82425000000,
+      "ar": 3485000000,
+      "ar_prev": 2773000000,
+      "ar_qoq": "+26%",
+      "inventory": 87225000000,
+      "inv_prev": 84679000000,
       "inv_qoq": "+3%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "globalstar",
