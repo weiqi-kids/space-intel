@@ -1,0 +1,76 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25T08:47:16.328079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-04-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Intuitive Machines (LUNR) CFO’s Tax-Related Stock Sale Clarify Its Space Force Growth Strategy? - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為直覺機器相關動態：「Does Intuitive Machines (LUNR) CFO’s Tax-Related Stock Sa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Does Intuitive Machines (LUNR) CFO’s Tax-Related Stock Sale Clarify Its Space...（太空防禦）",
+        "level": "green"
+      },
+      {
+        "text": "直覺機器為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

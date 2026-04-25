@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-24T09:28:39.847000Z",
+  "updated_at": "2026-04-25T08:47:13.676649Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -63,14 +63,14 @@
       "name": "銥星通訊",
       "ticker": "IRDM",
       "currency": "USD",
-      "ar": 93772000,
-      "ar_prev": 94494000,
-      "ar_qoq": "-1%",
-      "inventory": 73764000,
-      "inv_prev": 76187000,
-      "inv_qoq": "-3%",
+      "ar": 104382000,
+      "ar_prev": 93772000,
+      "ar_qoq": "+11%",
+      "inventory": 69667000,
+      "inv_prev": 73764000,
+      "inv_qoq": "-6%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "l3harris",
@@ -91,14 +91,14 @@
       "name": "洛馬",
       "ticker": "LMT",
       "currency": "USD",
-      "ar": 3901000000,
-      "ar_prev": 3844000000,
-      "ar_qoq": "+1%",
-      "inventory": 3524000000,
-      "inv_prev": 3749000000,
-      "inv_qoq": "-6%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 2322000000,
+      "ar_prev": 3901000000,
+      "ar_qoq": "-40%",
+      "inventory": 4251000000,
+      "inv_prev": 3524000000,
+      "inv_qoq": "+21%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "northrop",

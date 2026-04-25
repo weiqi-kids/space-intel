@@ -1,0 +1,21 @@
+{
+  "date": "2026-04-25",
+  "total_events": 1,
+  "by_company": {
+    "intuitive": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "space_defense": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
