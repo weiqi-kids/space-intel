@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 258,
+  "dup_title": 81,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 78,
+  "gate1_fail": 60,
+  "gate2_fail": 39,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "What's Going On With Rocket Lab Stock Friday? - Benzinga",
+    "Rocket Lab Stock Is Down 14%. Is It Finally Time to Buy? - The Motley Fool",
+    "Blue Origin Failure Shows Space Isn’t Easy—and the Value of Rocket Lab Stock - Barron's",
+    "Intuitive Machines: From Lunar Lander To Space Infrastructure Play (NASDAQ:LUNR) - Seeking Alpha",
+    "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool"
+  ]
 }
