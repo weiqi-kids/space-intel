@@ -1,5 +1,59 @@
 [
   {
+    "id": "rocket_lab-2026-04-26-001",
+    "date": "2026-04-26",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Evergreen Capital Management LLC Invests $589,000 in Rocket Lab Corporation $RKLB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlNGeGpuYV9sVllXai1CM1BURU9iWXo0NUtIQzM4eDNLaThIeS00cnJuXzEycXBrZzhPMF9zb0ZTU0pzb1B0d0s5djVma0hVWERZcEw4T0haTUFYNEY2WEZua2pLZnM4XzJuZldhdH",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlNGeGpuYV9sVllXai1CM1BURU9iWXo0NUtIQzM4eDNLaThIeS00cnJuXzEycXBrZzhPMF9zb0ZTU0pzb1B0d0s5djVma0hVWERZcEw4T0haTUFYNEY2WEZua2pLZnM4XzJuZldhdHE4NVdXWV9uYUNXU3U4bThrQ3JZNnZmNVVRSl9FS3hMdFVHTzVXNmFfVmoxTzQ1WVo5UjgtSEUzSWpXb2tkMnRSZ0VkSVVidktwcFE3djhmUUE2d0RGZU1RZ1R0RXlwUlBsLWIwWF9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-26-002",
+    "date": "2026-04-26",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Axecap Investments LLC Makes New Investment in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJYVjZYOFp2dHhCUDVZclJrTE95Y0FDNDRkaTlLeXNieTVXU3gzOG1Dc2Z5LUNWbVlwYmJVNjFnWWx0dUlQUnBCY0dPTS10b3BrdGxycmpyczFZclIwWlJrT1hpSjd5ZUw4TTlaSU",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJYVjZYOFp2dHhCUDVZclJrTE95Y0FDNDRkaTlLeXNieTVXU3gzOG1Dc2Z5LUNWbVlwYmJVNjFnWWx0dUlQUnBCY0dPTS10b3BrdGxycmpyczFZclIwWlJrT1hpSjd5ZUw4TTlaSUVjTE85R1Y4LVhkTGRjSmF2OHR4TWRpWHoySThmS1h3MnMyQnJpNzZ6V09HdG1rLUloNzMzdF92WHFkS3Nkc0p5WnEtOTNTZHZGUzRNY1BvR2F0NW5RdEhxeEFEZW1pbzVVbmZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-26-003",
+    "date": "2026-04-26",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Concurrent Investment Advisors LLC Raises Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3BONTd6V09PNXJrRDBMMEdYRHZVR0xadHJOU0VseDhLMnl1dzJqYWRJc3ZjbTRBM3FPeFY4Tm04LXV4S19oaVF1emdyNWh1Rk5aeWVKckIzemUzUi1ZYVpySllwNjN3YlQwU3ZHRG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3BONTd6V09PNXJrRDBMMEdYRHZVR0xadHJOU0VseDhLMnl1dzJqYWRJc3ZjbTRBM3FPeFY4Tm04LXV4S19oaVF1emdyNWh1Rk5aeWVKckIzemUzUi1ZYVpySllwNjN3YlQwU3ZHRGZPVzR0MEl6NUpwNXllMjhrRTBRWUVadFhDUU1WcWxrWGc1VkdUQmxCZnZvRkNSM08wREJGWVV4Sm1PZERyVUlkNDlVZF9hLWlUeElfdHFDMjN1NjhvTGlBaFZaWkFnN3JQSlN0MjVsdUJJMTVzdk5lWEIzS0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "intuitive-2026-04-25-001",
     "date": "2026-04-25",
     "companies": [
@@ -227,6 +281,60 @@
       {
         "name": "spire",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYm5ta3FZTDVsaWkwZ1ZHNEFXYnk2UU5SOUpmejJlNWVYRjJCSUpaazI1aWJROUllTjIzVVBRWVY3aWFWX1dzbjJGNXIwa2lySGtBWXZMMmJvbDFJNTZNa1JhdnRBME1rZ0pNcmxGbWZtYW5FRmlWRHlDV1BfcGhNTGZrbDJZMnI5U2E5aVZ6SldiVTBYQVY4aEtzU096SGlXNmROVHFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-25-014",
+    "date": "2026-04-25",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Shares Sold by Munich Reinsurance Co Stock Corp in Munich - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaWxSXzk2OFpPTjl3TW1SYnNZR2pSMmYzelJvd2J0MXRocUxEa2JQekluQUdGc0pGLThJaEVlV2M2LThQRzBtNmZZN2xWNklMWjJoMkF4N0I3Y3M3RHFXOENDRFR3UWpsaW9uTTJrdH",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaWxSXzk2OFpPTjl3TW1SYnNZR2pSMmYzelJvd2J0MXRocUxEa2JQekluQUdGc0pGLThJaEVlV2M2LThQRzBtNmZZN2xWNklMWjJoMkF4N0I3Y3M3RHFXOENDRFR3UWpsaW9uTTJrdHI1eDB2aWN3RFoyYjV3dTdPRTc3S1lnOUlkdll1TWE0YjIxNnRDb3d6RHlwLWh5cm16eXAxUDNoZy1NclctRUgwS28xUUJNckVVbmdrNmFZNU1PajZaQ0ZSZWhvZ0NWZ3Q2YVpkeE91YllyNVhBTkU0RjJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-25-015",
+    "date": "2026-04-25",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Teacher Retirement System of Texas Raises Stake in L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFUwVkxkYUhSSk1fdjl1cmVRN0c2SHFSU0E5RW5RSmpHQjJvQzRQektabzE1czJSQXZRNFFZdlVfbmJZSGpjSzAyUkRHQWREUHQ2VUFSLXQxNUxoREtDU3NSX1hPSzYtWWJ5d2s4eV",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRFUwVkxkYUhSSk1fdjl1cmVRN0c2SHFSU0E5RW5RSmpHQjJvQzRQektabzE1czJSQXZRNFFZdlVfbmJZSGpjSzAyUkRHQWREUHQ2VUFSLXQxNUxoREtDU3NSX1hPSzYtWWJ5d2s4eVlXUTJRSW4xb2l5ZGo0VjBlVzZETG90MEZpZzJlSjJJSU1XV2Nud29PYzIwcU1RbURzYjlmRjVkQmZ4Um5xVmNqa01ZWGcxT0NWZFlTQlI3bmdtX0dGZklWU3NTTGk5T21zYWpRTEFTdXo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spire-2026-04-25-016",
+    "date": "2026-04-25",
+    "companies": [
+      "spire"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Spire Global files for resale offering of 5M shares held by stockholders - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gJBVV95cUxOZTJNMHp3YmlzcTFEemxHMDB5dVhzT2VnaVRoblN4WWxST1JZazItdzMyUWNPWFUwdDdzUURaYk1zVncyZlhsWTNwMkxsNTkzc21RdnNXWGJVQktCZkxWX2ZTbzdYdmhpYW91LUJWN2",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOZTJNMHp3YmlzcTFEemxHMDB5dVhzT2VnaVRoblN4WWxST1JZazItdzMyUWNPWFUwdDdzUURaYk1zVncyZlhsWTNwMkxsNTkzc21RdnNXWGJVQktCZkxWX2ZTbzdYdmhpYW91LUJWN25WeG9aRVRpSC02eXprUk5GQ1R6WGsxckpJX0ZtTlB0U2lDR3Z2WkV0NWhKejZqMmhYNHBIek1DRVlYcjIzRWdhcUVEdk1FdU5jV2owckMyMXp5ZTVEak5UdUU2Y0dVMVFVZVBZY3NQeWVFeEpqbnJuVDFTYTF1bC1ERTJBclpXa3RMTzVhZmxScjZxUG1VdkIzSU1Bck56TlpXaHF1R0VpVzBQcEZNbTJnZU5WOEplMHNlVnh6Wm55dkRVek4xSl9PUlBIRTJCcThZT3N3ZlZUYmQ5Y2NuMUp1UXVnN3Fvb3hzbzVtY3ZsRS15RWZYQ2FEVmJKcjltZFlxbDZqeXlKRDdhX0g3ZFBQbGxidVlR?oc=5",
         "type": "rss"
       }
     ]
@@ -461,6 +569,42 @@
       {
         "name": "spire",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVG81RHlMdW1pa2MydndDYVRpdEZadzFEQXFidm93ZWNrSW42R2FFSHc1NVBFclVlcGhqQzl5ZWZCNWQ0TTYwZmJ2dFlKUDg1ckJDRUJHSUlBYXZFLUM4OXFOc2JVUzdKYTVxR3ZJcEZjN2s3bTE4cGlKMjBOMHlWbkZnYXhDLUgzWmJMalFzUVlhMjlJZkMwRjZScUo1TGVPZjNtRXpEU0lMUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-24-015",
+    "date": "2026-04-24",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc Declares Quarterly Dividend of $1.25 (NYSE:LHX) - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjBrbjZGZ05yS001ei1wTzJlTkhNVlhLYjBLZ3dZaWs5aU8xalY2ZkNRN0VmM1dWdGtTenp1WDlmeVh2R01GM1ZvSDZfZlZtRnRiSTFuSmtxVUxZRk9uOUM0aGNEMlc2VHNtdXlHcG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjBrbjZGZ05yS001ei1wTzJlTkhNVlhLYjBLZ3dZaWs5aU8xalY2ZkNRN0VmM1dWdGtTenp1WDlmeVh2R01GM1ZvSDZfZlZtRnRiSTFuSmtxVUxZRk9uOUM0aGNEMlc2VHNtdXlHcGVGNm95YklNODdKQm8tQTY2c0Z6ZnRvMFhSTmFCTGw1UFc1WGk2c3NabVBxc2tqclN5SjNUcXBKdGc4dTBUUURXWkVXSlNhQTNJLWdseDRCOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-24-016",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "space_defense"
+    ],
+    "impact": "neutral",
+    "title": "Space Force tasks a dozen companies for Golden Dome space-based interceptors",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/04/space-force-tasks-a-dozen-companies-for-golden-dome-space-based-interceptors/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-conten",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/04/space-force-tasks-a-dozen-companies-for-golden-dome-space-based-interceptors/",
         "type": "rss"
       }
     ]
@@ -775,6 +919,24 @@
     ]
   },
   {
+    "id": "ast_spacemobile-2026-04-23-020",
+    "date": "2026-04-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "FCC Grants AST SpaceMobile’s Direct-to-Cell Request - Broadband Breakfast",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDF6QzgzQ1g1Y1N1MFJ4OTVnM0FhQXljUGRlTlc3eGVrRndHWU9qYW55UV9wemdrNDllQks2V2lDN3B4R21VMDlrTEFlekJLV0VrWjNVR3JIZXBKSGktYVg5bGp4MHZRSHR1S2tuc3",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSDF6QzgzQ1g1Y1N1MFJ4OTVnM0FhQXljUGRlTlc3eGVrRndHWU9qYW55UV9wemdrNDllQks2V2lDN3B4R21VMDlrTEFlekJLV0VrWjNVR3JIZXBKSGktYVg5bGp4MHZRSHR1S2tuc3RWbWtsLUd6Z1N1R1lScVFmSHpoZjBwUHQ4Q0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-22-006",
     "date": "2026-04-22",
     "companies": [],
@@ -967,6 +1129,24 @@
     ]
   },
   {
+    "id": "planet-2026-04-22-012",
+    "date": "2026-04-22",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why We’re Buying Snap and Planet Labs In This Stock Picker’s Portfolio for Newer Investors - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnJYb3pxQVdoSU16NUhjNmxfdjlCd2FwQkljWVMxemxWcmEyRWVGNjVXbVlRb0VYOXJDLU9nTU1JUFQ1YVY1MW1XNHotNEJwTEIyZVNadDUyXzdTTW1BZUJhaEttTDYtYVRwNHhuN0",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnJYb3pxQVdoSU16NUhjNmxfdjlCd2FwQkljWVMxemxWcmEyRWVGNjVXbVlRb0VYOXJDLU9nTU1JUFQ1YVY1MW1XNHotNEJwTEIyZVNadDUyXzdTTW1BZUJhaEttTDYtYVRwNHhuN0J3TDI3NUVBdTBfMUpsY0ZSdlpDREN1RU40NFlJZmZyandTdk9JVzh6aC13Wmo5NUhPbUZ3aVVBTXBhRGFBSXlDOWJ5dXI1Q1I5Z2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-21-005",
     "date": "2026-04-21",
     "companies": [],
@@ -1139,6 +1319,24 @@
     ]
   },
   {
+    "id": "rocket_lab-2026-04-21-016",
+    "date": "2026-04-21",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Wallops Island Launches New Rapid Launch Schedule, Rocket Lab's Haste Program - wboc.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWTA1MGRlZGhnTjhHekhWTXJ0MXh3STBBMHZpbjdCVnFJdTVyYmxtblhkclExd0NyVENIaGFlNDNWaHVmeUVEVDljZGlCMGVfRWxDdWg0Y1pucW8tS19qSEpGenk0WkgtNG5JbXBvMm",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWTA1MGRlZGhnTjhHekhWTXJ0MXh3STBBMHZpbjdCVnFJdTVyYmxtblhkclExd0NyVENIaGFlNDNWaHVmeUVEVDljZGlCMGVfRWxDdWg0Y1pucW8tS19qSEpGenk0WkgtNG5JbXBvMmRsMDFUb1JRMXRNU3BqSWsyc2R0bHpNYWx1aEwxM21jby05RTBiUW9HX2dlWGVFU1VoOEpmbDhONVBySXlfMU1McFNJQldtQVY0VWpnak5XeDdqSDdLTTB4MHE3TTdhSVZlLXJVQjE2all0M3FhbkxJUkxHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-20-001",
     "date": "2026-04-20",
     "companies": [],
@@ -1290,6 +1488,42 @@
     ]
   },
   {
+    "id": "ast_spacemobile-2026-04-20-012",
+    "date": "2026-04-20",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AST SpaceMobile stock tanks after flawed satellite launch by Blue Origin - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenFaZGJ5Y1BOZHZVYzNZU0h5Sm9LZDB3N2pudm5LUzdMdG5iaHZ3SnprT1d0YXdsYmxrNFhQblMxTW5UTjM1UmkzT2xhMFM2VXBtRkhkNEw3Z3BTTzR2TTVaNURjYUV3a19xRUxYNl",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPenFaZGJ5Y1BOZHZVYzNZU0h5Sm9LZDB3N2pudm5LUzdMdG5iaHZ3SnprT1d0YXdsYmxrNFhQblMxTW5UTjM1UmkzT2xhMFM2VXBtRkhkNEw3Z3BTTzR2TTVaNURjYUV3a19xRUxYNlRSU0JrZDZrVllxTDdpcGtNRUlWZm9hTF9uUldlVUEtMkx5c1NiV21ReEVBRlZwREU2UnRXSnRuNmJUZUtmT2l0Z211Y08yUUtxQ2Z3bEtHdWhBYVpYWm1SRg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-20-013",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "satellite_constellation"
+    ],
+    "impact": "neutral",
+    "title": "Launch Preview: GPS, Progress, and Starlink missions to launch during busy week",
+    "summary": "<p>Seven missions, four countries, and five launch vehicles make the week of April 20 one&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/04/launch-preview-042026/\">Launch Preview",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/04/launch-preview-042026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ast_spacemobile-2026-04-19-001",
     "date": "2026-04-19",
     "companies": [
@@ -1389,6 +1623,42 @@
       {
         "name": "spaceflight_now",
         "url": "https://spaceflightnow.com/2026/04/19/third-flight-of-blue-origins-new-glenn-rocket-to-feature-1st-reuse-of-booster/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-04-19-009",
+    "date": "2026-04-19",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Declares Satellite Lost After New Glenn Launch - Aviation Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnBIcThDdWhSdTVIdENXN2FVQ2N0N1hjUF9tcW44NGlXZUY2MjlHRFVRdUpqdXVfTGRqclBGRnhQTFpBbXdkVEhTSDNzVlpzMU56STZfNENMOTJNTFN5NGhWYU9RdlNxV3o2cm9IME",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWnBIcThDdWhSdTVIdENXN2FVQ2N0N1hjUF9tcW44NGlXZUY2MjlHRFVRdUpqdXVfTGRqclBGRnhQTFpBbXdkVEhTSDNzVlpzMU56STZfNENMOTJNTFN5NGhWYU9RdlNxV3o2cm9IME5lZlpmNENHdF9STUhEdmJ3b0o0eHpqVGcxeEZKckRGZDRKQkJHLUZSOFhlTXR0S1BvX0V3SV95cmluVjMyaXhYZGw4Ml9rX0NKOUc5bA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-04-19-010",
+    "date": "2026-04-19",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "AST SpaceMobile’s BlueBird 7 declared lost following New Glenn launch",
+    "summary": "<p>Following Blue Origin&#8217;s milestone of successfully landing a previously flown first-stage booster for the first&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/04/ast-blue",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/04/ast-bluebird-7-lost-new-glenn-launch/",
         "type": "rss"
       }
     ]

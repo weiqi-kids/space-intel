@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:18:52.350410Z",
+  "generated_at": "2026-04-26T08:56:42.025953Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-20-001",
-      "date": "2026-04-20",
-      "title": "Number of rocket launches expected to soar from Wallops Island soon - WAVY.com",
-      "importance_score": 0.5
+      "event_id": "redwire-2026-04-23-009",
+      "date": "2026-04-23",
+      "title": "Rocket Lab vs. Redwire: Which Space Stock Is the Better Buy? - Zacks Investment Research",
+      "importance_score": 0.7
     }
   ],
   "anomalies_7d": [],
@@ -38,14 +38,14 @@
   },
   "company_7d_summary": {
     "rocket_lab": {
-      "event_count": 1,
-      "sentiment_avg": 0.0,
-      "rank": 1
-    },
-    "l3harris": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
       "rank": 2
+    },
+    "l3harris": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 1
     },
     "planet": {
       "event_count": 1,
@@ -61,9 +61,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 10,
+        "this": 13,
         "last": 10,
-        "change_pct": 0.0
+        "change_pct": 30.0
       }
     }
   },
@@ -100,16 +100,20 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 3,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 10 則事件，重點為「Number of rocket launches expected to soar from...」。行星實驗室、直覺機器表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 13 則事件，重點為「Rocket Lab vs. Redwire: Which Space Stock Is th...」。行星實驗室、直覺機器表現正面，整體氣氛穩健。",
     "watchlist": [
       {
-        "company": "火箭實驗室",
-        "reason": "發射成本趨勢值得關注，可能影響供應鏈佈局。"
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Redwire",
+        "reason": "受發射成本議題影響，供應鏈壓力可能上升。"
       }
     ]
   },

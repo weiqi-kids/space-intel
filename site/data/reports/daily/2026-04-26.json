@@ -1,29 +1,117 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:18:52.296796Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T08:56:41.963295Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Evergreen Capital Management LLC Invests $589,000 in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlNGeGpuYV9sVllXai1CM1BURU9iWXo0NUtIQzM4eDNLaThIeS00cnJuXzEycXBrZzhPMF9zb0ZTU0pzb1B0d0s5djVma0hVWERZcEw4T0haTUFYNEY2WEZua2pLZnM4XzJuZldhdHE4NVdXWV9uYUNXU3U4bThrQ3JZNnZmNVVRSl9FS3hMdFVHTzVXNmFfVmoxTzQ1WVo5UjgtSEUzSWpXb2tkMnRSZ0VkSVVidktwcFE3djhmUUE2d0RGZU1RZ1R0RXlwUlBsLWIwWF9R?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axecap Investments LLC Makes New Investment in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJYVjZYOFp2dHhCUDVZclJrTE95Y0FDNDRkaTlLeXNieTVXU3gzOG1Dc2Z5LUNWbVlwYmJVNjFnWWx0dUlQUnBCY0dPTS10b3BrdGxycmpyczFZclIwWlJrT1hpSjd5ZUw4TTlaSUVjTE85R1Y4LVhkTGRjSmF2OHR4TWRpWHoySThmS1h3MnMyQnJpNzZ6V09HdG1rLUloNzMzdF92WHFkS3Nkc0p5WnEtOTNTZHZGUzRNY1BvR2F0NW5RdEhxeEFEZW1pbzVVbmZV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Concurrent Investment Advisors LLC Raises Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3BONTd6V09PNXJrRDBMMEdYRHZVR0xadHJOU0VseDhLMnl1dzJqYWRJc3ZjbTRBM3FPeFY4Tm04LXV4S19oaVF1emdyNWh1Rk5aeWVKckIzemUzUi1ZYVpySllwNjN3YlQwU3ZHRGZPVzR0MEl6NUpwNXllMjhrRTBRWUVadFhDUU1WcWxrWGc1VkdUQmxCZnZvRkNSM08wREJGWVV4Sm1PZERyVUlkNDlVZF9hLWlUeElfdHFDMjN1NjhvTGlBaFZaWkFnN3JQSlN0MjVsdUJJMTVzdk5lWEIzS0U?oc=5"
+    }
+  ],
   "anomalies": [],
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 3,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 3,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
     "top_topics": []
   },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 71,
+    "too_old": 86,
+    "gate1_blocked": 96,
+    "gate2_blocked": 36,
+    "passed": 15,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "What's Going On With Rocket Lab Stock Friday? - Benzinga",
+      "Rocket Lab Stock Is Down 14%. Is It Finally Time to Buy? - The Motley Fool",
+      "Blue Origin Failure Shows Space Isn’t Easy—and the Value of Rocket Lab Stock - Barron's",
+      "Arizona State Retirement System Decreases Stock Holdings in Rocket Lab Corporation $RKLB - MarketBea",
+      "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "2026-04-26 無太空產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 3 則事件，焦點為L3Harris Technologies、火箭實驗室相關動態：「Evergreen Capital Management LLC Invests $589,000 in Rock...」。市場情緒中性，暫無明顯方向。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Evergreen Capital Management LLC Invests $589,000 in Rocket Lab Corporation $...",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "Axecap Investments LLC Makes New Investment in L3Harris Technologies Inc $LHX...",
         "level": "green"
       }
     ]
