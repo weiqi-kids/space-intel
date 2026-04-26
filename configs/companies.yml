@@ -13,6 +13,7 @@ companies:
   downstream:
   - planet
   - spire
+  fetch_mode: http
 - id: northrop
   name: Northrop Grumman
   aliases:
@@ -27,6 +28,7 @@ companies:
   rss_url: https://investor.northropgrumman.com/rss/news-releases.xml
   downstream:
   - l3harris
+  fetch_mode: http
 - id: boeing
   name: Boeing
   aliases:
@@ -41,6 +43,7 @@ companies:
   downstream:
   - ses
   - iridium
+  fetch_mode: http
 - id: lockheed
   name: Lockheed Martin
   aliases:
@@ -56,6 +59,7 @@ companies:
   downstream:
   - ses
   - iridium
+  fetch_mode: http
 - id: intuitive
   name: Intuitive Machines
   aliases:
@@ -69,6 +73,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Intuitive+Machines"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
+  fetch_mode: http
 - id: l3harris
   name: L3Harris Technologies
   aliases: []
@@ -81,6 +86,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="L3Harris+Technologies"&hl=en&gl=US&ceid=US:en
   upstream:
   - northrop
+  fetch_mode: http
 - id: redwire
   name: Redwire
   aliases: []
@@ -91,6 +97,7 @@ companies:
   role: 太空製造
   description: 太空基礎設施與3D列印
   rss_url: https://news.google.com/rss/search?q="Redwire"+space+manufacturing&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: planet
   name: Planet Labs
   aliases:
@@ -104,6 +111,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Planet+Labs"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
+  fetch_mode: http
 - id: iridium
   name: Iridium Communications
   aliases:
@@ -118,6 +126,7 @@ companies:
   upstream:
   - lockheed
   - boeing
+  fetch_mode: http
 - id: ses
   name: SES S.A.
   aliases: []
@@ -131,6 +140,7 @@ companies:
   upstream:
   - lockheed
   - boeing
+  fetch_mode: http
 - id: viasat
   name: Viasat
   aliases: []
@@ -141,6 +151,7 @@ companies:
   role: 衛星寬頻
   description: 衛星寬頻網路服務
   rss_url: https://investors.viasat.com/rss/news-releases.xml
+  fetch_mode: http
 - id: ast_spacemobile
   name: AST SpaceMobile
   aliases: []
@@ -151,6 +162,7 @@ companies:
   role: 太空通訊
   description: 直接連接手機的太空基地台
   rss_url: https://news.google.com/rss/search?q="AST+SpaceMobile"&hl=en&gl=US&ceid=US:en
+  fetch_mode: http
 - id: globalstar
   name: Globalstar
   aliases: []
@@ -161,6 +173,7 @@ companies:
   role: 衛星通訊
   description: 低軌衛星通訊服務
   rss_url: https://investors.globalstar.com/rss/news-releases.xml
+  fetch_mode: http
 - id: spire
   name: Spire Global
   aliases: []
@@ -173,6 +186,7 @@ companies:
   rss_url: https://news.google.com/rss/search?q="Spire+Global"&hl=en&gl=US&ceid=US:en
   upstream:
   - rocket_lab
+  fetch_mode: http
 etfs:
 - id: ufo
   name: Procure Space ETF
