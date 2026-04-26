@@ -1,11 +1,11 @@
 {
-  "total_raw": 304,
-  "dup_title": 71,
+  "total_raw": 602,
+  "dup_title": 140,
   "no_date": 0,
-  "too_old": 86,
-  "gate1_fail": 96,
-  "gate2_fail": 36,
-  "passed": 15,
+  "too_old": 198,
+  "gate1_fail": 116,
+  "gate2_fail": 53,
+  "passed": 95,
   "gate2_samples": [
     "What's Going On With Rocket Lab Stock Friday? - Benzinga",
     "Rocket Lab Stock Is Down 14%. Is It Finally Time to Buy? - The Motley Fool",

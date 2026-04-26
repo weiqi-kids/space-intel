@@ -1,17 +1,34 @@
 {
   "date": "2026-04-26",
-  "total_events": 3,
+  "total_events": 12,
   "by_company": {
     "rocket_lab": {
       "count": 1,
       "sentiment_avg": 0.0
     },
     "l3harris": {
-      "count": 2,
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
-  "by_topic": {},
+  "by_topic": {
+    "industry_general": {
+      "count": 7,
+      "sentiment_avg": 0.14
+    },
+    "satellite_constellation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}

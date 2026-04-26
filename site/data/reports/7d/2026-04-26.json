@@ -4,15 +4,15 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T08:56:42.025953Z",
+  "generated_at": "2026-04-26T14:09:43.517795Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "redwire-2026-04-23-009",
-      "date": "2026-04-23",
-      "title": "Rocket Lab vs. Redwire: Which Space Stock Is the Better Buy? - Zacks Investment Research",
-      "importance_score": 0.7
+      "event_id": "boeing-2026-04-22-013",
+      "date": "2026-04-22",
+      "title": "Jetstar Selects Viasat to Power In-flight Connectivity Across Its Long-Range International Routes",
+      "importance_score": 1.0
     }
   ],
   "anomalies_7d": [],
@@ -30,10 +30,16 @@
       "sentiment_this_week": 0.0
     },
     "satellite_constellation": {
-      "this_week": 2,
+      "this_week": 3,
       "last_week": 6,
-      "week_over_week_change": "-67%",
+      "week_over_week_change": "-50%",
       "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 7,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.14
     }
   },
   "company_7d_summary": {
@@ -43,27 +49,32 @@
       "rank": 2
     },
     "l3harris": {
-      "event_count": 3,
+      "event_count": 5,
       "sentiment_avg": 0.0,
       "rank": 1
     },
     "planet": {
-      "event_count": 1,
-      "sentiment_avg": 0.5,
+      "event_count": 2,
+      "sentiment_avg": 0.25,
       "rank": 3
     },
     "intuitive": {
       "event_count": 1,
       "sentiment_avg": 0.5,
       "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 13,
+        "this": 22,
         "last": 10,
-        "change_pct": 30.0
+        "change_pct": 120.0
       }
     }
   },
@@ -100,19 +111,19 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 3,
+      "event_count": 12,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 13 則事件，重點為「Rocket Lab vs. Redwire: Which Space Stock Is th...」。行星實驗室、直覺機器表現正面，整體氣氛穩健。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 22 則事件，重點為「Jetstar Selects Viasat to Power In-flight Conne...」。事件量較上週增加 120%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "L3Harris Technologies",
-        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
       },
       {
-        "company": "Redwire",
+        "company": "Viasat",
         "reason": "受發射成本議題影響，供應鏈壓力可能上升。"
       }
     ]

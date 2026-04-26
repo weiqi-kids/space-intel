@@ -1,9 +1,31 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:56:41.963295Z",
+  "generated_at": "2026-04-26T14:09:43.452000Z",
   "top_events": [
     {
       "rank": 1,
+      "event_id": "unknown-2026-04-26-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for discoveries across space, physics and more",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.space.com/technology/the-oscars-of-science-breakthrough-prize-2026-awards-over-usd18-million-for-discoveries-across-space-physics-and-more"
+    },
+    {
+      "rank": 2,
       "event_id": "rocket_lab-2026-04-26-001",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -23,7 +45,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVlNGeGpuYV9sVllXai1CM1BURU9iWXo0NUtIQzM4eDNLaThIeS00cnJuXzEycXBrZzhPMF9zb0ZTU0pzb1B0d0s5djVma0hVWERZcEw4T0haTUFYNEY2WEZua2pLZnM4XzJuZldhdHE4NVdXWV9uYUNXU3U4bThrQ3JZNnZmNVVRSl9FS3hMdFVHTzVXNmFfVmoxTzQ1WVo5UjgtSEUzSWpXb2tkMnRSZ0VkSVVidktwcFE3djhmUUE2d0RGZU1RZ1R0RXlwUlBsLWIwWF9R?oc=5"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "event_id": "l3harris-2026-04-26-002",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -43,7 +65,7 @@
       "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQmJYVjZYOFp2dHhCUDVZclJrTE95Y0FDNDRkaTlLeXNieTVXU3gzOG1Dc2Z5LUNWbVlwYmJVNjFnWWx0dUlQUnBCY0dPTS10b3BrdGxycmpyczFZclIwWlJrT1hpSjd5ZUw4TTlaSUVjTE85R1Y4LVhkTGRjSmF2OHR4TWRpWHoySThmS1h3MnMyQnJpNzZ6V09HdG1rLUloNzMzdF92WHFkS3Nkc0p5WnEtOTNTZHZGUzRNY1BvR2F0NW5RdEhxeEFEZW1pbzVVbmZV?oc=5"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "event_id": "l3harris-2026-04-26-003",
       "importance_score": 0.5,
       "importance_reasons": [],
@@ -61,39 +83,97 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQc3BONTd6V09PNXJrRDBMMEdYRHZVR0xadHJOU0VseDhLMnl1dzJqYWRJc3ZjbTRBM3FPeFY4Tm04LXV4S19oaVF1emdyNWh1Rk5aeWVKckIzemUzUi1ZYVpySllwNjN3YlQwU3ZHRGZPVzR0MEl6NUpwNXllMjhrRTBRWUVadFhDUU1WcWxrWGc1VkdUQmxCZnZvRkNSM08wREJGWVV4Sm1PZERyVUlkNDlVZF9hLWlUeElfdHFDMjN1NjhvTGlBaFZaWkFnN3JQSlN0MjVsdUJJMTVzdk5lWEIzS0U?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX's IPO Is Imminent. Here Is One Space Stock Soaring as a Result. - The Motley Fool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFNOSVdnalNSWHVyMlJyalJPdGZxZFF0cGpzUkt3aE5VejF6eDNkY2N6cmx1Uk05dlRvQlZLcjJlWnQtbzFvQ3lPM3BaVHE4MVN2UnhBVGd1OElTNE1QR2paWEJ6V19ieldhT2psXzhQaTVjM2ZQcFdmR1FrWkl5UjlsdFgxeFpaZHUtSEZfa2hZQnYtOFI2eQ?oc=5"
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.14,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 3,
+    "total_events": 12,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 3,
+      "positive": 1,
+      "neutral": 11,
       "negative": 0
     },
     "top_companies": [
       {
         "id": "l3harris",
-        "count": 2
+        "count": 4
       },
       {
         "id": "rocket_lab",
         "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
       }
     ],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 304,
-    "dup_title": 71,
-    "too_old": 86,
-    "gate1_blocked": 96,
-    "gate2_blocked": 36,
-    "passed": 15,
-    "pass_rate": "6.4%",
-    "gate2_block_rate": "15.5%",
+    "total_raw": 602,
+    "dup_title": 140,
+    "too_old": 198,
+    "gate1_blocked": 116,
+    "gate2_blocked": 53,
+    "passed": 95,
+    "pass_rate": "20.6%",
+    "gate2_block_rate": "11.5%",
     "gate2_samples": [
       "What's Going On With Rocket Lab Stock Friday? - Benzinga",
       "Rocket Lab Stock Is Down 14%. Is It Finally Time to Buy? - The Motley Fool",
@@ -104,14 +184,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 3 則事件，焦點為L3Harris Technologies、火箭實驗室相關動態：「Evergreen Capital Management LLC Invests $589,000 in Rock...」。市場情緒中性，暫無明顯方向。",
+    "summary": "今日共 12 則事件，焦點為L3Harris Technologies、火箭實驗室、行星實驗室相關動態：「The 'Oscars of Science': Breakthrough Prize 2026 awards o...」。整體情緒偏正面，市場信心回溫。",
     "signals": [
       {
-        "text": "Evergreen Capital Management LLC Invests $589,000 in Rocket Lab Corporation $...",
+        "text": "The 'Oscars of Science': Breakthrough Prize 2026 awards over $18 million for ...（太空產業通用）",
         "level": "green"
       },
       {
-        "text": "Axecap Investments LLC Makes New Investment in L3Harris Technologies Inc $LHX...",
+        "text": "Evergreen Capital Management LLC Invests $589,000 in Rocket Lab Corporation $...",
         "level": "green"
       }
     ]
