@@ -41,3 +41,39 @@ topics:
     - anti-satellite
     - ASAT
     - space domain
+  industry_general:
+    display: 太空產業通用
+    keywords:
+    - space
+    - satellite
+    - rocket
+    - launch
+    - orbit
+    - LEO
+    - GEO
+    - constellation
+    - spacecraft
+    - mission
+    - NASA
+    - ESA
+    - payload
+    - 太空
+    - 衛星
+    - 火箭
+    - 發射
+    - aerospace
+    - 航太
+    - defense
+    - 國防
+    - lunar
+    - lander
+    - moon
+    - Mars
+    - ISS
+    - station
+    - 月球
+    - 火星
+    - liftoff
+    - reentry
+    - propulsion
+    - booster
