@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 21,
+  "gate2_fail": 18,
+  "passed": 15,
+  "gate2_samples": [
+    "Nike, Oracle, CoreWeave, Intuitive Machines, Rivian Automotive: Stocks making the biggest moves toda",
+    "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
+    "Intuitive Machines (NASDAQ:LUNR) Director Sells $3,996,157.44 in Stock - MarketBeat",
+    "Why Intuitive Machines Stock Is Suddenly Sinking - TipRanks",
+    "Intuitive Machines stock plunges after $175M equity raise - MSN"
+  ]
+}

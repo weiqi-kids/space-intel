@@ -1,5 +1,26 @@
 [
   {
+    "id": "viasat-2026-04-27-001",
+    "date": "2026-04-27",
+    "companies": [
+      "viasat"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket",
+    "summary": "This will be the 12th launch of a Falcon Heavy rocket to date and the first use of Landing Zone 2 and Landing Zone 40 simultaneously. Liftoff from Launch Complex 39A at NASA’s Kennedy Space Center is ",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-04-26-001",
     "date": "2026-04-26",
     "companies": [
@@ -216,6 +237,100 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMDNlckxBOWRjTUxWWTR4MDNWbHVycVRJT01sYkZaRk9pcHpDYzdnbkZrRDlHTGxPWVA0a3Vqa0tMUnVlNkJxWlBtN0lyRTNoa291TTZtV2ctdFpsQzVKZ2NHOXY1QzNMMzNKYmgtcTlJcEg1SnlFdnI4ZmFEYl91TEROWWktRXhuRmfSAY8BQVVfeXFMTnZHSXNTSmhxZmcxbG9waEdQaEdOcXd2TXJQd1M5UG4yWGVIWmw3VTRpYW5ZQ2tZcXVsXzRKdzFmbU9zVkswSEpoTF85ZXNaUG8zRG1xdEQxWV85eXUtQWhBaFFuV0pycmtoeWVzOFlrVUo3WUV0eDFmcEVPVU10X1JKQ1BCaUh2VURHODdMQTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-26-013",
+    "date": "2026-04-26",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "L3Harris highlights AERIS X surveillance aircraft as allies seek new airborne early warning capabilities - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGhjSkdaaDhWRmVoLUN6bHBvVjZFNFpWaktJVURGZ0w3d0Z5dkRFNXQ3d2ZDUGJSVjFGVWRUakZmR3RpZ1FNclRnSlFxMEVkUmFPbHNNVnlZYnVZeWpSVXZ1S21DblhWT21Oc2NWM0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeGhjSkdaaDhWRmVoLUN6bHBvVjZFNFpWaktJVURGZ0w3d0Z5dkRFNXQ3d2ZDUGJSVjFGVWRUakZmR3RpZ1FNclRnSlFxMEVkUmFPbHNNVnlZYnVZeWpSVXZ1S21DblhWT21Oc2NWM0puc2x1ejJPVDZpSXJZc1JXMDFzZDFId3FTVV9UVElkVkNEb041NFhYdC1yUTAzSE1zcktyT2U4MXFxcFAtM3VjMV9hdW5yeUg5RjN5QWRvOThRZWlpN2xpYkV3anBxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-014",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launching powerful Falcon Heavy rocket for 1st time in 18 months on April 27: Watch it live",
+    "summary": "\n                             SpaceX will launch its Falcon Heavy rocket for the first time in 18 months on Monday morning (April 27), and you can watch the dramatic action live. \n                    ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-heavy-rocket-viasat-3-f3-launch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-015",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX flies 25 Starlink satellites to orbit on its 50th Falcon 9 launch of the year",
+    "summary": "Liftoff of the Starlink 17-16 mission from Space Launch Complex 4 East occurred at 7:37 a.m. PDT (10:37 am EDT / 1437 UTC). <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.com/2026/04/26/live-",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/04/26/live-coverage-spacex-to-fly-25-starlink-satellites-on-its-50th-falcon-9-launch-of-the-year/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "viasat-2026-04-26-016",
+    "date": "2026-04-26",
+    "companies": [
+      "viasat"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX set to launch Falcon Heavy on Monday after 18 month hiatus",
+    "summary": "<p>After a hiatus of more than a year and a half, SpaceX’s Falcon Heavy rocket&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/\">SpaceX set to launch F",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/04/viasat-3-f3-falcon-heavy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-04-26-017",
+    "date": "2026-04-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Curiosity Rover uncovers fresh organic clues on Ancient Mars",
+    "summary": "<p>In a significant step forward for the search for signs of ancient life beyond Earth,&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/04/nasas-curiosity-rover-organic-clues-mars/",
         "type": "rss"
       }
     ]
@@ -1381,6 +1496,64 @@
     ]
   },
   {
+    "id": "intuitive-2026-04-24-044",
+    "date": "2026-04-24",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "[DEF 14A] Intuitive Machines, Inc. Definitive Proxy Statement - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTM3Ujk1QjZWaUhmeFUzSk9nTk5UbkozSHJoVVFKc1VQNy1LQ1pjV1RjekpOazlPWEVpcmpvZHZScHo1RkF4NUF3NU8wVFlCSlJ0LTFaOEIwX1V5RmV5dUV6ZUFxaGF1bXhtLTQwdz",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeTM3Ujk1QjZWaUhmeFUzSk9nTk5UbkozSHJoVVFKc1VQNy1LQ1pjV1RjekpOazlPWEVpcmpvZHZScHo1RkF4NUF3NU8wVFlCSlJ0LTFaOEIwX1V5RmV5dUV6ZUFxaGF1bXhtLTQwdzVIZ0VJS0ptLTE5Zm1jTm5jSUZhRzlQU0k4enRpMDhPc19UM1ZFMkp2cHRDSHhNcE9JRnZQYk9Dejl0YmdZOE9POVA1Q0oyT3FhZk9R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-04-24-045",
+    "date": "2026-04-24",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Planet Labs: Defense Growth Story Could Still Deliver, But There’s A Catch (Upgrade) (PL) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG15eTM2eDRlTmhzanlibzhyVzF5ZkVHU2Zpd1NaWHJZWEt0QmdnOGdRY1BBTWROUUZTWkJKUzRBQnU0NkIwZXVxelMyWldIMTYxdWhReS1KdzdYb0g2LUZVNThENGFZVlBkQ3pBYW",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcG15eTM2eDRlTmhzanlibzhyVzF5ZkVHU2Zpd1NaWHJZWEt0QmdnOGdRY1BBTWROUUZTWkJKUzRBQnU0NkIwZXVxelMyWldIMTYxdWhReS1KdzdYb0g2LUZVNThENGFZVlBkQ3pBYWwtMjR6NGtPYU9iY0hxRWpHYWF5OHBxcjlWOVlib0tJX0xTazFXQ0dub3R0TTE3RlZKOFFrRU5oek9jS3R3amk3bGM1bTVSUjdfaDNOUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spire-2026-04-24-046",
+    "date": "2026-04-24",
+    "companies": [
+      "spire"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spire Global WildFireSat Contract Terminated by Canada; Up to C$71.8 Million at Stake - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSzBNSXNEQWFiUUtmYXY3ZkRFNFJiZkJBdjRTc0JfWlh5ZTd4aUVqUk1rdnUtOGZYc09GWDRNOVh4TDl5R25UdXJ2YlZncURzMG4zaTR2cTVDSEptQ25MVGZEWHFoY1dDcnZQdjhqcj",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSzBNSXNEQWFiUUtmYXY3ZkRFNFJiZkJBdjRTc0JfWlh5ZTd4aUVqUk1rdnUtOGZYc09GWDRNOVh4TDl5R25UdXJ2YlZncURzMG4zaTR2cTVDSEptQ25MVGZEWHFoY1dDcnZQdjhqcjlNN25hTGI2bjRSb1pQaFVhZVVhY01GYWZXeVNqWFgzM2x3TDY4d0RKb2dhZzNzTE9FdmhOdExHc0JDY2JicDNVb2RZN2ZuMV81b2c4ZDdMZE9tdHlZalRDdlBBZTdFVlVFc1gwZzFWa3E2OG1yLWo4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-04-23-001",
     "date": "2026-04-23",
     "companies": [
@@ -2025,6 +2198,87 @@
     ]
   },
   {
+    "id": "redwire-2026-04-23-038",
+    "date": "2026-04-23",
+    "companies": [
+      "redwire",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab vs. Redwire: Which Space Stock Is the Better Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmk4bVhmS2pqSHFZd25hdGVBeHFyVHlORTdXOGxkcEw3Uk9QQ3h5a2pFMlNxc2dVMGtXSmZZcnJBRDk4UmVkM0U4YlRocTRwM0VTc3poNTJnbkRMeVdhZzVEVkNTRjM1LW1JUnNleW",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmk4bVhmS2pqSHFZd25hdGVBeHFyVHlORTdXOGxkcEw3Uk9QQ3h5a2pFMlNxc2dVMGtXSmZZcnJBRDk4UmVkM0U4YlRocTRwM0VTc3poNTJnbkRMeVdhZzVEVkNTRjM1LW1JUnNleWZFSVJlSFRtbWxXeFVVOE1pb0QzQ2dCQk01dlhnUFB6bDdaUHE3d0Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-04-23-039",
+    "date": "2026-04-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab unveils next-gen star tracker for navigation (RKLB:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONlh0Z0FVSFR2dGZTZUJLYkRMNzkxcjFQb01QZWg0emlaRHVQalQ4Y1FwNmpUY1BXa2lRaWNrWXBoTVg4bUJhR1Q0U28tRDZlcWJhcjZFaEgyQkNfMFl3a083bWE1cnZxN0V4al93YT",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlh0Z0FVSFR2dGZTZUJLYkRMNzkxcjFQb01QZWg0emlaRHVQalQ4Y1FwNmpUY1BXa2lRaWNrWXBoTVg4bUJhR1Q0U28tRDZlcWJhcjZFaEgyQkNfMFl3a083bWE1cnZxN0V4al93YTNWZjNCa2dQNTZtUGo1QldhVGpuVC1jbzRFcVlSMU5UR3NBTEctUDQxbQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-04-23-040",
+    "date": "2026-04-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Completes Second Dedicated Launch for Japan Aerospace Exploration Agency (JAXA) - Rocket Lab",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaGpCaE9JcFMwY0w5Q1NZYzhxRmJGZ0FpYkI2RFYyWUVvQXBuN3UyYzluMi1ONmtENVpGSTc1NHB0Z2JDWGVQMlVZWVNxaXE4azctTm5aQ05NeFRXV2ZxSmpubFd5eGNtMFllX1R6TX",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaGpCaE9JcFMwY0w5Q1NZYzhxRmJGZ0FpYkI2RFYyWUVvQXBuN3UyYzluMi1ONmtENVpGSTc1NHB0Z2JDWGVQMlVZWVNxaXE4azctTm5aQ05NeFRXV2ZxSmpubFd5eGNtMFllX1R6TXRQRXJaOTh3MlBMMm9BX2pGejFmUkhSc1FzVFc3OFRFRHdvbTVNLUhidGdYOUFBREloS1V2RERoS29sRW1oRVQ2Q3Jxc2ZMNHlnM0VvZC1CMnY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-04-23-041",
+    "date": "2026-04-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC gives AST SpaceMobile the go ahead to launch satellite broadband service - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORmtyZmU5VHV2ZHVFRmdLWWFoV0JrLUh6cHUwbHBKUGJ1emQ0aVNVQkpqV2wtOVFzVWxZalQ2eWZSNHRPQkVYY2JLQ2xGczFRa2VMalVLRlItZmc1WXVza1lpUUl0ZnMzaWlhaTlqTk",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmtyZmU5VHV2ZHVFRmdLWWFoV0JrLUh6cHUwbHBKUGJ1emQ0aVNVQkpqV2wtOVFzVWxZalQ2eWZSNHRPQkVYY2JLQ2xGczFRa2VMalVLRlItZmc1WXVza1lpUUl0ZnMzaWlhaTlqTk04bnJQbC1mTlFpNVg1aHVPSXhaU003VHNKaUZqcUo2S0I5aHZjTU5VR05HRmk4MzRMZEF3b2NhRDkxY1ZrR09OanA4aTBjOU00TU9ibg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-22-006",
     "date": "2026-04-22",
     "companies": [],
@@ -2326,6 +2580,42 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/news/your-navy/2026/04/22/navy-going-to-study-possibility-of-building-ships-outside-us-phelan-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-04-22-018",
+    "date": "2026-04-22",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Intuitive Machines director Ghaffarian sells $3.99m in stock - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWZyUmQ5aE1FSFFZd3RoZ1VZVFdLQi14dFhJeGQ2dk9OZkthdnVhZ2Rfa1VOb1Z2M0h1SFFHeEVRemduSjZPUXgtV2FlcGc5RlUzeV8wUWt2YVpMdEJvaGVhaW92MHVKeExObEZ2Tm",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMWZyUmQ5aE1FSFFZd3RoZ1VZVFdLQi14dFhJeGQ2dk9OZkthdnVhZ2Rfa1VOb1Z2M0h1SFFHeEVRemduSjZPUXgtV2FlcGc5RlUzeV8wUWt2YVpMdEJvaGVhaW92MHVKeExObEZ2TmEtTkxpWmc0YjZyMkQ0S0w5Ukp2dUJNWTZKTmFsQzhYYUlXOE5EazZGTERVZkNOSGQ0dERvZHo3REVCdVRiMy1jai1pb0hLS3E0WUhaQUFxOW4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-04-22-019",
+    "date": "2026-04-22",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why Did Planet Labs Stock Pop Today? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2JESGtubUJucmU4MFFJbEtDdTRqY1BreDZqWUtYUVFwalE4QzJjUWZDRmROeGs2STRqUnMzNTJQRjVJQ1pKbFdKN0JqTFpYN2ZaeEdfZ29aYVdpOVVrcnZSRjRtTktXamExcGZVbk",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS2JESGtubUJucmU4MFFJbEtDdTRqY1BreDZqWUtYUVFwalE4QzJjUWZDRmROeGs2STRqUnMzNTJQRjVJQ1pKbFdKN0JqTFpYN2ZaeEdfZ29aYVdpOVVrcnZSRjRtTktXamExcGZVbksyc0hqMEtjUU5wNjZtU3VNdUFodE8?oc=5",
         "type": "rss"
       }
     ]

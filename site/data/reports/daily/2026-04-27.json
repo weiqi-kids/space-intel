@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:40:32.033289Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "viasat-2026-04-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket",
+      "companies": [
+        "viasat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "viasat",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 133,
+    "too_old": 111,
+    "gate1_blocked": 21,
+    "gate2_blocked": 18,
+    "passed": 15,
+    "pass_rate": "9.1%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Nike, Oracle, CoreWeave, Intuitive Machines, Rivian Automotive: Stocks making the biggest moves toda",
+      "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
+      "Intuitive Machines (NASDAQ:LUNR) Director Sells $3,996,157.44 in Stock - MarketBeat",
+      "Why Intuitive Machines Stock Is Suddenly Sinking - TipRanks",
+      "Intuitive Machines stock plunges after $175M equity raise - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Viasat相關動態：「Live coverage: SpaceX to launch final ViaSat-3 satellite ...」。主要關注主題為太空防禦、太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Viasat為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
