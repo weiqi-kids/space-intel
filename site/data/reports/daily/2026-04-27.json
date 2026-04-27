@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T01:40:32.033289Z",
+  "generated_at": "2026-04-27T03:36:09.682404Z",
   "top_events": [
     {
       "rank": 1,
@@ -75,14 +75,14 @@
     ]
   },
   "filter_audit": {
-    "total_raw": 298,
-    "dup_title": 133,
-    "too_old": 111,
-    "gate1_blocked": 21,
-    "gate2_blocked": 18,
-    "passed": 15,
-    "pass_rate": "9.1%",
-    "gate2_block_rate": "10.9%",
+    "total_raw": 596,
+    "dup_title": 277,
+    "too_old": 222,
+    "gate1_blocked": 41,
+    "gate2_blocked": 38,
+    "passed": 18,
+    "pass_rate": "5.6%",
+    "gate2_block_rate": "11.9%",
     "gate2_samples": [
       "Nike, Oracle, CoreWeave, Intuitive Machines, Rivian Automotive: Stocks making the biggest moves toda",
       "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
