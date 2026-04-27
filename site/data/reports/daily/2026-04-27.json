@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generated_at": "2026-04-27T03:36:09.682404Z",
+  "generated_at": "2026-04-27T10:09:45.481428Z",
   "top_events": [
     {
       "rank": 1,
@@ -24,12 +24,100 @@
         "score": 0.0
       },
       "source_url": "https://spaceflightnow.com/2026/04/27/live-coverage-spacex-to-launch-final-viasat-3-satellite-on-falcon-heavy-rocket/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-04-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Heading Into Q1 2026 Earnings: What To Expect - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNFF3aHdsVU53eFZ6c0JERHcxLWFGRVdoRmxMd3I0eHI2dGxwLTRaNXpnM2hDZjZpb1R0a1d3SzdZNWJ2MmhzSlo2SjJQVDBzc3JpcU1aa3NCMEpwNFUwbVRmTWdPdnZOVi1oNXROeWswbzZfZVVhSUp1VWwwcURTOEZKd2h1SnR4U0hBTmNuOUtvWXhCcWRVc3lNd2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-04-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Universal Beteiligungs und Servicegesellschaft mbH Reduces Stock Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWmY1dHpldmxzWEVuSVZYS0RFcHBweG02RTB3azRxOWt2T1VUUXUyTnhnRWdpV1RfM2ZTMHBkM2pXbU0yRnNvZUkyM01aaEV5SUZMcy1xdVhwVkdiOHpCQkRHR3dCNWpnbm4wdjRyX0paZ1RpUmtwZXVSOUZlZkwyZnNHSXZWMU1qNmxxaXkweE9VWi10cXBOSGxmbXkwR2Q2VWJ3WFZyY3A2ZFhQelFUOTBob3V0Q3pDRlRYblF6SmZ0NTBhVDVDTURqMmE2azZsSXIwSWVoeWJxejAxTWk2Wnl0X0x5cXZ4OEtlSXA2M3c4eDVqLUhfRw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-04-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood's ARK Goes All-In on Nuclear IPO (XE) and Amazon (AMZN) While Dumping $65M in AMD (AMD), Trimming Rocket Lab (RKLB) - foreignpolicyjournal.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOdGFLTmpFSFl2WUFmS0luNVpkS3Z6R0tOUEFBZFc1SDBFUXF4Sy0wM0ZNaHR4aWpUdmxfd2RXdFVQUkJTSjJhZW9xTzF1VVVZNTlBeWc0dUJfVEZuVm1XQktXSm5lYU9qcDdvaVBtNlVCNGZvWGQwSldPblNkOHRIQ2RqYW9wSmpaRFlmV2dwM09ZMXNmQlRvbld0b3FxcnhfdFN0dm5NV1dINDBkVG14eE4wMTBHYTczNHFtTVhXS0JkNERJc0tnTVNLOTFVYzByMmplYmtJQW1TMEFIUml2aWJMVUtJVFZYXzliZkpEUHVGc0dBWXg3Nw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-04-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Secures $1B DOW Investment for Missile Production, R&D - GovCon Wire",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGVZbkVkcXVDeTJvZnQxNXlZdHNNNEFNN0RCWEh3T1REYlhXNHk2RVpIdjU2XzNPN0JVODA5YUpBd2dEbm5Hc1lKN3hsWTdTR2g4V2lrVVRla0E4eWczdDdmNWJOcFU0bldNajhoSmkzMldxdVplMmdWTVVoeGtpdA?oc=5"
     }
   ],
   "anomalies": [],
   "topic_trends": {
     "space_defense": {
-      "today": 1,
+      "today": 2,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -39,7 +127,7 @@
       "sentiment_7d_avg": null
     },
     "industry_general": {
-      "today": 1,
+      "today": 7,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -51,38 +139,46 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 1,
+    "total_events": 8,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 1,
+      "neutral": 8,
       "negative": 0
     },
     "top_companies": [
       {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
         "id": "viasat",
-        "count": 1
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
       }
     ],
     "top_topics": [
       {
-        "id": "space_defense",
-        "count": 1
+        "id": "industry_general",
+        "count": 7
       },
       {
-        "id": "industry_general",
-        "count": 1
+        "id": "space_defense",
+        "count": 2
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 596,
-    "dup_title": 277,
-    "too_old": 222,
-    "gate1_blocked": 41,
-    "gate2_blocked": 38,
-    "passed": 18,
-    "pass_rate": "5.6%",
-    "gate2_block_rate": "11.9%",
+    "total_raw": 893,
+    "dup_title": 406,
+    "too_old": 334,
+    "gate1_blocked": 63,
+    "gate2_blocked": 59,
+    "passed": 31,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "12.1%",
     "gate2_samples": [
       "Nike, Oracle, CoreWeave, Intuitive Machines, Rivian Automotive: Stocks making the biggest moves toda",
       "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
@@ -93,14 +189,14 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 1 則事件，焦點為Viasat相關動態：「Live coverage: SpaceX to launch final ViaSat-3 satellite ...」。主要關注主題為太空防禦、太空產業通用，市場情緒中性。",
+    "summary": "今日共 8 則事件，焦點為火箭實驗室、Viasat、L3Harris Technologies相關動態：「Live coverage: SpaceX to launch final ViaSat-3 satellite ...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
     "signals": [
       {
         "text": "Live coverage: SpaceX to launch final ViaSat-3 satellite on Falcon Heavy rocket（太空防禦、太空產業通用）",
         "level": "green"
       },
       {
-        "text": "Viasat為今日主要關注企業。",
+        "text": "Rocket Lab Heading Into Q1 2026 Earnings: What To Expect - Seeking Alpha（太空產業通用）",
         "level": "green"
       }
     ]

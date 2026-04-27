@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:36:09.745583Z",
+  "generated_at": "2026-04-27T10:09:45.545490Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,10 +18,10 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "space_defense": {
-      "this_week": 5,
+      "this_week": 6,
       "last_week": 3,
-      "week_over_week_change": "+67%",
-      "sentiment_this_week": 0.1
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.08
     },
     "launch_cost": {
       "this_week": 1,
@@ -36,20 +36,20 @@
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 8,
+      "this_week": 14,
       "last_week": 0,
       "week_over_week_change": "N/A",
-      "sentiment_this_week": 0.12
+      "sentiment_this_week": 0.07
     }
   },
   "company_7d_summary": {
     "rocket_lab": {
-      "event_count": 2,
+      "event_count": 5,
       "sentiment_avg": 0.0,
       "rank": 2
     },
     "l3harris": {
-      "event_count": 5,
+      "event_count": 7,
       "sentiment_avg": 0.0,
       "rank": 1
     },
@@ -61,25 +61,25 @@
     "intuitive": {
       "event_count": 1,
       "sentiment_avg": 0.5,
-      "rank": 4
+      "rank": 5
     },
     "ast_spacemobile": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 6
     },
     "viasat": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
-      "rank": 6
+      "rank": 4
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 173,
+        "this": 186,
         "last": 72,
-        "change_pct": 140.3
+        "change_pct": 158.3
       }
     }
   },
@@ -96,12 +96,12 @@
     },
     {
       "date": "2026-04-23",
-      "event_count": 41,
+      "event_count": 42,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-24",
-      "event_count": 46,
+      "event_count": 47,
       "sentiment_avg": 0
     },
     {
@@ -111,21 +111,25 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 18,
+      "event_count": 22,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 1,
+      "event_count": 8,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 173 則事件，重點為「Jetstar Selects Viasat to Power In-flight Conne...」。事件量較上週增加 140%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 186 則事件，重點為「Jetstar Selects Viasat to Power In-flight Conne...」。事件量較上週增加 158%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
-        "company": "L3Harris Technologies",
+        "company": "火箭實驗室",
         "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "Viasat",

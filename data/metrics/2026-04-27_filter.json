@@ -1,11 +1,11 @@
 {
-  "total_raw": 596,
-  "dup_title": 277,
+  "total_raw": 893,
+  "dup_title": 406,
   "no_date": 0,
-  "too_old": 222,
-  "gate1_fail": 41,
-  "gate2_fail": 38,
-  "passed": 18,
+  "too_old": 334,
+  "gate1_fail": 63,
+  "gate2_fail": 59,
+  "passed": 31,
   "gate2_samples": [
     "Nike, Oracle, CoreWeave, Intuitive Machines, Rivian Automotive: Stocks making the biggest moves toda",
     "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",

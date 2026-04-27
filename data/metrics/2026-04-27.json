@@ -1,19 +1,27 @@
 {
   "date": "2026-04-27",
-  "total_events": 1,
+  "total_events": 8,
   "by_company": {
     "viasat": {
-      "count": 1,
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "rocket_lab": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "space_defense": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "industry_general": {
-      "count": 1,
+      "count": 7,
       "sentiment_avg": 0.0
     }
   },
