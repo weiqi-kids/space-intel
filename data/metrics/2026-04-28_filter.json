@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 22,
+  "gate2_fail": 21,
+  "passed": 52,
+  "gate2_samples": [
+    "BlackRock (NYSE: LUNR) holds 5.9% of Intuitive Machines, reports 9.38M shares - Stock Titan",
+    "Why Did Intuitive Machines Stock Pop Today? - Yahoo Finance",
+    "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+    "Is L3Harris Technologies Stock Worth Watching Right Now - Kalkine Media",
+    "7-Day Sell-Off Sends L3Harris Technologies Stock Down -11% - Trefis"
+  ]
+}

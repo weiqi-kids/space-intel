@@ -1,0 +1,229 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:09:16.464573Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-28-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Atlas V rocket launches 29 Amazon internet satellites, ties record for heaviest payload it's ever flown - Space",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "launch_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNGt1VGp5R1R6dXBGU09KTnEySThnQ2RpWVJVdGwyZVhocTRpSnRfQURSNUZJUUtwREh2ZHdUcWJRS1R0RDFPNl9rdlc3M0ExTDRFOXJ6NEcwandUemVNZ1FkXzFUakhxTU1LOWcxSmZEM3h4RGpHVW1lcE5sOXg4ODVoRnJPeFRaUEFCOEQtRTBSZUk4c1ZMNUdPcTVpcHFJenFvUU8xV3F0eDltcXJTR0JR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-04-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Offloads Rocket Lab Stock (RKLB) Despite 3% Jump, Buys the Dip in Intellia (NTLA) - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczVHNlh6dE1rWFZLX3JmN0VZNnJjUzVSRGRYTWpIcS1hRDNrYWlKRzFUa0ZZQ1FjelMyZUdKYmUzZ1F6bXd0WEo0djNYX3o5bC1EMEl4RjdyT1dpWVR1emlLMWxQUHNPT3FvS0dISVpsVzVzaG1FajBaaGJDcGRkQUU4dEdMcFlwUnViLUNYU1pzelZiNkVqRnBPb2F2MHRuVmNMSE82dGxxV3YzYkpJS0g5M2JXdHls?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-04-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood’s ARK sells Rocket Lab, buys Intellia stock - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd21YWWZBcFlNSXNYTmhKYjZPaDBqWjZIZVhpZHU1R2FNeXJNVjZNY0dtYmdFMVl6VmJlbzVVZXp2SjJjeWRhNkJwdGZMYzFiSzVSMHZ1eUZRUWNocE9KZmcxMzdWRm1UdUJPdE5MV2FEN1R0WGdBeG5VaDVRWTVGUlJIZkgzUUlLWkZpZjU3LWtmWUZaSUhsc1p3bHVPbTh3M1ZOd3lrUWxKMS10T2Nj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-04-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Sells Rocket Lab Stock and Buys Intellia Therapeutics in Latest Trades - CoinCentral",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDFEa0lLNHFIUkdBMnQ5Y3otbzZaODY0dm9hQWlGczJmbTV2UmNkWkZURUFFS0tmbzJNV0ZhWGp3RmFEa2JUWUgzSU5GaDlTZGlRTVZiUjNJZTM0dGdzS21NRkRBMHZraXNLeHBqTzVleWtSeWZMTWZaRV9PWGM3Ym8xWk9LTHRvTFl2Mi1CZ2NnWXpjZjZQTlZ0b1FJS3VUMVlLS2NNWVBpQTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-04-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AMG National Trust Bank Boosts Stake in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMmd4SVpURG9LM1VXS3F0azRsbmw1NlZ0TkhnUVdYdzlCN3dNYjZualczR3d5OXN4a0YxUURqRTZiaTFOMTRXbGNIMkUwdUkwNjlOZlpUS1hIQ2ZNSGx3NnVuNGtia3FhZU5NeWdhb0haRTdpZEdpaFJFaDd4NmpWRkwxUnBrR3pZUGVPVzcxMzByc0JsN0xleV9HTDVlamh1TFVVQzQyaVpMRkZXbEV3THV2VUliazNYY2c5X3BMbnlpS2JlVUlzVlF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 2
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 89,
+    "too_old": 115,
+    "gate1_blocked": 22,
+    "gate2_blocked": 21,
+    "passed": 52,
+    "pass_rate": "24.8%",
+    "gate2_block_rate": "10.0%",
+    "gate2_samples": [
+      "BlackRock (NYSE: LUNR) holds 5.9% of Intuitive Machines, reports 9.38M shares - Stock Titan",
+      "Why Did Intuitive Machines Stock Pop Today? - Yahoo Finance",
+      "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+      "Is L3Harris Technologies Stock Worth Watching Right Now - Kalkine Media",
+      "7-Day Sell-Off Sends L3Harris Technologies Stock Down -11% - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Atlas V rocket launches 29 Amazon internet satellites, ti...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Atlas V rocket launches 29 Amazon internet satellites, ties record for heavie...（發射成本、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cathie Wood Offloads Rocket Lab Stock (RKLB) Despite 3% Jump, Buys the Dip in...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-27T10:09:42.538659Z",
+  "updated_at": "2026-04-28T10:09:13.393850Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -35,13 +35,13 @@
       "name": "Globalstar",
       "ticker": "GSAT",
       "currency": "USD",
-      "ar": 19976000,
-      "ar_prev": 25972000,
-      "ar_qoq": "-23%",
+      "ar": 12879000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
       "inventory": 9614000,
       "inv_prev": 11425000,
       "inv_qoq": "-16%",
-      "alert": true,
+      "alert": false,
       "quarter_date": "2025-12-31"
     },
     {
