@@ -1,0 +1,194 @@
+{
+  "date": "2026-04-29",
+  "generated_at": "2026-04-29T10:00:28.367505Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-04-29-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SpaceMobile stock falls 6.89% as loss of BlueBird 7 satellite offset by insurance - Traders Union",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObGdRLWIxV1l0NXlXdldxV09HOGdUVEVpTGtWM1lyWlV3ZDVESkNBWS1ZbzBaem9ocXZJZlVFS2duS2ZQYUMyVFpIRVVKUWo1WEVfTXFYVWlnbmZqdmVzZXN0ejJYd0Z3U0dOMmVGeUhhN1pUMGU2cC1zTDN0Q0Z4cl9JSHhrVEdmMkRiZS0zYmJaTUVSTDdZaVNZME56aWs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-04-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab And Meta Partnership Highlights Orbital Power And Vertical Integration - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVRhZXJSLXU0T3hNVU05bXJZWVdydXhWOHotT3lPU3RaeThxdS1UTzdMZVRXU01jcXhEQXJ4c0dLUFExYTN6NldRYlh5NFZDRFltVXZGQjNUOHZKX3czc0dmZGhGVVFjckY2V2FpczlsSVVMZmN6RTRjOUFTSENHWjBFWkhSTnhNVHVtMzQtS3pLUVI5ZER2c0xBbkhkRThHRzh2Mm5n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-04-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Concurrent Investment Advisors LLC Increases Stock Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT3NMSmtLcFhYYlQteFdJTWdMRnpZdFBvNUlhN0k2UEJ0dnNXZ1NzcXR4MjExM25hVWFGS0k2Tlc2b3ZRN3BrTFRqOExrYVNlRGg3OXVPelBEblZrS1hsLXpVOWVmNTkwbXNzOVVtZ09CN0xjbEROTng5UW1NVzdURzBoQ3JvSF9kdWk3Z1lndVVDS19CUm5xT1NHejNIWUxMUGVOTHliUnlpMi14VWhEU3FjaXhXY0tzaTllVlFRVElPM1owckh1bHFZR2FNOFJueWNsOWd1c1ZndnVOSUZ4NzFMWlhfUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-04-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Too Late To Consider Intuitive Machines (LUNR) After Its Recent Lunar Contract Headlines? - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVXJCYXNxajIzR2I5N3VhRGZTTnZabGcwYXY4djhMNzlQeUZ4UDRoTHROcHh0WTB1a2loQVk4X0NZZXhsUlFxZ1NON2k2Z0k4X2d3RFZpTF94WUdNd0hDbG10c1dJY2ljcW5qTWtmYUJVZ0YxVEczVFI1d0hDaEM4NE51X1ByVTNzc05mQ3RCWFhoblVxeWh6WFdybVpLWlpmaEZ2SjF6M25naU5lUERsUlFaRkJTZGNmYlZURXBrLWFvaWdhb3JINVRnQm1heEZfVmlHd2JLN0ptZ9IB3wFBVV95cUxOUzlhUk1GWnBYVzVqYVpEUEFtTUQ0Tks3alZQNVkxQjBTLU94SEhLYldWRHhzTzRNX2ZNTk5HYUpMUFd0b3JaQ3M3T3hETDVCZnc0dmJuckdIdlB1MkcyOUdmR0Z2QlVTMm5ySGRGSk9waDRlaVpSd2s0Rk1zUTctdkx0bGIydW5QOUswb0JNVVhpSFFtd1V3b21GSmxCc0xPUXA3N0xIUnI0RG9jQ1RqdWlIbDZKUXVua0FnS2o5SkZINjV5Um1lNi15WFF5ekN2Y0VISTZabnZNX0xWcnZJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "spire-2026-04-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why The Spire Global (SPIR) Investment Story Is Shifting With New Targets And Contracts - Yahoo Finance",
+      "companies": [
+        "spire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSDNUd21wbU5mUFhzenJfdjhQVldNTjRyU0MtOXpPNHVxa2FEZEFXT0ItdEZLX2JmYmRKREN4Z2dadUZING5WbFAybWRmR3ZrS0NvUFpDU0Z1UGdDc2JZWkhBNTZhRzhUWTRYSlJOekRQbDNrNEcteUlFY3BWREhrRFZiYmJUWHRhQS1KYkVna3gtckdUQjFTY05pWkhsQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 101,
+    "too_old": 107,
+    "gate1_blocked": 24,
+    "gate2_blocked": 24,
+    "passed": 44,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "BlackRock (NYSE: LUNR) holds 5.9% of Intuitive Machines, reports 9.38M shares - Stock Titan",
+      "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
+      "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+      "L3Harris Technologies (LHX) Q1 2026 Preview: EPS Est. $2.57, Reports April 30 - AlphaStreet",
+      "FengHe Fund Management Pte. Ltd. Invests $79.41 Million in L3Harris Technologies Inc $LHX - MarketBe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為火箭實驗室、直覺機器、AST SpaceMobile相關動態：「AST SpaceMobile stock falls 6.89% as loss of BlueBird 7 s...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile stock falls 6.89% as loss of BlueBird 7 satellite offset by i...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab And Meta Partnership Highlights Orbital Power And Vertical Integra...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 101,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 24,
+  "gate2_fail": 24,
+  "passed": 44,
+  "gate2_samples": [
+    "BlackRock (NYSE: LUNR) holds 5.9% of Intuitive Machines, reports 9.38M shares - Stock Titan",
+    "Why Did Intuitive Machines Stock Pop Today? - The Motley Fool",
+    "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+    "L3Harris Technologies (LHX) Q1 2026 Preview: EPS Est. $2.57, Reports April 30 - AlphaStreet",
+    "FengHe Fund Management Pte. Ltd. Invests $79.41 Million in L3Harris Technologies Inc $LHX - MarketBe"
+  ]
+}
