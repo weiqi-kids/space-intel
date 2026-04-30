@@ -1,0 +1,208 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:01:35.304202Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "spire-2026-04-30-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Small Satellite Market Is Going to Boom Rapidly | Planet Labs, Spire Global, Rocket Lab - openPR.com",
+      "companies": [
+        "spire",
+        "rocket_lab",
+        "planet"
+      ],
+      "related": {
+        "customers": [
+          "spire",
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOczBxM1FQVVk1M0E4WVlRdDc1dkJMbjV4UFF3TjJYU0ZhYVJKLXdEVktqT2k2REZpeHpmZUo1U3hnMTM5bkZmeE9Fcl9GbklaRkhwZmdXb1hsck9FaHdPYlNjTW53X0doUlNqekp5N0ZCd2ZhQ3o1Y2k3T2ZoVzhxQ3dHWkRrbXBJVTdKMm80V2NXZHlqWVVxRUhNVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-04-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jim Cramer Says “I Think That Rocket Lab Is a Winner” - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzNXSE5Yd19rb3FuYmtFb0t5eERTZmVRVnFwaWFqV293VFl5RFVsTmtPVlhUT05ZOEhNZnBvUHFqTEJaZDdGMTdMT0JKTkJ3U09JcFJ2RUVPZkp6MWhHMnJ0anl0VmJHNF9oMnFvTVAzV1A1TkE5ZkRMLUhuTHNnTm4zdTVvUVM0OF9vZGtZUW9hNjFHeVNIVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-04-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Unveils New High-Performance Star Tracker Optimized for Accuracy in Increased Radiation Environments - Rocket Lab",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFFXLXQ5RWpiMFI5d1k1ZENOOXQ2SlNSV0V0M0ViWFJRRDd1bzVLMVVPa0t6MUhXQm11NENkdUdwN2gxVmxxSm1HOENxaXQ3UjdBSUpUdGdVM3lvOXl4ZHRqOUExUXlPNExPZFkwLVMzZ1M0NlpMeFdubEZOQjB2UnVURXJfbG8zRzN3bFBuM3hrRXlsck1sTGt4WmV6aEN5c2FlTG5MRVEzMm1jOWYwd3lHSWlIZ0tCdjk1c2MxWmFZY1FrRUVSZ1pwV0RDdTEtRGJyUldHemZvaEJXcDlr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-04-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation (NASDAQ:RKLB) Sees Significant Increase in Short Interest - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNS01U0wzRjFkV2I2bmhIQTlQS2J1ZllRV19Tb1NtMkVZTFV0WUlqcFh0SGNRc1V2WW8tRjllMlVkMkdDYXkwZ05QZnRWb3E4SEpfc3RSbkxrMDFwY2w2a0w1bTkxM3FJQWtzR3QtWDlkbmVQd3hCZmNrenNUMjFuRmZrd1FFNWpaZVNWSUIwd1U5MU5wUVQxMFZ5MC1aUlloalRsOEtBVV9XUm44R21lZmpkS3hIY25FQWZ6T3A4NkxxczZjcVRtazVZWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-04-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Unveils New Star Tracker, ST-HP, Optimized for Accuracy in Increased Radiation Environments - SpaceWatch.GLOBAL",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVVVFVzJsX0dTSHU1X2szVmZHV3FpN3N5Z3NTZkNMMXBwbFM1U0l4THBBcEQtM0w4Mld0UWtWTElfS3NLSmNneFF6RmRsTlN3dG9xamp3UVpVWnRPUmhBWWVFaDF0YnJ2LTJtLThmN3hnZlBRYUZjcHNwWmxjN253ZHcwdlpjdjJzbXhCLS15aGV6ZENJUFpZN01nQXNFaHVyU3hCbUVDS2J0cXB3Q0d0RkpTVXJKX2UzWG5OY294SUpyb2tFc3ZTXzNvN1JtMmp1?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 6
+      },
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "planet",
+        "count": 3
+      },
+      {
+        "id": "spire",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 297,
+    "dup_title": 83,
+    "too_old": 110,
+    "gate1_blocked": 24,
+    "gate2_blocked": 18,
+    "passed": 62,
+    "pass_rate": "29.0%",
+    "gate2_block_rate": "8.4%",
+    "gate2_samples": [
+      "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 6.8% - What's Next? - MarketBeat",
+      "L3Harris Technologies Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+      "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+      "IBD Rating Upgrades: L3Harris Technologies Flashes Improved Price Strength - Investor's Business Dai"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為L3Harris Technologies、火箭實驗室、行星實驗室相關動態：「Small Satellite Market Is Going to Boom Rapidly | Planet ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Small Satellite Market Is Going to Boom Rapidly | Planet Labs, Spire Global, ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Jim Cramer Says “I Think That Rocket Lab Is a Winner” - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,146 @@
+{
+  "date": "2026-04-30",
+  "date_range": {
+    "start": "2026-04-24",
+    "end": "2026-04-30"
+  },
+  "generated_at": "2026-04-30T10:01:35.374263Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "spire-2026-04-30-013",
+      "date": "2026-04-30",
+      "title": "Small Satellite Market Is Going to Boom Rapidly | Planet Labs, Spire Global, Rocket Lab - openPR.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "space_defense": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.17
+    },
+    "industry_general": {
+      "this_week": 44,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.04
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 3,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.17
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 1.0
+    }
+  },
+  "company_7d_summary": {
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": 0.17,
+      "rank": 6
+    },
+    "rocket_lab": {
+      "event_count": 14,
+      "sentiment_avg": 0.14,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "planet": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 6,
+      "sentiment_avg": -0.38,
+      "rank": 3
+    },
+    "viasat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 258,
+        "last": 130,
+        "change_pct": 98.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-24",
+      "event_count": 48,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-25",
+      "event_count": 23,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-26",
+      "event_count": 27,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-27",
+      "event_count": 48,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-28",
+      "event_count": 48,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 48,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 16,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-24 ~ 2026-04-30）共 258 則事件，重點為「Small Satellite Market Is Going to Boom Rapidly...」。事件量較上週增加 98%，產業動態明顯升溫，需密切關注。",
+    "watchlist": [
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週情緒偏負面（-0.4），共 6 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

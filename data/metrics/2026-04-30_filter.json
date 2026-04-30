@@ -1,0 +1,16 @@
+{
+  "total_raw": 297,
+  "dup_title": 83,
+  "no_date": 0,
+  "too_old": 110,
+  "gate1_fail": 24,
+  "gate2_fail": 18,
+  "passed": 62,
+  "gate2_samples": [
+    "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 6.8% - What's Next? - MarketBeat",
+    "L3Harris Technologies Inc. stock outperforms competitors despite losses on the day - MarketWatch",
+    "L3Harris Technologies (NYSE: LHX) rings the opening bell® - qz.com",
+    "IBD Rating Upgrades: L3Harris Technologies Flashes Improved Price Strength - Investor's Business Dai"
+  ]
+}
