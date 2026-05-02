@@ -1,0 +1,158 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:00:13.089798Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings Preview: Rocket Lab to Report Financial Results Post-market on May 07 - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdUlTU1JwNS1GQjJCNnNPZWdjYVpvdlc2ZzJnVENxMEtfVkpnRW1pWXBYYUFuTklzWi14TGRMSGhzbC1RTlpWV2hSOHdQRGc4ejhMU2VqMVR5eVRsS2tYOFVjNjdlTHg5OERxdWFFM2FMakwyMHdBYkUxVmQ4cWZoZ1hnRHd6WExtLWlJMFNTTzNPSHlTcE5NdzNYcy1yeHEwb0JUaU90bXRwZ3Q1V0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Look At L3Harris Technologies (LHX) Valuation After Recent Share Price Pullback - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcVlHY1dyMHJsUzNjVmh5QmgtQncxNkloOVFQYklaWkhqcEswUkVjbGF0clNDNUotOTBwTjhEVnhBN2Z5Ni1KSmg4ZktDdncwRm5DdGJVaHF2cEdBMmFZNWVkYWV3Vlgwam8teVctTm01bHFseWgwUndsa1RLYzE5RmIwSFdmZHhsZDY0WS1DSF9WN2JXMHRsSWNPVDd6M1N2Y2R6dU4tMFM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSmRVNlJMQ1B6d29JTHdzWjJHbFJZallsaTV1ZFJVeTNqai05amt6MGlPc2RHVjR0ZmNBU3hCRTU1N2JmRGZ6ZlgxX3JDM3BLVXhybGRCcEVFTjZFcUtFSzgxM0tyak1GUHd3eTRhNjZhaHlhdThKcFZvcjBEOWpPR043VWtLcWZINElsNmx6bWg2cXBLWXhLSS03UXBPa0xrZGd3RjF3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris (LHX) Earnings Call Highlights Growth, Backlog - The Globe and Mail",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWJEc2dDZnhsWlQ2M0hKT1puTTN6S3VRMDROd1ZkRjZ0bG8wMzd2MklSTkI4ZXN1c2JrWFVGU21vQzhfTGVyMXQ4TjNkMDM5Q0RyNTBNTUViUkNpOExXYk1wRUplOHZwTEJxV080WWpvaWNkZ3lzdjZqOVdlcTBaNkZfZXdfOTRRN3pjZ3l0V0ZVaEk0bFFJR2hjQU1kTnh5Rmtiek11ZWtUT1VXbWZkUGRDdUxlNjdDS25aRUhnVjhCUXk1RUJiZTR0QXhSYlVDYWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 105,
+    "too_old": 104,
+    "gate1_blocked": 25,
+    "gate2_blocked": 22,
+    "passed": 42,
+    "pass_rate": "21.8%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 6.8% - What's Next? - MarketBeat",
+      "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "$1000 Invested In L3Harris Technologies 20 Years Ago Would Be Worth This Much Today - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為L3Harris Technologies、火箭實驗室相關動態：「Earnings Preview: Rocket Lab to Report Financial Results ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Earnings Preview: Rocket Lab to Report Financial Results Post-market on May 0...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "A Look At L3Harris Technologies (LHX) Valuation After Recent Share Price Pull...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
