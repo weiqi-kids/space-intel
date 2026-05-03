@@ -1,0 +1,64 @@
+{
+  "date": "2026-03-02",
+  "generated_at": "2026-05-03T00:18:46.517147Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ses-2026-03-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SES S.A. (SGBAF) Reports FY Revenue of €2.62 Billion - GuruFocus",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ses-2026-03-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SES Reports Strong 2025 Growth Following Intelsat Acquisition, Revenue Hits €2.63 Billion - TechAfrica News",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ses",
+        "count": 2
+      }
+    ],
+    "top_topics": []
+  }
+}

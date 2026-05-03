@@ -1,0 +1,132 @@
+{
+  "date": "2026-04-06",
+  "generated_at": "2026-05-03T00:18:49.296636Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-06-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX Falcon 9 rocket launches Starlink satellites from Vandenberg, CA Space Force Base - cbs8.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "launch_cost",
+        "satellite_constellation",
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-04-06-008",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile: Navigating Competition From Starlink And Bezos (NASDAQ:ASTS) - Seeking Alpha",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-04-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vandenberg rocket launch schedule. Here's what's due for liftoff - Ventura County Star",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "launch_cost"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "launch_cost",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 2
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "date": "2025-11-06",
+  "date_range": {
+    "start": "2025-10-31",
+    "end": "2025-11-06"
+  },
+  "generated_at": "2026-05-03T00:18:43.313378Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ses-2025-11-06-006",
+      "date": "2025-11-06",
+      "title": "SES SA (SGBAF) Q3 2025 Earnings Call Highlights: Transformational Merger and Revenue Growth ... - Yahoo Finance",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {},
+  "company_7d_summary": {
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-10-31",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-03",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-04",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-05",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-06",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

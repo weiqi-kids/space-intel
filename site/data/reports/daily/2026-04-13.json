@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-13",
+  "generated_at": "2026-05-03T00:18:49.656758Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Space Station captures, berths Cygnus XL ’S.S. Steven R. Nagel’ cargo spacecraft",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-04-13-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors May Respond To AST SpaceMobile (ASTS) Surging Revenue And $1 Billion Contract Backlog - simplywall.st",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  }
+}

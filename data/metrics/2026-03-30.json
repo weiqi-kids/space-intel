@@ -1,0 +1,20 @@
+{
+  "date": "2026-03-30",
+  "total_events": 2,
+  "by_company": {},
+  "by_topic": {
+    "satellite_constellation": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "space_defense": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

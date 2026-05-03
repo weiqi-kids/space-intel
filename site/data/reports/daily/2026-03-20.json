@@ -1,0 +1,89 @@
+{
+  "date": "2026-03-20",
+  "generated_at": "2026-05-03T00:18:47.452471Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-03-20-010",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Space Force moves GPS launch to SpaceX Falcon 9 due to Vulcan rocket glitch - Space",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-03-20-009",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX launches 25 Starlink satellites on Falcon 9 rocket from Vandenberg SFB - Spaceflight Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  }
+}
