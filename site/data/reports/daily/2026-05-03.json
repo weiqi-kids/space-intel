@@ -1,0 +1,138 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:17:27.788182Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "D.A. Davidson & CO. Buys 20,195 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaktIQVE4UzFFajI3Y01EeEdOSkp3djlITWZ2RjlNS0Rka0w1MXdMb3RLMXA5VUhkNW11N0Y0MF9YbEhiN0RsWmd3azREM3d1V2dCS0cxTFN5N0RsSG1zeFhKNmF6SjY4aFlwYXVyUzQ3LURBTlNrVkRKRnV4SG53NXNnZWpSUWVRYXlOSWdTbzlrSlQ1NzNEVXotUEQxSjJZWDRDUlc0WmV6ZkVndnpUOGtEZHNxbXZuX21NTlNfNl84QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Space Tickers. 🔭🪐🛰️🚀🧑‍🚀 - Moomoo",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYzBMTmtHa0NNb29RVjRXYlUtRjRQUzJvMTdkQlREbzVMYi1aOUtoeUVSdFpTUHlIX3ZhbjJlMTNRNFROdDZUNjQyaTdDZUxtQjJpckpDTDlWSmNhT2w3WWVzOVFyS1A3V2laNzJPZDBGTEVfX0E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-05-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Raymond James Keeps Their Hold Rating on L3Harris Technologies (LHX) - The Globe and Mail",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVF2Y1l6SGV2TXUyeWNWRTYtY0xjOUhGdWJvNEwyVGJ0U0xCcXNTdFBUNTdmV0JtdllEeWg2UWUxemhEY3dCQ3RuQ3J5TWxLVGpWajF5M0RpTkUtazV0NDZWR0dDQnRrVFZaQ2x6WEdWOU9XVC16M3Rfc2w2XzFrYW4tQk5LbE4wYkxJZUc1OHA5cEc3alNhSlZicXkxbHhSRXdzcEx5MHlMS3ZVUnFsempKV3lCNjlVN3dQc2cwTWhNWWc1U0RZVjdRZ2M5UFE3bV94S0Fjblk5dERLbWxRMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 297,
+    "dup_title": 126,
+    "too_old": 102,
+    "gate1_blocked": 22,
+    "gate2_blocked": 20,
+    "passed": 27,
+    "pass_rate": "15.8%",
+    "gate2_block_rate": "11.7%",
+    "gate2_samples": [
+      "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+      "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+      "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+      "L3Harris Technologies (NYSE:LHX) Stock Rating Upgraded by Truist Financial - MarketBeat",
+      "After 15% L3Harris Price Drop, Is It Time to Buy or Time to Fly? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為火箭實驗室、L3Harris Technologies相關動態：「D.A. Davidson & CO. Buys 20,195 Shares of Rocket Lab Corp...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "D.A. Davidson & CO. Buys 20,195 Shares of Rocket Lab Corporation $RKLB - Mark...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Space Tickers. 🔭🪐🛰️🚀🧑‍🚀 - Moomoo（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

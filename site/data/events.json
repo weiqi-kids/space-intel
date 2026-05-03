@@ -1,5 +1,61 @@
 [
   {
+    "id": "rocket_lab-2026-05-03-001",
+    "date": "2026-05-03",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "D.A. Davidson & CO. Buys 20,195 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaktIQVE4UzFFajI3Y01EeEdOSkp3djlITWZ2RjlNS0Rka0w1MXdMb3RLMXA5VUhkNW11N0Y0MF9YbEhiN0RsWmd3azREM3d1V2dCS0cxTFN5N0RsSG1zeFhKNmF6SjY4aFlwYXVyUz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaktIQVE4UzFFajI3Y01EeEdOSkp3djlITWZ2RjlNS0Rka0w1MXdMb3RLMXA5VUhkNW11N0Y0MF9YbEhiN0RsWmd3azREM3d1V2dCS0cxTFN5N0RsSG1zeFhKNmF6SjY4aFlwYXVyUzQ3LURBTlNrVkRKRnV4SG53NXNnZWpSUWVRYXlOSWdTbzlrSlQ1NzNEVXotUEQxSjJZWDRDUlc0WmV6ZkVndnpUOGtEZHNxbXZuX21NTlNfNl84QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-03-002",
+    "date": "2026-05-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Tickers. 🔭🪐🛰️🚀🧑‍🚀 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYzBMTmtHa0NNb29RVjRXYlUtRjRQUzJvMTdkQlREbzVMYi1aOUtoeUVSdFpTUHlIX3ZhbjJlMTNRNFROdDZUNjQyaTdDZUxtQjJpckpDTDlWSmNhT2w3WWVzOVFyS1A3V2laNzJPZD",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzYzBMTmtHa0NNb29RVjRXYlUtRjRQUzJvMTdkQlREbzVMYi1aOUtoeUVSdFpTUHlIX3ZhbjJlMTNRNFROdDZUNjQyaTdDZUxtQjJpckpDTDlWSmNhT2w3WWVzOVFyS1A3V2laNzJPZDBGTEVfX0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-05-03-003",
+    "date": "2026-05-03",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Raymond James Keeps Their Hold Rating on L3Harris Technologies (LHX) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVF2Y1l6SGV2TXUyeWNWRTYtY0xjOUhGdWJvNEwyVGJ0U0xCcXNTdFBUNTdmV0JtdllEeWg2UWUxemhEY3dCQ3RuQ3J5TWxLVGpWajF5M0RpTkUtazV0NDZWR0dDQnRrVFZaQ2x6WE",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWVF2Y1l6SGV2TXUyeWNWRTYtY0xjOUhGdWJvNEwyVGJ0U0xCcXNTdFBUNTdmV0JtdllEeWg2UWUxemhEY3dCQ3RuQ3J5TWxLVGpWajF5M0RpTkUtazV0NDZWR0dDQnRrVFZaQ2x6WEdWOU9XVC16M3Rfc2w2XzFrYW4tQk5LbE4wYkxJZUc1OHA5cEc3alNhSlZicXkxbHhSRXdzcEx5MHlMS3ZVUnFsempKV3lCNjlVN3dQc2cwTWhNWWc1U0RZVjdRZ2M5UFE3bV94S0Fjblk5dERLbWxRMw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-05-02-001",
     "date": "2026-05-02",
     "companies": [
@@ -69,6 +125,373 @@
       {
         "name": "l3harris",
         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWJEc2dDZnhsWlQ2M0hKT1puTTN6S3VRMDROd1ZkRjZ0bG8wMzd2MklSTkI4ZXN1c2JrWFVGU21vQzhfTGVyMXQ4TjNkMDM5Q0RyNTBNTUViUkNpOExXYk1wRUplOHZwTEJxV080WWpvaWNkZ3lzdjZqOVdlcTBaNkZfZXdfOTRRN3pjZ3l0V0ZVaEk0bFFJR2hjQU1kTnh5Rmtiek11ZWtUT1VXbWZkUGRDdUxlNjdDS25aRUhnVjhCUXk1RUJiZTR0QXhSYlVDYWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-05-02-005",
+    "date": "2026-05-02",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Rocket Lab Stock Zoomed 28.5% Higher In April - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxObzVTajR3SWFZangySzdWX184d19oWEp4M09Jb3oxZlBZaU5taWE1cUFvRDFaYmtJSkR0TGh3bkw1dHJHRTlyYUh6VE9FNlF5MDFJZlJkNkhTX3g0Nl9jN1lRVmw3eU9TRks5YkFzTE",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObzVTajR3SWFZangySzdWX184d19oWEp4M09Jb3oxZlBZaU5taWE1cUFvRDFaYmtJSkR0TGh3bkw1dHJHRTlyYUh6VE9FNlF5MDFJZlJkNkhTX3g0Nl9jN1lRVmw3eU9TRks5YkFzTEZ2bmJTME1Vc0lWYlJVcVhSSkw2Q2RTT0l4QnVWN2tZZWdGanh5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-05-02-006",
+    "date": "2026-05-02",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Rocket Lab Stock Zoomed 28.5% Higher In April - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk00Mnp2MTB4dUtSaWJlbWZlQmRTM2tBbzF5Rm5sUkRXalZsbnhFVFN3ZjFYRVFTLXgtaThjdjJDMWxhclE0bTlQSUhLcUdsbzRXakpZQURKWTl1M0tPdVljeEJYV3pPMDNGYmNMYU",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMk00Mnp2MTB4dUtSaWJlbWZlQmRTM2tBbzF5Rm5sUkRXalZsbnhFVFN3ZjFYRVFTLXgtaThjdjJDMWxhclE0bTlQSUhLcUdsbzRXakpZQURKWTl1M0tPdVljeEJYV3pPMDNGYmNMYUxNZWN0QWJJczlVMEF0RllPdWNZbVV0b1dLcWY0dGZYVWRXSVlMSklr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-05-02-007",
+    "date": "2026-05-02",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Assessing Rocket Lab (RKLB) Valuation After Record US$816 Million Space Development Agency Contract - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjNMbGFtWktoOXA4RGxzSHdURDR4cVg0MmNScFNtTnFOZHlwb3RRQ1hSczdfZFV6RExFQkcyeXZvZzBUUlVsZXo3YWZncmdRMnhsWjV2aXFnbXFlU3BLdGpTMHhYN1dHcEJHUHctY0",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQjNMbGFtWktoOXA4RGxzSHdURDR4cVg0MmNScFNtTnFOZHlwb3RRQ1hSczdfZFV6RExFQkcyeXZvZzBUUlVsZXo3YWZncmdRMnhsWjV2aXFnbXFlU3BLdGpTMHhYN1dHcEJHUHctY0xmQjRZbXUySmNtQ2laakdxcEItc0JZU1F4U0I0dVpTdVRkM01VUmhzSHNpYWJ2dTdnUXVsMnprWkhzeUI2N1dGMmJDNlNydEhXVVg3YlVXUDJTejVCYnhaOHFBX0hGVkHSAdQBQVVfeXFMUFh6eEdOVnRlcmxKNmthRFpORE96RGg4bnVTY0d3RlVWM196YzIzbDJJbjVkbHFkbWdDU1Uxck5sT1ZZcExuOHM2QWhZMHk3SHFyNE1JT2xLdGxJbDhVZWFaZGdWVmpxem9uc0p5cldCeVFMMGZLTTc1NHg3d3FtRzdSYVRkcGE3dHpNSTJIcEo4N1pnZUMwNndoOHU2eGlVT0R4anBPSTJJTzJjZUozendXdHF0UHE2VmItM2ZITDlKSTNnc0Q4WEdaaGh4b1VmdzdnYS0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-05-02-008",
+    "date": "2026-05-02",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC Spectrum Rule Overhaul Sends AST SpaceMobile (NASDAQ: ASTS), Rocket Lab (NASDAQ: RKLB), Firefly (NASDAQ: FLY) and Intuitive Machines (NASDAQ: LUNR) Higher - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingJBVV95cUxNYnIzTllRWVVsUlNLT1g2Z2laY2E3RmRjZS1Sb1NSN00wUXh2UldmZjV4bDJHNk1VWkNubG1NY0V5b2xNMHVrYjZwTEJTQlN2dzZIU1JwSmMzN0RVQzg5ZWhLQ2pTQkxtMU5DX19YY3",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNYnIzTllRWVVsUlNLT1g2Z2laY2E3RmRjZS1Sb1NSN00wUXh2UldmZjV4bDJHNk1VWkNubG1NY0V5b2xNMHVrYjZwTEJTQlN2dzZIU1JwSmMzN0RVQzg5ZWhLQ2pTQkxtMU5DX19YY3FXbllRNkM3aFc2RHVYSDZQXzZ2S2NqV0hjVXZvSXg1QXhxR2lpbnlOMlNZUFhNZHVDYXMyQklpTGNOcFEzYUVUazFWeUZuUEFPbGg2V202SmVGUUFfVUg3c0RtMTVQU1VvRzFjdktpOHJnSFNfdFZJbnJ5VTI2WGRweGVxOGpNWjI0YkZORjBQbjhOWlhhWVgtckdoam80N2lONkk0LWlVU3h5azdjeldDd25HbDFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-009",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jim Cramer’s Opinion on 21 Stocks: Oklo, AST SpaceMobile, and Others - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQazVrYWhjUjhOeWl2ckNJSGEyZTkzeWN0UVhtbXJQc1U1Vm5Ic3dVVnNYTGJDTGhLaWIxRjBYRGQ4X0x0eFhkcVpHWjEzRHY0b25oU3QwSmQya3NBRE94ZDJKa01uNkFNd3BFd0g0dj",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazVrYWhjUjhOeWl2ckNJSGEyZTkzeWN0UVhtbXJQc1U1Vm5Ic3dVVnNYTGJDTGhLaWIxRjBYRGQ4X0x0eFhkcVpHWjEzRHY0b25oU3QwSmQya3NBRE94ZDJKa01uNkFNd3BFd0g0djB2VjRFczRSWTVtXzlxOW9GeVgtYVhPWm1aNk91ZWlpVFNtUmxyTldxTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-010",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Did AST SpaceMobile Stock Slip in April? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3d5dnVpSEVtRDFKRlRvdmc4aUJ3Y2Rkam9MWTN3UmswMGdtNjRFQkpPTjQ1Qm50VTNESjdEMTAtZGc5V0s5amVDNXhkdUVaWENKWndUQ1hlRWNlclNUdTUwYXdPem9UMlNtQ3E1T2",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV3d5dnVpSEVtRDFKRlRvdmc4aUJ3Y2Rkam9MWTN3UmswMGdtNjRFQkpPTjQ1Qm50VTNESjdEMTAtZGc5V0s5amVDNXhkdUVaWENKWndUQ1hlRWNlclNUdTUwYXdPem9UMlNtQ3E1T2t6ajZIdlRaa1hjVnczOVJHLXdSckdvZjdCZXhWQkdRMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-011",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At AST SpaceMobile (ASTS) Valuation After FCC Satellite Approval And BlueBird 7 Launch Setback - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlGa1libEswMjRPa2hScFdVVWhIbEhmdXIzUmRaMUx0OG1hc0JsOWlKdm1RLXRyZTVSSl9uQ3luWUZyN2dSTVA2VEJxVm9WVElJdnJUbHAtQlE5eHBoQkwyNV9aMnVCUi0xYkFRVU",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSjlGa1libEswMjRPa2hScFdVVWhIbEhmdXIzUmRaMUx0OG1hc0JsOWlKdm1RLXRyZTVSSl9uQ3luWUZyN2dSTVA2VEJxVm9WVElJdnJUbHAtQlE5eHBoQkwyNV9aMnVCUi0xYkFRVUl0UGFVbklBb21NcUQ0VWFiYndDNU1YY3ZoLUZ5TTRxZmIxVHRVRDFOVVFqRDZMMWM3WXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-012",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is It Too Late To Consider AST SpaceMobile (ASTS) After Its 168% One Year Surge - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWdXcjFvc0NpQm92NklnV0pwSXpDYnlpWXVvUDlJV0U0WU1VdVNpaFdiaTl4UXFPWDA1LTNKdkJyQkZnTE5NSVJmbkVXUXpPMXBFenZuVGNUdmdHTkozWVRSN0hDamd4VTRGS1E0em",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNWdXcjFvc0NpQm92NklnV0pwSXpDYnlpWXVvUDlJV0U0WU1VdVNpaFdiaTl4UXFPWDA1LTNKdkJyQkZnTE5NSVJmbkVXUXpPMXBFenZuVGNUdmdHTkozWVRSN0hDamd4VTRGS1E0emlEN0FOMFItWktQZzVYRUlEUG9BS29yUzV5TTljblhhOEFPcUdiSi15UDNMbEx1MjR4MXdINEdFem9BQ1VXYVd2bG9NWmFPWjdJMS1SMmYxQmRCb0J4TEE3TzdXSUlZd9IB0wFBVV95cUxQaHpENVhZeFZfeGtWSkdldVlhcXVCWkMyNnVObTJzQ2I1RUUtdE9abTZQb3Q3dHd1Ujh3RS1aN3J6aWp2OG9JNTNiMENNM0pNYy1pUS1vdS11bzZ2dzZhSHRpUm9EWTQ1dlVFSzhzR05xblhRckxtNkQ2M2VvVTMxSGpJNEc0Z2pLM09rME5sUGZsNGNVeGkxaXZOTjVVeDk5TzZ3M2RGQXNCNmlYbk9OWEpuNVM1d0x4Yy1abXNoR3l3YmtrWHpiNkJ0cjZ6a210LWJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-013",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Is Impossible to Ignore Right Now. Here's What to Do With It. - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzFPSG1HQ2F4VXR2Y19PZXlOaEJVZzktZ2l5VHlpZ1RsNmJtSV9PTER0dXNqX2VCVHFTRDNORHRIY3BRQm0zWUE0VGJzdXkwU3pWYUJUam13Q0t0bmxETFhuTWlmaGtsYkFCRS1vX1",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRzFPSG1HQ2F4VXR2Y19PZXlOaEJVZzktZ2l5VHlpZ1RsNmJtSV9PTER0dXNqX2VCVHFTRDNORHRIY3BRQm0zWUE0VGJzdXkwU3pWYUJUam13Q0t0bmxETFhuTWlmaGtsYkFCRS1vX1UyZ1RCVUhYZ19hamRFNFU1OF9mNERYbmJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-05-02-014",
+    "date": "2026-05-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Universal Beteiligungs und Servicegesellschaft mbH Has $2.25 Million Stock Holdings in AST SpaceMobile, Inc. $ASTS - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxNazVhOFB4TmVyWE5xTzBSMHBMdVRtODVjel9vbmNMaXFRVW43NTJLUjE4UmVoY3ItT2NxQUF1QjFkazBoWlV3NkxvQXEyb3F5eWFfdmFDc2dDMzlDUDM4Z3dRS1NaRFVLY2JQTkVaZl",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNazVhOFB4TmVyWE5xTzBSMHBMdVRtODVjel9vbmNMaXFRVW43NTJLUjE4UmVoY3ItT2NxQUF1QjFkazBoWlV3NkxvQXEyb3F5eWFfdmFDc2dDMzlDUDM4Z3dRS1NaRFVLY2JQTkVaZlZTS2MwaVdiSldMandGeHlwMnBxLXFhZEFUb2paVncwakctNzRaNzA2SUc1YmZVUmdjV19yOHl2UEJJRWNxTTRzSG5hd1Y1bkp4ZHFkbThFYnBpQXIxWHlTeHJzS1VVNlhCSjVaWkpTQl9XSW1kN3ItRzEzY2hCQ0ZLakdpc1dLSEhCYWgweGxxV0NJOUR1Qms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-015",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live",
+    "summary": "\n                             SpaceX will launch 45 satellites to orbit from California early Sunday morning (May 3), and you can watch the action live. \n                                              ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-launch-cas500-2-mission-45-satellites",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-016",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week In Space podcast: Episode 208 — Lander, Lander, Who's Got a Lander",
+    "summary": "\n                             On Episode 208 of This Week In Space, Rod Pyle and Tariq Malik  talk with Space.com's Mike Wall about the risks and realities of the new space race to the moon. \n        ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-208-lander-lander-whos-got-a-lander",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-017",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From new releases to classic models, feel the force this Star Wars Day with the best Lego sets from the saga",
+    "summary": "\n                             Not only is Lego launching a host of new models this Star Wars Day, there are some fantastic sets out there already. We've harnessed the power of the Dark Side  to bring ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-toys-lego/from-new-releases-to-classic-models-feel-the-force-this-star-wars-day-with-the-best-lego-sets-from-the-saga",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-018",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Galaxies, Artemis 2, space telescopes and stormtroopers: Here are the best photos from our staff",
+    "summary": "\n                             Photos from around the space team. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/astrophotography/galaxies-artemis-2-space-telescopes-and-stormtroopers-here-are-the-best-photos-from-our-staff",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-019",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "See May's full 'Flower Moon' bloom in gorgeous photos from around the world",
+    "summary": "\n                             The Flower Moon will be followed by a rare full Blue Moon on May 31. \n                                                                                                    ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/see-mays-full-flower-moon-bloom-in-gorgeous-photos-from-around-the-world",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-05-02-020",
+    "date": "2026-05-02",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 planets will put on a sky show in May — when and how to see them",
+    "summary": "\n                             Venus, Jupiter and Mercury headline May's skywatching, with stunning moon pairings and a three-planet display. \n                                                          ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/3-planets-will-put-on-a-sky-show-in-may-when-and-how-to-see-them",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-021",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Eta Aquarid meteor shower peaks next week: Here's what you need to know",
+    "summary": "\n                             Shooting stars and the occasional fireball may be seen whenever the constellation Aquarius is above the horizon. \n                                                        ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/meteor-showers/the-eta-aquarid-meteor-shower-peaks-next-week-heres-what-you-need-to-know",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-022",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX launches South Korean Earth observation satellite, plus 44 more payloads on midnight Falcon 9 rideshare mission",
+    "summary": "The CAS500-2 mission lifted off from pad 4E at Vandenberg Space Force Base at 12 a.m. PDT (3 a.m. EDT / 0700 UTC). The Korea Aerospace Industries’ Compact Advanced Satellite 500 (CAS500) satellite wil",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/05/02/live-coverage-spacex-to-launch-south-korean-earth-observation-satellite-44-more-payloads-on-overnight-falcon-9-rideshare-mission/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-02-023",
+    "date": "2026-05-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launching 45 satellites to orbit early May 3: Watch it live - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPblEyakJKMWpsZ2w3bEhIbllFcVdFa2JvcHBKUW5nYjJUUkljSUpNTTN5Rk0zQjl2bmR4SzVFQnNZV2Y1VTZfb3hrZUVHNEdrNklPN1Ywa1ZITV9IOEJfa0VaV1B1b2JqU0w5X1JJZk",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPblEyakJKMWpsZ2w3bEhIbllFcVdFa2JvcHBKUW5nYjJUUkljSUpNTTN5Rk0zQjl2bmR4SzVFQnNZV2Y1VTZfb3hrZUVHNEdrNklPN1Ywa1ZITV9IOEJfa0VaV1B1b2JqU0w5X1JJZk9GbnZrdVpsZk9jRGQ3UV84VzRFeDB6WFUxQlZYbmpZQmpyZEFRSks1X05GbzBGSEQ1RGYtWTRlV2J0U0pjZ2pQTG9RTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -819,6 +1242,43 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/news/your-military/2026/05/01/us-marine-corps-replaces-basic-reconnaissance-course-with-expanded-training/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-041",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX to land rocket booster at Vandenberg after launch. How to watch - Ventura County Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQTDlkNnphZDEwaXBTclBFVnpjYkxQNjRlekstdUxaVzNrM0NqZURxMkljb3o4VFowMXIxcnB5THFNYjhKU3Mwc1ZWZmJqV0k1VkgzLVVBVHgtU21LV05kbnJWQ3d3MGtvZk1CTXFQaH",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTDlkNnphZDEwaXBTclBFVnpjYkxQNjRlekstdUxaVzNrM0NqZURxMkljb3o4VFowMXIxcnB5THFNYjhKU3Mwc1ZWZmJqV0k1VkgzLVVBVHgtU21LV05kbnJWQ3d3MGtvZk1CTXFQaHpvZkhiSGtPYmJRRjNQamt4eEg2RzlmbGR5T2pVc0NWak5ESkE4akJ4b0V0clV2QWhXLTZ3ZWMxV3JQOHBZYzNsY0liNVhMOFVuLS10U1hEaHhWQ3lKdGgyeTd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-01-042",
+    "date": "2026-05-01",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX marks May Day, National Space Day with Starlink mission on a Falcon 9 rocket from Cape Canaveral - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1JsZ2lYdkRNT2o1R2NMMXRpN2NRQlJBZ2dCV0NtN016TWZ1aVhUOGJzU0ZrenM0eHpSbGVuT2tPSmZqZl8ycnRrRmtYR0x4RDdnakJVWXB2VUlEUk5aMS1qWWhkY0g4dFRRS1g4RE",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1JsZ2lYdkRNT2o1R2NMMXRpN2NRQlJBZ2dCV0NtN016TWZ1aVhUOGJzU0ZrenM0eHpSbGVuT2tPSmZqZl8ycnRrRmtYR0x4RDdnakJVWXB2VUlEUk5aMS1qWWhkY0g4dFRRS1g4REVFVXhuZEhUVll0OWc0OXRFUG1nUHFnekRMRnd0YWhuUnIxRVdjZ25YUnlRX0RrYkZtMS1rQmxaVkNGZ1NlYXEyVEdFai10b0tic281QTBmVXJ6QUlFM1RQWUQzck1jOVhwVkE?oc=5",
         "type": "rss"
       }
     ]
@@ -2151,6 +2611,62 @@
       {
         "name": "spire",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbk5YNFR2R3pWaU40alQ3QmtJd1hCV1FzNWFVQWotb0tzekJTdl9RMXdKTWlka0F1VHNvNno2aGdtTVo2QjhUUG5HODl6bWZ4alZpZG9VRmtpbUFaWUtRdmNRTVFOLU92Ym9kWWVRdnNlc1RUVDgzSWNsQ3pQSkNRVXhZYW1hSXVFS2NRVURDNU03WlZNVmF3T0JwMkhwbnhIMUx6WU9mSmJxZVVQcGZMcHBOTDljVml6WkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-30-071",
+    "date": "2026-04-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Record $40.7B backlog as L3Harris (NYSE: LHX) raises 2026 EPS - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPdFNBbEZ2R0RFR1lBbmxkQWRRa0VCM2ZaYUJmamtpa0hrTG1BVkJDWXJGem5zLVdNN3NId1dNT2dDMi1kd2FTMUNRXzFaRFhSeFExeVk1cF8tSzRzLWJ0aDN4Qi1Oa25SOFV4NjQtVH",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdFNBbEZ2R0RFR1lBbmxkQWRRa0VCM2ZaYUJmamtpa0hrTG1BVkJDWXJGem5zLVdNN3NId1dNT2dDMi1kd2FTMUNRXzFaRFhSeFExeVk1cF8tSzRzLWJ0aDN4Qi1Oa25SOFV4NjQtVHgyN0ozaDNmYXpQZTVYWEpXazJoWlBLWG1lcnVmc3JXQ2lUbzlXX0gxcXVPdVpzc1pEbmYyam9NcWtrSU90Mm10eEJ1TUFhUVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-04-30-072",
+    "date": "2026-04-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (NYSE:LHX) Releases FY 2026 Earnings Guidance - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHJucGdfZkFXdDl1LXh1NkNIODEtMVJFRGJPR3lHZjJQYmt6RVYtMkh3WXRlRGExS2o4VjVTR0ZzbDhTSlV3QnpEYXNsVGllOTRDN2pRN2d5SW1VZW9QR2luYnE5ZldFUnZqU1FZZ2",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWHJucGdfZkFXdDl1LXh1NkNIODEtMVJFRGJPR3lHZjJQYmt6RVYtMkh3WXRlRGExS2o4VjVTR0ZzbDhTSlV3QnpEYXNsVGllOTRDN2pRN2d5SW1VZW9QR2luYnE5ZldFUnZqU1FZZ214Q1Zac0NjdTRoeG5OSTVmOWZOWVd1ei1UbnZjUkdhR0pPY0dIeEVmdllyUW9hR1hxU2hINUYzMTF0QkZRbzZienItQWc0cGpNbUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-04-30-073",
+    "date": "2026-04-30",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Planet Labs & Carbon Mapper To Develop Specialized Tanager Spacecraft - IPO Edge",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXdvZFJjUkN5VnFOb0pnN19RX3RtSFczLXZxVUpVMGJQc2xXWWxXeXN6aWdVN29jZl9IYmR6dU8zSEh0amVyT05rcExsNkxKRk9XVTBLUy1YcnhSVFJpZ180N09LMXZpcEFUNHdWeU",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQXdvZFJjUkN5VnFOb0pnN19RX3RtSFczLXZxVUpVMGJQc2xXWWxXeXN6aWdVN29jZl9IYmR6dU8zSEh0amVyT05rcExsNkxKRk9XVTBLUy1YcnhSVFJpZ180N09LMXZpcEFUNHdWeUpmNVcyMDdjY05PdkQtRGFydmJmc2NaZHo4QUlvY1p6cU9ZX0U?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,16 @@
+{
+  "total_raw": 297,
+  "dup_title": 126,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 22,
+  "gate2_fail": 20,
+  "passed": 27,
+  "gate2_samples": [
+    "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+    "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+    "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+    "L3Harris Technologies (NYSE:LHX) Stock Rating Upgraded by Truist Financial - MarketBeat",
+    "After 15% L3Harris Price Drop, Is It Time to Buy or Time to Fly? - MarketBeat"
+  ]
+}
