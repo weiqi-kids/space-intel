@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 24,
+  "gate2_fail": 20,
+  "passed": 29,
+  "gate2_samples": [
+    "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+    "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+    "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+    "Analysts Offer Insights on Industrial Goods Companies: Joby Aviation (JOBY) and L3Harris Technologie",
+    "L3Harris Technologies Reports Strong First Quarter 2026 Results - Business Wire"
+  ]
+}
