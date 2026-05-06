@@ -4,7 +4,7 @@
     "start": "2026-04-30",
     "end": "2026-05-06"
   },
-  "generated_at": "2026-05-06T08:10:26.631027Z",
+  "generated_at": "2026-05-06T10:12:10.745034Z",
   "highlights": [
     {
       "rank": 1,
@@ -18,10 +18,16 @@
   "anomalies_7d": [],
   "topic_7d_summary": {
     "industry_general": {
-      "this_week": 41,
+      "this_week": 47,
       "last_week": 30,
-      "week_over_week_change": "+37%",
-      "sentiment_this_week": 0.01
+      "week_over_week_change": "+57%",
+      "sentiment_this_week": -0.0
+    },
+    "space_debris": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
     }
   },
   "company_7d_summary": {
@@ -36,7 +42,7 @@
       "rank": 5
     },
     "l3harris": {
-      "event_count": 12,
+      "event_count": 14,
       "sentiment_avg": 0.04,
       "rank": 2
     },
@@ -51,8 +57,8 @@
       "rank": 6
     },
     "ast_spacemobile": {
-      "event_count": 8,
-      "sentiment_avg": -0.19,
+      "event_count": 11,
+      "sentiment_avg": -0.18,
       "rank": 3
     },
     "ses": {
@@ -64,9 +70,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 261,
+        "this": 268,
         "last": 288,
-        "change_pct": -9.4
+        "change_pct": -6.9
       }
     }
   },
@@ -103,12 +109,12 @@
     },
     {
       "date": "2026-05-06",
-      "event_count": 6,
+      "event_count": 13,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-30 ~ 2026-05-06）共 261 則事件，重點為「Small Satellite Market Is Going to Boom Rapidly...」。太空產業通用為本週焦點話題。",
+    "summary": "本週（2026-04-30 ~ 2026-05-06）共 268 則事件，重點為「Small Satellite Market Is Going to Boom Rapidly...」。太空產業通用、太空碎片為本週焦點話題。",
     "watchlist": [
       {
         "company": "火箭實驗室",
@@ -116,7 +122,7 @@
       },
       {
         "company": "L3Harris Technologies",
-        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
       },
       {
         "company": "行星實驗室",

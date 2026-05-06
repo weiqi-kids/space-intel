@@ -1,11 +1,11 @@
 {
-  "total_raw": 299,
-  "dup_title": 105,
+  "total_raw": 598,
+  "dup_title": 255,
   "no_date": 0,
-  "too_old": 104,
-  "gate1_fail": 20,
-  "gate2_fail": 22,
-  "passed": 48,
+  "too_old": 206,
+  "gate1_fail": 39,
+  "gate2_fail": 43,
+  "passed": 55,
   "gate2_samples": [
     "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
     "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",

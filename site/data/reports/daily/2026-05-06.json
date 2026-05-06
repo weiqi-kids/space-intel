@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:10:26.548656Z",
+  "generated_at": "2026-05-06T10:12:10.675157Z",
   "top_events": [
     {
       "rank": 1,
@@ -112,54 +112,68 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 5,
+      "today": 11,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
       "trend": "new",
       "consecutive_weeks_rising": 0,
-      "sentiment_today": 0.0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "space_debris": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
       "sentiment_7d_avg": null
     }
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 6,
+    "total_events": 13,
     "sentiment_distribution": {
-      "positive": 1,
-      "neutral": 4,
-      "negative": 1
+      "positive": 2,
+      "neutral": 8,
+      "negative": 3
     },
     "top_companies": [
       {
         "id": "ast_spacemobile",
-        "count": 2
-      },
-      {
-        "id": "rocket_lab",
-        "count": 1
+        "count": 5
       },
       {
         "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
         "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 5
+        "count": 11
+      },
+      {
+        "id": "space_debris",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 299,
-    "dup_title": 105,
-    "too_old": 104,
-    "gate1_blocked": 20,
-    "gate2_blocked": 22,
-    "passed": 48,
-    "pass_rate": "24.7%",
-    "gate2_block_rate": "11.3%",
+    "total_raw": 598,
+    "dup_title": 255,
+    "too_old": 206,
+    "gate1_blocked": 39,
+    "gate2_blocked": 43,
+    "passed": 55,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "12.5%",
     "gate2_samples": [
       "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
       "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
@@ -170,7 +184,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 6 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「Rocket Lab (RKLB) Reports Q1: Everything You Need To Know...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "summary": "今日共 13 則事件，焦點為AST SpaceMobile、L3Harris Technologies、火箭實驗室相關動態：「Rocket Lab (RKLB) Reports Q1: Everything You Need To Know...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Rocket Lab (RKLB) Reports Q1: Everything You Need To Know Ahead Of Earnings -...（太空產業通用）",
