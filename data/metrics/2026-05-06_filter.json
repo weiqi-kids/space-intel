@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 105,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 48,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+    "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+    "Jim Cramer on Intuitive Machines: “The Kind of Speculative Stock That I’m Going to Endorse” - Yahoo ",
+    "Melanie Rakita Sells 2,180 Shares of L3Harris Technologies (NYSE:LHX) Stock - MarketBeat",
+    "JPMorgan Adjusts Price Target on L3Harris Technologies to $380 From $410, Maintains Overweight Ratin"
+  ]
+}
