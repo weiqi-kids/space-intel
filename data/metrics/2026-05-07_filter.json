@@ -1,0 +1,16 @@
+{
+  "total_raw": 318,
+  "dup_title": 100,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 23,
+  "gate2_fail": 24,
+  "passed": 76,
+  "gate2_samples": [
+    "Insider entities tied to Intuitive Machines (LUNR) sell 141,909 shares under 10b5-1 plan - Stock Tit",
+    "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+    "Intuitive Machines (LUNR) Valuation Check After Strong Recent Share Price Momentum - simplywall.st",
+    "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+    "Has The Recent Pullback In L3Harris Technologies (LHX) Opened A Valuation Opportunity? - simplywall."
+  ]
+}
