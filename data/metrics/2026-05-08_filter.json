@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 103,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 23,
+  "gate2_fail": 22,
+  "passed": 61,
+  "gate2_samples": [
+    "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Insider entities tied to Intuitive Machines (LUNR) sell 141,909 shares under 10b5-1 plan - Stock Tit",
+    "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+    "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+    "Has The Recent Pullback In L3Harris Technologies (LHX) Opened A Valuation Opportunity? - simplywall."
+  ]
+}

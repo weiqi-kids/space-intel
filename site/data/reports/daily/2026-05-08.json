@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:10:26.795085Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-08-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab’s 2026 Launch Sales Already Surpass 2025 Total - Aviation Week",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTlV2NlFvY3M3SjJ6QjFmN0Y5UXdOZWlQbTV2OFN1UjdVX1R5NldONGFPaHZ0MnA3blllQ2Z0cmVxTVB3akY5T1JlUy1xX2FVbUJwTTZZeUJfUHJVaEFacGFhMjdDOHVyNlo0ZjA2Z3YxazlCRl9KSXZ0V0NMam13ZFBCOU5Za0JiaEZDdFIydmlDbzloMHE2UHhweFZyZzJadWQ0anFRWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mars rover robotics are headed to Rocket Lab in Motiv deal - Stock Titan",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTN3eWpaQTNtaVlFYlpLS1dIamtBQnJlR1RNU3pCcUpRaVlFYWNBWV9qOWFZVTNWZGhNVzBzS1ZsSUdsODQ1Qjk5XzlrRjlFMGxJd3AxLWhMdEdwNmdtOEtmei16c2xJZzk4Y0RpYzBDT0RUN1dsQWtwY19JbWNQOUlnZ3k0WVpQYkNQM1NJX1RZbGxXTkQ4ZmFKUDZkamxkQkZBbFB4UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Stock Predictions: What Investors Should Expect in 2026 and Beyond - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQUZOR0RyWGhrY291NUVQWDhwdnA5UjZTcXVseXRIR1dMSHNkYTB6aUMwWHE3RV9Va3R4MzQzQWppeWppZXl3S2VuckRJTVp2emhrc3RQVEs3cjNvUTU2cmdxZVpqRWk4cjFUVzFYTEpiN0hXZ01qSWlQR3pEQUJBcE8tX0U?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab to Acquire Motiv Space Systems to Expand Space Robotics, Satellite Component Capabilities - GovCon Wire",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWG9NNi12VXh1dG1SRS1xSjJCNFpPQ09MQ01faVY1ZlIyeklVSXdlR0RmVFg3TGlNOGZ2OTlEcGppSUR4TWhwYUd2Wk1hVXRJNmFJLWQyS3lkRUpCcnJuQUN5cncyMkFjZHBuaVRNbzJLNGUzMlA0SEpKbVdwWE9IREpWLUI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-05-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New NASA Lunar South Pole Contract Could Be A Game Changer For Intuitive Machines (LUNR) - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVkE3TGc5VEYtOW5pWmsySERLU2N1ekJvb3Y5dUhJVml2YWhkUnVORWgxc3c0dlg2SjhHR1RFanNJVU15Wkl0bVVRV25KMWJUc1NNRWo5Q1d6NkM1dmhIMWppNU04cWNaZ1dwRldMQnpaTF8tR3hJTE1yaDQ2UlhKRDdERlJTbXNpdm94dldPc1BHMVNkdnE3Wjg4dVlXd3h3UXM5cVF4RzUtM1drV1NseU9PeE5wWnd5UG1Tdi1wWUQ2dWplT1g3cWNXVjdOYVBLOWpWdWk3SDJKd9IB3wFBVV95cUxONl9QMk16ZUJIaGRETmd1ZzAyVTlvb3hHY2ZXWm1MaXRkcGtoRWFrUjhBV0lYUW5iSHZ2UWJZeGgwWkNpdTRaMnNYRGZhS2E3OGdUTFJKaFVWNEM3TEwxa3NSa2lmRjk1ZkQzT2RVMW10WUNHNTFXM2JMeEFjdDlIc05FSTlZN09sNE8tWkoyY3pJVFhBSzJ2bE1hTmJXSUNuYmg0aC1Wd2p1R3Vybk1GRlB4LU5JY1dyWVBDb25PclZoaVU0bTV6ZXNkLU1VVGR6VUxYTHlDNFRkeHZlNnZr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 103,
+    "too_old": 91,
+    "gate1_blocked": 23,
+    "gate2_blocked": 22,
+    "passed": 61,
+    "pass_rate": "31.0%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "Insider entities tied to Intuitive Machines (LUNR) sell 141,909 shares under 10b5-1 plan - Stock Tit",
+      "Assessing Intuitive Machines (LUNR) Valuation As Market Price Diverges From Conflicting Fair Value E",
+      "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+      "Has The Recent Pullback In L3Harris Technologies (LHX) Opened A Valuation Opportunity? - simplywall."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「Rocket Lab’s 2026 Launch Sales Already Surpass 2025 Total...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab’s 2026 Launch Sales Already Surpass 2025 Total - Aviation Week（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Mars rover robotics are headed to Rocket Lab in Motiv deal - Stock Titan（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
