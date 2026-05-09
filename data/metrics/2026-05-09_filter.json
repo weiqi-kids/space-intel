@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 107,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 19,
+  "gate2_fail": 21,
+  "passed": 69,
+  "gate2_samples": [
+    "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Intuitive Machines Inc call volume above normal and directionally bullish - TipRanks",
+    "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+    "L3Harris Technologies Stock In Shambles: Down 7.8% With 8-Day Losing Streak - Trefis",
+    "L3Harris Technologies (LHX) CFO Kenneth Sharp named insider in new Form 3 - Stock Titan"
+  ]
+}

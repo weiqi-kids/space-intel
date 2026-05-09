@@ -1,0 +1,162 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:12:43.717189Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-09-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "What Rocket Lab (RKLB)'s Record Q1, Backlog Surge and Defense Wins Mean For Shareholders - Yahoo Finance UK",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xRTM0LU1aeFZjV00yMnlKakJtTi1xYTRIU3ItcklaWjQtZUl4b2pCd3VlaXRta2JBQllrRUk2R19rajJPOTFUWW9HTTh4SThzSmdub2V3bjNsVDczb1NELU00QXU1ZVRha2lfbDhueTdEMF9heC1aRjUyTFB5SlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Revenue Growth Tests Bullish Profitability Narratives - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdkxOcGl1RDVFSTFrbU5lTW5pdlRuS1k0YnNodmE3UnJQMmoxTmNNQ3E5MHZmcV9hNk9hNEFzeEczdW03bDNjNVNVZXMyS29Yamk5dl9RbE1WeVh3NUkxazdsRmllU0FBTzNnUDNCamEtb25fUEstbGNpWTNEVkNfaTkwdmdVYmlpdDNzSjlhQ2F2bFM3YzRfaVpFR1h6c3E3dl9wR0l3b2I2blREZXFWaTFBYW1aR2xsVEN4ckxzbFpYRWQ3Z3g1MHBKQThpelXSAdQBQVVfeXFMT0RDdUdLQl9BNDF5Q1dJaHg5LUZvNV9SRW92dllIZW5taVZRU2hXb0duVGF2Qk8yQ0VWZGo3NjNwRy02TjlRMXdYb0YyRHBlUHdpNFItRkFzamd4R2cyOFp1NnA5SFhTN0MxbjVkS1MxS2ZrWW56bVFmZkk4WXpLTzRHZ0NBWTJjQzk2RUpna3A5X0RJaGl0ZGdWVnVIZzRaWXFsUVNZWWlUaUxNbmxfVGlIVlRkRkxJVGNWRk5aV2l5S19ZYWRScGd3c2VCaEVldUYxZlU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rocket Lab Stock Skyrocketed Today - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkxVQkVRanFPTGwyVjdDYUQySFdQMXlQUnJfcVhGUzBXQVFzd1hJb0ZWdnU4NDQ1d1ZWb2pzUnIwQ3M3UWtURzN0aWJQSHluSng1Ukp2dEFNUkJQX3ZuQVRZcXN4dGJsaGFrTXV1YzFoOXFXWG9IQUV5NlZMS21XVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWS14ZHVkRHB5X2RRMzRtdGFIMlRJNHQybXRPc0taS0tMUWRxcDJrMzFQcG0tSWFPVi1YalBpVldaMER6WDdWaUt4S05WN3ZadjNnLU1EdnNYLVJ2cWFwUjdNdFFLQjBiMXlvSHpid19BMFRWd1hubVVMeVlwRURyOXNDU2ZVM1ZocHc4eUlQMlEzVTdReFc4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.38,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 107,
+    "too_old": 83,
+    "gate1_blocked": 19,
+    "gate2_blocked": 21,
+    "passed": 69,
+    "pass_rate": "35.9%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "Intuitive Machines Inc call volume above normal and directionally bullish - TipRanks",
+      "Kamal Seyed Ghaffarian Sells 141,909 Shares of Intuitive Machines (NASDAQ:LUNR) Stock - MarketBeat",
+      "L3Harris Technologies Stock In Shambles: Down 7.8% With 8-Day Losing Streak - Trefis",
+      "L3Harris Technologies (LHX) CFO Kenneth Sharp named insider in new Form 3 - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為火箭實驗室相關動態：「What Rocket Lab (RKLB)'s Record Q1, Backlog Surge and Def...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What Rocket Lab (RKLB)'s Record Q1, Backlog Surge and Defense Wins Mean For S...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab (RKLB) Revenue Growth Tests Bullish Profitability Narratives - sim...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
