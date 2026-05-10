@@ -1,0 +1,140 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:24:45.844853Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-10-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Look At Rocket Lab (RKLB) Valuation After Record Q1 Revenue And Major Multi Year Launch Deals - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS3RTNFRtM0kyUndaUkF6V0Y5NlYtNDNDTmk4SDRyUTE5X0daS0hkdU1GalI5aWw1VHpfZEpjRUR1SU9Wc2NuX1pWUVdUMmlvYmRuN3R0eUU4OG1rN2M1Q0VhdEdZV0hFMTlVcUdaUUU4aENMM3N4WGFXbEQyTlpPT2JuVU5hX2hjRTZXdTFNNnFjQTFFX0gyMWZKckFKQXUySlNYalB4b29hVTBhQS1XZS1XZDZ2RF9Uc041SHZRbXpiWkNUeWkxd0FfZ2k2QdIB0wFBVV95cUxQQUJYU1VLaUROT0M4bW8wTXJ5NXFUczlmelZkMDNQaXVlZzJMZksyazV2LTVwVGM0eWFwXy1tWXVPRnNidVQwRWx1dTEyeHZFR1BHOTZqaVNNWDB5Rk5qYnFheU51bUtqUUJxT2FodlluX3d5dzk5UXNKSWtoeS03LW5tS0hJWnhMUTJGTEVjREk2RUVpY1NxOVVJRG9tNGw5S290anN1bG9Xdm1ObTJOOF9HXzhyaXVpQWtqM1Z1Z0RYY1JkRGpHdFVwLVR6a3ZtTGxJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "M&T Bank Corp Has $1.39 Million Stock Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWEo5QVBjaVVydkU5QjI0ZHNlYkpGQ0ozLS1lRU9pRGVVSVB2WVJrbnRrX2dVY1pqa1pLYXROcTZkVmtGcG5hVHoyUHFaSUY2MldSSERNTllrZEN1LVRMTlNXM09qNmo4ZU9Kb1hXWDJsckpmV202QV9acXAwazA1WVkxSk5ncWVRTW9XdUF4cFp0MW5fYThFT3U4NVRyR0NrZm5Wdm9SaDZUTTFiWUtVbW5YcXB3TFpVVUZKZG1iSUdHclUtazhUamtRYnItYlFR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nobody outside SpaceX has ever made vertical integration work in space, and Rocket Lab just staked its entire future on proving it can - Space Daily",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb1dFZ3JhZ2RGY1ZFaFZyVVJYY2hLLXFRWWYxUnl1VFBPVHdwM1ZQcV9obWdMZmNyLU9sTGYtSXdPX2JOQ0FPZmN6VmpFb3hvbnczMlJOdjdFOXg2dWVXM3pRTE1RMmlES1laNnJ4N1hGRkMyRnpoZjVoWGhOUnBiaTdrRU55TTl2WXluWVE2X1pBbzlpUndqbEltMVlWRWVXN2l4Uk1LT0xiVlBFVWc1VTlHYWhRd0EzRGdmS3ZFWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 150,
+    "too_old": 86,
+    "gate1_blocked": 18,
+    "gate2_blocked": 24,
+    "passed": 21,
+    "pass_rate": "14.1%",
+    "gate2_block_rate": "16.1%",
+    "gate2_samples": [
+      "Is Intuitive Machines Stock a Buy After Once Capital Initiated a New Position? - Yahoo Finance",
+      "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "L3Harris Technologies Inc (NYSE:LHX) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages ",
+      "L3Harris Technologies Insiders Sold US$7.3m Of Shares Suggesting Hesitancy - Yahoo Finance Singapore",
+      "L3Harris Technologies Stock In Shambles: Down 7.8% With 8-Day Losing Streak - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為火箭實驗室相關動態：「A Look At Rocket Lab (RKLB) Valuation After Record Q1 Rev...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "A Look At Rocket Lab (RKLB) Valuation After Record Q1 Revenue And Major Multi...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "M&T Bank Corp Has $1.39 Million Stock Position in Rocket Lab Corporation $RKL...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

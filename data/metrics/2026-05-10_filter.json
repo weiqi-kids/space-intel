@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 18,
+  "gate2_fail": 24,
+  "passed": 21,
+  "gate2_samples": [
+    "Is Intuitive Machines Stock a Buy After Once Capital Initiated a New Position? - Yahoo Finance",
+    "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris Technologies Inc (NYSE:LHX) Given Consensus Recommendation of \"Moderate Buy\" by Brokerages ",
+    "L3Harris Technologies Insiders Sold US$7.3m Of Shares Suggesting Hesitancy - Yahoo Finance Singapore",
+    "L3Harris Technologies Stock In Shambles: Down 7.8% With 8-Day Losing Streak - Trefis"
+  ]
+}
