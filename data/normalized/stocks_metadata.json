@@ -6,19 +6,19 @@
     "history_complete": true
   },
   "northrop": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "boeing": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "lockheed": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "intuitive": {
     "earliest": "2021-11-17",
@@ -27,9 +27,9 @@
     "history_complete": true
   },
   "l3harris": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "redwire": {
     "earliest": "2021-01-14",
@@ -44,19 +44,19 @@
     "history_complete": true
   },
   "iridium": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "ses": {
-    "earliest": "2017-06-15",
-    "latest": "2026-05-08",
-    "count": 2277
+    "earliest": "2017-03-17",
+    "latest": "2026-05-11",
+    "count": 2339
   },
   "viasat": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "ast_spacemobile": {
     "earliest": "2019-11-01",
@@ -65,9 +65,9 @@
     "history_complete": true
   },
   "globalstar": {
-    "earliest": "2017-06-19",
+    "earliest": "2017-03-21",
     "latest": "2026-05-08",
-    "count": 2235
+    "count": 2297
   },
   "spire": {
     "earliest": "2020-11-03",

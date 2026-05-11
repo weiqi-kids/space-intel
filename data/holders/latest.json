@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-10T09:24:45.521148+00:00",
+  "updated_at": "2026-05-11T10:56:13.715157+00:00",
   "companies": {
     "rocket_lab": {
       "name": "Rocket Lab",
@@ -10,61 +10,61 @@
           "holder": "Vanguard Group Inc",
           "shares": 47420192,
           "pct_held": 8.24,
-          "value": 5001407708
+          "value": 5004964077
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 33076329,
           "pct_held": 5.74,
-          "value": 3488560460
+          "value": 3491041083
         },
         {
           "holder": "BAILLIE GIFFORD & CO",
           "shares": 17851446,
           "pct_held": 3.1,
-          "value": 1882792031
+          "value": 1884130835
         },
         {
           "holder": "Capital World Investors",
           "shares": 16200726,
           "pct_held": 2.81,
-          "value": 1708690590
+          "value": 1709905596
         },
         {
           "holder": "State Street Corporation",
           "shares": 12520223,
           "pct_held": 2.17,
-          "value": 1320507935
+          "value": 1321446913
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 9694980,
           "pct_held": 1.68,
-          "value": 1022529552
+          "value": 1023256646
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 9004724,
           "pct_held": 1.56,
-          "value": 949728251
+          "value": 950403578
         },
         {
           "holder": "Shaw D.E. & Co., Inc.",
           "shares": 6644372,
           "pct_held": 1.15,
-          "value": 700781922
+          "value": 701280230
         },
         {
           "holder": "Invesco Ltd.",
           "shares": 5260681,
           "pct_held": 0.91,
-          "value": 554844031
+          "value": 555238566
         },
         {
           "holder": "Bank of America Corporation",
           "shares": 5109323,
           "pct_held": 0.89,
-          "value": 538880303
+          "value": 539263486
         }
       ]
     },
@@ -613,7 +613,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 537543,
           "pct_held": 0.15,
-          "value": 4012758
+          "value": 4034260
         }
       ]
     },
