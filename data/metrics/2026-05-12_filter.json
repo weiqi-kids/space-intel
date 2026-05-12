@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 99,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 20,
+  "gate2_fail": 28,
+  "passed": 73,
+  "gate2_samples": [
+    "Intuitive Machines stock hits 52-week high at $31.16 - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 11.4% - Should You Buy? - MarketBeat",
+    "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Securian Asset Management Inc. Sells 3,863 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "8-Day Sell-Off Sends L3Harris Technologies Stock Down -7.8% - Trefis"
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "date": "2026-05-12",
+  "generated_at": "2026-05-12T10:27:00.336504Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-05-12-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SpaceMobile shares tumble 12% on wider-than-expected first quarter loss - Investing.com Nigeria",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbnhxRTZYdWl4ajZVMWlHQUkwbTRSbURCTThLUG5ZZmZOc09tM3lnOHdhNWRNTm9aLW1ON2ZINjFrb3ZTWlotdFEtUEtFd1R1OVFLelZ1TG1rVjNibHNtTTJ2VUtMbnVaQ0lGb1NycUlfSzFJS19kTnhJTURGN3NUWF92amhtdXpsSzN5STA1LTZxSDhUREVHTGZzN0s1UjFRRDliM1RadnU1QmVoUjBYc3pjM2E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Is Happening With Rocket Lab Stock? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3JrWkNTcXRqcGdfa1dNdk96NmtCWnlzOVMyalJiMzl0NXVoeGRUODcwSHp2NXNwOTZlZGxLaTVPdUotMXJ1NDgtMHIyZnJvRWRQN1cwWFFjaWxYZlBteWdyQUNRemVaRlZmWjRnWXV3YXFiWmhoeVdQMGgyMzN5X2FuSTkzdldZZF84TUM4Uy1xdFlmaGxvM3JIMllFTFo1NHc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Volatile ride for Rocket Lab stock price on Monday moving between $104.00 and $123.94 - StockInvest.us",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU0RyeGpqeUVHNGNUd3BCMndWbWNzN0R1V3ZrbFJ1T0ZwMUNSMzhVMFlZNk4tVldRVzFqaHNqMU5sTFZHdXNfS1RoSk5WdElNYkF1TlhISVQ1dXVwSmg4NmhyT1lKS2QtLThBaUR3RVAyTkRmTDNWOTNFSTRCZUM1TnhfcXJBdGdGdFNQZGNUdTY0ZUxma0RudjdZTDh2SGdGLWlKenVrUGJzRVJlSjFQbHoxWU1sX3duWjFham4xZ01UOVZ5?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ses-2026-05-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SES Delivers Robust Q1 2026 Results & Reiterates Full-Year Outlook - SES Satellite",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZks5dEhaNll4NHJEZ2lHVG1EUjFkUGpPYWs5bm9EMHRHS2E0eEo3TDBKSlNnZzRSN1VxYjRXWDl1UFQ1YXBLc05TM3V0N2s1OGhpVUUxYW03OWZGT2tidkZJZjRULXRhdzRjRUZ2d0lPd3dnT01yWk14WS01TU9KTWVjTjNxbmUtdWNfU1M0cGhnR2l1WXcxMU9UNDlxWW5GRW8zcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ses-2026-05-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SES Reports Strong Q1 2026 Growth as Intelsat Consolidation Drives Revenue to €847 Million - TechAfrica News",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTmRGRXAyQV9IWk15YkFZVDJsQmdNS1cyQTRPWHlpR1hzdjlrZlNob29yaEV3Rk1yU2dfVk11QW5OQkh2UjR4NXJCSHZLWjFzNWtSSXRDUlo3UVNvWHc0VUJUaW1FRVF6UnlqUnpDRnNBVjhodHJBZVVwS3RRTlM0M29IQzl4MVMyREdLU1hrUFVGMEkyZUF6VDlfUi1CM2JzcGNZU241ZUpsTXE4V1JkWFAzdXRhcVkzVmt2NzJydXNIRVRiSlZSMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ses",
+        "count": 8
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 7
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 99,
+    "too_old": 78,
+    "gate1_blocked": 20,
+    "gate2_blocked": 28,
+    "passed": 73,
+    "pass_rate": "36.7%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Intuitive Machines stock hits 52-week high at $31.16 - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 11.4% - Should You Buy? - MarketBeat",
+      "UBS Group AG Has $50.24 Million Holdings in Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "Securian Asset Management Inc. Sells 3,863 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "8-Day Sell-Off Sends L3Harris Technologies Stock Down -7.8% - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為SES S.A.、AST SpaceMobile、火箭實驗室相關動態：「AST SpaceMobile shares tumble 12% on wider-than-expected ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile shares tumble 12% on wider-than-expected first quarter loss -...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "What Is Happening With Rocket Lab Stock? - Trefis（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
