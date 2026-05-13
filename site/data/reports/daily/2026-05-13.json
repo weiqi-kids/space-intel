@@ -1,0 +1,196 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:16:56.273227Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-05-13-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SpaceMobile stock drops 11.62% as first quarter earnings miss expectations - Traders Union",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTFRNd1RYb0xTRzhyQ3hMU1RQdmhyYWROZzd0U25XbUQxbTRnRXAyLTEwRXRCTEVtQk5oSGhXay15Z1ljalE0cHVkeU9RUmhfM1oyZm5vRlBYaU16SlAzMkRXVkMyQWVGNFVOSjZWS1hXaHRLYWc0bmd0ZHJhdm90T3kwMEhLdGxublVfUkk4ZjNOWEpZaXY1VWFtZmE3Unpu?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AG2R LA Mondiale Gestion D Actifs Purchases Shares of 28,288 Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOODJTT2x0RmZUV2w1VTkyN1FHRDdCemd5MTVja0hxNFJyckZ2N3lfb2hfUzRBUU1TZHVfVW83LVJ3d3pfdnFYemxsWko3ZGJuUXdJUlh0SzVVTVRYdmJWSkp2a1hyMWxLbUozU0dIbUxZNWdkRk1CM2xzM2paU0MxZUIzb0ctaFREYkZ1cURnUEtQTUh2QmljN0h2cGxGWjltZ284OWNoV3RFQnJVVHBoSTVac19WaGNnVDQ1ZDdoZ3VoVVlyY0ZPUkFCZjROM2dXMnVkN2c5cDJ6U3dfTjBGUVdn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab stock price ended at $117.56 on Tuesday, after gaining 0.179% - StockInvest.us",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVzJlTzZ3cDlQQ2tya0ljZ2RNVmpRVVIyUlpmX05scEtxVVk1Q18wWDZuclpFR2JvNmxQR28tVmpsdVBtY1dkdjRZVFc0YnMxbWNUcUNUNjliR3JkNWw2MGd5eU1VTV80cS1sVzVOcHRid05DWUJIbHRuRFVhaGRjcTVheVpvVjBlZ3hfWXJKVzBDZU1DVXJsMDBITEFLX0VMNEtxQUtjVmN6TEZZeFdrT1ZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Stock Trades Up, Here Is Why - Yahoo! Finance Canada",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY19vU3kwU2xHOVFRVWdoQ1NobTliM3BHX1U5eUh6NUxjWUxwejI0M1VxRkRyZW5QNjN5MVpqREJjdlJHdUdSd0xySk1JMlotdWNVS0ZyVEZjSURGQlJLUHBrTi1aVkV1TW10ekJQdHZVTkxlMUllbVR5S1o2Z0ZwLWRTOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Empire Life Investments Inc. Has $7.23 Million Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMXFkb19CdFFXRVVoVmlmQ0JmbklxWEt3UGpIMzlPdzk0czdWQldwR1Z5OHVsSFJ5N1ZaNGhoQkM5cmN1ZXZlRHd3WEY0M281WTdvZU42OXJjN0NxWE5DV3ZvWGJzNXgwbUpYQkx1MHQ0a1M4bTU2T0Z4V3UwdGhoSUliUkRYZndVcXhOb1pad0xobEQxeHN5Z1RnalFPNG91N18zWW5rSXlZaGFjby1wVDAtSHhCYjUyNkNRWHJvZXRWLTNZcUpHa2xqY2NZT0V1eUVoVFRFRlBIdUFJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 111,
+    "too_old": 79,
+    "gate1_blocked": 21,
+    "gate2_blocked": 28,
+    "passed": 75,
+    "pass_rate": "36.9%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Is Falling Despite New Win - TipRanks",
+      "Intuitive Machines stock hits 52-week high at $31.16 - Investing.com",
+      "Is Intuitive Machines Stock a Buy After Once Capital Initiated a New Position? - Yahoo Finance",
+      "[Form 4] L3HARRIS TECHNOLOGIES, INC. /DE/ Insider Trading Activity - Stock Titan",
+      "7-Day Sell-Off Sends L3Harris Technologies Stock Down -7.3% - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「AST SpaceMobile stock drops 11.62% as first quarter earni...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile stock drops 11.62% as first quarter earnings miss expectation...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AG2R LA Mondiale Gestion D Actifs Purchases Shares of 28,288 Rocket Lab Corpo...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

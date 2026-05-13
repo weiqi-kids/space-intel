@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 111,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 21,
+  "gate2_fail": 28,
+  "passed": 75,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Is Falling Despite New Win - TipRanks",
+    "Intuitive Machines stock hits 52-week high at $31.16 - Investing.com",
+    "Is Intuitive Machines Stock a Buy After Once Capital Initiated a New Position? - Yahoo Finance",
+    "[Form 4] L3HARRIS TECHNOLOGIES, INC. /DE/ Insider Trading Activity - Stock Titan",
+    "7-Day Sell-Off Sends L3Harris Technologies Stock Down -7.3% - Trefis"
+  ]
+}

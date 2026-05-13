@@ -1,0 +1,128 @@
+{
+  "date": "2026-05-13",
+  "date_range": {
+    "start": "2026-05-07",
+    "end": "2026-05-13"
+  },
+  "generated_at": "2026-05-13T10:16:56.348382Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intuitive-2026-05-08-021",
+      "date": "2026-05-08",
+      "title": "Rocket Lab Stock Is Up 30% Today: Is It Outperforming Other Space Stocks Like Intuitive Machines and Planet Labs? - 24/7 Wall St.",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 57,
+      "last_week": 47,
+      "week_over_week_change": "+21%",
+      "sentiment_this_week": 0.03
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 24,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "planet": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ast_spacemobile": {
+      "event_count": 14,
+      "sentiment_avg": -0.16,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ses": {
+      "event_count": 8,
+      "sentiment_avg": 0.19,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 339,
+        "last": 334,
+        "change_pct": 1.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-07",
+      "event_count": 77,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-08",
+      "event_count": 79,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-09",
+      "event_count": 16,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-10",
+      "event_count": 18,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-11",
+      "event_count": 59,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-12",
+      "event_count": 79,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-13",
+      "event_count": 11,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-07 ~ 2026-05-13）共 339 則事件，重點為「Rocket Lab Stock Is Up 30% Today: Is It Outperf...」。太空產業通用為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Spire Global",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
