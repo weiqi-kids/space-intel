@@ -1,0 +1,49 @@
+{
+  "date": "2026-05-14",
+  "total_events": 16,
+  "by_company": {
+    "rocket_lab": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "redwire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ses": {
+      "count": 1,
+      "sentiment_avg": 0.75
+    },
+    "ast_spacemobile": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "spire": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": -0.05
+    },
+    "launch_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "space_defense": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

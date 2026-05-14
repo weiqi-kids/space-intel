@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:10:27.235615Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-05-14-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Bernstein Maintains Outperform on L3Harris (LHX) as Revenue Tops Estimates - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXFUejBSNnA2MlRBSEE0RXRya01HdGdxRFhCVkp4M1M5M0s1LWQtc1dSU3pJYmpFeVZEY3gtRWt3d1NNTGZjR3lvSEJjUkFTOGppUmdTeVhWd3p6VjVVNGUwalNiYlNKSTIyYjRVNlZaWWl6OWpLX0Nfc3VlUDdGUGhwU1VUdzBvZlExQzJLWGRhWEwyTEJjWFQ1cjRiaEhHTmh3Rk1CRl81N2RL?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ses-2026-05-14-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SES SA (SGBAF) Q1 2026 Earnings Call Highlights: Record Revenue Growth and Strategic Advancements - Investing.com Canada",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMnBuRW52YlhXUU16b3VPbzRTaW1NQ0ZycjlDNFRmZ0RhcExFUHBOdnBOeVlPVzU4UmVjQ3VpaE1WZ3EzcUJXdTFabGtScnY5Y2JWa01NODlRbWoxU0JzRWUxUVUwak5SUExMdHQ2U0RtZ3B6cjRET0xpU1ZfVmotLTRIMjRWaDlqejA3ZnFubVNseHRmQjlwMFpsT3VDZmNOaHVQblFNSklCNkNCalV3c1oxaWw3a3p5b3NEYkZIU3Vic0V5SkNBSzNrZmtPZXhQa21ZVmxjd0JzSHh5cmc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "spire-2026-05-14-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Spire Global (SPIR) Reports Q1 Loss and Declining Revenue - GuruFocus",
+      "companies": [
+        "spire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU5SNFNUcWpNV2N5dGw3X2Z5eXpmSHZNampiMEJEVGZDTFNBR1VOV1loYTJBVU5RQ0xManE1ZndUdTVxd0JGWDFrWl9FWFVESHhjVWZjNXQ1Z0xXMHVYOXZtT0ljclpTdjJRZEp3YkJtOXR1Z3U4eFA0MXVMcjNDU05MWHQyMXBtQWJzS0JsNmVkRy1WRU1WT3p4MFNodmx2djhKQ3FFTUJ3Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rocket Lab (RKLB) Stock Is Trading Up Today - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUWVxZWVpZjNhNmVrVTlFaG9yZE5Cb3pmVTU5emZwNVp5ejQxcUtrZEFhelJmLUplNXFxMXAxQU9UaGpSSHkyY0F2aGx3LUVrOGFqdTZSaTRST1ZMSW9pdTg0bmYwM0JvTDczMHdOanFaejRCOFFwS1dHbTVINVdxN0t5eGxPcFRjcWRMRXhMR2dFS3pp?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Strong day for Rocket Lab stock price on Wednesday rising 5.61% to $124.15 - StockInvest.us",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkhlTGFWM1Z6dk5xYnZrVHY2ZS1BSEdaZHg4TzlpZFA2aFUtTzlPZ002MkZrbFUyMzR6WkR2ZUpRQld6UkxKeUdfVV9OWGQ4Mmg4S3hLdXcxeG00WFF6Y3k3VGRhUURLd1RLOUJCWWVhM00tVndERXNHUjZUek84QjhnY0R3eTZ6X1p6RWVCZFdmVF9jWEtqZ2JkZGZzMHlwQlMzdGZMTHJoOFVJN25xTzc2LW16dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "spire",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "redwire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "launch_cost",
+        "count": 2
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 118,
+    "too_old": 69,
+    "gate1_blocked": 25,
+    "gate2_blocked": 19,
+    "passed": 83,
+    "pass_rate": "42.3%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock (LUNR) Climbing Today, 5/13/26? - TipRanks",
+      "Why Intuitive Machines Stock Is Surging On Wednesday? - Benzinga",
+      "Mitsubishi UFJ Asset Management Co. Ltd. Purchases 200,177 Shares of Intuitive Machines, Inc. $LUNR ",
+      "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+      "L3Harris Advances FAA Telecom Modernization - Aviation Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為火箭實驗室、AST SpaceMobile、Spire Global相關動態：「Bernstein Maintains Outperform on L3Harris (LHX) as Reven...」。主要關注主題為太空產業通用、發射成本、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Bernstein Maintains Outperform on L3Harris (LHX) as Revenue Tops Estimates - ...",
+        "level": "green"
+      },
+      {
+        "text": "SES SA (SGBAF) Q1 2026 Earnings Call Highlights: Record Revenue Growth and St...",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

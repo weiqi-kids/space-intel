@@ -1,0 +1,92 @@
+{
+  "topics": {
+    "launch_cost": {
+      "display": "發射成本",
+      "keywords": [
+        "launch cost",
+        "發射成本",
+        "rocket launch",
+        "launch price",
+        "reusable rocket",
+        "可回收火箭",
+        "launch service"
+      ]
+    },
+    "satellite_constellation": {
+      "display": "衛星星座",
+      "keywords": [
+        "satellite constellation",
+        "衛星星座",
+        "Starlink",
+        "OneWeb",
+        "Kuiper",
+        "LEO satellite",
+        "低軌衛星",
+        "mega constellation"
+      ]
+    },
+    "space_debris": {
+      "display": "太空碎片",
+      "keywords": [
+        "space debris",
+        "太空碎片",
+        "orbital debris",
+        "space junk",
+        "debris removal",
+        "space sustainability",
+        "太空垃圾"
+      ]
+    },
+    "space_defense": {
+      "display": "太空防禦",
+      "keywords": [
+        "space defense",
+        "太空防禦",
+        "space force",
+        "太空軍",
+        "space weapon",
+        "anti-satellite",
+        "ASAT",
+        "space domain"
+      ]
+    },
+    "industry_general": {
+      "display": "太空產業通用",
+      "keywords": [
+        "space",
+        "satellite",
+        "rocket",
+        "launch",
+        "orbit",
+        "LEO",
+        "GEO",
+        "constellation",
+        "spacecraft",
+        "mission",
+        "NASA",
+        "ESA",
+        "payload",
+        "太空",
+        "衛星",
+        "火箭",
+        "發射",
+        "aerospace",
+        "航太",
+        "defense",
+        "國防",
+        "lunar",
+        "lander",
+        "moon",
+        "Mars",
+        "ISS",
+        "station",
+        "月球",
+        "火星",
+        "liftoff",
+        "reentry",
+        "propulsion",
+        "booster"
+      ]
+    }
+  }
+}

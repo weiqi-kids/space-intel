@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 118,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 25,
+  "gate2_fail": 19,
+  "passed": 83,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock (LUNR) Climbing Today, 5/13/26? - TipRanks",
+    "Why Intuitive Machines Stock Is Surging On Wednesday? - Benzinga",
+    "Mitsubishi UFJ Asset Management Co. Ltd. Purchases 200,177 Shares of Intuitive Machines, Inc. $LUNR ",
+    "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+    "L3Harris Advances FAA Telecom Modernization - Aviation Week"
+  ]
+}
