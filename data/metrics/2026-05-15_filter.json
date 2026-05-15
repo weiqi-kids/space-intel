@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 114,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 23,
+  "gate2_fail": 22,
+  "passed": 96,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock (LUNR) Climbing Today, 5/13/26? - TipRanks",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $381.81, Implies 24% Upside - Trading",
+    "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+    "83,855 Shares in L3Harris Technologies Inc $LHX Bought by Arbejdsmarkedets Tillaegspension - MarketB",
+    "L3Harris Advances FAA Telecom Modernization - Aviation Week"
+  ]
+}

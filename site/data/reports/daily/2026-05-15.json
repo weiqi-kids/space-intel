@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:15:43.107654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-15-023",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab signs new launch contracts and acquires robotics company during Q1 2026",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.nasaspaceflight.com/2026/05/rocket-lab-q1-2026/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Broadens Defense Role With Hypersonics And Lunar Robotics Shift - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLU9GVWZZOWRBRmQ3QXM5cV9Sd2hnbVZvR0E3S3loRFFVTnlfRTVIUnJXNVkycmVHMVo0U2MtUkFiYUdSZDBuUVBjMlZhYmkyT1ZUMkI2V2R1YWJTQUVQV1ZRVkZVd3Jxbi1PVWg0ZG1ySmYzZjNTelNHRVNiUkxCYlhzZ2dfWm0xNmx5SEpEME1VN3FWSVp5U2ZQb29lN1VzWGdHMG9KQndxa3gtbkJXcmNKeExlNHhReXpDTU5vSEQ2eE5wendnMUJ4VTNnd9IB0wFBVV95cUxOcEpRWlRIS0tWakdQNXktcWRfMWxkMndYR1B4dGlrNVFZb1lCMGZHdzNKRUhvcmdhVGNyQlJkam1NZFI0V2pJcExHc05OenBGTXFaNk5DLVJRd2xFWEtSZll4N0l5U2RRZmxtc3VVbXhxVUxNb2xvYUstVUdidkJBVGFKUXVoS1FVOUxRQU45aElpaFB3emx4b2JzUC1hRVZxdXpLaXprZUlZOWh1VjBuNDYycjI5cXFJZU1EWjRUY3VNM24zSmZ4d2ZtY1AxZXdreUdj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ:RKLB) Reaches New 1-Year High - What's Next? - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlBtUDdINE1kQ0ZCR0hmT1doTEk0OUNhbWxUXzJiMzFraWg4T1pjYUVDU1BVOW5jOTFjOEpXNU03OFQ5bEtlWlhDM09WTlRMZFlIaXc0ZFZGOTFnMG44ejRHd3VRa2ZwM2lxSVMzZTdxUUE4MUliNy1Oa0ppYnBHeVVOamZtbVR2VjdtSHpsek53SkF0bE55VFI4QVZtdk1hMnRZbzF6QTF5a0h5Qkt3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab(RKLB.US) Director Sells US$11.81 Million in Common Stock - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXFKMTg1Q1U4WTNzbHJDUkZqbEdOeExDczRMOW5oQzhYS25tdW5ubjc5djA2dmtBMFIwNGJNOGZCWEhVeGdFLUJNYW1samh1bzlJZkQyZ1VtcnFSX2hlcDQ0VF9wakFYMmVpU2p5eWkxVkpLQmtoZGNwTFloYW8wUjFsTEJmcWREc0hSUkZESzR5VnE3X1VQeVp3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ: RKLB) director-linked entity sells 100K shares, donates 10K - Stock Titan",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeXl1TTBSTjdPY2VSNk8wTDFNM0JYNFBYTXNaYTJWblVtOWpRVmQ2SzJPNHgzV1pET0RzTE5oUE11WFFzQk50YTVoT2VJZmZkMVd0QlBQYkJlOU5HZVQ2dkNvLVNqVGJXRmVHZ0JONGZzekUtVVlPYjg2Qno4Z29TOE5IUENXZ1YwMG05aGJpdXlidXNpdU0wRDg1YXVBNmRMUmhGdTlHNm1QOVItQWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 8
+      },
+      {
+        "id": "intuitive",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "spire",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 114,
+    "too_old": 60,
+    "gate1_blocked": 23,
+    "gate2_blocked": 22,
+    "passed": 96,
+    "pass_rate": "47.8%",
+    "gate2_block_rate": "10.9%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock (LUNR) Climbing Today, 5/13/26? - TipRanks",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $381.81, Implies 24% Upside - Trading",
+      "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+      "83,855 Shares in L3Harris Technologies Inc $LHX Bought by Arbejdsmarkedets Tillaegspension - MarketB",
+      "L3Harris Advances FAA Telecom Modernization - Aviation Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「Rocket Lab signs new launch contracts and acquires roboti...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab signs new launch contracts and acquires robotics company during Q1...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Broadens Defense Role With Hypersonics And Lunar Robotics Shift - ...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
