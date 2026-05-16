@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 24,
+  "gate2_fail": 22,
+  "passed": 66,
+  "gate2_samples": [
+    "Intuitive Machines price target raised to $50 from $35 at Roth Capital - TipRanks",
+    "News Article - Intuitive Machines",
+    "How Investors May Respond To L3Harris Technologies (LHX) Balancing Governance Control With Portfolio",
+    "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $381.81, Implies 24% Upside - Trading"
+  ]
+}

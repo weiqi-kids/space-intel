@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:25:23.270551Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-05-16-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now? - The Motley Fool",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkRjUWlPdG9zOFlSVlhHY2MzenZnRlVCVlhPcElvTzFiQ1cwclctX2poZlJjQ1pfWGhpYjF2QTNmUXFwcERpbi1jMHBqTERiU0g3MnJPelpmVkR2NGJFQVk3RG02em1aN1ZxQlZMeUJUN2lXYnRuYmYwTFNLeC1FOWo0MEhBWWNpUkVhQy12cDl0S1hnb2FZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-05-16-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intuitive Machines (LUNR) Is Up 17.0% After Record Q1 Revenue And Backlog Surge From Space Deals - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMFZrQVdQRy1FeFlYVnEtT29ocWducmJrY0FIbDlJRXB3VTJxMEctY1NaTjd5WmJVWXMtZVFJZE9jOHdLR1M5Z0pmWkZ4OGVkclFFUkVUc3FLaTBrYWdBczJyR0VXNlVOUVJmYVJtekRXd2ZaLWhrbWR3S3FKX0pINjJBbENUMjVSQlltdEVBQnZPcUJ2VVNSMEpTUkJ2cHZsT1JibXQyaUxfZnFVenpOUnN4RF9DeEZpbVR1S3ZocXY4clFKRVlqd3V1X29NazJoQUxadGdqdmV3UdIB3wFBVV95cUxOZTl3LXNaRmVCMXZVb0ZJc2V1Vl9DaU5xQWcxMjJ0dmFpMWpHTWpyM0JEM2d3MXUzZVhhUTFkNllDWDNQa1NLa2pDZDRDc3RxNHZZVVZkSTJDaVQ3MUQwZkNLSkdaOGVXZTFGUWZ4eG5LcHR0Z1h5b0ptdlFPTlh5bFNlTmliUkN3bVpVT19uc29oT3Y5cVM4VVo2V3hicmpaYXJHYWdHeEt3WGlsX0N4NERvcURCWmZwbUR3UXl6LU54RE83OXBpWUdDREFtWC1DMjhPVzdlcGlPcGd5REc0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A very red day for Rocket Lab stock price after a -5.87% fall in the Friday trading session - StockInvest.us",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa2NOdmRhOVZlWVZpNzlZTHZ5RWNxajdRSDZFTmdkZDBKQUlkMDdmTGFrbXQzVGppLXEtMUxzMnVnRkhlODhPaDhkSlExbXh2ejZ4M3BDMHFvY3AtYlVCMzB4SFl4QnE3ZjRXaXhzUWpFQjRnUWhpYm02Z1hHcktoUHJsY05mYmFHaVVsZVh5NGtCWFo5S2JEWHo4Y3ZLLTFILTVrcU41WTdDQU1pQlZWbHhBcWZfNGhUV1JORzhkOWgzSldQOURvUHp0bGp5UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-05-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines (NASDAQ:LUNR) Rating Lowered to \"Strong Sell\" at Wall Street Zen - MarketBeat",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa2Z4TzJHUURpaUdSeE9WZmpxTTNPSk1SQlJ6YUdvM2RGSEhwOUttUW9HTUJodjg3RXhmVDN3RDlxcXBaLXBYa2dwRzdzWTVtRDA1WjBTV1hWbjRWbjV4RDNQVmxrdlcwTVBxMVJNTENzRXBXOTlXZGQ2VmFxakxZS19SeWUxRDI2ZXdVY280YXhKbG9WTnJFUUxESVhVQkpSVU9Benl5dDRZM3N5UFQ3UF9wUGlzUmY3c1hxTHJPTnZjZ0xhdWstZGJIN04?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-05-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines Buys Goonhilly Earth Station - Orbital Today",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3hCems4TXpxUjNGR01iclNQMmNHTUEwU1h4cXZid2w3N2s4bDNGYmtURUZXX0hpV2g4ZFNkdnFYZFJHRkg3WmZBSDJmNW14dmRuYXFYaEpmV0JHYzRkSW05UlUzTkNObEljOEV1RUtFYUU3empXdHNOZjZPdlp6ZTJ4LWM1bnFKS09ZSw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intuitive",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 144,
+    "too_old": 58,
+    "gate1_blocked": 24,
+    "gate2_blocked": 22,
+    "passed": 66,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Intuitive Machines price target raised to $50 from $35 at Roth Capital - TipRanks",
+      "News Article - Intuitive Machines",
+      "How Investors May Respond To L3Harris Technologies (LHX) Balancing Governance Control With Portfolio",
+      "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $381.81, Implies 24% Upside - Trading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為直覺機器、火箭實驗室、行星實驗室相關動態：「Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Wo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intuitive Machines (LUNR) Is Up 17.0% After Record Q1 Revenue And Backlog Sur...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
