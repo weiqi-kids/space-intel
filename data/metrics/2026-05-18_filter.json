@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 23,
+  "gate2_fail": 22,
+  "passed": 49,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Is Defying the Bears - TipRanks",
+    "News Article - Intuitive Machines",
+    "Why Is Intuitive Machines Stock (LUNR) Climbing Today, 5/13/26? - TipRanks",
+    "Wall Street Bullish on L3Harris Technologies, Inc. (LHX) Despite Price Target Cuts - Yahoo Finance",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $381.81, Implies 24% Upside - Trading"
+  ]
+}
