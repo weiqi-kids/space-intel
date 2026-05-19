@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 24,
+  "gate2_fail": 24,
+  "passed": 66,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+    "Why Intuitive Machines Stock Is Defying the Bears - TipRanks",
+    "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+    "News Article - Intuitive Machines",
+    "Northwestern Mutual Wealth Management Co. Raises Stock Holdings in L3Harris Technologies Inc $LHX - "
+  ]
+}

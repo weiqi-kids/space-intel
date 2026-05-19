@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-18T11:40:08.383490Z",
+  "updated_at": "2026-05-19T10:57:53.003769Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -7,14 +7,14 @@
       "name": "AST SpaceMobile",
       "ticker": "ASTS",
       "currency": "USD",
-      "ar": 37726000,
-      "ar_prev": 11491000,
-      "ar_qoq": "+228%",
-      "inventory": 12007000,
-      "inv_prev": 10885000,
-      "inv_qoq": "+10%",
+      "ar": 27453000,
+      "ar_prev": 37726000,
+      "ar_qoq": "-27%",
+      "inventory": 16756000,
+      "inv_prev": 12007000,
+      "inv_qoq": "+40%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "boeing",
@@ -35,28 +35,28 @@
       "name": "Globalstar",
       "ticker": "GSAT",
       "currency": "USD",
-      "ar": 12879000,
-      "ar_prev": null,
+      "ar": null,
+      "ar_prev": 12879000,
       "ar_qoq": "N/A",
-      "inventory": 9614000,
-      "inv_prev": 11425000,
-      "inv_qoq": "-16%",
+      "inventory": 10078000,
+      "inv_prev": 9614000,
+      "inv_qoq": "+5%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "intuitive",
       "name": "直覺機器",
       "ticker": "LUNR",
       "currency": "USD",
-      "ar": 12193000,
-      "ar_prev": 23326000,
-      "ar_qoq": "-48%",
-      "inventory": null,
+      "ar": 217518000,
+      "ar_prev": null,
+      "ar_qoq": "N/A",
+      "inventory": 57873000,
       "inv_prev": null,
       "inv_qoq": "N/A",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "iridium",
@@ -133,28 +133,28 @@
       "name": "Redwire",
       "ticker": "RDW",
       "currency": "USD",
-      "ar": 37251000,
-      "ar_prev": 31976000,
-      "ar_qoq": "+16%",
-      "inventory": 55847000,
-      "inv_prev": 53491000,
-      "inv_qoq": "+4%",
-      "alert": false,
-      "quarter_date": "2025-12-31"
+      "ar": 24342000,
+      "ar_prev": 37251000,
+      "ar_qoq": "-35%",
+      "inventory": 69350000,
+      "inv_prev": 55847000,
+      "inv_qoq": "+24%",
+      "alert": true,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "rocket_lab",
       "name": "火箭實驗室",
       "ticker": "RKLB",
       "currency": "USD",
-      "ar": 39001000,
-      "ar_prev": 59086000,
-      "ar_qoq": "-34%",
-      "inventory": 158407000,
-      "inv_prev": 144999000,
-      "inv_qoq": "+9%",
+      "ar": 74955000,
+      "ar_prev": 39001000,
+      "ar_qoq": "+92%",
+      "inventory": 183146000,
+      "inv_prev": 158407000,
+      "inv_qoq": "+16%",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ses",
@@ -175,14 +175,14 @@
       "name": "Spire Global",
       "ticker": "SPIR",
       "currency": "USD",
-      "ar": 4178000,
-      "ar_prev": 5808000,
-      "ar_qoq": "-28%",
+      "ar": 7040000,
+      "ar_prev": 4178000,
+      "ar_qoq": "+69%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "alert": true,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "viasat",
