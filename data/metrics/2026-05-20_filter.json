@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 14,
+  "gate2_fail": 24,
+  "passed": 72,
+  "gate2_samples": [
+    "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+    "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+    "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+    "News Article - Intuitive Machines",
+    "L3Harris highlights fiber-optic tethers for unjammable drone and subsea communications in contested "
+  ]
+}
