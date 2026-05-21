@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-20T10:45:05.471621Z",
+  "updated_at": "2026-05-21T00:46:54.529779Z",
   "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -35,9 +35,9 @@
       "name": "Globalstar",
       "ticker": "GSAT",
       "currency": "USD",
-      "ar": null,
-      "ar_prev": 12879000,
-      "ar_qoq": "N/A",
+      "ar": 19762000,
+      "ar_prev": 19976000,
+      "ar_qoq": "-1%",
       "inventory": 10078000,
       "inv_prev": 9614000,
       "inv_qoq": "+5%",
@@ -49,13 +49,13 @@
       "name": "直覺機器",
       "ticker": "LUNR",
       "currency": "USD",
-      "ar": 217518000,
-      "ar_prev": null,
-      "ar_qoq": "N/A",
+      "ar": 105788000,
+      "ar_prev": 12193000,
+      "ar_qoq": "+768%",
       "inventory": 57873000,
       "inv_prev": null,
       "inv_qoq": "N/A",
-      "alert": false,
+      "alert": true,
       "quarter_date": "2026-03-31"
     },
     {
