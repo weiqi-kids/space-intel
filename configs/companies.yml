@@ -74,6 +74,7 @@ companies:
   upstream:
   - rocket_lab
   fetch_mode: http
+  inventory_applicable: false
 - id: l3harris
   name: L3Harris Technologies
   aliases: []
@@ -112,6 +113,7 @@ companies:
   upstream:
   - rocket_lab
   fetch_mode: http
+  inventory_applicable: false
 - id: iridium
   name: Iridium Communications
   aliases:
@@ -187,6 +189,7 @@ companies:
   upstream:
   - rocket_lab
   fetch_mode: http
+  inventory_applicable: false
 etfs:
 - id: ufo
   name: Procure Space ETF
