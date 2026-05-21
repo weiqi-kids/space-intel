@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T11:16:35.472171Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-21-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Intuit, Rocket Lab to Decline - marketscreener.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaDJxZW4yNGFSYnA5SmJvTEw1dVVldmloMVRyN19La1MwLUlmUlZKaGxKU2NPbEdkdk5UbXpVdzBsanROa2ZDa0pZU2pZYlpxd2dqc1VyQWlMLThtQVFGaVFxa1JKcXlkaE5tejdCM0JCeThySmJTMmpDbUUycDM1STNoOWszalZYSVlxVW9NYzd0anR3TmFyMG9vT2puLWRSUGIxQ3FFVUhQX0x0emJiZ0dXY2I5ZWdDUFNXREVSSXBuRUdKNkNCNVlHM2NPR2pONDkxN3hn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stocks to Watch: Nvidia, Rocket Lab, Intuit, Walmart - WSJ",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNdE5YTkJ6NTVaWkpfSGl5d3ZEQjZWUVktcDNacmdLcFBYNEowTFFKMm1EMjF3aHkxSW94QUlYODBfOHU2ZnBlZ0R5eU5RUDgtbVFMT0hxOEdhYnpMNk9jNTVrN2xlU2J0bHJvZUxwdWxTaWhBeGFKZnk5ZEczNmxYOERfVHdOU1FjNHN5anRMcUdlREtZY2ZUTEZ4MEMxUkIxZC1BVDdZN0lWNk80c1J2OUt1VXNJRWNjcGN0QmxMck9qdlg0MzVhLUt5VUhNMlkzeFlCUTZ4VTB3TlJNTFJ5SEdBVTB5QVhidjhz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab’s stock has surged from around $20 to over $130 following multiple large ATM offerings, demonstrating that strategic funding is essential for space industry expansion and will likely continue as the company scales even bigger in the years ahead. - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSHp2em5MTVFfQTBfTjBadi1WaUxNOGFTb1liOUJWMEJYQWYtQlpDakNNSnhzX1VRdHp6RXpmZmhHakw2QnhTNVNpVW5tZC1heHdsSlZyZkNRSjRmV2dRLXlHci12TXBHZHYzemtlN2w0eFdxUEUwNVR6NEprWU1EQUFPVmFFVHRZby11MmJyOXNCWElHemJ4LUJhdDk5VkJ3VWZoVA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Expands Into Defense And Space Communications As Valuation Stretches - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEhLSlFsLWlIRi1qZ2VVSjUxUS1BaDZVNnN0SFRuVzM3SHk0R0l1WXlKOEZweDdfVDhBb3NYWmlrSURsNDcwdWZtazg2bHN2Yld0cXkzSnZ1MDlpTFpEMzhJV080M1BmbmFqUXo1eDdCQndHRHZ6emUtR0xBUnhpZ1hJdENOZDJZWFE3WmpLbFdjbzBDaG9lNnctSXlhTTMyRS1wLURCUmdHYkpLNms0V2ZzU0I3ZG9DOUNoNVh0SmQ0dkdvT2VYYzFSVnRPZ9IB0wFBVV95cUxPVnJsQ2xSMWtkUUkweEFSLU8zeVJVNUlzOVY3RXk5SDEya0c2QkZ2WkMxVzl6OUFWbVBfMnlwbUU2SFo1VmtQS2xvelZmNWJzTUJCNW4zV1prV0swMDJfZTE3RlM0bFlBVlpXTWRBU0J3UEhIZVhvdVRVcy1peEw1cDVfZDlqeko5V3JyakZkWG5XejBwS1hrQlY1cnNTU3pNVERHQmRIb2RialFUdTByc0IzSU8tcy1HTjhWR2JWaUstYWpHdGRWRnJ2dFd4UXdWcVk4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "14,566 Shares in Rocket Lab Corporation $RKLB Bought by North Dakota State Investment Board - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS19GaWFCUl9IM1p2cFo3M0k0U2V6QXFvMWpvZGdvOS1pUGRER2duSWh0dFAxMm1RTzdwLUV0OU9QUVA4aDNwZHlPMGlxZzZUZEVPejlZdmtrNzc4OUdpdGdZaE9DX21jWktJdWlMRklGMExkNVJHM0FqV180cmluZmRHR0oxMUdaVnhYWjRGel9lNy1RYVFkaE5NcFlBc0g5VFFfSWQ1NHc2ODhXZlpDRVREYjljNUxWakZxOHNZOFFTSGdVUkFNVFc0RTc1dXByZHNlY2YyQnRNSkRna05MVUY2c2o?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "spire",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 132,
+    "too_old": 66,
+    "gate1_blocked": 12,
+    "gate2_blocked": 22,
+    "passed": 81,
+    "pass_rate": "44.8%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+      "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+      "Intuitive Machines director Kamal Ghaffarian sells $4.86m in stock - Investing.com",
+      "Is It Too Late To Consider L3Harris Technologies (LHX) After Its Recent Share Price Pullback - Yahoo",
+      "Northwestern Mutual Wealth Management Co. Raises Stock Holdings in L3Harris Technologies Inc $LHX - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為火箭實驗室、L3Harris Technologies、直覺機器相關動態：「Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursda...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Social Buzz: Wallstreetbets Stocks Mixed Pre-Bell Thursday; Intuit, Rocket La...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Stocks to Watch: Nvidia, Rocket Lab, Intuit, Walmart - WSJ（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

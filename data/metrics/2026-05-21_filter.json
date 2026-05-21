@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 12,
+  "gate2_fail": 22,
+  "passed": 81,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+    "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+    "Intuitive Machines director Kamal Ghaffarian sells $4.86m in stock - Investing.com",
+    "Is It Too Late To Consider L3Harris Technologies (LHX) After Its Recent Share Price Pullback - Yahoo",
+    "Northwestern Mutual Wealth Management Co. Raises Stock Holdings in L3Harris Technologies Inc $LHX - "
+  ]
+}
