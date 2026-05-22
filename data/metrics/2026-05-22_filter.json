@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 123,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 77,
+  "gate2_samples": [
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+    "Intuitive Machines director Kamal Ghaffarian sells $4.86m in stock - Investing.com",
+    "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+    "Cantor Fitzgerald raises Intuitive Machines stock price target to $43 - Investing.com"
+  ]
+}

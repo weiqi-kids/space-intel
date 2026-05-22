@@ -1,0 +1,229 @@
+{
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T10:44:42.126881Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-22-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Space Stocks to Buy: Morgan Stanley Highlights Rocket Lab and AST SpaceMobile - News and Statistics - IndexBox",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcTV4dUF2dS1yNElNMUVvYzczYkNHQ3NpTmFveGtVaHBFNE9WYkVKTVN6enI0RE9obGFPa2dkM2ZEbEZfcm5TTWNsdjlNTTFhREtHMk9wZWc0VkJWeWlXT3Q0TUZQT0ZrR0FGUFFHNloxbk12dGtIXzFTZWd4amNLSG81UGVRQ3hCMFN0WTItVWloTkxEYTRLMU1wUU11ekd6Z2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab wins first GEO satellite production contract from U.S. Space Force - SpaceNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTFg1ZjZyQkptMmljdTdxNlpueXZQbHFpLXd0cUZ4UVZoM3FoRnNTcEozWUN3YW4taDhOYXdiU0NCR1V2ZXozR1dwNnRMeDNxV2NnX3N4MzA5a0ptR0hkSEFnXzc0eVExbEI1ZFhYOVJQa2RxZUxVTEYtbGYwNVBpNFkzekswa2I2UjNOTzVxMllZakdTd0VSMTd2Tk55UzdY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Awarded $90M Contract to Build GEO Satellites - GlobeNewswire",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQazI4bENwR2hmZVZqVlpVV0pUcnNBQXpYYTB5OHltQlVxaHNOSjZHbzRJbXM5ZlRTVUo0NEl6UUdNcnhPV0RTdnN0UmlHNkFpaWhJdnhQUXl1eWFOVUtwVHIzdXNaUEJ3THZXR3pGQ2dqUGJoNUJ2SEpONW05aVVsZkRhM2VPQ1ZXWTVDVkJPRGNoU1FkalhpSi1yWjRPamVnQTV6WG1OV05NTkJZQXhxOFB2RjQtVjhXSmdrZUNwWU1xdEdwS3pEbUZxS3R0MTFWZkJIdnpXOG8tdDZDV3M4OFVrNE5QR05ubTk2cWNmU0JKeWR1dko1bFppUGE3RDR4dXhweWpXTHVXcTJINjF4c2tGXzU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ninth Synspective radar satellite rides Rocket Lab’s Electron rocket - Stock Titan",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzNkc0RDVmhVaVpuTDJkMTdwc1pxWXhkZk84YXlKQUotcWlReFlPN0RPMEhKTTNaQ0Q4OTlCWU5tTzZzX2RjdV9xOUFaMWo3aTlsRE5VSDE1bDB1ZWFUZlhuT1FYOHBXbnVYWm5LY0V0SEtTcHFGVml2alFHU19ESlVyRWsycVR1ZWg0QVlTc1kxN3YyWE9oZTA2WWgzNDJXcGtXZmprVFJJQTJJNDUzV08yS2xWQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Stocks to Buy Before SpaceX Goes Public - The Motley Fool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTRrYTVEMDZWcDVHeHNoTmNLN0p0T1cyeWFvczA2U0gtcjNUZkQyV09heTZUWGRNbWZtN0hLbU9xNFJjZ3dVNXBsRmZxbWRDNy1uM0N6RFpfeXVIckNyNXNmRWZTcl9ESDduRmdISVByellLT01pMGhsdnE0VVBDY0N2TzFvblBtUExxOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "space_defense",
+        "count": 3
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 123,
+    "too_old": 70,
+    "gate1_blocked": 18,
+    "gate2_blocked": 19,
+    "passed": 77,
+    "pass_rate": "41.8%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+      "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+      "Intuitive Machines director Kamal Ghaffarian sells $4.86m in stock - Investing.com",
+      "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+      "Cantor Fitzgerald raises Intuitive Machines stock price target to $43 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「Space Stocks to Buy: Morgan Stanley Highlights Rocket Lab...」。主要關注主題為太空產業通用、太空防禦、發射成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Space Stocks to Buy: Morgan Stanley Highlights Rocket Lab and AST SpaceMobile...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab wins first GEO satellite production contract from U.S. Space Force...（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

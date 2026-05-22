@@ -1,0 +1,152 @@
+{
+  "date": "2026-05-22",
+  "date_range": {
+    "start": "2026-05-16",
+    "end": "2026-05-22"
+  },
+  "generated_at": "2026-05-22T10:44:42.261607Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-05-16-001",
+      "date": "2026-05-16",
+      "title": "Space Stock Face-Off: Is Rocket Lab or AST SpaceMobile Worth Your Money Right Now? - The Motley Fool",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 81,
+      "last_week": 66,
+      "week_over_week_change": "+23%",
+      "sentiment_this_week": 0.06
+    },
+    "satellite_constellation": {
+      "this_week": 5,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "space_debris": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ast_spacemobile": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rocket_lab": {
+      "event_count": 31,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 9,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 6
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 2
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 348,
+        "last": 449,
+        "change_pct": -22.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-16",
+      "event_count": 26,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-17",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-18",
+      "event_count": 65,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-05-19",
+      "event_count": 71,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-20",
+      "event_count": 83,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-05-21",
+      "event_count": 73,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-05-22",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-16 ~ 2026-05-22）共 348 則事件，重點為「Space Stock Face-Off: Is Rocket Lab or AST Spac...」。太空產業通用、衛星星座、太空防禦為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 31 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -93,7 +93,8 @@
       "upstream": [
         "rocket_lab"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "l3harris",
@@ -140,7 +141,8 @@
       "upstream": [
         "rocket_lab"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "iridium",
@@ -231,7 +233,8 @@
       "upstream": [
         "rocket_lab"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     }
   ],
   "etfs": [
