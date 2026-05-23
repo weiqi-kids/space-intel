@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 75,
+  "gate2_samples": [
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Trustees of the University of Pennsylvania Invests $52.69 Million in Intuitive Machines, Inc. $LUNR ",
+    "Why Intuitive Machines Stock Popped Then Dropped - The Motley Fool",
+    "Cantor Fitzgerald raises Intuitive Machines stock price target to $43 - Investing.com",
+    "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin"
+  ]
+}
