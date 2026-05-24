@@ -1,0 +1,201 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:50:16.885546Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stephens Inc. AR Has $215,000 Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeW9vNy00Zlo3YzdOeTdKVDdPb19fSVNKNUI1QTBadlNISENSc2FiVWVjYXI3dG96d0VvcV9jNXVNcUFLbVptSjNxV2h1blBxZkdHdnRacVlocHZjRlZqRk9BVVY0Ulp6WnRaa250N2FBS0dQY0tPVDNmY0NxZk5ZVmJIWm1pZ253ajIwOU90QVJZeVVmbE56QVlCZHJvSGt3d3pENW83emtobVZReUNHc1hBTlFRNUNzLUNHNVdSUzQwSVlnZGc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Wins Space Force Deal And Steps Deeper Into Defense Contracts - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTVZpd3NCbnlsSGRqa1FDWlFVVmNXYWpjQ0NkMlpoR2dSeVdHR0V3MUo1Wi1IaEs2Vl9zQ0lPZHEyOUZuU2RzcUJBNXUwclJSZlMxUFdKVnRQSjJjRWpTMUg4Q3F4SnFmTlBmQkNSV1BoUWI3NnZmbjJHa2dPZFMyQk5oN0IwVE5ud1FnbHhEN0JtRUw0QlYwSnFDZHNFVEhxOHpEY1ZRNXBKemVNYU41dkJZRm1hdURIUmpweGc0Skp3eFNGOF8yVG9ZVENxUHPSAdQBQVVfeXFMTXhSWFRYbjlNT2tDTjVWNGZBSlgzdGdEdjNDS0RxUGctREtBZXhqT3RJcFdZUXdKTUlaN2RLNGZySFNDd3RaRWxCZm5GUXZFNnN0YU1KZ0c5RUdrNWg2X0drTEdPMkc1TWFFSENuaG9uR0wyMXhXRnJVV01wZnpKMHZja1lQbjg1bnRJN2V2MTVPVHRWcmpiMjQ4WVZBZHhxTHVmX0ZZemljNHhsdUNERmpubXZnZVY1bnpGRjVsRFBOalFabmNYWnhkaWM4bzRfUnRoT0Y?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-05-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How L3Harris’ Fiber‑Optic Tether Production Ramp Will Impact L3Harris Technologies (LHX) Investors - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaC1GVU9ibndKdWlHVnhhSkd5QXhOUGtrb21IbGxRZ3pRaEZnTG9GUGs2VlRVNWFQeG9xX1RuZTZtWlBsX2lhbUZ1OENnMGNMQVZiQnlseXBCeHd5WFg5R1YxTzc1S0dYWHFhbTNpaC1EZU1pTWRzck5RaXFIZ1hRaC1pUm5CNzdZWlpzSkdCb0ptLTJZcDV0dDJZVmkyb1otdW9Pai1n?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-05-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How L3Harris’ Fiber‑Optic Tether Production Ramp Will Impact L3Harris Technologies (LHX) Investors - Yahoo Finance UK",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEx1Zkppa01VMzQzZjc2UFpxMEhzRFFOZGlPU1Fjd0FMMWhKS0wzcWdLWnJLcDBUeEZ0SktqcVZXaWV6SENUU1MtY2ZEVTZWMkdoZUR2ZHdwWlgwcU8wMFNhREJfX3VQd1hwVTF6Y3JVWWs2ajJIZXlHMlNQaTBXb0lkRHZkOE85NXRBUk10VVM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-05-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Assessing AST SpaceMobile (ASTS) Valuation After Carrier Joint Venture And FCC Authorization - simplywall.st",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzdnY0xNa2lVNFZuQ2w3S2syelpOcEstQl9DcFh3dkRJUWRMSXppUFFiRXg4WmZBNEg4eGlHQ0VQdDlTa0E0RlZTQkVrMW1KcDEwMHRUQm9DVVNBazFjQklidnllVjN0Z2Y4bnRTYzB2TmhHbE9TclloMmxad1h4aDJIMC1BR252U3ZqdUViTzBlWWFvaXlEVnVqZDNzSE1FS1hReGZJU25yQ0dBSV9kX3hZZHZ2RkU2bkFCeWJnLXVUbnB1bHBfeWpQUmZnQdIB0wFBVV95cUxOT1F1TnFJRlFiZUpPZUlzSXJFTklvb1JwUFVIM0Y3MVUxWGFXOFJjellwRWNPUTRUVFQta2dkS2d2czhWMHRhcjhNQkJPckRTMkZpYndUdDlqeGxIZGk2V0Y0VXd3eWNLUHJZV1pDblhfUjlncndiS2FocmFPX1hpc1JfUHF0cDhORjZwbmlhTnN5cVJJQm9LVFVFdU1oTGZrRkplc1E4Rkx1QzdwZEVjMWlCSENsMERpV2VURDRXR2x1Z2NnQnBEOHJxU2hFMDN3M0hJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 175,
+    "too_old": 63,
+    "gate1_blocked": 19,
+    "gate2_blocked": 19,
+    "passed": 31,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+      "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+      "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+      "Axxcess Wealth Management LLC Purchases 15,015 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "LHX Stock Price, Quote & Chart | L3HARRIS TECHNOLOGIES INC (NYSE:LHX) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「Stephens Inc. AR Has $215,000 Holdings in Rocket Lab Corp...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Stephens Inc. AR Has $215,000 Holdings in Rocket Lab Corporation $RKLB - Mark...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Wins Space Force Deal And Steps Deeper Into Defense Contracts - si...（太空防禦、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

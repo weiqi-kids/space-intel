@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 19,
+  "gate2_fail": 19,
+  "passed": 31,
+  "gate2_samples": [
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+    "Why Intuitive Machines Stock Popped Then Dropped - Yahoo Finance",
+    "Axxcess Wealth Management LLC Purchases 15,015 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "LHX Stock Price, Quote & Chart | L3HARRIS TECHNOLOGIES INC (NYSE:LHX) - ChartMill"
+  ]
+}
