@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 14,
+  "gate2_fail": 20,
+  "passed": 29,
+  "gate2_samples": [
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Intuitive Machines: A Growth Story That Still Needs To Prove Itself (NASDAQ:LUNR) - Seeking Alpha",
+    "Assessing Intuitive Machines (LUNR) Valuation After Sharp Multi‑Month Share Price Swings - Yahoo Fin",
+    "LHX Stock Price, Quote & Chart | L3HARRIS TECHNOLOGIES INC (NYSE:LHX) - ChartMill",
+    "Legato Capital Management LLC Invests $2.20 Million in L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
