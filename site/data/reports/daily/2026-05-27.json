@@ -1,0 +1,234 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:32:40.617252Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-05-27-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Wednesday; Intuitive Machines, Rocket Lab to Open Higher - marketscreener.com",
+      "companies": [
+        "intuitive",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTlhQSkptNHZlZWMxenNRaGJzZDlMQnhuN0duOEtPMnFpaENiel9GMGRMZ2YyQ2FVaW43dmMxVEM3MzQyWllBT0N0eUFNcUdOQjFTQVRLc2dlZWtqT0hVNXZEUzdpdFpuMDNXcmI1OUw3QUNxbnEtWjlId0tUQ185U2JfOVRjZnh0X01VNlZseE9hTXYtWGkzX2lWY3ZPcFloZGpETUJES2NMa0Q3UGRPNGVmdWVUMjZ3eU1maEFxSll1ZWpsbEprSzJVOWxlZ0hicWtaeEJMQ29zZklheDctbkFMd24?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-05-27-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Micron Technology, Zscaler, Redwire, Intuitive Machines And AMD: Why These 5 Stocks Are On Investors' Rad - Benzinga",
+      "companies": [
+        "intuitive",
+        "redwire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNGRBbGd5cDVMVEJEcFZLWWFlSUlZZ0Q3UDdMU2FKeTZPQ2xzWUcyeWEyMmppUlRKYk9xdVM1RHdwOWlsQ0V6c1R4ZVJLdWh1ZkFzSVFTT05uNGZjVHJ2RnNVY0hNVU5HVXZCdE5MSmhGaV9KRWxvRzc2SWlWQzJiSjN0N05qWjRkT1FZeWhoS3VhM2MydEpLekd5eEJ3bHdRam1Yb1pXaUlNMXdJSk1KRjZtWEZQenRiY2VwaWtyWmUyYzdIRUtqMm1MbjFIbjRaVjYzZ3lmdUtwUVIwV2oyZFFMRElpXzRMdlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Space Stocks Go Stellar Ahead of SpaceX IPO. There Are Red Flags as Rocket Labs, AST Soar. - Barron's",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdW90MTlVYkdfcEVhX3B1TEZjZ1gtdjIyLV9fX00ydmVVcTZ2alRxU1k1RnIwRkswTDR5MVp1VERDR09ORXJqODItVU5tNWZLZ1dHZ0dVbnNQZjdyci1vVldXTGZNUnBXVURvcnIyMlVqNERDb1dtUTEtT3JibVdJMlM3NGcwS0p3dW4xRWsxWQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Is Up 12.5% After Winning US$90M U.S. Space Force Contract - Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOT2lmWEN0a2FqZFFCRXJKbzFsZ001U3VHX25icEhGeWw3VTJHSXd3X3dQcmNmSkFORnl6bm1DWnhvbDIyMVdtakhRTWtRVG5pYWJPMVpKbm9DU0NBNTRncUg0R0Y3anlsS0pLRU53bnVKRWRXNlU4Y3lGaXFVZTNVR1FPdlZFWWhRZkZXTkpn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation (RKLB) Secures $90 Million U.S. Space Force Contract To Build GEO Satellites - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVFF3NVBMV0JQU3hEZ0xiOXNXeUhrY2dMLVcycktnbFRyYU1NQk42Rmk0QUUyTURYbG84dG9yQzkyTktKZjR5RVVVWENqbV9KVTBFaXJ3VWpaWDJWUmdWSXVoNGhFdTNCMUVscGszWHgyYjAwXzRtTm9WYUFpUEFQNHJ6bnVxZ051dEVHUl9oRkMxbVlWTnB4b2x5TnVqRkNXT0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 8
+      },
+      {
+        "id": "intuitive",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "spire",
+        "count": 3
+      },
+      {
+        "id": "redwire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 100,
+    "too_old": 59,
+    "gate1_blocked": 20,
+    "gate2_blocked": 27,
+    "passed": 104,
+    "pass_rate": "49.5%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+      "Intuitive Machines Stock Analysis: 34–37 Range Signals Next Move - The Cryptonomist",
+      "Why Intuitive Machines Stock Keeps Going Up - Yahoo Finance",
+      "Intuitive Machines stock hits 52-week high at $42.22 - Investing.com",
+      "Intuitive Machines: A Growth Story That Still Needs To Prove Itself (NASDAQ:LUNR) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為火箭實驗室、直覺機器、AST SpaceMobile相關動態：「Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-B...」。主要關注主題為太空產業通用、太空防禦、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Social Buzz: Wallstreetbets Stocks Mostly Advancing Pre-Bell Wednesday; Intui...（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Micron Technology, Zscaler, Redwire, Intuitive Machines And AMD: Why These 5 ...",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
