@@ -1,0 +1,16 @@
+{
+  "total_raw": 328,
+  "dup_title": 127,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 19,
+  "gate2_fail": 21,
+  "passed": 103,
+  "gate2_samples": [
+    "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+    "Why Did Intuitive Machines Stock Bounce Back? - Yahoo Finance",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+    "Intuitive Machines LUNR Stock Rallies As Analysts Hike Price Targets - timothysykes.com",
+    "Allstate Corp Buys 7,219 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}

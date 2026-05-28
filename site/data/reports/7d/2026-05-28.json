@@ -1,0 +1,155 @@
+{
+  "date": "2026-05-28",
+  "date_range": {
+    "start": "2026-05-22",
+    "end": "2026-05-28"
+  },
+  "generated_at": "2026-05-28T11:32:17.136970Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-05-22-008",
+      "date": "2026-05-22",
+      "title": "Space Stocks to Buy: Morgan Stanley Highlights Rocket Lab and AST SpaceMobile - News and Statistics - IndexBox",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "redwire",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "planet",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "space_defense": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.0
+    },
+    "industry_general": {
+      "this_week": 74,
+      "last_week": 84,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": -0.02
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 1,
+      "last_week": 5,
+      "week_over_week_change": "-80%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 27,
+      "sentiment_avg": 0.02,
+      "rank": 1
+    },
+    "ast_spacemobile": {
+      "event_count": 19,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "l3harris": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "spire": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 346,
+        "last": 424,
+        "change_pct": -18.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-22",
+      "event_count": 77,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-05-23",
+      "event_count": 34,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-24",
+      "event_count": 25,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-05-25",
+      "event_count": 20,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-26",
+      "event_count": 76,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-05-27",
+      "event_count": 97,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-05-28",
+      "event_count": 17,
+      "sentiment_avg": -0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-22 ~ 2026-05-28）共 346 則事件，重點為「Space Stocks to Buy: Morgan Stanley Highlights ...」。太空產業通用、太空防禦、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:32:16.999121Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-05-28-013",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Thursday; Snowflake to Advance, AST SpaceMobile to Decline - marketscreener.com",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY21FRkJOVVJuWnR5VzJQVmlVNkpJSFFIcmhDZHhrNUxZYjBoVGpKZ1NyR0lBR3FkaHloREIzOEh2QnZPd1gxUEdEeVJLU0JiTUYwb0hhMy0zS29hSS1GSXFFbEpoZjVEa1JKRmJseEJlR3BTS2hqZGQ4THlxd0ZuLVJHdU1vaGdYa0lvRDdqQXkydUdQNVE5NWo1aDlybGJqaGVOUlRVdlZPdUptQkVHNDRyNnBRNHFoTlg2QngxTW9EdnhmWU9DZ09ERkVIQTREVk0ySjFGdzJPQkRLeWFZTUZ3M1c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-28-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Finalizes Motiv Acquisition, Expands Mars & Orbital Infrastructure Capabilities - GovCon Wire",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vUzktQkNDWkhEdlcwaUN4blc4aW1HVlhEdHJJSWFwR3pWNmlRbXVEeTc5MmwzOHh3TkFQVFpfSzVWWG5uVUlRNlRUSU00QVYwYlFxRDFMUW1GNzdsN3hzLXdva09nS2FyTEtFel9tR2NQeGo0ZUk1Tjd3UEoxemM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rocket Lab (RKLB) Is Up 11.9% After New US$90M Space Force Deal And Synspective Win - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekdxUFJyMTMwd3JYSjhZaWpkNTBPVmJQbHY3aHM5aUsydXlKZGxhOEY4RGRyWldNYW1vNVdQMlNNRWRQcXNKR1FrWXpIZmpfR04wNmItdWVmcW1CVlhrdFJDOElkQkgtS3VRQUJ6Zk13eUY5RlB6VVY5YU8zZkVySzJGcWEwMG1KREs1YkV1cWp6X2ZtanAxTWlLVno2SGk5OHdiUjQzZDF2RTduSG5yS0UySG8xWTV1QnBZSFptTEpBTjNUNUM0TXFqYnJtcEXSAdQBQVVfeXFMTjNMdmdMeE92TEM0RDJYbE1xempmMzhxRjhZSzNHcmUxckQ0Vkp3UDdaSm9uaDFLX0xtWkZrUVl6emVrNzBUZFNZUFJCVGU1VV9qNjJyUTJRVTZuQThpNW5kMV9CN3FidVYzUWFNenoybnF3emlZZDM0NFF5SWU0NENtYTZvY2h6WnVLd0tXSktkcUlQeDF6bnhuOGowRVh3YWJFa0lSYWpOSnpHUWxic2sxNl9FVVRZdERUWHQzbUZZcGt2Z2cydjBnTWQyREZWbEhOOUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ:RKLB) Sets New 12-Month High - Should You Buy? - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUG1DZ3ZMMXFxdmcySDViV3Q3YzNBUFhINTVWMzh6QUw0WUl4R1JPNFN2MEp5Z0Y2WHdPRF9ZUVFCQWV0Unlsb2RFellXbkFPZzJkM2V3Z3RjUzBoWVVjU1RWM19BQlYxd3pKTC1JZjJBMlJfclpzTDNIMnMtUmx2NXkxTy1EVkR2bXJLcDE2ajFjaDZ2YnF6NHJ3Y0RuSnBjV19kWnlBVkdkVVoxSVBNeXNsMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 6
+      },
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 328,
+    "dup_title": 127,
+    "too_old": 58,
+    "gate1_blocked": 19,
+    "gate2_blocked": 21,
+    "passed": 103,
+    "pass_rate": "51.2%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Northrop Grumman to Participate in Bernstein’s 42nd Annual Strategic Decisions Conference",
+      "Why Did Intuitive Machines Stock Bounce Back? - Yahoo Finance",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "Intuitive Machines LUNR Stock Rallies As Analysts Hike Price Targets - timothysykes.com",
+      "Allstate Corp Buys 7,219 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「Social Buzz: Wallstreetbets Stocks Mixed Premarket Thursd...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Thursday; Snowflake to Adv...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Canada wants Saab early-warning aircraft under push to retool defense suppliers（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
