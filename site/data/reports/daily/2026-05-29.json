@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:22:40.774623Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-29-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Blue Origin Rocket Blows Up. AST SpaceMobile and Rocket Lab Stocks Fall. - Barron's",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeGp1dk9hNnRSWXhtTC1jOElKNVVGRzJqVk9OOWF4clZyZ3YxT2t4NmpSOHZxMVkzQmVMRmRZeXRwVUJNc0lTT2w0NlE0RHNWUm1nanpYOUJuc3VFek1rZVNJOUFqbnFqQkhyUTlPcU4xUVdJUHpfNmpfa2ZIQVBLa21VZl9wUHJUMkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-29-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab and Planet Labs rally as SpaceX IPO nears - MSN",
+      "companies": [
+        "rocket_lab",
+        "planet"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUEpIcFh3TlJiajJkMWxZTzBOVlVoV2F6MEJocDRDdTlWYmJObVdMZERDckhkazVmN242dWVnUzFiZnc5SGVGekl3YUR2YTl1Q1d5anUyQnZ6Ty1lSzhsaW9KaWFzTXRicEhhdnphZ2xNQTUzSXN4YmJTaW9IeDAzb2FYOFIybk1kUEhMLXlaSjZCb051aTduQWNudVJBYVFOMVdBSldZTWZEekZ1emJmcWI3aGNJTnQ0ZVAzNGgzTmZzS0ZqdFdF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Envestnet Portfolio Solutions Inc. Invests $339,000 in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPb2tEYTJ0UzhfR1dVTDBtVGdPNzBUT1drUWZWeWptYkM1SEFHSU9EY1FOeWN3QVhnTFp2eExIOWpVNXRuRUpJbW9SQUxrZXRSWUUyeTdtQkIxNEVsamdvOTM3b0E0WnpndEM0dWkzOXV5MFpRWXUwOXpvZXgyMzkwMGRvQ0o4d1AtYURvYktvQlp3QXpRZzA5N254WGFRam1zaXl4ZllMVzdKZHJIbUtuX3hmYjVaYzJzanRoZ1prdENiZ2JndEhKdHhIZnFHOHNUcUQ4MXF4bw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Q1 Earnings Roundup: Textron (NYSE:TXT) And The Rest Of The Aerospace Segment - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNHFteVNIY3hMUGE1ZkxTQjRPelRVOFFnSS1RekRYeHFWY3ZNazh0ZjJGRVpZaFNST25abkdWRG1aazlpTnpsSEp5MGkyYTc3U3p2NmZ1N2lUNVBDUWNVUFpIc19PNk4weGJLYTA4S3lIUVVpY1RBMGZjbDlsS1R2NlpqTVVMZExOUmRoc21oN19YVjNoMU1MY0FjU0tEM2ZBSkZJeVIyaXFEODJRSlV3dk9wWlBXQXpndF9hMXFkWWNVMTg3RFhQcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab President, Rocket Lab USA, Inc Sold Shares Worth Over $2.2M - TradingView",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlhUYXpTNi0yeURxakpPQ1BHdmNiSWUzRzZjQjItVV9SM0lnYV9sdHZXLWE0SF94cS1oSWd5UHZ1MkJTM3FyYnJOR2p3b0hwNFB0S05DM2pJeTg4bmNuNE9LRG8tZTU4NEFRMFJhX3ZCN1hXQ3BzZDZScks0VTNXaF9yMkhFTXl5V0JNa2ZQY2Z2SjJpcXRIY0k2OFlmdnhNTnRuOGZfaVNkSDlyRzhEa2dGbVZFQnRPZDBuMlJwYUZNNTlOczM5ZA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 128,
+    "too_old": 63,
+    "gate1_blocked": 20,
+    "gate2_blocked": 23,
+    "passed": 75,
+    "pass_rate": "41.4%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Keeps Going Up - Yahoo Finance",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "Intuitive Machines News - The Daily Upside",
+      "Why Intuitive Machines Stock Keeps Going Up - AOL.com",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Blue Origin Rocket Blows Up. AST SpaceMobile and Rocket L...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Blue Origin Rocket Blows Up. AST SpaceMobile and Rocket Lab Stocks Fall. - Ba...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab and Planet Labs rally as SpaceX IPO nears - MSN（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

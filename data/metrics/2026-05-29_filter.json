@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 20,
+  "gate2_fail": 23,
+  "passed": 75,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Keeps Going Up - Yahoo Finance",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+    "Intuitive Machines News - The Daily Upside",
+    "Why Intuitive Machines Stock Keeps Going Up - AOL.com",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool"
+  ]
+}
