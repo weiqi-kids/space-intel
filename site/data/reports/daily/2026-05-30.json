@@ -1,0 +1,203 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:53:50.415638Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-05-30-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Key facts: AST SpaceMobile Plunges After New Glenn Failure; 1.2B, 3.9B - TradingView",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUy1PYjNPbVpnVXpwWlpObkMxZEUybE5zMG1Lc0NFVkVWai0xZDltUzUyS3B1LWhDTkhJZC1EajNuTG92cEhxQWc3bFB5emo5WXlxVlFHeFJINHVQNUk4Z3N4Rl9KZFBQdGJTbk14bXRzdkdzemlsclZtS1RJRVhWdTliX0FPd1JqUmppVl9nT3AxbHhUZDZqanFJOWp4Tk93ZjZPWlE3TzBPRGJhdFhaRmY1X1hFb2Z1cm1BejJqSzJhU1QyR21vQw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Wins Key US$816m SDA Role As Valuation Risk Grows - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT20yejFuX3N1SWZucXdDOExvSFZxYUlOODFldGF0RENjMDRlc3dWMTVYZTVGTlBkSzJrQ2VSY3MxYVNGalZLWWVuZDNDRFV1b1B2eVMzSGZ6YVJlLW54Y3R4UFllSWJoZEVmYTNBSzZONW5tUG1zQU9YeHpqM1VkcjR0T3lhZlk2T1JiZ2FfZmk5Ym1wNlpwOTNvaTdXOV9fZ0J4SWcwOWJ2TXpkWWc5N1FWWUpXVDluTk1CNnJCOEdiaG5FVWxDVHJOaTd2QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Legal & General Group Plc Boosts Stock Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ1VlYjRHZU9aQng0cjlJMWlLNUtMd29jOHZXd2lnS1IwX1FvMDBaYUZvNVZZVGplVUZScDFHMHVubjNUbHFzeWNCUkFraFF3aFpYU0UwbFFUck5ZVkFyRVFZVTgtT1RiSllYdlRZeUFxc3BvRVZydExzaERHR0xpbkw3ZGZKVF93VkFWNG42cThFMWtMSkJJNXd2QXE0Q3RrbURLdWRpV21DMEwyM0FnSEZtaWRuQ2loeFIwWTFrZDh5ZGgzY3JuVlpFWGd4cXJ1UTRV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Atlas V rocket launches 29 Amazon Leo internet satellites to orbit from Florida - Space",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "launch_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQamRER0k2STVnR2lidkRHRHdySUJ4YUlZalI1Y0NpNm00RkVlWUFJV0VhdGNjSHdQVTVTdVpqRld1WW83UUJla1pyak1WMUhaU2U5NDVaOEFvaE1ZYnhhSmp3US1kbjNFb0FjUVZWbFUtd0dYNjkydlYyWHlweE4tdmE2elpCMjF4emZZYzE1dFVaQWstS0RpVno1ekJNSE9FZ3E0cE1NUWVpSzBIbFViNlo1ZDd3eHJLSHc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-30-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX and ULA knock out Friday launches despite Blue Origin explosion - Orlando Sentinel",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRlJjeDlscHBtWXlweTFPMjl4X1VJdTQza3V1eE5XWVZpTzc0RmMzYnlZd2xIc2E5cUVXbXNtazE5Yzh0LVVNMTRiMmFlUUJXM3g5TXhXXy1JbzVpQnhNTlVoXzdGMGZJQWVLRjIzdTdwN014YTJ2X19MQ3RoU05QYWRGQUNfRU1Dd3ltVDJtbnNNN2k2SUpvS3BqVUdjUV8xTWsxS0RHblpVTVZwU1poYk5GSWlHY0o2SmFj?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 148,
+    "too_old": 58,
+    "gate1_blocked": 13,
+    "gate2_blocked": 26,
+    "passed": 63,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "16.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "What's Going On With Intuitive Machines Stock Friday? - Benzinga",
+      "Why Did Intuitive Machines (LUNR) Stock Swing Wildly Today? - TipRanks",
+      "44,200 Shares in Intuitive Machines, Inc. $LUNR Purchased by Jefferies Financial Group Inc. - Market",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為火箭實驗室、AST SpaceMobile相關動態：「Key facts: AST SpaceMobile Plunges After New Glenn Failur...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Key facts: AST SpaceMobile Plunges After New Glenn Failure; 1.2B, 3.9B - Trad...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Wins Key US$816m SDA Role As Valuation Risk Grows - simplywall.st（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
