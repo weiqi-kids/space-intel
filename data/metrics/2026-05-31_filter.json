@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 14,
+  "gate2_fail": 26,
+  "passed": 45,
+  "gate2_samples": [
+    "What's Going On With Intuitive Machines Stock Friday? - Benzinga",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+    "Intuitive Machines price target raised to $75 from $50 at Roth Capital - TipRanks",
+    "Intuitive Machines (LUNR) Gets A Massive Target Hike Ahead Of A Major Catalyst - Yahoo Finance",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool"
+  ]
+}

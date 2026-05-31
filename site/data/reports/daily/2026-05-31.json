@@ -1,0 +1,188 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:09:20.298774Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab: Why The SpaceX IPO Could Keep Fueling Its Rally - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTEl3ZTVJSG5XNTBlVUpteDhXX2k1dWcxc1oxVnpMQkZnU1JnTVNfZ0hDelNGbFdxVHdhX0pYd2Nud3ZTbzQyTTlLdjVHTTNUR2RHdGJ0c1lZSWJWekMtVXBrckJhd2NVSHg1M1MyR1RXeVpROEFVMWctS0ZOU0d6VFdtZ0IzclBfTTdwMDRKUzhsdGIwMk9YMS1NT2g4ajVuaE1hamlXckc0dFU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geode Capital Management LLC Raises Stake in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMzZ3ZXpxbTh3dkd2ZlZ5cVNRWTYxUGRtRlZuU2xXZUhTTGo0MXBEQV9Jd0hFM3Z2UEc2c0lLeVZ5TW1IZklZRzBCT1FITlRPNFRkLWhSYXpyVlpheHJrTG90QjJfdXVYUEotWk5Jb2RBdkd5ZmplUWtJWndreERia045UkJ6ck1IUVBGMl84S2FxaGpSaVVZem05akFNR2lTTGtSZkJpanRJMGNGZnpYWGxiX1ZwOEt3TUk5MEs0eWIxeGZ6NERxSXktU2pxZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Northwestern Mutual Wealth Management Co. Buys 7,710 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQR3MwdkxpUk4zbjNQdG1DZUQ4R2VMUlZPV3M0T000ZDZ6OGJZZGdZXzZ2RXdnc0lqSTd5UUViLWlXWkxfUWRYdVZYTjVqZjZacEVoc3k0V1M5MUxkeGhZQ21RbjVQY3lQRWhmcUc3QTFfNUVFTk5HdC1tMDdKS0FRRG9GQjVtRWQ1V3M0RllNVWRrZVJRTnRHYXExWG5vM29LX0FTcmd3N0kzMXZjcE4za2FmbmVaT1hMOVQwZkVsTll0ZGdzYXU2YTg5Zm02emZXNl9VN3lGUkN3RFg2Vlc1cUVZZHFqdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-05-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "👀 ASTS Stock Review (AST SpaceMobile Stock) ASTS STOCK NEWS ASTS STOCK Analysis | Mesothelioma Firm Kaiser Drive Vaughan (mPtJJ4X3vs) - Mshale",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0cUwzRlNCaTlEdDhON0I1blZXQjRFeHRaMVJpaEhpM0RmX1lBdjU5OUwyVmhrMW9UREdONS1LWFJUQmRvMkYydjZ2YjRWQ1pkLWF0XzFRVHc5S1k?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-05-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASTS Stock (AST SpaceMobile Stock) ASTS STOCK PREDICTION ASTS STOCK Analysis ASTS News Today. Blaenau Gwent Caerffili Rhymni (RYHQKqGMLQ) - Mshale",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fc3NHSUFka3ZWQlExSWZKc1BhXzNqa0htVl9ELTVsb3VlRmpOT25MV1Jpd2ZYNk84aWszVzgxZDdtZ2dhbWN2ZzE0enZnT3hUdEl6cTZJOG5qM1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 184,
+    "too_old": 61,
+    "gate1_blocked": 14,
+    "gate2_blocked": 26,
+    "passed": 45,
+    "pass_rate": "30.8%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "What's Going On With Intuitive Machines Stock Friday? - Benzinga",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "Intuitive Machines price target raised to $75 from $50 at Roth Capital - TipRanks",
+      "Intuitive Machines (LUNR) Gets A Massive Target Hike Ahead Of A Major Catalyst - Yahoo Finance",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Rocket Lab: Why The SpaceX IPO Could Keep Fueling Its Ral...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab: Why The SpaceX IPO Could Keep Fueling Its Rally - Seeking Alpha（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Geode Capital Management LLC Raises Stake in Rocket Lab Corporation $RKLB - M...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
