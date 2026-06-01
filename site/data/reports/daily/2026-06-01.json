@@ -1,0 +1,203 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:31:07.919940Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-06-01-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector - AOL.com",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab",
+        "planet"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGxrRHlVQ0J3WGIyYWNzekREUHBUTnZldk1SSzRZYnVnbTdKWkxCUzE1TmJpYzd3YXNwczdSRnZ3VG1MQVh1YWR5bjFtRHNjSHBZbW5YOU1QYXhfU05kdE52WFpkekNCNEJKXzNzMi1kY3EycmRSYkNxSjE1b09hLURLcw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX vs. Rocket Lab: Which Space Stock Has More Room to Run? - The Globe and Mail",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQU1NkM0hYd19rOXZ3ZzlIVHRyMGNBaGpoSGxudXlYTXpVc1BPamdVaDBqbU9jaGFfamJ0NjY1S0hIQjhKTFdLc010QnJjLW1SblhJUmcxRFlONk9nMXpJNGFpcDNlTy1YY1BZclE5TUFqQXYtMkRyM1FYQjhXSzFxSmdjUDdhQXgzVkJZQWFTeEFOUzVwU3dVaHpLUFdGLThRYVkxbi11cTloN29nRldDNnc2d2hFdEpudzZtVkRfdTEySkxwQjdzUkphNXVWZ3ZPMVcxbGZKX1VIazIy?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX vs. Rocket Lab: Which Space Stock Has More Room to Run? - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaU11MVdxRXEtNFRCRUd0VlJUa0xZN0xQSEtxWG9GdUI0dTMxak1raV9FeDA1QzBEUTlTSHdZWXhFa1laQTNjQW9yWEZEbDVoRE9FRzlTZ0M1NzI2R3FZWEFFTURpclNVcTFlck1zM0EzMU82TjZ1X2xwX2N3aXNjODdMR3NMSnNLLS0xZzZuOFRxbEc1S3c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Passes System Requirements Review for SDA's TRKT3 Missile-Defense Constellation - SpaceWatch.GLOBAL",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2JLOWZBeER4WGlMZ25UVDBsUUdLbHhTLXB2eTdCUVBlYXkyUGpZMW5qNlBIdUI0eS1CS1NyT3lUM29nYXBYekNFRnlBZW9LNlJhRUZkTVFFSzQ3UVNhSUFyWXNoN05JRlROTk1FS25KQVJNM01lc0FEOWNqNUFkS0w0Vmt4OE1VQl91TWZ2SVJOaFdfcWhCUHFZMmJDclhMLXdfLWM4UnlGdWpyZlhYazVFLWdQdmNsaXZUc0FpRWRPUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "National Pension Service Acquires New Shares in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPTmM3ZUVFd1pzZWthWHo0RzdNQVQ0RzlqTHBRMDNkTjg0YVUwZzgzNkFKNVZXN1JfS0VnZVpGRU8taXAyOE8tSWRwY083T2NPd2pVb3Atb1NuNTdzdkFPbWF0a1RXdjhtMk1YN05USzlTcDl2bm5YMjREYm9iZHA1akNiSFIyaEFWMjRSSmtNWFBxNGdrSEx2OHJua1RROEhPbzVEcVRvZmtDUmJwUFJ4QmtqSVozb3hfaXAxbnAwNU9qbW1hZThHMUFOWEdvR0JuWXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 178,
+    "too_old": 63,
+    "gate1_blocked": 16,
+    "gate2_blocked": 24,
+    "passed": 32,
+    "pass_rate": "23.7%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "What's Going On With Intuitive Machines Stock Friday? - Benzinga",
+      "Why Did Intuitive Machines Stock Bounce Back? - The Motley Fool",
+      "Intuitive Machines (LUNR) Gets A Massive Target Hike Ahead Of A Major Catalyst - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocke...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as S...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SpaceX vs. Rocket Lab: Which Space Stock Has More Room to Run? - The Globe an...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

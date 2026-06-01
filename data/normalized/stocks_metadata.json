@@ -1,90 +1,90 @@
 {
   "rocket_lab": {
     "earliest": "2020-11-24",
-    "latest": "2026-05-29",
-    "count": 1383,
+    "latest": "2026-06-01",
+    "count": 1384,
     "history_complete": true
   },
   "northrop": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "boeing": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "lockheed": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "intuitive": {
     "earliest": "2021-11-17",
-    "latest": "2026-05-29",
-    "count": 1136,
+    "latest": "2026-06-01",
+    "count": 1137,
     "history_complete": true
   },
   "l3harris": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "redwire": {
     "earliest": "2021-01-14",
-    "latest": "2026-05-29",
-    "count": 1349,
+    "latest": "2026-06-01",
+    "count": 1350,
     "history_complete": true
   },
   "planet": {
     "earliest": "2021-04-26",
-    "latest": "2026-05-29",
-    "count": 1280,
+    "latest": "2026-06-01",
+    "count": 1281,
     "history_complete": true
   },
   "iridium": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "ses": {
-    "earliest": "2012-07-20",
-    "latest": "2026-05-29",
-    "count": 3543
+    "earliest": "2012-04-23",
+    "latest": "2026-06-01",
+    "count": 3607
   },
   "viasat": {
-    "earliest": "2012-07-24",
-    "latest": "2026-05-29",
-    "count": 3482
+    "earliest": "2012-04-25",
+    "latest": "2026-06-01",
+    "count": 3545
   },
   "ast_spacemobile": {
     "earliest": "2019-11-01",
-    "latest": "2026-05-29",
-    "count": 1651,
+    "latest": "2026-06-01",
+    "count": 1652,
     "history_complete": true
   },
   "globalstar": {
-    "earliest": "2012-07-24",
+    "earliest": "2012-04-25",
     "latest": "2026-05-29",
-    "count": 3482
+    "count": 3544
   },
   "spire": {
     "earliest": "2020-11-03",
-    "latest": "2026-05-29",
-    "count": 1398,
+    "latest": "2026-06-01",
+    "count": 1399,
     "history_complete": true
   },
   "etf_ufo": {
     "earliest": "2019-04-11",
-    "latest": "2026-05-29",
-    "count": 1793,
+    "latest": "2026-06-01",
+    "count": 1794,
     "history_complete": true
   },
   "etf_arkx": {
     "earliest": "2021-03-30",
-    "latest": "2026-05-29",
-    "count": 1298,
+    "latest": "2026-06-01",
+    "count": 1299,
     "history_complete": true
   }
 }
