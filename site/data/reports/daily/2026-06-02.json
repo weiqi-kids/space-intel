@@ -1,0 +1,212 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T11:59:49.823519Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Loses 14.7% on Explosion News - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeFh3Yl9tUkQwYUcweGRUZk1JXzQxSmtic2VpVWg5QkRaMlJFWU5PSGluQUdjNkhjM0paY2FqQXpuN0o2aXdoc01nTTkzOElnQWt4MnJaVnc3X0ZPV1ZnUjNuWjNUVWRwYURBMzNSemtGQ3pQbFUtd0JRdEFiWnJMU2Q1VTNaa0FaeWJWSmZyX29JTUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Valuation Check After Sharp Pullback And Powerful Recent Share Price Rally - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHU5WVNXc3FxVFBRc3Z6bHpXRnVuSDVrTW5SbFZIVk9OeUdzTzRPSmkxZlE3ckk1VjBENzQtLU40b3N1ZWlVT1B0SXluWURqQVBhUUktYTRvQkh4WkdZTFBFck9VZmEweU5wMVhYT2M5eVZlRjUyUE4zMnRVcFFWUmhBUDBBRmFwbFdtZnZyOHJYX2hqNlNGdEZ1Q3c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB): 3 Reasons We Love This Stock - StockStory",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTkV3V21MUkZvRi1YVWRWeThGZzZqaFlnTnZRQ0V3M1YtdWRRYVpIb29fSS03YTNYTnI5bldvNlAxT0M2ZGcxa0gzNXgtckRFQUZtenZ4OEpHRHg2dnc5ck9NMzMtLVp6MUc2d2d2NFBkU3NKNFFEMUNlTDJJWjB6MDI4blp3blRpcFZtakF1ZVBkcmtZYUlqRzJsVUp5TTM1VG1fMHhzZnV5Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rocket Lab (RKLB) Stock Is Trading Lower Today - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRE5EcDI5S2IzU3plR09TQVZiN0pseEU1VmJIc1doalZYWVVNNHJkejRVZFBON3BFR0VnVWZKNmFqamh5a3g0R1dBWEhvRnpTc0lrN3g5UldhNkE1WWg5RURXU3hjOEMxOEU5VXphRk5jT1VkaklRZnNlV1lTMHRsSEJUVGxQQ2dWc3dXMnpDb3FVV1pJ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Norges Bank Buys New Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUExKcmNTMlJBQllrVi1jSDFRT0RaNDFrUnNJeGdzRjNDM25IUFo1ZDE5UzF6TS1DYXVsMlNzREZRb0NCSEVwZjlRS0d6QU5odDdoM3Z0VHpxTjhtcVM2WDZpQnBSSEZ2c1lSVmpvVVlWbFNfRGdCZjVvZGtRMEhPQ3NndmU5QU1RVnplV3RNT0lLWWR1YVVlT2JMLW5FejlBRllSYTdPMkREbzZEY243dGR4MHhhQTBacDJoOXFR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "planet",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 135,
+    "too_old": 57,
+    "gate1_blocked": 19,
+    "gate2_blocked": 29,
+    "passed": 71,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "What's Going On With Intuitive Machines Stock Friday? - Benzinga",
+      "Why Did Intuitive Machines Stock Bounce Back? - The Motley Fool",
+      "Intuitive Machines (LUNR) Gets A Massive Target Hike Ahead Of A Major Catalyst - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為火箭實驗室、行星實驗室、AST SpaceMobile相關動態：「Rocket Lab (RKLB) Loses 14.7% on Explosion News - Yahoo F...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rocket Lab (RKLB) Loses 14.7% on Explosion News - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab (RKLB) Valuation Check After Sharp Pullback And Powerful Recent Sh...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-01T13:31:02.721924Z",
-  "quarter": "2025-06-30, 2025-12-31, 2026-01-31",
+  "updated_at": "2026-06-02T11:59:46.569813Z",
+  "quarter": "2025-06-30, 2026-01-31, 2026-03-31",
   "companies": [
     {
       "id": "ast_spacemobile",
@@ -228,17 +228,17 @@
       "name": "Viasat",
       "ticker": "VSAT",
       "currency": "USD",
-      "ar": 542120000,
-      "ar_prev": 528343000,
-      "ar_qoq": "+3%",
+      "ar": 539758000,
+      "ar_prev": 542120000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 286954000,
-      "inv_prev": 278658000,
-      "inv_qoq": "+3%",
+      "inventory": 281220000,
+      "inv_prev": 286954000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     }
   ]
 }
