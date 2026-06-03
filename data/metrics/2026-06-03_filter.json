@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 17,
+  "gate2_fail": 23,
+  "passed": 63,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan",
+    "Why Intuitive Machines Stock Soared by Nearly 73% in May - Yahoo Finance",
+    "Intuitive Machines Inc (Derivatives) price today, LUNR to USD live price, marketcap and chart - Coin",
+    "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+    "What's Going On With Intuitive Machines Stock Friday? - Benzinga"
+  ]
+}

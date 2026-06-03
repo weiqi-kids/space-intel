@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:37:46.991028Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-03-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "At a NATO range in Latvia, hits and misses mark Europe’s counter-drone journey",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$Rocket Lab (RKLB.US)$ Archimedes Engine - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOUZBWm5hZXlzZGFSdmhDWmZSWGF5LVA0Szcxa0xNUWRaWThtS2hMUFVyRnVGamsxSW1hWTR1VkdsWk54VW96OUU4LUVRYWRNeExMYm5IbzFBc21pOWt5SWp0MlFuRmNLZXhmMnRtbExQX0RKMjRJQW9mTjRnLXdlSnBrSk9HcHk0eGEycmxRQWhDN3V2?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab shares tumble nearly 15% amid space sector sell-off - MSN",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXJCaTZrSlJPdGtjb2NKMHdoeWY2dVpKOVZRaVN0NnJzeG5EU1YwRGJHYmN6aW4xcU4tbkltUUZFdHRUZjFpR0N6MVhFeWc0Z3RzZDNCNHdYTmlwZGZlam5jWUoxemdBU2RjUENBQ1VPUXZ3MWJub0l2VmoxWTRRd3RKRDB4ejdhUVpBSjRxOER1SHdobXdGY0FOS2kza21vZnlVNjRKT21Xb0FiMzNocnFiZ1dmTzdKT3pXYlI3OW5JcmlmWjZGVw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SCS Capital Management LLC Trims Stock Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd2I1MmVCMzduMldqVUVYc0dHd1J4RHFjWGg0OWlKeWhJTzF0RU5uS0UzT0RYZDlXWWU0c195cWVzZkJhdDB6dUlYX3ljZzRYdkNJUzBmNlZHczhySl9PUVBlaGVCZWdXNWlVUGM1ZkNVdlh4N1dtVkhJdmREVnltX0x2UjdHbVZUN0doVUZzQjltSEI5ZVJBVDFMSml2dDQtNkhDb3dfUllxSHRTUlF3UEVLVUdiRjJYcFlvTW9hZ3JkUXZuRTV2WnMtNGNONklYUG9maE9B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nomura Asset Management Co. Ltd. Has $17.36 Million Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMVQ0ZEhsN3VsQjZVUE9Xck8tTE5MT192aktiUFlCU2RkRVViSGpTTko1ZTlKdFBHRHlsUm5SWnR5NVd6N2FSM3o3enQ4VE42alBFbkZDQjE2c3dvNFR6UW83X2c0M1ZpRFBpeDdNWHNCQTNuekNkRVdOLTIwZHFFdGNUZDBzbGQ3a0tMS3R2c3dkd3ZWc0d1Z2J2LTFYRlowZ2pkMDhleTRxelJneGdzS2dsRDhMczlYRWhKQnQ3eE9xM1lvVGRLVXRSYkJDZlRxNDREd0Q2RElTdjhYa3FjNDh3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.09,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "space_defense",
+        "count": 3
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 291,
+    "dup_title": 136,
+    "too_old": 52,
+    "gate1_blocked": 17,
+    "gate2_blocked": 23,
+    "passed": 63,
+    "pass_rate": "40.6%",
+    "gate2_block_rate": "14.8%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan",
+      "Why Intuitive Machines Stock Soared by Nearly 73% in May - Yahoo Finance",
+      "Intuitive Machines Inc (Derivatives) price today, LUNR to USD live price, marketcap and chart - Coin",
+      "Why Intuitive Machines Stock Keeps Going Up - The Motley Fool",
+      "What's Going On With Intuitive Machines Stock Friday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「At a NATO range in Latvia, hits and misses mark Europe’s ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "At a NATO range in Latvia, hits and misses mark Europe’s counter-drone journey（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "$Rocket Lab (RKLB.US)$ Archimedes Engine - Moomoo（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
