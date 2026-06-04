@@ -1,0 +1,199 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:57:56.356742Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-06-04-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lockheed Martin, L3Harris successfully complete propulsion milestone for PrSM Increment 4 - defenceconnect.com.au",
+      "companies": [
+        "l3harris",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVW8zYXl5Y3Z0ekRLVGRmdmNQNlBEMDRWT2NqOVhFcjBNZ3lfeEtJZTZaeUVPazN1bk9PalRGNVNYYWxGeWFiZ2xOSXlwcnowTENxZUxpYjRCX3k4X0xlWmhCQWJSNXhNV1lsbmRrUENtUFlIcmJkdi0tZFlZSjFHb0M2UHBKU01Ta2pBS3hlZG5YbV9JbHB6Z3hiaUhwUklUOXRWR0piVUtwRm55WVllMy0wSVhPS3ByVHJnQXNqMkx2VWxsOGN2X1hvWXBQREFXZUR1a0FYRzBCa1NDOWY3RzFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Is Creating A Vertically Integrated Space Powerhouse - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd20zdDFhZXY2c2RzWktLM0U3MVJTdGhGd0g4Rk84Umpwak40Q0xJUnRKVFFyUDNFb0NBQWtLYWxrM3BVTFIyOTVwQ21vazdpczl2THdGZFNTSkduNTdOa28wbExDYXM1VFVlTVJsSXZTOS1RMHJHZ3E0dnZuVEQyY1RqcnUzZjhVZFdfeld2bjc2X1dyOWFTbnlIa2lTcUdLMzRjanY3TGE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies To Go Ex-Dividend On June 5th, 2026 With 1.25 USD Dividend Per Share - Moomoo",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0NtdXVHeVNpaW9SM1lGSXJEOGYxUEdLLWNPR19nbGJtYmFHLWQ0Z29kSG9XWXpSTU5vYkJ4WkNFUzRtLXczSGpUd01lRC1HN3MtMWx6c2N1VlVHVmxPcFlQMmYwUkpUbWgzV0xyOWZlQm8yNEtIeXJrYjQ4c3lZaXZlR1BYdHczX0ZzUWFwcTBrUXhYMWRpbG0wTEZPd0k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-06-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (ASTS) Valuation Check After Reaffirmed 2026 Guidance And BlueBird Launch Progress - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzYyX1RiQk44TERXNXBlVGRKU1M1MTJRazdodkFBY1hTajcwYmkycnRzRjQ5VklfTVVlTGpOWDY2bGljcjZtLWZvQm5wZ3k1NmlwVy1zR1EwSkFpOVhoZUZLY0lCMHgtZWFOOUNRTnk5Tmc0N1RvTWlxNnl6clZKdi1SdGNpeGFPNFEzVlkzTVduYTViOE9MY2o2dTJzamdJNlNn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-06-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile: “No impact from New Glenn explosion” - Advanced Television",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzl3bXgtbnA4N0Z4ZkVVX0xVZFRSY1VIQkZuUG5ZRFM5eFprV0FPZ1hjNzFrdk1ORThycDQzNkQ5RWxkMmFxX3Q3OXdETFZvN09fSkplYXF0bHkwaGtRbkhUemNyd19aanM1el9aT2VOWFhRci1Mc01feGNxaTZkM29aZXlTNnJYRnZGZVRtNlJyNTVINEhhUllfX2UwZDQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 143,
+    "too_old": 55,
+    "gate1_blocked": 21,
+    "gate2_blocked": 24,
+    "passed": 70,
+    "pass_rate": "41.2%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "Why Intuitive Machines Stock Soared by Nearly 73% in May - The Motley Fool",
+      "Intuitive Machines Inc Files For Offering Of Class A Common Stock Size Not Disclosed - SEC Filing - ",
+      "What's Going On With Intuitive Machines Stock Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzing",
+      "Intuitive Machines Inc (Derivatives) price today, LUNR to USD live price, marketcap and chart - Coin"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為AST SpaceMobile、L3Harris Technologies、火箭實驗室相關動態：「Lockheed Martin, L3Harris successfully complete propulsio...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lockheed Martin, L3Harris successfully complete propulsion milestone for PrSM...（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rocket Lab Is Creating A Vertically Integrated Space Powerhouse - Seeking Alpha（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

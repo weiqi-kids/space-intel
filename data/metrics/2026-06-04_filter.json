@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 21,
+  "gate2_fail": 24,
+  "passed": 70,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "Why Intuitive Machines Stock Soared by Nearly 73% in May - The Motley Fool",
+    "Intuitive Machines Inc Files For Offering Of Class A Common Stock Size Not Disclosed - SEC Filing - ",
+    "What's Going On With Intuitive Machines Stock Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzing",
+    "Intuitive Machines Inc (Derivatives) price today, LUNR to USD live price, marketcap and chart - Coin"
+  ]
+}
