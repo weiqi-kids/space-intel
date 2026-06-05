@@ -1,0 +1,184 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:21:35.543262Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "planet-2026-06-05-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Planet Labs (NYSE: PL) grows revenue to $94M while booking large non-cash loss - Stock Titan",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUtjeklBRE81NXdsamxjODl5YzhuN2dVMUV6aWJJenoyMVdTbmR1UGpYWTJlMEowZ2VaUnJlT3ExcGF3SVBDVzlTU3pvbXF4LXhHSGY0a0RfWkVUbUZISHhSeExmQ3VyXzN2QWNCVHVaSm1JSzlqR2V4TzBBQWZ0ckt5NW85YXMyamlDX3AwaEJJT21VbmEzUjl6cGZVTGllUFlTTm5LMTk4UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "There’s More to Space Stocks Than SpaceX - WSJ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWHMwbndmN1lseWtUZU0xRXFxNWx1Q1ZPVlYtaUhLOVpYbXFpNFdMSEk4bFBSVFpkVTA5Sk5tV1JJX2FSUFlwNTc4TTFYWDZOR2c5SWRaMi1pajE0MVJOWFRCMzBhdGtUZURBY09zT3ZxcEo1Qi1SOFowbUJJVzNXRWI0T2k4Yzk0bUhR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should You Buy RocketLab Stock Instead of SpaceX at IPO? - The Motley Fool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQajNHRWNScUctSjZUVklVR3h6eE15aVc2TXo1aGR4amJkNzN5c1FQQnVVZzVzeDJMRmh5aFZsVGl3ZXQ2Q09CeVBrcjVyalFSbDZmMXBsOEJzTV9CcV9nZjFCVldlQUxXbDBwTk5QR2VKb1p3dFVfYnJxd1Vnc1NIWUpPTDBsYTNsdEFFXzVIRWliQ2thaEJfSA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation $RKLB Shares Sold by Straight Path Wealth Management - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHVPandxeG1maWdXMi1MRlUyVWt4VHE4aHVOZTVlNFlSeVREejdnRVZrT0lSUDB3LTNyVHBZZUpUb0hYTjc5cXJaOFlqdlZWeGNjTjFPQ1VDSHFoaVZ3bEpqeEQ4Y2lNUXlTUzdUbmZVcjQ4RzN6dVBodURGLXNyRXl0bVkzeGlRUXM2SzZidGgxMmczQV8yYU1kYnBNNGpwZnlaeTB2SWVsZW5wbXZRSFdZcDRwb2xqNnpUQ2RsSlZVTXBGaDM0Tko4T294elFq?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ramjet-Powered PrSM Increment 4 Advances Toward Flight Testing - The Defense Post",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9WcnRzVXo0M2lEaEF6M29naDhRbWprcFFXa202V00tYWg1d0JLQlVxSWZtX1IzSEhiMkRYX2lwRWR0QnFsanVWaU1NRlN5aEs3SlZ3TDJCTzJiblB0VnU5cUZtcWZldktXd1ZMVklVdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 156,
+    "too_old": 57,
+    "gate1_blocked": 16,
+    "gate2_blocked": 18,
+    "passed": 65,
+    "pass_rate": "41.7%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "What's Going On With Intuitive Machines Stock Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzing",
+      "A Look At Intuitive Machines (LUNR) Valuation After A Strong Recent Share Price Rally - Yahoo Financ",
+      "Why Intuitive Machines Stock Soared by Nearly 73% in May - Yahoo Finance",
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為行星實驗室、AST SpaceMobile、火箭實驗室相關動態：「Planet Labs (NYSE: PL) grows revenue to $94M while bookin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Planet Labs (NYSE: PL) grows revenue to $94M while booking large non-cash los...",
+        "level": "green"
+      },
+      {
+        "text": "There’s More to Space Stocks Than SpaceX - WSJ（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

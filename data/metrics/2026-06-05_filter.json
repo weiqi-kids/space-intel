@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 57,
+  "gate1_fail": 16,
+  "gate2_fail": 18,
+  "passed": 65,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "What's Going On With Intuitive Machines Stock Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzing",
+    "A Look At Intuitive Machines (LUNR) Valuation After A Strong Recent Share Price Rally - Yahoo Financ",
+    "Why Intuitive Machines Stock Soared by Nearly 73% in May - Yahoo Finance",
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance"
+  ]
+}
