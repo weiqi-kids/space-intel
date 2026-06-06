@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 61,
+  "gate1_fail": 18,
+  "gate2_fail": 21,
+  "passed": 61,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "A Look At Intuitive Machines (LUNR) Valuation After A Strong Recent Share Price Rally - Yahoo Financ",
+    "Intuitive Machines Inc Files For Offering Of Class A Common Stock Size Not Disclosed - SEC Filing - ",
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+    "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan"
+  ]
+}

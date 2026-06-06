@@ -1,0 +1,140 @@
+{
+  "date": "2026-06-06",
+  "date_range": {
+    "start": "2026-05-31",
+    "end": "2026-06-06"
+  },
+  "generated_at": "2026-06-06T09:58:37.259300Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-06-01-009",
+      "date": "2026-06-01",
+      "title": "AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector - AOL.com",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 76,
+      "last_week": 80,
+      "week_over_week_change": "-5%",
+      "sentiment_this_week": -0.05
+    },
+    "space_defense": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ast_spacemobile": {
+      "event_count": 19,
+      "sentiment_avg": -0.03,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 6,
+      "sentiment_avg": -0.08,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 14,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 359,
+        "last": 421,
+        "change_pct": -14.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-31",
+      "event_count": 18,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 67,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 70,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 78,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 69,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 52,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 5,
+      "sentiment_avg": -0.4
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-31 ~ 2026-06-06）共 359 則事件，重點為「AST SpaceMobile Rockets 20%, Planet Labs Soars ...」。太空產業通用、太空防禦、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 19 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

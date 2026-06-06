@@ -1,0 +1,182 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:58:37.122506Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "planet-2026-06-06-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Key facts: Planet Labs $1.5B ATM; Q3 revenue $94.2M, $138.9M loss - TradingView",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUxoX3lkSVhzTmZXSHRhTzRFdVJoMTdJUmo4d05YOEZtMXBFTFVJYXZycTJjamdLQ0hnQl9LZnduU3plY1RIZnNfUUdKc2JROEVYTHYyZGlacFhQZ1F2ejQ1S0pGVWU1SVVvNXhLSW90ZVJSSG9WVW5oQk1QTEZRMVlWbG0wMkNWd2FEa2d4d1dDNVlxVUdCR1VTdUp2cGRxMTV0YWUwWTlhajhfMTNVX1czbXRpOGcxdThHbm9B?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-06-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Mars missions",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.nasaspaceflight.com/2026/06/blue-moon-mto-update/"
+    },
+    {
+      "rank": 3,
+      "event_id": "planet-2026-06-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Long Planet Labs PBC Stock Stays Underwater - Trefis",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTHJTZGVWcEdHRmhwdnh1OFBnM2FmQWtWOWxmMEVad0hLeDRLQ01jQldhTDQwYjVRWDk3OFd6aXJkVWVmb19SM0ZRbXdCbkpMVnhzcGp3UENoZVYtakhuN3lQQ0g2aVdPNkdfSnRVSWpKOEdhNjB3cnFRZ3ZaYWFVT3pXOG0yMElqTWZ0Mlkxa00zc0RQbUJBZV9zRE5OQlhMa2JyTWlwSFFxUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-06-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stock Traders Buy High Volume of AST SpaceMobile Call Options (NASDAQ:ASTS) - MarketBeat",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUwxWGlSaDBERFlPU3BPVmJUUHpoOVljQ1VDMUJqS1NpeW5OQTZuaFNLZ2xKb2V2OXlDdzlNWFpGUnM5dXJyWVFGZzRTejZ0cDdscXRsZ3ZwRFFvNGtDTG1VeFotNG1PTHBwVE5pbHhFTUt6WkxqOWp6V1MzZ244NnRBSlhtLUhnYUtIZWQtaEpJbFJHZG05eEtId0ZTRUZtT2JKZ3ZmdXdGZ3FNcU5ySDRCMVBEd0J6a1Bkc2xjcUVyRkVl?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "France to test its own AI-powered battlefield command in June NATO exercise",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.33,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 158,
+    "too_old": 61,
+    "gate1_blocked": 18,
+    "gate2_blocked": 21,
+    "passed": 61,
+    "pass_rate": "37.9%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "A Look At Intuitive Machines (LUNR) Valuation After A Strong Recent Share Price Rally - Yahoo Financ",
+      "Intuitive Machines Inc Files For Offering Of Class A Common Stock Size Not Disclosed - SEC Filing - ",
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+      "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為行星實驗室、AST SpaceMobile相關動態：「Key facts: Planet Labs $1.5B ATM; Q3 revenue $94.2M, $138...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Key facts: Planet Labs $1.5B ATM; Q3 revenue $94.2M, $138.9M loss - TradingView",
+        "level": "green"
+      },
+      {
+        "text": "After New Glenn anomaly, Blue Origin keeps focus on upcoming Blue Moon and Ma...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
