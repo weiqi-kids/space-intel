@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-06T09:58:33.431764Z",
-  "quarter": "2025-06-30, 2026-01-31, 2026-03-31",
+  "updated_at": "2026-06-07T10:24:31.429671Z",
+  "quarter": "2025-06-30, 2026-03-31, 2026-04-30",
   "companies": [
     {
       "id": "ast_spacemobile",
@@ -143,9 +143,9 @@
       "name": "行星實驗室",
       "ticker": "PL",
       "currency": "USD",
-      "ar": 83528000,
-      "ar_prev": 46332000,
-      "ar_qoq": "+80%",
+      "ar": 61605000,
+      "ar_prev": 83528000,
+      "ar_qoq": "-26%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -153,7 +153,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": true,
-      "quarter_date": "2026-01-31"
+      "quarter_date": "2026-04-30"
     },
     {
       "id": "redwire",

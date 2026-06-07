@@ -1,0 +1,178 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T10:24:34.698610Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BI Asset Management Fondsmaeglerselskab A S Has $10.72 Million Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOd1hPdDV2U3B2N1o3OFpGUTVWYXliSHRTdUxEY0NkUXZpbDlXTUZIOExBaW9KcDNlbkhMR2lDUnFQR1pMa0ljNk1Ebno4SWRKQ29DTWVsUUZ4NDFMZmMxbmlUbkdpRmp0XzhrR0RYZGN0cXlEMm5oSGhTb3llODZVRnNsYUpHUzlVVTkyQkNSUTlJT0xuaXVseWZxMXlJWkN1QktsNEhrV1ZpNkNVaGV0SjRIOENlajlKbUVQUk5LR2RVN2FOdlFBeEVETDNNQndsLVRaSUNSODNSc3ltcW1CVDBvRTBaZHI1ekIxYnRvVlZ5Ymc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-06-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies Inc $LHX Shares Purchased by Capital International Inc. CA - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQzlNWVYzZ3hjV1Y2V2NoN29mM3JSVm9GeFFZYTZzaW9OOHhrYWQ0cGRjUEoxOU5SVmlseEg1Z0xNV0ROLWpxZThpQk9lOTFfRkdBN0x3dWFmVDc2dllzNEhwbzlWTDdSMWFDQ01ITXFuVDI0T2E0b3VJZEx6RWl0Y1RKRXplb0Q0UFhmZzNQX3VENUpRYVFldGJhLXJnR0FaejRGVDVaYXM4UTI1Z3VnbUhydHRDVVEtaC02TXBwUW9CWkpvQnFuYW9SLWhRWUFMOGxKaTNR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-06-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies Inc $LHX Stock Holdings Decreased by Clearbridge Investments LLC - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeEcyRE4xbGFvVUIwSUNFUWNYVGMwRmJMZEt4aDdibk9sY2FpdTk5SklXNXB1blJodkdIM1pHOW91MUtkU2NtNTJQeTJ3MlBpaFJhMDc4aDRNTnlLeS1rSEhmdmYzd1NNRm9ldTl0Qng3aGliQUdiOV85TktBOFJ1QThOc0pJV29RRGFhT0tLcFFWUHFwNWZaSGJxdnV4UlhkT0tCTHIxTEVmZE1YSkNfRXVVMzFZQmNuekZSTlpTejgtelpfVkJIblVPaWQzLXl2ZnB6M1d2T09aOXIzalZr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NASA interested in Hubble reboost if costs can be reduced",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could meteor storms harm NASA's future moon missions?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.space.com/space-exploration/human-spaceflight/could-meteor-storms-harm-nasas-future-moon-missions"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 203,
+    "too_old": 60,
+    "gate1_blocked": 17,
+    "gate2_blocked": 25,
+    "passed": 30,
+    "pass_rate": "22.7%",
+    "gate2_block_rate": "18.9%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan",
+      "Why Intuitive Machines Stock Soared by Nearly 73% in May - The Motley Fool",
+      "A Look At Intuitive Machines (LUNR) Valuation After A Strong Recent Share Price Rally - Yahoo Financ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為L3Harris Technologies、火箭實驗室相關動態：「BI Asset Management Fondsmaeglerselskab A S Has $10.72 Mi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "BI Asset Management Fondsmaeglerselskab A S Has $10.72 Million Position in Ro...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "L3Harris Technologies Inc $LHX Shares Purchased by Capital International Inc....",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
