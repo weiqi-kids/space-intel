@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 21,
+  "gate2_fail": 26,
+  "passed": 33,
+  "gate2_samples": [
+    "WINTON GROUP Ltd Takes Position in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "Intuitive Machines (NASDAQ: LUNR) plans up to $500M common stock sales - Stock Titan",
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+    "Why Intuitive Machines Stock Soared by Nearly 73% in May - The Motley Fool"
+  ]
+}
