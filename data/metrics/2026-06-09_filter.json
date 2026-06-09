@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 22,
+  "gate2_fail": 28,
+  "passed": 63,
+  "gate2_samples": [
+    "Intuitive Machines director William J. Liquori Jr. sells $547,248 in stock - Investing.com",
+    "Intuitive Machines (LUNR) director granted 5,948 RSUs, now holds 87,196 shares - Stock Titan",
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+    "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan"
+  ]
+}
