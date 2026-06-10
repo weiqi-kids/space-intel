@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:34:10.538904Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab HASTE Launch set for Thursday morning from Wallops Island - Shore Daily News",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFRQTjFMdFpvZWh1ZDdod2JUUGJFTTN4dnk0UTh4UTF2SFFjSExIWUJPNGQ4VU1oWXFMVkg2M1hXUzNPM1VVY0EyWXlNc20xaWs3eTlnRER6ejVESnVhRFpIaS02c2VIbjdUaWdHdGJfUU5XWGNUVFlOTHd6MWEzVU1LekFIWGJzQVdvLUU2WEc3dUI5UEpSZ1owVDAwUjZMN3R0bldCaWRIdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab, Sterling, and Sunrun Stocks Trade Down, What You Need To Know - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckJ3dnBhYmZ3NXF4ekEwNUNyUUdvSDl6NjNXUkJxZmhZNEpKWGpPX2RlWEJFaXVRQzduSlFsNjM0LVlBWmEzNDZnSFJ6SzJnUDBUZmRnNzNpUVNHSEE1OGJpNndkNVd0U2VOMjhvS0ZvOXlMNElNZjZwT0hfZExJRkw3YTliOFJkMVNleWtHZHBCT2c5X0R3ckVxUlh4Rjg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "J.W. Cole Advisors Inc. Acquires 9,433 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckNjQUZsUG1ybUYycmlhaGlSQkRhZmhFNEMzQ2F1dUR4Mi1mVndGaC1EdjJjendkMFRjLWZPWm1YcVNrS29VTDlndGRWMTNuQ0hGVGtjdFFUSDM0M1JKS0hlMWVOR0hqMGpGRE1YMTFiQ09uZnlxWUh6TDNNeUYxQnFjYmU1UUhaNGNuNWhrSktvaVJ3V25pbjIwRC1QcHoxT19BbDR4dUVnbEQtU3JXQ0FjUENXNEc2eFg2NXkzRnFpTXpvZnN0ZE1DWUE4UQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2 Space Stocks You've Never Heard Of Before Just Won $439 Million to Build NASA Lunar Rovers - The Motley Fool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXU0ZlpleWZ5NG1xVXltS3dvUTdSTkgyOExDMVphWFloaGJoMDhaV2R6blY4bWhLY2dYS1V3NE5hNkVFaWNxQ3VhZjh5UGlUMEJEaGNHM3hlRmc2bFVOU1FnVEJ2UmpaekItdTdkdl9QYjVvQ1BVb1VzaU1wTjE2Qy1sVWN4XzR3QzZUUnpB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-06-10-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Huntsville Expansion And New Defence Partnerships Change The Bull Case For L3Harris (LHX)? - simplywall.st",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDZmV3RETEFxVU1KVEd1eEpqaFI5NkZabzUteHEzS2ZNY3IxTmFpS3h2V01fRzlodWdDd21yNHE0QTRYbFZwSUdhbmZCaUNmeDNWd1J0WE5pQXZDSnJfckZ3NnZmcEgzeTNqMVFra3Nmc2staDFvNVViUWxNemZOcTgtMFZoWXZHT28yeGljOXJQMWxydGpYS1JVbG5lTEZQbUZRT2FMLVZxUnZxdF9wWWs0M0dKOUJ3WG5fbW84VjRrakNPWWhDQ2NSWVNaZW9YdW5LQ3g0V091UdIB3wFBVV95cUxQS01yYWVLcWhoOXBHSVlybjZBWjJnZzZIdWNQSWFQTTlrMjNzdzRGejlnSmlpcVhvY2dnUEJRLVd0ZkhMUTFiazNMQlZhWjM4Wk1UTUVNVGU2b2lCd29lbl9TbE1EaFNudFE4azZPUG1kNVdrempFQ2huVGlnOEVqSjZ4Mks2T1pNRlgxWTV0LWxuZU0zN2pMTldjcUI5M0xoS1E0RmxfanAtQWtCQUdpb1RnV1hjdVdxeHRhVWxnUUZOT3dTTExzRl9MY0pMV1FuekV5OGtabWx6b25RLU1v?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "ses",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 139,
+    "too_old": 56,
+    "gate1_blocked": 23,
+    "gate2_blocked": 27,
+    "passed": 85,
+    "pass_rate": "44.5%",
+    "gate2_block_rate": "14.1%",
+    "gate2_samples": [
+      "Intuitive Machines Shareholders Reelect Directors, Ratify Auditor - TipRanks",
+      "Intuitive Machines, Inc. $LUNR Shares Bought by Amova Asset Management Americas Inc. - MarketBeat",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo",
+      "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan",
+      "Assessing Intuitive Machines (LUNR) Valuation As Investor Narratives Clash Over Future Growth - simp"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「Rocket Lab HASTE Launch set for Thursday morning from Wal...」。主要關注主題為太空產業通用、衛星星座、發射成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab HASTE Launch set for Thursday morning from Wallops Island - Shore ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab, Sterling, and Sunrun Stocks Trade Down, What You Need To Know - Y...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

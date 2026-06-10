@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 56,
+  "gate1_fail": 23,
+  "gate2_fail": 27,
+  "passed": 85,
+  "gate2_samples": [
+    "Intuitive Machines Shareholders Reelect Directors, Ratify Auditor - TipRanks",
+    "Intuitive Machines, Inc. $LUNR Shares Bought by Amova Asset Management Americas Inc. - MarketBeat",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan",
+    "Assessing Intuitive Machines (LUNR) Valuation As Investor Narratives Clash Over Future Growth - simp"
+  ]
+}
