@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 22,
+  "gate2_fail": 24,
+  "passed": 78,
+  "gate2_samples": [
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan",
+    "Intuitive Machines, Inc. $LUNR Shares Bought by Amova Asset Management Americas Inc. - MarketBeat",
+    "Erste Asset Management GmbH Has $1.51 Million Stock Position in L3Harris Technologies Inc $LHX - Mar",
+    "Is L3Harris Technologies, Inc. (LHX) A Good Stock To Buy Now? - Insider Monkey"
+  ]
+}
