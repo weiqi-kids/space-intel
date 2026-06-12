@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 22,
+  "gate2_fail": 14,
+  "passed": 89,
+  "gate2_samples": [
+    "Why is Intuitive Machines stock up 12% today? - Investing.com",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan",
+    "L3Harris Technologies Inc $LHX Shares Sold by Colrain Capital LLC - MarketBeat",
+    "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors despite daily g"
+  ]
+}

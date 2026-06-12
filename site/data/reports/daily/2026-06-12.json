@@ -1,0 +1,230 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:39:29.708247Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-12-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Corporation Joins Nasdaq-100 Index as a Leading Space Industry Player - Quiver Quantitative",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlR0aFdHck9veUZkTFRNY055ZnZKZjQ3OUJfdDM3X0hYcHpnczhNWWFlUWpWR3FvR3UxQnJIVGJZWnVwWm1LZUNabG9Dc01Ic1dTclIxaHlYTFRIWEozQ3JGUmtuaDBscUlqVWE1eUdLd295VUpHcjZpQzNYLXM0cGVmbG5OWVFEOUl3LThJUVVqU2txanR3OHRZcTVKRUlPV24zaGxuWkpsME94UFFJSnhEVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-06-12-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; AST SpaceMobile to Advance, Adobe to Decline - marketscreener.com",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQWVmOU1lSEZDbGtnOTV1Z21qZXRrbU40QWJWQzNXYTdkaXJTYW9MamROYnpoenowNEJKT0R6ODM4XzVFa0pQV1QzdWZiSFZkcjhQR3JnVEdCMGFTUnRMWjVPM19uTWFiT3FqUzJaZnBYMVNPRUxQRWNrcU44T2NuZUJnNHpXeWxwUUttQ1pKUUV2emwtaHNCR2hwRHozZDBTV29MNFRZcWRuendEbHdLN2lqSEN0LVo2SFFCbzdCY3F6eWcyM2RWRkpSVU1CX0EzRG96NnhPWVVvRWNia0hJR05vR2g?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab and these four stocks are joining the Nasdaq 100, with SpaceX waiting in the wings - MarketWatch",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSW9wdlRlTWJXMVlUZFFLelBvaFl5M3lxY09DTFNrR2hMN3BOMjZYNF9PbU5fdmZHTmttSGZucUJqdUhjU01HWmVNS3pYN1huX04yeGlObnN3TnZiOGxCRHN0Y2NubDRVNGsxNVNkcnRMYnAtRnNRMTZ1Q1lvQjVhTUNDUXkzR2diOURhTTR6THRjTUdLYzZfb0x1M1RJUkxuQUw4bzVkVnV2Sy1wVGNyeTA3OWFDQ3M3QUU0N2FTdmJvOTRldlVTSmVFQUNVQUhG?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Joins Nasdaq 100 As Index Upgrade Tests Growth Story - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2RQV0M0OGFLcEd4YktYemdld1ViTnBPTm5Tajl1aFFHclBCa1lrUVRpb3I5ODR5NmZNdVk2a3FMSDBNM3pPSmRzSmtUc19vMzAzdFJadXptQXNnbWZIV3R1czR6ckVxQ04zaWJIUkprLUFtbHR2eGJPTHpPM2x1NVdGTEd3Z1p4aWtsNkNRcTF4ZzV6TGVv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab To Join The Nasdaq-100 Index - GlobeNewswire",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb1JOeU45YzNvY0RNQUVqN0hwU1VkaVo3dlg2a1k4dGpqZlBsM3VLX2tkNkVPX3FST0gwQ3EyUTVvZlZvUkY4LVVSTldXdTMyMVcxRDJObkFWZFR2SWFTRUdRUUpCdlhyc1lVb3RvS21TeUpUVloxMUxnUS10U2k1dDdNVVVaQUdpRVRVV1pwSlE4MHo3LVlXc0cwcllpN0pZNEQ0NUMzZWlIbkhmUEduWA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 28,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 12
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 143,
+    "too_old": 62,
+    "gate1_blocked": 22,
+    "gate2_blocked": 14,
+    "passed": 89,
+    "pass_rate": "47.6%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Why is Intuitive Machines stock up 12% today? - Investing.com",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo",
+      "[Form 4] Intuitive Machines, Inc. Insider Trading Activity - Stock Titan",
+      "L3Harris Technologies Inc $LHX Shares Sold by Colrain Capital LLC - MarketBeat",
+      "L3Harris Technologies Inc. stock underperforms Thursday when compared to competitors despite daily g"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Rocket Lab Corporation Joins Nasdaq-100 Index as a Leadin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Corporation Joins Nasdaq-100 Index as a Leading Space Industry Pla...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Friday; AST SpaceMobile to...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

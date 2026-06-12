@@ -1,0 +1,156 @@
+{
+  "date": "2026-06-12",
+  "date_range": {
+    "start": "2026-06-06",
+    "end": "2026-06-12"
+  },
+  "generated_at": "2026-06-12T11:39:29.857242Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-06-07-008",
+      "date": "2026-06-07",
+      "title": "Here's Why The Rocket Lab, Planet Lab, Virgin Galactic Stocks Are Falling Ahead Of SpaceX IPO - Benzinga",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 102,
+      "last_week": 79,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": 0.03
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "planet": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 19,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "rocket_lab": {
+      "event_count": 26,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "spire": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "viasat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 362,
+        "last": 401,
+        "change_pct": -9.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-06",
+      "event_count": 15,
+      "sentiment_avg": -0.17
+    },
+    {
+      "date": "2026-06-07",
+      "event_count": 18,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-08",
+      "event_count": 68,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-09",
+      "event_count": 80,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 75,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 74,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 32,
+      "sentiment_avg": 0.09
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-06 ~ 2026-06-12）共 362 則事件，重點為「Here's Why The Rocket Lab, Planet Lab, Virgin G...」。行星實驗室情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "行星實驗室",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 19 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
