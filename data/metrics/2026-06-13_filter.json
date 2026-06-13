@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 18,
+  "gate2_fail": 22,
+  "passed": 63,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+    "Recent Developments Could Change the Outlook of Intuitive Machines (LUNR) Stock - Clearance Jobs",
+    "Why is Intuitive Machines stock up 12% today? - Investing.com",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo"
+  ]
+}
