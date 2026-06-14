@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-14",
+  "generated_at": "2026-06-14T10:45:52.290083Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Clear Street Group Inc. Purchases 447,240 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQWdmT29uNDZSY05GNk1iRzVBalB2TzJwXzByYkg3U2ZBMmNGQkJtSUpNU0p6b19zQU45NG1EcW1TRC0yMFQyeHBxZ2dFYV94MkZNZmFhbzRqa01YcjZOYWthVkJKemJqcnpXTkwyWU1aNV9JNC1zVWVpRFNsaFNPcl9HN2F1dkNkSGdVbG93VGNjOGNCN2I3SnNMdmh3NkpNU1hHVDloRm9zamtIT2tfVGUtaDFlTHJxTTQ1Ukw5R0VwdWxZS194UkZ4Y2xKb1lCM2I0aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab joins the business world's most exclusive club, alongside SpaceX - NZ Herald",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFRqZjZscm1sbXhNbU1aRHc0a3RmUHQwU2Z0Mm84anNWdWNMTGYzeVZITHVocUZ5SmhTNm5YYWJPREt0UjhyUzZaTWo4eDM1YkhsM0FaNGlLb3Y2RkxhU2E3cTlBNllQSF9GaXF4UTVDRnBzMU85bWtjQS1SMV9HbXBYOWRTb0cxSC1QaWltS2NreHlBUDI0VVVOV1JYX0VNTk5DYlprOWxTSWVDQ05HTE5nWHV1eG0zMG9odThUV1lLZE5Ga2hsZ3RfZzY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-06-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Adams Diversified Equity Fund Inc. Has $19.20 Million Stake in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMG5RRE5Cdm8xOGtUTS05ZHY0cFpYa3hKQkViWE9mVHlXa1RodUJCMmtqeW84YTFvVnVFbzBIRWhIVWpXVXNLXzhHMTR4QUVOYjFxQlExdXhrVEVXMHRwZ3dvWThzb28tMTRTOGtILWttZmpLcXQ2YjRGcW5QQ2JMMG9DdUsyaWxab3BUVjEzTE5zLW42YUZ3T09hd2FFdVJGWkhHY25EUDNmM2FrcHVoSE1lRUlIVnE0NjRaQm5qdExrRklZOThmYVBGeHBkS016OXNzZ0dZdTZyblpTbnNOQ0tNSTM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "spire-2026-06-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Spire Global (SPIR) Stock After Diehl Defence Missile Tracking MoU Is The Valuation Gap Still There - Yahoo Finance",
+      "companies": [
+        "spire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbkFZUlVQU3JtMVZoN210OFRfcWlBRlB0S05WbmVYT0toWE1wNVdKTHRjREFGaTlZbWd6Z2xVMmdnNTltb05iWkNib1NBMDJ0cXVoMjZ2VlZJeFpjM1NwQnJKeWxhejRNWkRySUppVlI4U0thNVpGQmpKRm81VlpsZXlwNThfeU5BU0s4UTRaVzdvc1QyWjYteGJn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Missile production push runs into solid rocket motor bottleneck",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 207,
+    "too_old": 57,
+    "gate1_blocked": 16,
+    "gate2_blocked": 18,
+    "passed": 34,
+    "pass_rate": "27.2%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "Recent Developments Could Change the Outlook of Intuitive Machines (LUNR) Stock - Clearance Jobs",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo",
+      "Assessing Intuitive Machines (LUNR) Valuation As Investor Narratives Clash Over Future Growth - simp"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、L3Harris Technologies、Spire Global相關動態：「Clear Street Group Inc. Purchases 447,240 Shares of Rocke...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Clear Street Group Inc. Purchases 447,240 Shares of Rocket Lab Corporation $R...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab joins the business world's most exclusive club, alongside SpaceX -...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
