@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-15",
+  "date_range": {
+    "start": "2026-06-09",
+    "end": "2026-06-15"
+  },
+  "generated_at": "2026-06-15T13:49:30.819758Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intuitive-2026-06-09-016",
+      "date": "2026-06-09",
+      "title": "Zacks Investment Ideas feature highlights: Rocket Lab, AST SpaceMobile, Intuitive Machines, Planet Labs, Lockheed Martin and L3Harris - Yahoo Finance",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "rocket_lab",
+      "co_mention_count": 6,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 108,
+      "last_week": 78,
+      "week_over_week_change": "+38%",
+      "sentiment_this_week": 0.05
+    },
+    "satellite_constellation": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 35,
+      "sentiment_avg": 0.1,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 18,
+      "sentiment_avg": 0.08,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "viasat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "planet": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 393,
+        "last": 392,
+        "change_pct": 0.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-09",
+      "event_count": 80,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-10",
+      "event_count": 75,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-06-11",
+      "event_count": 84,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-06-12",
+      "event_count": 95,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 21,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 17,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 21,
+      "sentiment_avg": 0.1
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-09 ~ 2026-06-15）共 393 則事件，重點為「Zacks Investment Ideas feature highlights: Rock...」。太空產業通用、衛星星座、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 35 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

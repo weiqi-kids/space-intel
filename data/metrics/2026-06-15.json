@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-15",
+  "total_events": 21,
+  "by_company": {
+    "rocket_lab": {
+      "count": 9,
+      "sentiment_avg": 0.22
+    },
+    "planet": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lockheed": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.11
+    },
+    "satellite_constellation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "launch_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
