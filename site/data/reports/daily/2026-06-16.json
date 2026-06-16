@@ -1,0 +1,225 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:48:27.448399Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-06-16-002",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: ASTS), And Intuitive Machines (NASDAQ: LUNR) Into Sharp Decline - foreignpolicyjournal.com",
+      "companies": [
+        "intuitive",
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd0RKUVlFdWxDdldKcGZGVGdXb1BQaTUzdGVpN3A4UVVtZmplR2Q3QVpJcGcxYnZmUU52U0lwSE1DWFNqVVo3VEVkY280VG5OX1NSOVNuM3gtVGtWS1Bla1B4dTFEU3hWVVJrRlRnN2t5RGs5bm9fazZNR1FuNnhsYW9ONjhQdjJQczctTVpXOS1lT3g3emRkc3dwakNILTR5eldkR18zb3ZpaGVvYXVKYUZEbkw1MF9FTVRYXy1YU1poT0xkRXluZWZ0c3ZNamQtcllreGZUVWhwTWNldU0zQUFjZWFsamwzcFhrTkVGTW5Pdk1TQ0JGT3ExNGFNd3JNcDBEc1k5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab To Join The Nasdaq-100 Index on the Back of More than 80 Successful Rocket Launches - SpaceWatch.GLOBAL",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "launch_cost",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1loOXpleHhMTnhRcHl4SFFfd0ctanVmVnh0dUh5dUhESVVkUEdjM1Y4cWU1MG1Mb3d1UHl1Zi02SlhDeHduWkJxeDVuQjIwMzhjcVNUQ2Iwai1DUk1vbWVCSzFabkt0eHd1Wi1RVlJhYkpxZVBPdXB6MVZFQ1FTSmpueW5jcElvR3Uyb29UNDFVS1oyNzRUMkxxQTJoNTU3X3JGX2FUSGRIMFJhQ2swTmJObmpBYlluazVGblpGSFNFbjRVZjhWUw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Datadog, Rocket Lab among top analyst upgrades - MSN",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcnhZSEdhOUtVSVMwM3dNbExmV2hoQVhmQ2xoNTdNblFKX1U2c3E4MVN4VWpQaGJKek40Wl9yS2cya2pVNk0tXzA1VEV1UXNPNEhHX0tQRHp0ZWhQUHFySVVJVHNPOGhaZXpqRjBEVkpjeEJDRTBRRXZYLURBMTBIb3ZSaS1fMEtUSVBDQldrU3ZHTFFlWFMtN2RBeTMxcWlIUDlkeFZJNUhmeGNfX0RXQlk5RG1XNHBRWl9jMVVPRU45MVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Stock Could Be 28.5% Overvalued on Its Defense Growth Narrative - Yahoo Finance UK",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelZtcEc2UGVMNmt6VUdjY0Y1MDhJeTlIdG1rOGV4blg5NnN4RnlHQjZwb3JCblFJbjd1b0xzbmxKV1NnWVVhWWM3LXpZVVVjN0lndG1kcGgyLWFhelNiMG1ncEVvUjRfakM4TGNqS3ZxRHVCb25UUTVHRlhBMEluYlNB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aerospace Q1 Earnings: Rocket Lab (NASDAQ:RKLB) is the Best in the Biz - TradingView",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnpPb1dJRzVJMHY1Qzdzd3FrX09DZ1pOTExLNEVHLTIwWjNFTUNTWWkyVVgyM1hWWTJ2UkdKUlozaVRSRGhjbFc3aHVack5xXzd5d2FfUTVCWHZMbERnQTRqT3hkczF1QWNFSGJVVDZWQUF2bXR0akY5RVZXREtkTTNjaVVISnk3SV80ZVhJcHhKNkxJal9SenI4RGFGZWtyVjVVZFJjMC1CT3B3ay1ncDJVd2NzcEpJbVYzR250a0JfcEZsQ1kw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 17,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 161,
+    "too_old": 67,
+    "gate1_blocked": 16,
+    "gate2_blocked": 17,
+    "passed": 72,
+    "pass_rate": "41.9%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool",
+      "Intuitive Machines Expands Maryland Operations, Plans to Double Workforce - citybiz",
+      "Recent Developments Could Change the Outlook of Intuitive Machines (LUNR) Stock - Clearance Jobs",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB), AST Spa...」。主要關注主題為太空產業通用、發射成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: AS...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab To Join The Nasdaq-100 Index on the Back of More than 80 Successfu...（發射成本、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
