@@ -1,0 +1,232 @@
+{
+  "date": "2026-06-17",
+  "generated_at": "2026-06-17T12:12:19.735765Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-17-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Stock Faces Post-IPO Valuation Risks as AST SpaceMobile, Rocket Lab Rebound - Investing.com",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORk1VQm5CMVh3WnZWbkppMWcyV3lmNUFWZjV3MjVjVTJ5NEl5N2NKN2JLcWJQUWtZY29uYXVlY2dTUGFscnlITVcyQVQybEdBc1NieXhhc1MyNDlGamRzQWNvZVJ0dWdRcTRZQlRSMGdoQTNyd2I1THBMVUJtQVFHaUdKU1ZBdmRjZUFOai05RTRuZ3pCVThRSjJ5OFdIbGM1eG44NE9HSlFlZVI0LUJUd0NmTnhobS1NdG1BLVNPMm5PTUk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 exciting space stocks to consider buying that aren’t SpaceX - Yahoo Finance UK",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZWpKcFlYT3pZemxPMHdPMzBiSHI3ZWZ6ak9kanhsd3FiRl9GSjhwcWpZLW5kMmdwWjI2a3pFcGw5TmFXT0NCdzVrY1R1R1cySmFyV3RDbm1PUnBtdDkxV1Z0bVJYY2dZd2F1cHNSaFk3SUo5Tk1OTXJOdS0tTGl2eTZFcnFiSmZL?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab: The End Of The SpaceX Proxy (NASDAQ:RKLB) - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWDN4c3ctZmZvai1GTHZ2d0FCWW9TRDZrTjRGbC02RVFURjZaTUxZVlhwM1ZjQXJ1aTJfSlV2c2tsTkxObUdvajZlRXpkUUxFUnQ1QUVncWJPSUY4R0lfMzY2ZDdnZEprc3RXTm1oVVZBTzJyM0ZMWll0SnBCVFRGSVhCeElydw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Jumps Overnight: Retail Unfazed By Launch Delay Of Rocket Lab's 90th Electron Mission - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSEdaUDBwbjhPUF9jS25iTVRoWkNTcnRzZnRXNEFjUGE5WnlfVkRBNlZMbFVQa3hDTkRuaWZ2N3FzQlV2bWRXSmhOVWRPTUU5RDNmTkpFelZnWGhjRjluczRSNjZZcjNXZEtRcE5OVkcxLV9EUGNUN2IzTTZ0UTcteE9wa1ZiMkFsN0RjVTZkSkFDaFhWdkhtUDZXbWZRamZ0eTJsQlVWeHRtcWRlbktaVzJaOXFRUG9WNGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-06-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axyv, the missile business unit of U.S. defense giant L3Harris (LHX.US), is accelerating toward an IPO, having secured $1 billion in funding from the Pentagon and aiming to raise $2 billion. - 富途牛牛",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTHZ5aUlYNU9QTHhVbDVUYUVON2hPdVZfQ0dBUUt3RFVhY19hZzhqa1FnZWp0alR4czUxX0ZyR0NKTDBzSnhyLTZ5RVNqZG1YSlAtMklWNnVNb1E0M0pIbVBCOVJDRTNDMXo3bW8tUTUxUGFSZmVHODRWaUlFZ1F3OFFEQWRNRGVoaVl0MWgyZGNLZ1IxTm93Z2Y0aEx5bUVCWnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 8
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 135,
+    "too_old": 54,
+    "gate1_blocked": 16,
+    "gate2_blocked": 18,
+    "passed": 106,
+    "pass_rate": "54.6%",
+    "gate2_block_rate": "9.3%",
+    "gate2_samples": [
+      "What's Going On With Intuitive Machines Stock Tuesday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+      "Recent Developments Could Change the Outlook of Intuitive Machines (LUNR) Stock - Clearance Jobs",
+      "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+      "Why Intuitive Machines Stock Crashed Today - The Motley Fool"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「SpaceX Stock Faces Post-IPO Valuation Risks as AST SpaceM...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SpaceX Stock Faces Post-IPO Valuation Risks as AST SpaceMobile, Rocket Lab Re...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "3 exciting space stocks to consider buying that aren’t SpaceX - Yahoo Finance UK（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
