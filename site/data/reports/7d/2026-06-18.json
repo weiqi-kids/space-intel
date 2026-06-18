@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-18",
+  "date_range": {
+    "start": "2026-06-12",
+    "end": "2026-06-18"
+  },
+  "generated_at": "2026-06-18T11:46:39.034632Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intuitive-2026-06-16-002",
+      "date": "2026-06-16",
+      "title": "SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: ASTS), And Intuitive Machines (NASDAQ: LUNR) Into Sharp Decline - foreignpolicyjournal.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "redwire",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 112,
+      "last_week": 83,
+      "week_over_week_change": "+35%",
+      "sentiment_this_week": 0.04
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 37,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 19,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 402,
+        "last": 408,
+        "change_pct": -1.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-12",
+      "event_count": 96,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-13",
+      "event_count": 21,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 19,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 82,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 100,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 72,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-12 ~ 2026-06-18）共 402 則事件，重點為「SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB...」。直覺機器情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "直覺機器",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 37 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

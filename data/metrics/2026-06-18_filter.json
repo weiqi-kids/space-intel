@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 16,
+  "gate2_fail": 20,
+  "passed": 70,
+  "gate2_samples": [
+    "What's Going On With Intuitive Machines Stock Tuesday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+    "Recent Developments Could Change the Outlook of Intuitive Machines (LUNR) Stock - Clearance Jobs",
+    "Why Intuitive Machines Stock Crashed Today - Yahoo Finance",
+    "Why Intuitive Machines Stock Crashed Today - The Motley Fool"
+  ]
+}
