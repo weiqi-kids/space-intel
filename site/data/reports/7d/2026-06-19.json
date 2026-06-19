@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-19",
+  "date_range": {
+    "start": "2026-06-13",
+    "end": "2026-06-19"
+  },
+  "generated_at": "2026-06-19T12:01:18.456475Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "intuitive-2026-06-16-002",
+      "date": "2026-06-16",
+      "title": "SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: ASTS), And Intuitive Machines (NASDAQ: LUNR) Into Sharp Decline - foreignpolicyjournal.com",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "redwire",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 95,
+      "last_week": 102,
+      "week_over_week_change": "-7%",
+      "sentiment_this_week": 0.02
+    },
+    "satellite_constellation": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 27,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": -0.17,
+      "rank": 6
+    },
+    "planet": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 16,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 365,
+        "last": 437,
+        "change_pct": -16.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-13",
+      "event_count": 21,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-06-14",
+      "event_count": 19,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-06-15",
+      "event_count": 82,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-06-16",
+      "event_count": 101,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-17",
+      "event_count": 76,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-06-18",
+      "event_count": 52,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-19",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-13 ~ 2026-06-19）共 365 則事件，重點為「SpaceX IPO Surge Sends Rocket Lab (NASDAQ: RKLB...」。太空產業通用、發射成本、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 27 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 3 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "行星實驗室",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
