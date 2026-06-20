@@ -1,0 +1,190 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:28:38.234338Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "9,176 Shares in Rocket Lab Corporation $RKLB Acquired by Fund Advisors of America Inc FL - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa3ZrazRWUVl3bE5yVzNfSnVISXROb0otRmFEVERQRTNLV0szS3BFZk9sMUR0R1hKdk9qelV0RkJ6TTA5QVN4cVdFT3B1cEFrRmo1NkQ2M0hEUFZvVUMwT3RNUFFPU0N0eFJnNE5mS25qMmlIOUdWM29TdVNsMWpUYnpqa3NiZVpPamoxYjBDU21UMzJMbTV2dEZRM0VhWmpMbVhwZUMwRmV2RTN1N190bnVSb0E3MUNnRmYtd1RDMlBtaGswaG5MSFNQM0NPUXFqMWVRVFRfZFBOU2pVVnQ4eQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation $RKLB is Caitong International Asset Management Co. Ltd's 4th Largest Position - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNUNYSGtyU3g2T1J5MnR3dEdsUXYtb19XbGozdTZxaS1rUDF0dVBFakNIVE5OZlZmd3ZYZi1LZVplQ0RrUmdZSmgtOVVpcnNpU1ZrMVdDdnd3OTVFekNFWkJqOENiT2E0R3F5Nzdwdkpwb2JCQmh1NlQ2NzhLY1JUazRuY0RIellMUGtYTm1Tc0paMEhDWXVBWHUzTC1oOHI2N2gyeklROWxXVXZKUk9zdGVPTW1XSkpqWHZYaVJTM203UGEyRVZYRGh5MGw1aGlSTEhGTTdyWW5EQUVCUUdtNlBGWXNiRmJ2MEV5WXNLaWw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-06-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines (LUNR) Stock Price Faces A Valuation Test After SpaceX Rotation - Yahoo Finance",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRmtwcjNoaTRyX3VKRnhmMk4waWdwdGpTQ3dLUUsyUGY4aXlqanlMNWxwZGVpbDQ0SUQyVThoMkpNZTZQNDI5SjcyVVp4ZTZJQVB0cmNLbUlwVFlmZ0JwRnM0YnE2U0d3QmdxeUt0LW0yRDJEN3hoMktsT2RSZzB0cVBUdllUdG9McXg4V2ZmSHZDelpMYXJkUnM2YlA3eGNvU1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-06-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Does Intuitive Machines (LUNR) Equity Overhang Undercut Its Push Toward Recurring Lunar Infrastructure Revenue? - Yahoo Finance",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEsyM3FxeGVmR3h4MXZMNWRjY0QzbVI4dHloSDljT096bjN4MVJObW9oVVgtd3MzQXpieUZjVDVXQnRzR2gxV1pWbFdTbTJBWTlHN2p2YXN3TW9kcGhOOVhISTdZVm9Oa081WVJRaDdCcWY4UUxadUg1d3d6T0p5aUlrVS1fckhLM1VVbUE4MS13eXF3VXBxZENjZGc3eHpWeXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-06-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Planet Labs (PL) Lands Two NGA Awards For AI Geospatial Analytics - Yahoo Finance UK",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RWDlKWkxpanl6Q1R4aV9pVmFzcGx6cmZiblhITXk3T3BPRlNTNElDYXN3V1U3UDFZVUI0TWhSUm5seEN3M1ZUYXM2aW9Zcnl5WDNES1p3dWxyME9hSXNrSTdKTFFKSmd6c1hXWWhIMUdGLWFId3REWlZINE1xUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 182,
+    "too_old": 52,
+    "gate1_blocked": 24,
+    "gate2_blocked": 20,
+    "passed": 54,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "13.3%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Stock Could Be 77.5% Below Fair Value After Recent Pullback - simplywall.s",
+      "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+      "L3Harris Delivers VC-25B Aircraft to US Air Force - Business Wire",
+      "Skydagger partners with L3Harris to integrate interceptors into VAMPIRE C-UAS system - Türkiye Today",
+      "Why is L3Harris Technologies stock sliding today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為火箭實驗室、直覺機器、行星實驗室相關動態：「9,176 Shares in Rocket Lab Corporation $RKLB Acquired by ...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "9,176 Shares in Rocket Lab Corporation $RKLB Acquired by Fund Advisors of Ame...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Corporation $RKLB is Caitong International Asset Management Co. Lt...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

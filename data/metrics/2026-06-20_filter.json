@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 24,
+  "gate2_fail": 20,
+  "passed": 54,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Stock Could Be 77.5% Below Fair Value After Recent Pullback - simplywall.s",
+    "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+    "L3Harris Delivers VC-25B Aircraft to US Air Force - Business Wire",
+    "Skydagger partners with L3Harris to integrate interceptors into VAMPIRE C-UAS system - Türkiye Today",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com"
+  ]
+}
