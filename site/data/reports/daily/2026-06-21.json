@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:12:12.925286Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-06-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - Yahoo Finance",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDNVMVVNXzdjY2pNVjJ1OHItS2h6VWY2ODVlS0JlN2Q5Yi1jZ3hjbnc2MHRlcVQxalAwd3paTXdRRWVkZWxSeklWbmt3TGFLeHlRSUtXRUVrc2hVaFRjekp2SWVvOW14WDRjQ0lEOTExdHIzT1plRmhrZXQzS0V0LWpndEI2ZTg1OXdnaDNPR1hiR0dwd2Z0c1dkd0hiUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 225,
+    "too_old": 51,
+    "gate1_blocked": 25,
+    "gate2_blocked": 20,
+    "passed": 10,
+    "pass_rate": "9.4%",
+    "gate2_block_rate": "18.9%",
+    "gate2_samples": [
+      "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+      "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+      "Up 18% in the Last 12 Months, Can L3Harris Technologies Stock Give Better Returns in 2026? - TIKR.co",
+      "L3Harris Technologies Inc Stock (LHX) Closed Down by 5.86% on Jun 20: What Investors Need To Know - ",
+      "Why is L3Harris Technologies stock sliding today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為直覺機器相關動態：「Intuitive Machines' Big Cash Grab Isn't as Scary as It Lo...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "直覺機器為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

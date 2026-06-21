@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 225,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 25,
+  "gate2_fail": 20,
+  "passed": 10,
+  "gate2_samples": [
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+    "Up 18% in the Last 12 Months, Can L3Harris Technologies Stock Give Better Returns in 2026? - TIKR.co",
+    "L3Harris Technologies Inc Stock (LHX) Closed Down by 5.86% on Jun 20: What Investors Need To Know - ",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com"
+  ]
+}
