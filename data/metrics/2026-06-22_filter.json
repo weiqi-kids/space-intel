@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 24,
+  "gate2_fail": 17,
+  "passed": 38,
+  "gate2_samples": [
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "What Sparked Intuitive Machines' Recent Stock Plunge - Kavout",
+    "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+    "Up 18% in the Last 12 Months, Can L3Harris Technologies Stock Give Better Returns in 2026? - TIKR.co",
+    "Why is L3Harris Technologies stock sliding today? - Investing.com"
+  ]
+}

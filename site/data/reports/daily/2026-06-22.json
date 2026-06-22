@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T13:29:09.841048Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boeing-2026-06-22-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "L3Harris delivers new aircraft for Air Force One fleet, made extensive upgrades on Boeing 747-8 - Interesting Engineering",
+      "companies": [
+        "boeing",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsSVRtUUVqd295UWJVczJYN2RienJrV1AzYXp5T1FCaUdsbl9UcnBTcG9zT0lBMnpSd01JRFluUFpXN2FlT2VsZHVnU29nN2VuZThtdDRVWUNWLWs2Wl8zOXRwUnp6TFJ6RGJ0b0xKaGo1VG9KTnhWTEQtUUM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Just Added Motiv Robotics And Sent Another Synspective Satellite Up - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkYxYXlfc2hGWmxxYWNQOEpGeFpPWm45QkZhRHpCV0RUZy02RFdDdkpnVnJiWmthNUlUM1o3Q1pXUF9XaFk0VkN1R3pUXzUtNHZFWWlYQzdubWpIUEtyRnowMFR2eVhnUUhBZlVMcEYycDVDNS04MmExT1VlVWZWeHVJVVF2SWZqQzF6UldfSjlPS2U1SEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock In Focus As Company Officially Joins Nasdaq-100 - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHR6WXRPbXRnLWY1Vm9XUHhuNllLMHBJZnRncEExUEw1MDZvaXZfV2lKLUhCZGZOWHlGb1VUMGEzNjUyVWkydXRGVWVJcEJHMXhUTUJkQUNsSms1azVzT1A4QnE3MnNnbFl4VlZGNTE3YXlwbElMLVplRGE0NklCc0NUdmZ3dFRrcW9YUHJ0cUFZSzZFdmxtM0RkZUNXQ2tRUjdiQ3pSWV9pUXRQNHB5RktfQkwzeDZMX3pnQlFEYWpHTTQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation(NasdaqGS: RKLB) added to NASDAQ-100 Index - marketscreener.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjdoVjQ2MDh2aENlcGROTlpab1lvVmlBeGY4TWVlM29kVHlWUE4wSkN1RkVEX081T3lKTGpKdXI2TmszOVN1QzdrNDNURzJ3MWt1cDRZZXhZb2xEYWV5S1Q1OHhvcFZqcEZPNk4yYTFFaDBISTEzZnVJdDZuMi1XWTNyMEtaRWJkQ3BqaWYxeE40dHRPVTdDRy1DTWFIa2NmZUtwNkw2NUhhenRrRXNidWZiTnRGQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation $RKLB Shares Acquired by Hsbc Holdings PLC - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTFF2dWJWUmhtZzhNTXZLTnVDRHVOanA4UWtZVzh1OWVCYzFzZk5YQkZZbWhuVy1sYmwwclRjclBtTTQ0bUM1Y0NtRFhoN2NNZHJ5eUFrT3Fpa2QtNXk5RmJrQXlLY1NldWZLbklUSEliZkJEYUU2RlA4REw3M0s0VXo1Uk5vRWVqWVNWNGh4ZVJ2UXlHSzh5MHdzdG4zamg1UGttRS1mT0w0ejRoc0tzN0FrcTMxYy1GNlQ4VmJxdmNiYk0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "boeing",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 184,
+    "too_old": 48,
+    "gate1_blocked": 24,
+    "gate2_blocked": 17,
+    "passed": 38,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+      "What Sparked Intuitive Machines' Recent Stock Plunge - Kavout",
+      "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+      "Up 18% in the Last 12 Months, Can L3Harris Technologies Stock Give Better Returns in 2026? - TIKR.co",
+      "Why is L3Harris Technologies stock sliding today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為火箭實驗室、L3Harris Technologies、波音相關動態：「L3Harris delivers new aircraft for Air Force One fleet, m...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris delivers new aircraft for Air Force One fleet, made extensive upgrad...",
+        "level": "yellow"
+      },
+      {
+        "text": "Rocket Lab (RKLB) Just Added Motiv Robotics And Sent Another Synspective Sate...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
