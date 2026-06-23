@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 52,
+  "gate1_fail": 26,
+  "gate2_fail": 21,
+  "passed": 64,
+  "gate2_samples": [
+    "Intuitive Machines Expands, Relocates to 69K-SF Building at BWI Tech Park - Connect CRE",
+    "What Sparked Intuitive Machines' Recent Stock Plunge - Kavout",
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch"
+  ]
+}

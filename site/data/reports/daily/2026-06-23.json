@@ -1,0 +1,229 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:57:28.148847Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-23-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "RKLB Stock Slides Overnight: SpaceX Selloff Dulls Rocket Lab’s Record 16-Hour Space Force Mission - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZjVkU2NsN0ItbHkyTzd2WVVuLU83QjA3cmNHaGN2ZlNrNWtXTzExd0ZVczNuU29DS0l4ck92eUpSZUs5dHk4Q05KMHVCWEVHMnA4clZBUTlfZDc0am80R2MtbmtEZXo1QzNEUE1oeVcwUmVHUUp5QXM0X2xyZzBNdFBBVF94anl5THVNOFpWeFQ0b1ctVnZ0MGVtcFNwbHh1?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-23-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Shatters Responsive Space Record: Launches USSF VICTUS HAZE Mission in 16 Hours 42 Minutes - ASDNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUUhtT1BlN3o3TWJmU1R6OGRLRVR3WUJGa2lheHJUU082ZjFRZEJ1dXdJNzFjSjdNbkg0UWJyZGs3MEt3NFVGWUFQaHhOZHdNRVFGa29rUnMyMlNjbkNiSWlOalpELU9VYnFJclpRZHhHeHJmbmhkQlFvUDhqVEp5YndlaThIdWNVTWw4RDhZWGxhZ1REWEtsSkg0XzJnNmhmSnR4YmRlN09DU3A3YXdGVW9fQ0o4X1JWUEF4aUxQc0Jock0yUmwtSlVzODBndUZkRU83NkJsei1EQlNmSExCbA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GM In Discussion With RTX And L3Harris For Munition Production Boost - GM Authority",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWEpzMV9lWWk2RUZEbTM0ODhOQ1VrVmNTaU1tWkRQQlp4bjY3NXV3RFkzbU9oYWxqdXNLV3dsanBNODJSUlhhcjU0M0xpXzRTYTVjY1p4aXdjaElhVHh0MnlFTTdVc0F1dmV5NWxkZHpSVkl1NzI2TFkyQlpFdFlhdzNlbGZUUzM5aXQyZWIxQ0Vxc2cyTEt2TWxtblhCY0dMMWZROWFzeEVnQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-06-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX IPO, Florida launch sites and AST SpaceMobile headline space newsletter - Florida Today",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQNi1JNmE1QjdqeGE5Q005U0ZYdVZDUEhRVTR3Q0hyWlFDQVdWNWxPQlNWRzF3SFl1OFNLV2xpOE9fSlU5aEoyU0psUV9MYjRxNFUyb1F1Y2RGaWh3ZTRVaUZ4MFpHQ1hid2U0NHdOOVdNMzV5eVViRjFwWmxvQ2l3clB1MTdETjhWbU4xNzY1TTF4UVVVT1V4V0xoeUpMeDBRd3FQck1xR3N2akIzVi1GRVR5a25PRUc4UXhhTE1RVnhDeG9lRFkzcmw5RGMzNFhvTGZwdFM2SWpwTnNCY0NkR1lrMEtsbllYVThRVGVTY2RaN05ocFZXOEFxVW5BeWc3U2tB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (NASDAQ: ASTS) CEO’s entity inks $146.7M prepaid forward on 2.5M shares - Stock Titan",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYzNLTGVjWWxHT09IZ2JmRm1rc0dROVhMVDB5Mkk0TTZ3MWFvSVdpdVFiMnZlU0hwdXJucXdreDNlM3dIZWNGX0pPSlhoREUtQ2cyUkswRC00YjYzNk1VbUJSTTN1WWxsWDJyb21HMUczTGpoMDZBRzhEdmdtSkgzYmlJdUJRSUtieVZnOUFNaVNZN21BVTI3ZkRnUHo2bUF2T1BJSXo4bTFDYXpZeUFDbG5TUW4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.18,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "boeing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 168,
+    "too_old": 52,
+    "gate1_blocked": 26,
+    "gate2_blocked": 21,
+    "passed": 64,
+    "pass_rate": "39.3%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Intuitive Machines Expands, Relocates to 69K-SF Building at BWI Tech Park - Connect CRE",
+      "What Sparked Intuitive Machines' Recent Stock Plunge - Kavout",
+      "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+      "Why Does Intuitive Machines Stock Keep Going Down? - The Motley Fool",
+      "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「RKLB Stock Slides Overnight: SpaceX Selloff Dulls Rocket ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RKLB Stock Slides Overnight: SpaceX Selloff Dulls Rocket Lab’s Record 16-Hour...（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Shatters Responsive Space Record: Launches USSF VICTUS HAZE Missio...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
