@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 62,
+  "gate1_fail": 20,
+  "gate2_fail": 15,
+  "passed": 63,
+  "gate2_samples": [
+    "Intuitive Machines lands $1M grant to expand robotics operations - InnovationMap",
+    "Intuitive Machines Expands, Relocates to 69K-SF Building at BWI Tech Park - Connect CRE",
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+    "L3Harris' NSA-Certified Crypto Keeps MUOS Battle-Ready for the Long Haul - ASDNews"
+  ]
+}
