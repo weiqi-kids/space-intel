@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-25",
+  "total_events": 14,
+  "by_company": {
+    "rocket_lab": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "space_defense": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "satellite_constellation": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "launch_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

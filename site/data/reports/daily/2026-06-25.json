@@ -1,0 +1,237 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:37:01.521386Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Rocket Lab Still Matters After SpaceX - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZmFBX2lDUzNQUmxtd3hKSlNiVlZzbnZNLVc2elhEREFJRGpzTUVvc0NUUGhFbGRPS1BEMEdzTURndEpoMFd4U0R1elFwOXJtb2JPZDJjT3hJQkowbnVZTllWa0JaQnQ4QXFXcmVoanpjeVY4VklnMFZtajFxYmdNTERxUno4RlZrYWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Jumps Overnight: Rocket Lab Says Electron Production Line Is ‘Pumping Out A Rocket Every 11 Days’ - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV2xUOVFMSWZaM1IxX2VfZ0d6T0FDbHF2cVBtT0REUzBLT2J1SGdCdnc1bGlKSDNMZ0JxS2VqSmNkYXpXV3JmcE00MmlURnBVa2hlWndVajZaZmowOUZjUk5vM3BzemFwRElNYVhwVjhWVzcwMkVmLUpvUHJwSmU2RFd2UUdOSVN4MGlMd0hOUUxibHRVQWs2VlAwaVVwNngya2NXaE5HNndidm1hai0xWU81MFpNdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Space Force Victus Haze Proves Launch On Demand - Aviation Week",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1pLZVlNa1pDVHRNZThpV2otNEk3a2ZfZlNnaXdQMkNZWGtBcnZNX3RVNnI0eHJzeEdYaHRYd2t0N2g3SUQ2VXVWaE5tblJyS0VIeGlLVkF5QmFZcGlOSXNkOGZueXBreU9hakdDbHNiYmZEdnRob3hLRHZPaGgtam5IT0JINWk5Znd1WW16LTUyRVpFU25qTTJ0Z1ZONDJONF9Ram83eGI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-06-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris blindsided by Ottawa bypassing competition for surveillance jet contract - CBC",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdEhQSUtvQUpOUDRmSnNPWVFpNEFfa1dnX0k4bGZNakQxUHltU2F5RzhsakgtdjhtWnROQUFlU1Z1aEJXSVEzUmdKNTRnYVpOQmYwVXk5SnhZQkVITmZHLWF6NG5tbjFSdUs4Zi1QaUszQ3p2YVBsT1p2bVR0eWtNeDU3XzF2UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-06-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Planet Labs (PL) Quietly Rewiring Its Moat Around AI-Driven Defense Intelligence Services? - simplywall.st",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQVBWbTh3UEYtVjFTVEF5MHNXd0ZQRkpwbVNBTENsc00tOGF4MXpxOGhaTlZ6NDBlMDY3ZFNxXzJERmdieVB1Y1hyUmtlazBiWFBaaHJQZWhKM0FwX3dIOUF0d1VYSGh0RktJZW1XUEdJSnpDYURWSmlTcVJkSUt0UTNEZmhxbFVNUHZwTmV2WjhieUp5c1BCZGRxRXZnT1pyOE9Ca2J2VDNTZW8zSGdNMTUzMTFIRzZEeWRrQjNBWFJCZExNcHgtZ01UY1Itbi1ZV2xZZTVQUDVaNFRiZlHSAd4BQVVfeXFMUEFQVm04d1BGLVYxU1RBeTBzV3dGUEZKcG1TQUxDbHNNLThheDF6cThoWk5WejQwZTA2N2RTcV8yREZnYnlQdWNYclJrZWswYlhQWmhyUGVoSjNBcF93SDlBdHdVWEhodEZLSWVtV1BHSUp6Q2FEVkppU3FSZElLdFEzRGZocWxVTVB2cE5ldlo4YnlKeXNQQmRkcUV2Z09acjhPQmtidlQzU2VvM0hnTTE1MzExSEc2RHlka0IzQVhSQmRMTXB4LWdNVGNSLW4tWVdsWWU1UFA1WjRUYmZR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 3
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 144,
+    "too_old": 58,
+    "gate1_blocked": 26,
+    "gate2_blocked": 13,
+    "passed": 89,
+    "pass_rate": "47.8%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Intuitive Machines lands $1M grant to expand robotics operations - InnovationMap",
+      "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+      "L3Harris Technologies (LHX) Stock After Recent Pullback Is The Valuation Now Attractive? - simplywal",
+      "L3Harris updates on C-130H modernisation, Skyraider II, autonomy - Janes",
+      "If You Invested $1000 In L3Harris Technologies Stock 20 Years Ago, You Would Have This Much Today - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「Why Rocket Lab Still Matters After SpaceX - Seeking Alpha」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Rocket Lab Still Matters After SpaceX - Seeking Alpha（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "RKLB Stock Jumps Overnight: Rocket Lab Says Electron Production Line Is ‘Pump...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

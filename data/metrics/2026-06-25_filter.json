@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 58,
+  "gate1_fail": 26,
+  "gate2_fail": 13,
+  "passed": 89,
+  "gate2_samples": [
+    "Intuitive Machines lands $1M grant to expand robotics operations - InnovationMap",
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is The Valuation Now Attractive? - simplywal",
+    "L3Harris updates on C-130H modernisation, Skyraider II, autonomy - Janes",
+    "If You Invested $1000 In L3Harris Technologies Stock 20 Years Ago, You Would Have This Much Today - "
+  ]
+}
