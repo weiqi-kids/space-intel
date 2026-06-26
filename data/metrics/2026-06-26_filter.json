@@ -1,0 +1,16 @@
+{
+  "total_raw": 324,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 27,
+  "gate2_fail": 11,
+  "passed": 71,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance",
+    "Communications systems to be supplied for German forces by L3Harris - Military Embedded Systems",
+    "L3Harris to Provide Communication Systems to Support German Forces - ASDNews"
+  ]
+}
