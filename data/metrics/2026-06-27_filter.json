@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 23,
+  "gate2_fail": 10,
+  "passed": 61,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+    "Intuitive Machines lands $1M grant to expand robotics operations - InnovationMap",
+    "Intuitive Machines' Big Cash Grab Isn't as Scary as It Looks - The Motley Fool",
+    "L3Harris radios made in Monroe County to support German forces - Rochester Business Journal",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance"
+  ]
+}
