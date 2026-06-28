@@ -1,0 +1,137 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:23:13.769974Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Could future astronauts use oysters as water filters? Here's why one company thinks so",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation",
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 213,
+    "too_old": 63,
+    "gate1_blocked": 22,
+    "gate2_blocked": 11,
+    "passed": 24,
+    "pass_rate": "20.0%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+      "Diamant Asset Management Inc. Acquires 356,195 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance",
+      "L3Harris radios made in Monroe County to support German forces - Rochester Business Journal",
+      "If You Invested $1000 In L3Harris Technologies Stock 20 Years Ago, You Would Have This Much Today - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為太空產業通用、衛星星座、太空防禦相關動態：「Could future astronauts use oysters as water filters? Her...」。主要關注主題為太空產業通用、衛星星座、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Could future astronauts use oysters as water filters? Here's why one company ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Forc...（衛星星座、太空防禦、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,43 @@
 [
   {
+    "id": "unknown-2026-06-28-001",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Could future astronauts use oysters as water filters? Here's why one company thinks so",
+    "summary": "\n                             A prototype oyster habitat used for water filtration is aiming for an eventual space launch after an early-stage prototype was demonstrated to the public earlier this yea",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/technology/could-future-astronauts-use-oysters-as-water-filters-heres-why-one-company-thinks-so",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-28-002",
+    "date": "2026-06-28",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Live coverage: SpaceX plans Sunday Starlink launch from Vandenberg Space Force Base",
+    "summary": "The Starlink 17-40 mission will add another 24 broadband internet satellites to SpaceX’s low Earth orbit constellation. Liftoff from pad 4E at Vandenberg Space Force Base is scheduled at 7:36 a.m. PDT",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/06/28/live-coverage-spacex-plans-sunday-starlink-launch-from-vandenberg-space-force-base/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-06-27-001",
     "date": "2026-06-27",
     "companies": [
@@ -73,6 +111,234 @@
       {
         "name": "ast_spacemobile",
         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLVh6TG9abjBKYmVGQmlaYTIyMkhqdzBCdDBYcDBxa2hDS1lPUGR2SHVLbEgxZldpNWRMZmdfNVRuM2NwX3ktYUp3QWUyakZ6U19HYThTUDhVZjE2OXNrbmI2d2gyZ1YzUmFNVHFSRVlRbGlYdW9iQ1EycllpSEtyTDRwclBZQWgxWnNkRldVZ3JWZmpMZmREUHpkX2RNUklhTGpXTVJ2UFFNbjh3cDVQbklzM0NzUkNTSk5VUlV5bWFpVmpGTVJ2Ui1kYlBXWE5pZEVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-27-005",
+    "date": "2026-06-27",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab: The Bear Case Has Never Been Stronger (NASDAQ:RKLB) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1NBRnpPNm5fQWEzQmZ5TFRPX3dQN1dRUFhVc2dUSmlfT0pTR0hkOEh6TTNNTEttMXVoLTVxalF1dFgtbmRYc2pYRV90WVlIb3hNLWtfRnlGbWwtOWZnczRnYzc1SEdfbUcwX25QYm",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1NBRnpPNm5fQWEzQmZ5TFRPX3dQN1dRUFhVc2dUSmlfT0pTR0hkOEh6TTNNTEttMXVoLTVxalF1dFgtbmRYc2pYRV90WVlIb3hNLWtfRnlGbWwtOWZnczRnYzc1SEdfbUcwX25QYmloc0JpcFl1V2xRVlU3ZHM2SWJvdFhjcFZ5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-27-006",
+    "date": "2026-06-27",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Stock And 2 Aerospace Defense Shares Worth A Closer Look - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVNrcmxLVTRlWWpKRFRaZDgyVTJOSEdmcnFHMHZjX1BXaGN6aU9Da1lWYk9kZWJZTU1zbTlOMHlHWnV1NDdBUnNUWUFjQ2gwUVNtVmN5cDdXVTY3WERrTnZkZUpEaHNXVFBBY3lUY3",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLVNrcmxLVTRlWWpKRFRaZDgyVTJOSEdmcnFHMHZjX1BXaGN6aU9Da1lWYk9kZWJZTU1zbTlOMHlHWnV1NDdBUnNUWUFjQ2gwUVNtVmN5cDdXVTY3WERrTnZkZUpEaHNXVFBBY3lUY3UtZlVyUzBjUEc0bjJrNV9JLW91Q01zYWtXcXZUX1hxdkZ4M2tVQ0RLbTVBR3dPVzktdUhlQXVYWGxheTRZUWFjMGViYUFXOGhjYTU2dWtLbTA0cGxNTHp4M2hR0gHPAUFVX3lxTE5hUFVkNzdRTmk2anV5dnJBSTJrOWR6d0RaeWpsTDN3SV9fUkVaS0RJbXVhNEQ5UEd5bEJZWWxoN2R4dEJxMkJBMW5lM25TMi11UW5DMXFjbS0tbVU4bVVEdXlKMkl1VUtzazBuU3hGVzFVc3dvNHV2SExwSUR6NVBWNVFnZDg2MjFWbEZiS2NwcndtenlNckRFdjRLNk12QndRVUhTcE4ySmtMYk9GTGs4M0dXZVBhMmpSQ01qWWhfWmJLOFlHVXp3V042QVJrQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-27-007",
+    "date": "2026-06-27",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Stock (RKLB) Opinions on Recent Price Drawdown - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhLQ2VaUVZ4V3N5N1VBWGVkaEFSU015MUM0ODkzZkc0WUxUT1NNMVFTMDZkNjBTVm1RdEM3ejloOGlWODBXaUJmenNFcUQ2V2xHWDhfM0dOLVRqUEgyR0E0WFloR2dzaDB6MFdENj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDhLQ2VaUVZ4V3N5N1VBWGVkaEFSU015MUM0ODkzZkc0WUxUT1NNMVFTMDZkNjBTVm1RdEM3ejloOGlWODBXaUJmenNFcUQ2V2xHWDhfM0dOLVRqUEgyR0E0WFloR2dzaDB6MFdENjBQRVNBUktQanM3QXgxTkpMb1ltZGdmMTVVRnpQRGtzdDBUcU95U0lZeDR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-06-27-008",
+    "date": "2026-06-27",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What to Know About This $3.3 Million Intuitive Machines Insider Sale as Space Stocks Heat Up - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZWZscFJ4UmhSSGhlcWlublFBQ1J4QlN2emNQLVR3LXVHM0FtNWJ6bk9lNDBoa2RuNDl3bWFadmF4Zi0xRUUzUWNuWFZOSG1lNWhWYWJPZFhuNnFIUHRodWVBcjhBRG1CRjNDeUc3Z1o4Rl94cm9LNUxCa1hXcGFLdktjTWphcDFVaVcwWldsbHQwTmE1dE1nWlZjSzcwd3hOOWlKdEU4NUY2dG1HdDZlUWtZa1VCMTZ3VXZsNWpPdXdLb3pjSWNXMFpBamFGbXZKMkFTM1lmMmZ6NExs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-009",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The SpaceX IPO Lifted the Whole Space Economy -- Including the Public Companies Building the Road Back to the Moon - Investing News Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1lNSndkOUFqTk5oT0dETTBxdzFKd291VUJYRDdQa01TbnJyTEJ1Z19vdlV1ZzNsNWhQcG9WTGx3dFZsUThBa3M3YWxRWGhYbHBjN0I1cXVndnRoSGp6ZDFPV2ltSnRESi1rMUx6TF",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM1lNSndkOUFqTk5oT0dETTBxdzFKd291VUJYRDdQa01TbnJyTEJ1Z19vdlV1ZzNsNWhQcG9WTGx3dFZsUThBa3M3YWxRWGhYbHBjN0I1cXVndnRoSGp6ZDFPV2ltSnRESi1rMUx6TFQ5TnNHTjM4RnZoV1dsRXBuMzhCX1ZlZHBFMEdPd28tZzFTQUVZSmtKajhFUDdEMEh5blhGbWxrRjdwNl85ellqc2pGRGRXaDlCYnFxejFHeU01NDVzaEJlU3ZEU2dCSkF4WGV5Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-06-27-010",
+    "date": "2026-06-27",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Intuitive Machines posts record revenue and $1.1B backlog amid lunar economy surge post-SpaceX IPO - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlZmQ0hQTC16MHJPVE9kNVlQRWk4SHJ2bld5bG9XVXhMaU5iQ2tjMHZPcVpDeEh6Z182UnlBN2JXemdZbER4eVc4NE9VMGlLZlVzMVJYSFNSREZFXzdsMFQ0X3RBdC10ajlubEM5cX",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVlZmQ0hQTC16MHJPVE9kNVlQRWk4SHJ2bld5bG9XVXhMaU5iQ2tjMHZPcVpDeEh6Z182UnlBN2JXemdZbER4eVc4NE9VMGlLZlVzMVJYSFNSREZFXzdsMFQ0X3RBdC10ajlubEM5cXpJM2NpZnNYYWdJbEQxZXlQZ2d3R183ZUFXakUwd3hXRkNfXy03V1BLb3pBbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-06-27-011",
+    "date": "2026-06-27",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Price to earnings forward of SES SA FDR (Class A) – EURONEXT:SESG - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcldzaWwyTVk3UzZ3Z3Jpand5RTVhMGJrN3QxSkZDZ3J0cG1ObDZvN0ZYYWxJYlRUS19CZ1c5b2kydGVqYkpOMU1SNzQ4MlhoNE0xSVdqbHlic1ZheGtqQUxNcU5ncjd3NGZNOFBUek",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcldzaWwyTVk3UzZ3Z3Jpand5RTVhMGJrN3QxSkZDZ3J0cG1ObDZvN0ZYYWxJYlRUS19CZ1c5b2kydGVqYkpOMU1SNzQ4MlhoNE0xSVdqbHlic1ZheGtqQUxNcU5ncjd3NGZNOFBUeksxWjVOcXc1WHFLNHpKdEZ1N0hTcVNjdWxkRUxSVlFBNVJwUEhPSVNETUsxODNTUTBBelNOMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-012",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week In Space podcast: Episode 216 — Dark Matter Intelligence",
+    "summary": "\n                             On Episode 216 of This Week In Space, Rod Pyle and Tariq Malik talk with physicist Dr. Daniel Whiteson about other intelligences is beyond our scope. \n                   ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-216-dark-matter-intelligence",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-013",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceCamp at 40: A wish-fulfillment fantasy brought down to earth by NASA's real-life disaster",
+    "summary": "\n                             After the Challenger tragedy, nobody wanted to see a film about five kids on an adventure in space. \n                                                                     ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-movies-shows/spacecamp-at-40-a-wish-fulfillment-fantasy-brought-down-to-earth-by-nasas-real-life-disaster",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-014",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blue Origin plans to fly New Glenn rocket again this year despite massive rocket explosion (video)",
+    "summary": "\n                             After its rocket explosion, Blue Origin wants to complete repairs and put another New Glenn on the launch pad before the end of 2026, according to CEO Dave Limp. That's v",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origin-working-around-the-clock-to-repair-damaged-launch-pad-after-new-glenn-rocket-explosion-video",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-015",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA used a drone to deliver a human kidney. Is this the future of transplant transport?",
+    "summary": "\n                             The drone flew beyond line of sight with a kidney not viable for organ transplant, to test the concept for future deliveries to patients. \n                               ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/technology/nasa-just-used-a-drone-to-deliver-a-human-kidney-is-this-the-future-of-transplant-transport",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-27-016",
+    "date": "2026-06-27",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weekend SpaceX rocket launch in Florida. What time is liftoff? - Florida Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGFoMFp3MDlMSlpNR0hSYWt1eFdZbk13TGZqX1ZIQnE5S1RMSkZNS0hRNXY5cmpucjR4WHJzbktYa3ZrQW9FQjhmcnphZ1ZCYWlPWERWNHFpcDF2ZzhyTWROc2oxcDRETlZkdk5Ic3",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGFoMFp3MDlMSlpNR0hSYWt1eFdZbk13TGZqX1ZIQnE5S1RMSkZNS0hRNXY5cmpucjR4WHJzbktYa3ZrQW9FQjhmcnphZ1ZCYWlPWERWNHFpcDF2ZzhyTWROc2oxcDRETlZkdk5Ic3BRSGx3VS02bnVYbC03RDBrbWhyTHpvbWk4WHdOd0hfdFdIZzBxODdtZXBYV1hSc1ZmQ1pkVzZTSEQtdTk4NWhQSklkZ29BR0g2OEc1NXY3b0JfNGk3QWJETmdNRWVYWVhBRzVn?oc=5",
         "type": "rss"
       }
     ]
@@ -1347,6 +1613,162 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-26-068",
+    "date": "2026-06-26",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RKLB Stock Jumps Overnight: Rocket Lab Eyes ‘Ten Owl Of Ten’ Liftoff After NASA Hands It 3 Electron Launches - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNbExDbWkzckw0MzBWTzB2VE9aSVdnT0hELTVPWEFUdHRDOWJaMVdaby1uQVJ3T3lqOXRaV2RINUpIb1FrWHNrRko5UkhRUnpJd0Q1TVpOODVKRDN6X3V4UndoV0hjUllWYUFtcUxDQX",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbExDbWkzckw0MzBWTzB2VE9aSVdnT0hELTVPWEFUdHRDOWJaMVdaby1uQVJ3T3lqOXRaV2RINUpIb1FrWHNrRko5UkhRUnpJd0Q1TVpOODVKRDN6X3V4UndoV0hjUllWYUFtcUxDQXRpWTJtLUk2N3RGUFNGajRHR0FXbmY4NFBRMFBURzBlbnFPOVgzVTcyM295Uy1SYXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-26-069",
+    "date": "2026-06-26",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RKLB Stock Ends 5% Higher — Rocket Lab Launches 10th Synspective Satellite, Total Missions Reach 91 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPYno2OWo3UWMtUEw2LW1McEJwODhvUHN1RkRKa2pWanJoNW5pSWJ3MjF0d1FfNEFiVFNhU3VNWk9admVEb1U5R1N0ZXBYM1VoZWN1SWoycmJzRWstQzIwaW9Tdl8yQlBtM0xTbzl4aH",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYno2OWo3UWMtUEw2LW1McEJwODhvUHN1RkRKa2pWanJoNW5pSWJ3MjF0d1FfNEFiVFNhU3VNWk9admVEb1U5R1N0ZXBYM1VoZWN1SWoycmJzRWstQzIwaW9Tdl8yQlBtM0xTbzl4aHozb3V4NHA0RC0ySzVUQzFXMmNNdnpiMjlFM0xhT0J0aXctelk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-26-070",
+    "date": "2026-06-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "1 Unstoppable Space Trend to Invest $1,000 in Right Now (Hint: It's Not SpaceX) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUlRWT0ZqRENSMG9RU1NCb1BaZUxYRU9PeUNOT1ZFWk1rUzQ2WHFHdTh6Z0RZVkZHbExBcktIb1M2bDBMa2dlTktIYWxRa2xpdUtLZGdacG1YS3JuelpCMXpOdWhfVVlOMV9ORzdRbj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUlRWT0ZqRENSMG9RU1NCb1BaZUxYRU9PeUNOT1ZFWk1rUzQ2WHFHdTh6Z0RZVkZHbExBcktIb1M2bDBMa2dlTktIYWxRa2xpdUtLZGdacG1YS3JuelpCMXpOdWhfVVlOMV9ORzdRbjR4SlFmbWhpRjJ3VklaczJmdmlqZC14YV9STVhVTVR6VTgySHQ5bEhJNWk4YnpRdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-26-071",
+    "date": "2026-06-26",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is Rocket Lab (RKLB) Stock Soaring Today - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjFKRXZfdm5CeFZ4aUEzS2gtemZWYVVlODlXaVBmVGFpQ1g1SVB3d2tzUWxlUWozVEZhNUltTXhEbEtBY3dWWGJvVUhVNFpJS0FnOUdSS2sza3p0cllpZ1lBU3VNRkduUXNGenRfM2",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjFKRXZfdm5CeFZ4aUEzS2gtemZWYVVlODlXaVBmVGFpQ1g1SVB3d2tzUWxlUWozVEZhNUltTXhEbEtBY3dWWGJvVUhVNFpJS0FnOUdSS2sza3p0cllpZ1lBU3VNRkduUXNGenRfM2xBR2pwY05MNGZTdXdwTEcwUEgzQzVKcUw5TDItZTVXZjZtX3Nz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-26-072",
+    "date": "2026-06-26",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Jumps On NASA Mission News - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3dSWHQ3QnhfakhuQjFndzgyaUZMSVpZeUtMMnVIYlJGeTRJZjRqQmVvWHcyLWtnS09Kem1HYWpMNWhPQzZpeFhvMHNNaGtKOHBOdzlucFpob1RSbFI0MkctQmd5UWRSTzZXVV8tSX",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT3dSWHQ3QnhfakhuQjFndzgyaUZMSVpZeUtMMnVIYlJGeTRJZjRqQmVvWHcyLWtnS09Kem1HYWpMNWhPQzZpeFhvMHNNaGtKOHBOdzlucFpob1RSbFI0MkctQmd5UWRSTzZXVV8tSXBpb2ZhWm1mTXViY09EczdOU2Nyd2xJT2xJTktPUGNUeER2NVVtZjkySHkydWZjdHZXSUlKUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-06-26-073",
+    "date": "2026-06-26",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Can Intuitive Machines' Acquisitions Unlock New Growth Opportunities? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOejRLVDNRM2NfOGN5cVBrVll1THhoQWt3d3ljbjNSOF9BOHZvS0NBYUdQb3pvX3BzMERmQjlqTklKU3VacVJpWHJEWVowZUFUaHF3OGxpTmV3YTNwUWRFc2tBc3B3Wk5Kd0dIYWNhYn",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOejRLVDNRM2NfOGN5cVBrVll1THhoQWt3d3ljbjNSOF9BOHZvS0NBYUdQb3pvX3BzMERmQjlqTklKU3VacVJpWHJEWVowZUFUaHF3OGxpTmV3YTNwUWRFc2tBc3B3Wk5Kd0dIYWNhYnN4NW5QZDJFRUlKdmhMRjZOZXI3b09uWmxYcFUwbEdFUFVPN2FZUTQ0Snh0ekFjaVI5cERvNDN5ZjBucTVrODhZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-06-26-074",
+    "date": "2026-06-26",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Just Nailed a Major Launch—So Why Is the Stock Crashing? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGR0UURxYXZORUQySEVMM3VnRXdVZ25vT052MjFzREpGRmFDX1RxSTZzNTUzWUVIWEJiX2xzTnFXZkU2a0ptdDBMaEZzSi1HcXJPbkEwaHVaWnFKc2tobXA0TVRPS2k4ZlRkSTBhZ3",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWGR0UURxYXZORUQySEVMM3VnRXdVZ25vT052MjFzREpGRmFDX1RxSTZzNTUzWUVIWEJiX2xzTnFXZkU2a0ptdDBMaEZzSi1HcXJPbkEwaHVaWnFKc2tobXA0TVRPS2k4ZlRkSTBhZ3ZKQU8yZk01ZWRrMmt0VkprTmxlckhpVE1DUFY1TGpUenU3Z0VhdGw2bmhDMXYxbEhva1RHWjl6ZkpWRURp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-06-26-075",
+    "date": "2026-06-26",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is AST SpaceMobile Stock (ASTS) Suddenly Soaring Today, 6/26/26? - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXVla3M1SDlwLWxUazVTdWlScExnSzU0X0ZZS0pFbHVlenB2QmVtN1Nfd0tyS3pPLWhzRTVpSzNONFF2TnV1ZzI4Rk1KaTYzSjI0SGJDSjNvZGZ4RHBQMWZqY1h4THZDNDJyM0N4N3",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXVla3M1SDlwLWxUazVTdWlScExnSzU0X0ZZS0pFbHVlenB2QmVtN1Nfd0tyS3pPLWhzRTVpSzNONFF2TnV1ZzI4Rk1KaTYzSjI0SGJDSjNvZGZ4RHBQMWZqY1h4THZDNDJyM0N4N3VhMHdXRW5EalpCYm83eS1FX2FGZnZLNnFJbkhBVFlMR2UyNHJvUndyS2lfRE1fMl9S?oc=5",
         "type": "rss"
       }
     ]
@@ -2652,6 +3074,26 @@
       {
         "name": "google_space_industry",
         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGdCVndVSlNaNXlUdUwzenpwMEIyZGhfN0ZMMXA1b0lmcE1tWTdIODVyT0VZd2o1S3RPVVIyZUJUZGI2SFRqVEw2VFdLUWFIcTFLZkJTaW9BLW9aXzAtdnR2WEtnMHFGNGJveDFKSk4xSmxjaUdVYzFqZ1pZVXVERmVjNkdXaWZ3ZHoyUFdENW9veTBWMjBGR0pGY0YzbGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-06-25-070",
+    "date": "2026-06-25",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Stock Lifts Off After The Close: Here's Why - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjVNVU1aTk1TdGV5MDRXWEM2cjB2YVp0b2dmZkRBd1lmOGJxMmFmQ0E2VFg0OWEwb1hPTzNZcGJhNS1zdEMtd1JsaHBpNkVkYVU3dUpVT0N4ME42cU1zTFdoMlc5dTZ5TEQ3Z2RCbC",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVjVNVU1aTk1TdGV5MDRXWEM2cjB2YVp0b2dmZkRBd1lmOGJxMmFmQ0E2VFg0OWEwb1hPTzNZcGJhNS1zdEMtd1JsaHBpNkVkYVU3dUpVT0N4ME42cU1zTFdoMlc5dTZ5TEQ3Z2RCbC1keGpnaEVaYUNMazkwbkxFdkdFSXJ0czhXY0FmQUpITHBXb19ZeVNaby1KLXlST1JTYnFLWmQxclJyN2FobDgwUEZPUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -4181,6 +4623,27 @@
       {
         "name": "google_space_industry",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeXZzTFpqc0FFYjFTMVBQRTBoZ0NXSjN3aWpLMTFac3J2ckJqZmE0NExtUlV0MjFNRlQ3bXJtLUR2UDJXRzRhN0p1aVVyb1hBdUgzVXlKYTVtZVpPR1EwR0pIYmY4T0dMZ0tmcVVpbkw0TUpsY0pRd0V6bjRka19tVG1mejRObGVNLWctZ3pmMmVtWHJZNWxVUzgzSi1oWVNI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spire-2026-06-24-081",
+    "date": "2026-06-24",
+    "companies": [
+      "spire"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spire Global Delivers 10 Satellites to Vandenberg Space Force Base Ahead of the Transporter-17 Rideshare Mission - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVl6V1VTN1hfRzhFYWxXcUYxQ0VuelBtVzhFa202R2F2TVMzQWdWcld5SWc0SXhvZUwxaDU0TWdVWThXbXlXUGJKbF9RVVRzejJqR1l6bmpwNHM4YnRCc3RMT2tQZmNESktxNmZVYk",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVl6V1VTN1hfRzhFYWxXcUYxQ0VuelBtVzhFa202R2F2TVMzQWdWcld5SWc0SXhvZUwxaDU0TWdVWThXbXlXUGJKbF9RVVRzejJqR1l6bmpwNHM4YnRCc3RMT2tQZmNESktxNmZVYkFxV2ZEQUV2X2J5LTlBMkVQSUZyYksycjJJOTRfNFItWFI3RjdRWmw0WG5keU8?oc=5",
         "type": "rss"
       }
     ]
