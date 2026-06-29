@@ -1,0 +1,228 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T12:25:44.896426Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-29-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to buy satellite communications firm Iridium in $8 billion deal - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNemRNUXI1ZmJ3cHJUXzBHRXpMR0ZwZTNLaEpuSUlzM055RHFOLWdTc0J6RlczeXhtaVpETXI3MWU4TGVzT2tnWXZXT00xM3BReHFObTlEckVGSFc0Z3dCSkwzRjdzT1ZMUWM1T2tBYnpZLW5mbGpRWVFSYVFBNklyMDdSdEE0OTRCRGUyTzhsOXVxOWV6RnJPUktZcjBwOTF2dWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-29-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab To Buy Iridium - Aviation Week",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSDNDb1d4TXpzbG5qXzZRU3RZOWQ1Y19CREY5eUlRN3dqZG1hcDBJMVlaU25TS0h4WFlmSjZSR3h5UFVDc0FCWHlRUkZ1SVMxLUp3bU9OdlByb05ZdWEtQXlzVG94akl0dXhGTGZpNU1LR3Jwd1h6VXEyM3NwYWItZFczRDBlcEU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-29-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to acquire Iridium - SpaceNews",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBvRkctclRfM21MZFV2TVB0anpFVk1PX1phWGFKdVJSblZhbXF4YTBHZ2dVb0V0cC1uOVZ2YUl2RVg5MlF5YV9XNTRleUhxNEVSU081ekJ6QTZlVDhNSnB4dDdn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-29-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Buys Satellite Operator Iridium in Bid to Challenge SpaceX - WSJ",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGdJUHhQY3lneGhQbWs2RFZ4RUlDa0ZrSU1SUWVKUDdVeGR4ODJyOGJQakI3dmRlZXd0aXBNNHZlV3pQSzFDSXZNbWRDbEJHdWFVUFYyTFNLSjdLRnlHQlV4aVFmSE1zbUFVMDFZZmhJb3JVckMwdFZtTmdHd2dTUHlBQzZSSGpTV2pYc3l0REhIbm1rdW5jbDdDeFpVTXVBd19vU1dhVjBxVDZicU9HcDZ1aF93QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-29-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to Buy Iridium for $8 Billion to Expand Network - Bloomberg",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlFvTi1zQWFHd3dkelEwQ2JhdVl1UmxGSkdrVE41RzIwSGhWSkFUeW1Bdm1MV2pjOWtFOTE5N0d0MUc2dU9NSWs3NFJuT2xLU01jM252QVR6bnUxZGZKc25fLXZwd1QyMzljZ0czVWFqcHBLY0VaemFXckQ2NmlRZjNYZ0xmOE01RDlrMWRIRm1FaXdoQUFJa3lkaTFsc1JnT09zcUhZVGNOeWFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 32,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 10,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 32,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 13
+      },
+      {
+        "id": "iridium",
+        "count": 10
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 32
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 188,
+    "too_old": 60,
+    "gate1_blocked": 20,
+    "gate2_blocked": 13,
+    "passed": 51,
+    "pass_rate": "35.4%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Intuitive Machines lands $1M grant to expand robotics operations - InnovationMap",
+      "Why Intuitive Machines Stock Was Sliding This Week - The Motley Fool",
+      "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance",
+      "Enterprise value to EBITDA forward of L3Harris Technologies, Inc. – NYSE:LHX - TradingView",
+      "L3Harris radios made in Monroe County to support German forces - Rochester Business Journal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為火箭實驗室、銥星通訊、AST SpaceMobile相關動態：「Rocket Lab to buy satellite communications firm Iridium i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab to buy satellite communications firm Iridium in $8 billion deal - ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab To Buy Iridium - Aviation Week（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
