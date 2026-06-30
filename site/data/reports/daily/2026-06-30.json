@@ -1,0 +1,244 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:52:05.921234Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-06-30-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to acquire Iridium in $8bn cash and stock deal - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSGw1cW43eG1nUWFwSkloR3MtSjhhOWRYdjJNd1Vqc1k1Wnc5aUk5LV9uQnFkbFlPYlRGTGZGRnZJQ0lJQnZSbk1MU21xcm12c19sbVNGQWZzMDQtZ1RqTXdCV0YyZV9VREcxZy0zSUNTWDlOWHdqaWVGX2NuRlU5RTBZMGE0R2tydXROYk90b3JRRDVzNW5MWndXYw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-06-30-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to acquire Iridium in landmark deal - AviTrader Aviation News",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPU3NmSnE3N3RGTmJXcGcxWDd1U2w1Wl9nNV9IdFozSXF1VllweWxqRTI3ZEpDYXRTczVpbEo3akQ0OFBkRnJWZzROU1hGWE9iRUdfVGdaalpDaFl0bFh1TWZjcmlHRnVNT19DeHJUdHJIQVNzTlRidGxKdmozN1kwRmc3aWpoXzg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-06-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "What is the significance of Rocket Lab's $8 billion acquisition of Iridium? - 36Kr",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wenZvdU4tcC1FbmxyWjdJMkhrRG42RFI1VEVUTDUwMV9BMUQ3Q2N6ZWxwdEw5d2JTZVk3Y0J4YU1iT3JhR3I1bVdRbVV2ajN3VXdF?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-06-30-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab To Buy Iridium In Billion-Dollar Battle With SpaceX, Amazon - Aviation Week",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWZ2b05rTnVHZXdIUGtMdVk4cllHM3IxQ3lzb1lkSmRnZ0M0eW9mOTN0bEU5bHRXUnM4UnNBc3BCVGxRNy1iRktoa053dHh4RU9vNXc3dmowdmtmVk5aZTViRU1ia1RDbXBYZVYtc2NaRFlBSkpHSmZqTVh3RUcwMURlWlU1LWpZcmtVaTFaQzVmaXlkREJlNVprcndNMEYxRmtnOEREblpFOFluNDJwX1gzb3J3Z3M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-06-30-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab's (RKLB) Iridium Acquisition Also Reinforces the Long-Term Investment Case for Planet Labs (PL) - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "companies": [
+        "rocket_lab",
+        "iridium",
+        "planet"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS1NOOTF4bnh0TW9OTUJSaUY3ZkVOQXhNOG1za2NJMnd2dk9XWXZyWDhSZVVjdWxCZDRGRS0yQXM5ZjVQMWpJVUd1TlQweHg5OXZES2J0X0Faem5MbG5IYWZ0Z0dIMUJCRWxkcFdiX1A0UnRRMEltcHdFVVlhTFY2RWc4QVc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 7,
+      "topics": [
+        "industry_general",
+        "satellite_constellation"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "iridium",
+        "count": 7
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 322,
+    "dup_title": 149,
+    "too_old": 54,
+    "gate1_blocked": 20,
+    "gate2_blocked": 13,
+    "passed": 86,
+    "pass_rate": "49.7%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Intuitive Machines Stock Is Falling: What Investors Need to Understand - Yahoo Finance",
+      "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+      "Intuitive Machines, Inc.(NasdaqGM: LUNR) dropped from Russell 2000 Value Benchmark - marketscreener.",
+      "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance",
+      "L3Harris to Provide Communication Systems to Support German Forces - I-Connect007"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、銥星通訊、行星實驗室相關動態：「Rocket Lab to acquire Iridium in $8bn cash and stock deal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab to acquire Iridium in $8bn cash and stock deal - Yahoo Finance（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab to acquire Iridium in landmark deal - AviTrader Aviation News（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

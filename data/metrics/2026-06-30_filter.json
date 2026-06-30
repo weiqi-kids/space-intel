@@ -1,0 +1,16 @@
+{
+  "total_raw": 322,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 20,
+  "gate2_fail": 13,
+  "passed": 86,
+  "gate2_samples": [
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - Yahoo Finance",
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+    "Intuitive Machines, Inc.(NasdaqGM: LUNR) dropped from Russell 2000 Value Benchmark - marketscreener.",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance",
+    "L3Harris to Provide Communication Systems to Support German Forces - I-Connect007"
+  ]
+}
