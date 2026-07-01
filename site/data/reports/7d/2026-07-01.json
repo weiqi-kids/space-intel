@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-01",
+  "date_range": {
+    "start": "2026-06-25",
+    "end": "2026-07-01"
+  },
+  "generated_at": "2026-07-01T11:19:16.174667Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-06-26-021",
+      "date": "2026-06-26",
+      "title": "Virgin Galactic Rises 13%, AST SpaceMobile Jumps 9%, Rocket Lab Climbs 5%: Is This a Re-Rotation Out of SpaceX? - 24/7 Wall St.",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "iridium",
+      "company_b": "rocket_lab",
+      "co_mention_count": 45,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "planet",
+      "company_b": "rocket_lab",
+      "co_mention_count": 5,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 98,
+      "last_week": 67,
+      "week_over_week_change": "+46%",
+      "sentiment_this_week": 0.04
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 6,
+      "last_week": 1,
+      "week_over_week_change": "+500%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 37,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ast_spacemobile": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "iridium": {
+      "event_count": 22,
+      "sentiment_avg": 0.02,
+      "rank": 2
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 393,
+        "last": 371,
+        "change_pct": 5.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-06-25",
+      "event_count": 70,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-26",
+      "event_count": 77,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-06-27",
+      "event_count": 19,
+      "sentiment_avg": 0.13
+    },
+    {
+      "date": "2026-06-28",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-29",
+      "event_count": 110,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-06-30",
+      "event_count": 86,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-01",
+      "event_count": 17,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-06-25 ~ 2026-07-01）共 393 則事件，重點為「Virgin Galactic Rises 13%, AST SpaceMobile Jump...」。太空產業通用、衛星星座、太空防禦為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 37 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "行星實驗室",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

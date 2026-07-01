@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 50,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 95,
+  "gate2_samples": [
+    "Firefly, Intuitive Machines, Voyager Shares See Strength Into The Close - Benzinga",
+    "Why Intuitive Machines Stock Is Sinking After a Win - TipRanks",
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+    "Is Intuitive Machines (LUNR) Undervalued Following Its Recent 6% Jump? - simplywall.st",
+    "L3Harris Technologies (LHX) Stock After Recent Pullback Is There Still Value Left - Yahoo Finance"
+  ]
+}
