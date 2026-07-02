@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 45,
+  "gate1_fail": 18,
+  "gate2_fail": 18,
+  "passed": 77,
+  "gate2_samples": [
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+    "Why Intuitive Machines Stock Is Sinking After a Win - TipRanks",
+    "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,899,200.87 in Stock - MarketBeat",
+    "Intuitive Machines director Ghaffarian sells $2.9m in stock - Investing.com",
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - Yahoo Finance"
+  ]
+}

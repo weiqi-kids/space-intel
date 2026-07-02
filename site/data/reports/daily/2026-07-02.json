@@ -1,0 +1,250 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:31:54.057130Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-02-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Iridium to Be Acquired by Rocket Lab in Vertically Integrated Space Deal - Unmanned Systems Technology",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjVZZlRFSjF4Y1NFMGNOU2xKOFp0MnBicUw0dzBZcGt3bDhNdTZGZm1jbENFZk5NMjZLbWw4Um9tOUZtM1dsd05LSWlOU25IWDB5bkZTRjBBQlVRdnhPRUk0Y1ZEMzJSQVJZU2RBQkNOeHBDR2k2aV9QZkUzZTBLT0VlRW5GNGxoNWdTbmN1MXRaU1lOQVV2QjlNWmJXeG1MRHJCVGVVTnpfQkg5OTFhZXdnaXY5RlpLVEI4bkE3VTU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab to acquire Iridium in major space industry deal - Shore Daily News",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa3AwYjBGMGZVMjBrQ2p1elRWaVFuY0U3X29oNkRfeDZQUWZ6VkNKVkhFekJoOGVIXzUyVm9JcVlvV1RFVTdUYUJoSmptczlrUFl1cVBnUllZcGtURlRtVTRyVWY4VTJVUkRBelE1MjJObm1qWVVqWlc2RjJ0bnZYQVJ6YkptVUxYUUFybjh1X0ZvRWJWMk1kd0FLUWU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-02-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB Stock Keeps Flying Overnight: Analyst Says Rocket Lab Outbid ASTS, Other Rivals For Iridium In 'Bolt From The Blue' Deal - Stocktwits",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeGVhMHJLWnc2aGE5LVkxQjFHdkwwaVdKSmZkcmhIdEdBMUgzTkdYbjRNV2c5Z3dTYjgyb0lDdWxYVmZJdUFEMXN4eUt6U2VhUEZzVUs2SWVFMnQ0eTJrSkVlY3BFdHc3ME5IaWZmbG8yTFo5ZDkxM1R0MkllSlNSRTNvWm1Wa3N1WjdwMHdkSWg1SVByZzZJa0Zmd1lKMkVZZUlMS0FFckJHUU1rTFhfbnJKdHA0QkpoMlRNZk9nZlU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Intuitive Machines (LUNR) Is Up 5.6% After Winning a US$148.3 Million NASA Lander Contract - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONnZfLXJsTFNrajFUd1Mtc3JnSFl5aEhQNGVKdGFuMkdXLU8ySHVfcVEtN1dOMHdLY3otTFQzWmIzZHpTMTVKZGtrZGl5UmZreWpJdGhob29leXNTam5uVjJQa1o3aVRzdEwzeVRKYW1HdUlxRmQtN2JCN1F0cFpPUk04dGthX1kyemxYanRDTWU2RHJsVkxyZHhRNmR4bVAzU050RHVlLW94U1Byd1JvTTBRQXh2VW1FTGlNV0lwQ3hpSTNvbWdsNWd2aUgxTmp3UHNQOGFva2zSAd4BQVVfeXFMTkhOc2RRN21SQ01HUkJlcEw1UjdNMWVvaFRmOTBGVWppZVdFQ21VTjh4SHl5Z3pHa2F2dTc5TkdtY0h2a1Ftb3d3d1kyNjJ0RE1hci1iUmdJbGtvQmZ6Q0o4WmJMazhiNTV4QzNicTdGSDlVVUZ2SXpJNm9qQUdCZnIySGhvX3U5cXFnZVlObnFfZExTczJHN1YxcFAtVHNTU3JOTHU3M3l3a3h6NlBReXRVdFpaYXpwUUJmZmNibWhUTzVoTFFVaktkdVV6VWctV3Fvak4wNkVLVldxZkdn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-07-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ghaffarian entities trim Intuitive Machines (LUNR) stake via 141,909-share sale - Stock Titan",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFFjTlg0LXU0VHNjRVdsbDd4bUtJWTUybW1tbVhYZnIyQ3JXOFdxVGNmQlBMYnNrZllERFA4d0FfRHZhQ0wtNGJ2cXM5bnJVWENuTVFOQ1ppcnF5WEF3UzJ3aFNqaXU4MC1ZdmZkdVZnNFhLWENsdnl4SjQzVVVROXlHeGtBSFhhYnkxUk9hTDZhU0ExbUtmaUxhUlJuVVNmeTRRVndrWWhRLTJaa1FNdWRTejRoWGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "iridium",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 3
+      },
+      {
+        "id": "ses",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 172,
+    "too_old": 45,
+    "gate1_blocked": 18,
+    "gate2_blocked": 18,
+    "passed": 77,
+    "pass_rate": "48.7%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+      "Why Intuitive Machines Stock Is Sinking After a Win - TipRanks",
+      "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,899,200.87 in Stock - MarketBeat",
+      "Intuitive Machines director Ghaffarian sells $2.9m in stock - Investing.com",
+      "Intuitive Machines Stock Is Falling: What Investors Need to Understand - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、銥星通訊、直覺機器相關動態：「Iridium to Be Acquired by Rocket Lab in Vertically Integr...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Iridium to Be Acquired by Rocket Lab in Vertically Integrated Space Deal - Un...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab to acquire Iridium in major space industry deal - Shore Daily News（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
