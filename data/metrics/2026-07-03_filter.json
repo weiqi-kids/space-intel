@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 43,
+  "gate1_fail": 16,
+  "gate2_fail": 10,
+  "passed": 67,
+  "gate2_samples": [
+    "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st",
+    "L3Harris delivers VC-25B Air Force One aircraft to USAF - Janes",
+    "Form 4 L3Harris Technologies Inc For: 2 July By Investing.com - Investing.com Canada",
+    "L3Harris (LHX) director defers fees into 128 phantom stock units - Stock Titan",
+    "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
