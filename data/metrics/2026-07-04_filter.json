@@ -1,0 +1,16 @@
+{
+  "total_raw": 329,
+  "dup_title": 216,
+  "no_date": 0,
+  "too_old": 44,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 40,
+  "gate2_samples": [
+    "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+    "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st",
+    "Deprince Race & Zollo Inc. Purchases 6,122 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris (LHX) director defers fees into 128 phantom stock units - Stock Titan"
+  ]
+}

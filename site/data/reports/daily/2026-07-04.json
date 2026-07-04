@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:02:50.720520Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd1FGWnh3V2ptMTY1YjBvVTJZOVFEMVpNTWZDQ1dTU28xemhhN1E1TW9ZeEFoa2dZek1oUFNzUk9GYmU0LTBkOHJIanAtVHBqOERZRzJRWTZQSDRldDQ5MDJQNXdQOGRJWk5kOEVpOUk3RW9ra2hONUgzOE9sb3BCb1pIVzV1WW1oeEZZdjN1MWtXMHJ2eVh1SXZ6aw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What? - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEZIcjBxUjJ5RF93Vmp1a0ppdTZ5OFZ3TmtVWVNoazh0dDhpQVBnQWdhM3M5Y1ExaV9Bcm1uMTJDdzRhVk5ZS243WHdJejBIekNqbWY2TEtWalFsRklVMjBuU3JGRmlnc3JwMVFUM0dqN1JSbi1Ob0xYcURNMmw5bkVla2lzdDB6TFhtN1Vmb1RsUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Leonteq Securities AG Has $825,000 Stock Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOVpTZmV5QXI1M3ZrOVprRDZNZFNQcUlhSEJVMlhXNk1ZeGVZel9MZlU2Z2dWWDBhYjhDekdLM1hQMzh6RkVSaXUwZ0liWWFFd3JvWnBfMUJNV1NKcjI5TFlvTjdPcjdNU0VRTXJsY19RREJudUt0RGhUalhWMUpWeC1COU9JMzFHWlluNmR4MG5mNTVRSkNQM1NMbG1NRE9IX1BQOFBiV2h2Y2VQeTRBcFczWVdocXQ1Y0p5WlVyaFNVTmhyWHNhaXVzQ1NQRExhbndZOHF3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Strs Ohio Sells 7,207 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeDByNFEweU1uTGotMGRhX05jVDNsbkpPVG5kcTZRVG1uMVlWSjZYOFRSaG5EY29NZC1SbEtjNHM5UldvNFh3SExMZEgzZEpOWlh4TVMzd0Y0TzhXQTRHTVE4Z1VjVl9TdkZXd0hLbnRETWxNeVBRX1VKTkUtekVuUWR2UGhXLWViTHZEaHNibUlOU0UtbUJjQnRiTDY1cExRaTZtaVNFeGxILW55UHpYMnJmZVcwN040M1lsRzFn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-07-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Planet Labs PBC (PL) Undervalued On Higher Guidance And Russell Index Inclusion? - simplywall.st",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2NJZnh5VDB0UUExZjc2Mk53YmZqamx6U0I0MGg0Y2V3LXhtbUJfb2U4YUVjMm40WkR1WUFQZkJ6cUd6Qm5DSVg4bEh0WmwtQXlOZ09HRTFybGJDVnc1Q3MtcFp2T0hZMXVSWEJ3dE4yVng1YVRZclpfYmdiYTNmdGs0VENOQ1p6WDJQYnlNa3Q4SnJnejhRMlZobDFtVjJidVFFaDhneFRtbVd0RXA5amxSUjlrNk13MVN1enhYbVRCNWhQNk9CZGVGeDN3LTdYY2ZsaTRXVl_SAd4BQVVfeXFMUDJ1NWtDS3RpMmhRdG9QVW10WDhJSWxxeVFVWWdiVF9rNHpwLWNpS0hyXzdoRExJMzJ1RG9XaENqbUNEVmVVQ3VKLTZrZzVlMEthOTUzRncxeW1IcWhfdHhRbXZyU3hRLUlsZTBCYlBjb2k4VmhwQjQ1bWl0c185c25GSkhFSGR4ckJYbERnbEwyclV1QTYwUWtGTXYyamZMRHNuV0NYSllNQUd1Q1NMV1FFX0pfTGlvOVlOT0ZRMHpiN0dpWHlVcU5GYm5SaERQZzdOSXhjek9qTTNoaTlR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 329,
+    "dup_title": 216,
+    "too_old": 44,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 40,
+    "pass_rate": "35.4%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Intuitive Machines Stock Is Falling: What Investors Need to Understand - The Motley Fool",
+      "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st",
+      "Deprince Race & Zollo Inc. Purchases 6,122 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris (LHX) director defers fees into 128 phantom stock units - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「Rocket Lab Announces a Massive $8 Billion Satellite Acqui...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What? - ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Announces a Massive $8 Billion Satellite Acquisition. Now What? - ...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
