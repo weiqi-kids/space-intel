@@ -1,0 +1,186 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:05:46.472771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Axon and Rocket Lab rallied while chip stocks sank - thestreet.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbi1OMGpTd2RyUFZWYzMwM2lLVlFOTEREVHNpRWdxM2ZmQmFzUTN5UnlPMFI5RWwxZ2xxQUthSzFoVzFTTUVrbVdoVnkzSlZ6d2FuWEpoWVJNaWtJSVFQVWx1MTZPWlRHWG4tbkpXRmNTX21uak1mdnVqNVhxOGxOU1hlaGlZTi1RU1RB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation $RKLB Shares Sold by Janney Montgomery Scott LLC - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHpiN1ZqWUFmbFNPUmZ6LWtxTy1kMVFEN0RJaTcza3hRVDh4cVRFZUpKMGRqWjhSWFUzLW9nRHhzQWNWbnE2cmhxSm4yS3gyME1CaFN1Xy1abmpLSGFXZjVyMGZmZVk2cm91ZEFMc21EZUNTUDlJSUJ2SVpON1ZUbmtuMWtQWnNHaG9JcERVQjctSVdUdDdra2o1RDAwRUwzN0Y3bjVWOHhqZ0NRTDN1Ukdjbm5GWGF3SENoTjdxZTdzVmV3Sy05a2JXZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX IPO Spotlights 3 Aerospace And Defense Stocks Investors May Be Watching - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWGhXWjVsQ1NhMk5HeXVZcnFZM0pzd1RlSXBRajF4ZURXSm9IVk1JcS1Pc1o4OUQyQUFTcDgtaUxkNXBrbE9xODNJbjdtQ3FYSDZ5SE93SlFfazM2dFpUVTJWT1MxZERwbzJQXzJEVkJVNzk2OWJacWhhbnJwbXBCVk0zeWNmeEtUNzZWWTMyOXB0X2NkSkdmQVVyQTVFVEZyQ0VQTjhiR0hpQXZaRWlPQ1FOVFpRUVlieHZxM0pqNEhiUFNWZXViZEpVU3FWd3JHNC1OTThoZm1MUdIB3wFBVV95cUxNY3hCY1dvSklET3Y2MHA3aEJrclFzYTFiV2JzV1dNOV9lQnp0WmxXNk9XUXVmNW91c243SFg5MTdseXVuUjljZ3lZZFlHWkpGa21oUlNGTm1UTHR3ck83TGdyMjlQMW9TNXhHemk4MWNUcm90S2VxV3hsTjJrdXByRE1YZWdWUTdBMGJjMzJvZzNHNnZNdFpKaDR4TUJCTGNwY0tWYWJmWkRkeHVQQzQ2UFBwQXQ4bnhLcHYwVF9FZHNDUFpxN0VLNFZfMDBFcjJMTU5SQjJJREg4V1ZCNElz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "planet-2026-07-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Planet Labs (PL) Is Up 15.9% After Joining Major Russell Growth Indices And Raising Guidance - simplywall.st",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaGJOenRKLVRucFVrSHpnTUNsZGJDbTN3YXp4cUpSR0VnT1hTSDV0WGlYSFFsYjVOYm9qNkFocG82aGdSWU5TajgtZ3Flb2VhcENLbV9tU3ZyMGo3M0JWQlQ4Z2JCSmlxSWZZMFVuMVRWTk01VnEyeGZ0Z1pEcHo1cWJaNWV2eV9ydm1YNXBCZ0NkTEozRWp0SjZTMWFZZXh6bW03WkVWMmxJdi11WVRwTEFyTHFDX1JSSVptMHYwOW9XLWxoS19OWS16M3lDbW1BeGNHQjA2MldzaEduUVHSAd4BQVVfeXFMT2hiTnp0Si1UbnBVa0h6Z01DbGRiQ20zd2F6eHFKUkdFZ09YU0g1dFhpWEhRbGI1TmJvajZBaHBvNmhnUllOU2o4LWdxZW9lYXBDS21fbVN2cjBqNzNCVkJUOGdiQkppcUlmWTBVbjFUVk5NNVZxMnhmdGdaRHB6NXFiWjVldnlfcnZtWDVwQmdDZExKM0VqdEo2UzFhWWV4em1tN1pFVjJsSXYtdVlUcExBckxxQ19SUklabTB2MDlvVy1saEtfTlktejN5Q21tQXhjR0IwNjJXc2hHblFR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-07-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile, Inc. $ASTS Holdings Trimmed by Moran Wealth Management LLC - MarketBeat",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVBiRkNQV2drX1EwUDBhWXBTWkJHQlk3QzBmZ1RUUk90dUpXekJ5cjBXeXVRUkdYVTF5RW1aZk93aElvTm1SaVh3MENDUHhfbVNKb2hRQm51TE81SVZUbHAwTkc3YVVPeTlkcnRNaGZqUFZhN1lNOXpETmVlNWhmZTBZR0RTek9UaG43NTZ1eVIzRnBQUnJNSXZRU1VjaUNxQXlSeF9mNmZIQUNodHBiTWpBWTczVWRsSXRNemtvb3A5eURndnNGM2s3ZF8yQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 211,
+    "too_old": 54,
+    "gate1_blocked": 22,
+    "gate2_blocked": 10,
+    "passed": 37,
+    "pass_rate": "30.1%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Insider Monkey",
+      "Hsbc Holdings PLC Boosts Stock Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st",
+      "QRG Capital Management Inc. Raises Stock Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「Axon and Rocket Lab rallied while chip stocks sank - thes...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Axon and Rocket Lab rallied while chip stocks sank - thestreet.com（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Corporation $RKLB Shares Sold by Janney Montgomery Scott LLC - Mar...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

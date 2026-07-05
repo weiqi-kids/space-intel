@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 54,
+  "gate1_fail": 22,
+  "gate2_fail": 10,
+  "passed": 37,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Insider Monkey",
+    "Hsbc Holdings PLC Boosts Stock Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st",
+    "QRG Capital Management Inc. Raises Stock Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "Forum Financial Management LP Sells 3,618 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
