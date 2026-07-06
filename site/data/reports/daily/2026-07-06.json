@@ -1,0 +1,184 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:58:29.239679Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hunter Associates Investment Management LLC Makes New Investment in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQT3FQbHJkTlhLSk0td0tNelBJNGdGa3N0VGsxWENNbDM5elVXeWNaTDBaNExLblFFMXgxRG5kTVEyQUoyY2pUYnlxUEF3M0VrMjlxT2g0b3ZmTE45X3B1OTFZdTFOZUg4eHd6UDlTakVsbWJxc253TzJzbjdMYXpmay1mWWdhQmEzZnNfTHEzVXNJVWNweWprT1lHVUVtT0lFa0QyZi0tdmRycjBUR0dvUGNKdjZON0hNY0FOSmVrbWZVS05TY3NGVmFUQ05qSlM1a3BjRDBPdkJVVVh6NTBVcnZ2YndwRXdtc0pHNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Aerospace and Defense Stocks Q1 In Review: Cadre (NYSE:CDRE) Vs Peers - StockStory",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTlHY2NvQWRjR1l5QndBUXVncU1hV2tNdnFUbU56TTdZLUVwRTljaDFLcHdWeG5HRFhZR3J1QjVpNmZSclJibzdEand0dE5OX01YVU1KWkhiUTZEdFhORW9STzN1Z3ppV09pQlBMQnF1QUtrZlhlUnBHc0hkVTAzTm9IYlBHU01WdlB1ZTBLQldBQkZXUjhNQVNDVndNNHR5TXpJRFM0RV9DaFg0ZDZCdFJJSGRBWTN6elNUemxxUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Former L3Harris Executive Tom Kirkland Rejoins CACI as Electronic Warfare EVP - GovCon Wire",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DR3QtX0VBMFF1Rl9yczhqMER3S2VuaDhMZHN1RVRvc2tHMzZuc2xiYTBOb3lLLXdJZi00Y1FrMzZ3c2JBNG41bDZRdFp1a2M2emVjUDljRDYxZmF4azJEbmFaX3hTdGh2V2V3TDRLcURPLXF3UFc2TWJCU0M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dividend Assets Capital LLC Has $8.69 Million Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbWdhRkhvSThLNjIzNWw3ZVlGYnloaHczSkdMRVRjODhmTDF2eHQtOGV2aDJuVlVWdWszdGt6M0FVdjQ1RjBEUGdvaVU3SU5GVEdMUWtHQVJhampTMmxIMnNzdmg0Q2ZCTEFpRDRzd0FERG5CTnNlR1M1M0o2OTF5c1UzOWYwaG1hNWdGaXhweTQzTjIwSVNOOU1yLTVOMTQ3UkZYbmE4VElmVTdnOHpfN2ROWDFxbWh5eUpFVkk1bFpQOXROQWY2dXI4VWV6aGtYM3RRa2dTLXZjTWFleFB3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-07-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Retail Investors Are Turning To AST SpaceMobile (NASDAQ: ASTS) Over SpaceX IPO Hype - foreignpolicyjournal.com",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeHJNaS1QV0lYb1lNTnA1UEJJcEF5OGtYbkVJX3NyN2ZDMmJrNF9OV1ZIRmZXeVpVM0YzakpFSHNibGN5bkxnLXhZblFjTjJiSklUeWpYVjd5MXpOZGU3Z0NKeU40MENDbDYwUnNHa1FnSjlVdXZHYkJzeXZUVzFxVW13cUNscWh0TEpwbjloMHQtLVVCRHd0ZHVveVkxaDR0ZGEycWlWN0tEcndyTVlQSG1ORXRiUTdTdnBxXzA0YU5Mdk5ET05TMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 210,
+    "too_old": 50,
+    "gate1_blocked": 22,
+    "gate2_blocked": 12,
+    "passed": 25,
+    "pass_rate": "22.9%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "InvestingPro’s Fair Value flagged Intuitive Machines as overvalued By Investing.com - Investing.com",
+      "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance",
+      "Cantor Fitzgerald reiterates Intuitive Machines stock rating By Investing.com - Investing.com Canada",
+      "Elevation Point Wealth Partners LLC Acquires 4,807 Shares of L3Harris Technologies Inc $LHX - Market",
+      "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「Hunter Associates Investment Management LLC Makes New Inv...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hunter Associates Investment Management LLC Makes New Investment in Rocket La...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Aerospace and Defense Stocks Q1 In Review: Cadre (NYSE:CDRE) Vs Peers - Stock...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

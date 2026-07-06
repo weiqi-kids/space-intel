@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 50,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 25,
+  "gate2_samples": [
+    "InvestingPro’s Fair Value flagged Intuitive Machines as overvalued By Investing.com - Investing.com",
+    "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance",
+    "Cantor Fitzgerald reiterates Intuitive Machines stock rating By Investing.com - Investing.com Canada",
+    "Elevation Point Wealth Partners LLC Acquires 4,807 Shares of L3Harris Technologies Inc $LHX - Market",
+    "L3Harris Technologies (LHX) Could Be 21% Undervalued On Index Removal Focus - simplywall.st"
+  ]
+}
