@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 47,
+  "gate1_fail": 20,
+  "gate2_fail": 18,
+  "passed": 62,
+  "gate2_samples": [
+    "Cantor Fitzgerald reiterates Intuitive Machines stock rating - Investing.com",
+    "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance",
+    "InvestingPro’s Fair Value flagged Intuitive Machines as overvalued By Investing.com - Investing.com",
+    "L3Harris sets July 29 call for Q2 results after markets close - Stock Titan",
+    "LHX - L3Harris Technologies Inc Latest SEC Filings - Finviz"
+  ]
+}
