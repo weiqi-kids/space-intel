@@ -1,0 +1,204 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:10:47.120714Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-07-08-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intuitive Machines Plunges As Space-Stock Euphoria Fades - TipRanks",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkl2LVhXSUlVVW5COEUzSlZWSUgweDNsSVB5WE1aaXpaQTRHWmlGOUZHc2VuekNvLVlsVUtHN2VpcHNiNnVXM0g2X2p2RjhnMjk2UGVWbDJtWkw3SFVMNXRUSHhqcWNycEFZNk1hRGlfRU5ZS1I0YzJ1WFhIN0xQV054X2hJTWNLM2hJXzh5UGlxTUYtWVZQSnpTZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-08-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "China shows snazzy clip of DF-17 missile on state TV in show of force",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Falls Hard — Its CEO May Hold the Answer - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOE1JU211Y1c4V29qYjdCcWM0NlBxSE1kb2N1UEw5WFBCRVpEWFlhSktjVlI3RWVHMW9DZl9ZTjJsRG8zbFpxeWlfbzBrcENEcll1T01XSTlZZ0lBRjVQRllmWVNNQ2VuTFEyRTdsUmZ6dnlwYmJBVnRlTEg0OHZxcXZjcVZYYUs5dU1oTXpfaFFjcmZtNVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "14,486 Shares in L3Harris Technologies Inc $LHX Purchased by Cvfg LLC - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHVjMWJCekhrODNOQTFMbEV5QllpNXF5NlJvS3VPbWgwWFhSQUdMbE5rX2lGN1dXRE9oanlUalVTVVBqanIzV3JheDhyRkdWMWNQZnZ4NDdPdThqNE90TDRNWVVIYmF2VnlFRDhLX1ZhMTVta29lTW9xcFFQaFJRRXlTNFFrdERxdEZYWkJtRnpHeUtnRy05LUM4cWtpVzhxYm5jNUlDRG55M2pnTWlxVmx1OWI5TmlHVkFhU2FDSUdyd2xLWjRj?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies focuses on defense electronics as investors weigh long-term demand - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcVlteWpSQnBwZmxnZm1iWEV3WkJ4MllHaFJYQjdhN2NMNGxTOHk2T2laWkEzVE92cTd5ejlNMHkzcWFYVFAxV1FLX3dXRWxSd1ZUM0RUTUpCc3I5TUxlcm1VdlR3OGRNQVJaTmpXOFBPRzRQR1RXazNyMGhnTHdUMk5nRkVVM2lWU1plZ3psaFhYZUU5b1NSdUFvQ0d3bEZmZl9DdnJtTVhYbUJSN2NZS0tqWFdNWkVNSTJzSEZJQ29QcjZlcmttM3dn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 169,
+    "too_old": 48,
+    "gate1_blocked": 16,
+    "gate2_blocked": 17,
+    "passed": 81,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Cantor Fitzgerald reiterates Intuitive Machines stock rating - Investing.com",
+      "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance",
+      "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+      "Intuitive Machines (LUNR) 19.7% holder adopts 2026 10b5-1 plan for up to 1.94M shares - Stock Titan",
+      "Intuitive Machines (NASDAQ:LUNR) Trading Down 5.5% - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為L3Harris Technologies、火箭實驗室、直覺機器相關動態：「Intuitive Machines Plunges As Space-Stock Euphoria Fades ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Intuitive Machines Plunges As Space-Stock Euphoria Fades - TipRanks（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "China shows snazzy clip of DF-17 missile on state TV in show of force（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

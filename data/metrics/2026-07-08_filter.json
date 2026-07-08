@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 16,
+  "gate2_fail": 17,
+  "passed": 81,
+  "gate2_samples": [
+    "Cantor Fitzgerald reiterates Intuitive Machines stock rating - Investing.com",
+    "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance",
+    "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+    "Intuitive Machines (LUNR) 19.7% holder adopts 2026 10b5-1 plan for up to 1.94M shares - Stock Titan",
+    "Intuitive Machines (NASDAQ:LUNR) Trading Down 5.5% - What's Next? - MarketBeat"
+  ]
+}
