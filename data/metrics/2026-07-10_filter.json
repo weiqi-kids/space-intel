@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 55,
+  "gate1_fail": 15,
+  "gate2_fail": 15,
+  "passed": 68,
+  "gate2_samples": [
+    "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+    "Intuitive Machines Stock Is Sliding Wednesday: What's Driving the Move? - Intuitive Machines (NASDAQ",
+    "Cantor Fitzgerald reiterates Intuitive Machines stock rating - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Trading Down 5.5% - What's Next? - MarketBeat",
+    "Intuitive Machines (LUNR) Offers Attractive Entry Point Amid Recent Selloff - Yahoo Finance"
+  ]
+}
