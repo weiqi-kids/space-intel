@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 75,
+  "gate2_samples": [
+    "Intuitive Machines Stock Tumbles As Dilution Fears Grow - TipRanks",
+    "Intuitive Machines Stock Is Sliding Wednesday: What's Driving the Move? - Intuitive Machines (NASDAQ",
+    "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 4.5% - What's Next? - MarketBeat",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo"
+  ]
+}
