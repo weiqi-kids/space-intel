@@ -1,0 +1,50 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T09:45:38.866079Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 232,
+    "too_old": 49,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 22,
+    "pass_rate": "21.4%",
+    "gate2_block_rate": "15.5%",
+    "gate2_samples": [
+      "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 4.5% - What's Next? - MarketBeat",
+      "Intuitive Machines Stock Is Sliding Wednesday: What's Driving the Move? - Intuitive Machines (NASDAQ",
+      "WealthShield Partners LLC Sells 6,139 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-07-12 無太空產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

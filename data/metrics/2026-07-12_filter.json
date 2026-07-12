@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 232,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 22,
+  "gate2_samples": [
+    "Intuitive Machines Stock (LUNR) Opinions on Analyst Upgrades and Index Changes - Quiver Quantitative",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 4.5% - What's Next? - MarketBeat",
+    "Intuitive Machines Stock Is Sliding Wednesday: What's Driving the Move? - Intuitive Machines (NASDAQ",
+    "WealthShield Partners LLC Sells 6,139 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
