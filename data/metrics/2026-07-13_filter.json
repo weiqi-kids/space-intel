@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 215,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 17,
+  "gate2_fail": 20,
+  "passed": 29,
+  "gate2_samples": [
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 4.5% - What's Next? - MarketBeat",
+    "L3harris Technologies (LHX) AGM 2026 Summary - Quartr",
+    "L3Harris awarded $84 million to make new radios for US Army - WHEC.com"
+  ]
+}
