@@ -1,0 +1,225 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:50:38.956981Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-14-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LHX Stock Looks To Snap Losses: L3Harris Wins Space Force Deal For Missile Tracking Satellites - Stocktwits",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOLThSMlVnTlJWSGt3enZ5STYwZmpadDJGTXI3RXBHTDVBQUZrZVFFM29nUGU5SjJ2bHBOYi03dWR2U2p2SXNfM0VnR1ZLVURMTmJqZzl5bExxX2RELXVBbmxZbU8yT09odXhXWld6R0NjUVJUSmhFbTZweFRxSUJlSlEyYk8zM1d6c3M4VWNVenhfbVFlZEZmZWNHV1dtRXdaMnBBZk9TcnZfN28yYXJ0YUpzZDM5dm9JT0cwZHRWdHN0dXVZT2dLal9Mb3NVT2dKY2JLdFF0Nk5LdVRlSDdXU2FabjJSTDdyRnZMT3Ezbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-14-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4941-4947-pinstripes-on-the-fourth-of-july/"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock Slides 24% Over 6 Straight Down Days - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzVRVmViODdFY2g2and5aUFDU1Rzd1JUa2NQYVBaVTJFYXFEQ0d1N214Nk1qZTQzeURfa1pNRHdicWp1QTBndGRMYXBfUGN1TlBUVVlwOGhOTnpCYWtmTTRXOVhYZ3ZhUURvMkFjQzNwejZRRDltRjB3M2dNRkJJY0FRS2hQajlwMEhDMndJdk9TV3M2bXl5OTl4OGdLZ2dtYWg2bUxKQ19xaEloWUJoY1dtSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "After A Sharp Drop, Is Rocket Lab Stock Grounded In Reality Or Ready For Liftoff? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWlcxS0hHX3NRRk4taXNfY3puUkp0S2pjcHdMSThFRnVHbkFYODlBTHoxY1NYS2ZidUtvRThQc19jeUhqaUZHYnV1M1cwc0JETkdBY3lNNU9fcnAtVk9mWFVzcWk0ei1naW15V1h6R3h5bmIwVWNxSkUwX0oxS2xPNVN3MUZqc1F3ZjlSWlJsOFVsZGVjZWVjd1pIOUpUcjJuN2pCM0luSzBMU0lpNmloMmlSM2Y4UWxMQVYzWVBpSTdCd1RVRFMwYmJFVkdlakJkLVQ1LTY4Mmw1WUMxMl9qREFZWkg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Rises Overnight: Rocket Lab Completes Major Engine Test Ahead of Neutron’s First Launch - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjhqaGlya0pXNEdHSExhYUJ5V0xzZWdtZTQxTFFUMTlWMkI0elhieWpHclJpbXpGZjI5RnBWWll6bGs2eDRMVlhzM1hPMjRvVVZtMWtlMXZqTjhiMmd1WF83ZlJfdG9RWUNjcGVOTG9OS1lUb3RfOFl4bmpLVzBqTUhIc19KeGc4Ynh3aElRNXhNTHpDRXVxSHlzRm5ja2s?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.2,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 6
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "space_defense",
+        "count": 5
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 172,
+    "too_old": 48,
+    "gate1_blocked": 16,
+    "gate2_blocked": 20,
+    "passed": 77,
+    "pass_rate": "47.8%",
+    "gate2_block_rate": "12.4%",
+    "gate2_samples": [
+      "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+      "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo",
+      "Calamos Advisors LLC Decreases Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris: James Potter cites benefits of MCX-standard solutions - Urgent Communications"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「LHX Stock Looks To Snap Losses: L3Harris Wins Space Force...」。主要關注主題為太空產業通用、太空防禦、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "LHX Stock Looks To Snap Losses: L3Harris Wins Space Force Deal For Missile Tr...（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Curiosity Blog, Sols 4941-4947: (Pin)Stripes on the Fourth of July（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

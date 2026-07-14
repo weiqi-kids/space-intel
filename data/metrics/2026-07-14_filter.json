@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 16,
+  "gate2_fail": 20,
+  "passed": 77,
+  "gate2_samples": [
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "Calamos Advisors LLC Decreases Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris: James Potter cites benefits of MCX-standard solutions - Urgent Communications"
+  ]
+}
