@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 42,
+  "gate1_fail": 18,
+  "gate2_fail": 21,
+  "passed": 69,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Consensus Recommendation of \"Hold\" by Brokerages - Mark",
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 1.6% - What's Next? - MarketBeat",
+    "L3harris Technologies (LHX) AGM 2026 Summary - Quartr"
+  ]
+}

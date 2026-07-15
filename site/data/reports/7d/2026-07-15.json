@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-15",
+  "date_range": {
+    "start": "2026-07-09",
+    "end": "2026-07-15"
+  },
+  "generated_at": "2026-07-15T09:55:07.860523Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-07-09-010",
+      "date": "2026-07-09",
+      "title": "Rocket Lab Shares Climb as Wall Street Weighs $8 Billion Iridium Deal, $3.6 Billion Bridge Loan - Benzinga",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 74,
+      "last_week": 64,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.01
+    },
+    "satellite_constellation": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.25
+    },
+    "space_defense": {
+      "this_week": 7,
+      "last_week": 2,
+      "week_over_week_change": "+250%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 24,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 15,
+      "sentiment_avg": -0.1,
+      "rank": 2
+    },
+    "ast_spacemobile": {
+      "event_count": 9,
+      "sentiment_avg": 0.11,
+      "rank": 3
+    },
+    "intuitive": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 328,
+        "last": 396,
+        "change_pct": -17.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-09",
+      "event_count": 66,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-10",
+      "event_count": 73,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-11",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 9,
+      "sentiment_avg": 0.22
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 72,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 72,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 15,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-09 ~ 2026-07-15）共 328 則事件，重點為「Rocket Lab Shares Climb as Wall Street Weighs $...」。太空產業通用、太空防禦、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 24 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 15 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
