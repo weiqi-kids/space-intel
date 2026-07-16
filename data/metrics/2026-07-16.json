@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-16",
+  "total_events": 21,
+  "by_company": {
+    "rocket_lab": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "redwire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "viasat": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 8,
+      "sentiment_avg": 0.12
+    }
+  },
+  "by_topic": {
+    "space_defense": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.08
+    },
+    "satellite_constellation": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

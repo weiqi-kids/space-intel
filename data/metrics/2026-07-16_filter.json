@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 22,
+  "gate2_fail": 24,
+  "passed": 74,
+  "gate2_samples": [
+    "160,763 Shares in Intuitive Machines, Inc. $LUNR Purchased by Calamos Advisors LLC - MarketBeat",
+    "Ghaffarian entity sells 110,976 Intuitive Machines (LUNR) shares under plan - Stock Titan",
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+    "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Consensus Recommendation of \"Hold\" by Brokerages - Mark"
+  ]
+}
