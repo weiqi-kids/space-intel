@@ -1,0 +1,170 @@
+{
+  "date": "2026-07-17",
+  "date_range": {
+    "start": "2026-07-11",
+    "end": "2026-07-17"
+  },
+  "generated_at": "2026-07-17T09:50:57.645834Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-07-13-017",
+      "date": "2026-07-13",
+      "title": "SpaceX and AST SpaceMobile Fall 5%, Rocket Lab Sheds 4% as China Rocket Milestone and Oil Spike Hit Space Stocks - Yahoo Finance",
+      "importance_score": 0.9
+    },
+    {
+      "type": "sentiment_reversal",
+      "subject": "space_defense",
+      "subject_type": "topic",
+      "this_week_sentiment": -0.1,
+      "last_week_sentiment": 0.33,
+      "delta": -0.43,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 84,
+      "last_week": 56,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.02
+    },
+    "launch_cost": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 5,
+      "last_week": 1,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.1
+    },
+    "space_defense": {
+      "this_week": 10,
+      "last_week": 3,
+      "week_over_week_change": "+233%",
+      "sentiment_this_week": -0.1
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 25,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 15,
+      "sentiment_avg": -0.1,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 18,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "planet": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "intuitive": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "viasat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 341,
+        "last": 414,
+        "change_pct": -17.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-11",
+      "event_count": 21,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-12",
+      "event_count": 10,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-07-13",
+      "event_count": 73,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-14",
+      "event_count": 76,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 68,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 83,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-11 ~ 2026-07-17）共 341 則事件，重點為「SpaceX and AST SpaceMobile Fall 5%, Rocket Lab ...」。太空產業通用、太空防禦、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 25 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 15 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

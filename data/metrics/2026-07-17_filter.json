@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 42,
+  "gate1_fail": 20,
+  "gate2_fail": 30,
+  "passed": 78,
+  "gate2_samples": [
+    "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+    "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Consensus Recommendation of \"Hold\" by Brokerages - Mark"
+  ]
+}

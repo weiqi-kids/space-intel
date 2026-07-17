@@ -1,0 +1,220 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T09:50:57.501785Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-07-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superior SpaceX Competitor? - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm5GX0RQVkhBcVQzeEdWUkR1VjNaQ2pnY1BsU3RMa05ZeHlhM1RJdm43b3d1aF9GYlVUWDhYVFNZUW56cWl4Y1pkNmZuNkV3dF83Q19FOEhNYW14cHVRVnBOdVU2YkNwYW1ITGZSaUxjWWs2Z053MmZCOFdwYmpmejBkcmNRZGE1X0VzRnlYbWlRcnFyVjJBUU53?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-07-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superior SpaceX Competitor? - The Motley Fool",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaUdOZjNCanNqNWRNYjEySDRwSHk3eGhZd0cxeWZ0Uk1abjhGWFFOcS11d0NYRDc5YUVhY0xmdXBic1NJX2drUDJXTnNUaXlHaGZId1Axb1hCWmRiMC0wTnpyUWlhTmVaX2xhX1pjX0lSQm5LS3FMN1RWTy10cjl3a0lGY2RxSFRvcmh4N1V4WndsbXQ0ZVU2Uw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ:RKLB) Upgraded by Piper Sandler to Hold Rating - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYTlfT1BiYk1GX0ZEcXI0N2hqdUtJM1Rfb1NBeDJCZWhlMWpuNEZ2Z2lXa0pEenFuWVhnRzdXYmVvMnBFWVBCbHNOb00wZDBYM00weUxyelQ5NWg3M3BYd1NiTXhEalhtOW5hVkVITW85c3Blamlkb0FPQXNfRE9YNHhkLUt6NllReHA1TjhlQXF6UUtnWlNST2Z3M3BwRWVWVnZRMEpRaFFPcGpiQmY5VXVkNEpveWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allspring Global Investments Holdings LLC Sells 146,413 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOEQ0X19pS1VfOFZ2UHRVUVdic1BhTjhoMjZVTXd6NDBZTllkR1FzNlpCRXluSVNySUNxSTdVckpFak9sbzQtTDEyQk1kenFDY1NEZS1XYTNOOUJxVlNac19zcWE0QmVmN1ZzMDlKRnZESUFyMGhlZS1YMERFZ1o1alpMQkkxZzJOSzgyOXdYdE1WS05uQVZqV19DRkw3clUtcXg4RkJrUWlhUmV6Tms3a2FLUzJGQjdfZDlkYjBSUkFOLWJtYUw1VlE1bEw2RDJFUW9nTkljc2NZMS1jZXJDSVJabHctQ0l5UFdZ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-07-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile: Shares Sink 17% After Pricing a $1 Billion Convertible-Note Offering, But Dilution Risk Is Smaller Than It Looks (NASDAQ:ASTS) - The Motley Fool",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVVvTmVfZGtaSEJTem52NDlDbWh6RlhYX3JzWUxEa0lEZWJkdGVYaEg2YkFaZVRZTUhCVVUxeXBLZjJZaGlFSi1Sa0ZzT3U0M0NlbzBIRmtkVE9TRVFjTXRvNjBMQWd2VjNVTWJTbjhNUkZVeVl2N3VaNkEwUVA4QzVCckRDVjZ0YTNWSjNpWEdlaHRLdlpObw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 162,
+    "too_old": 42,
+    "gate1_blocked": 20,
+    "gate2_blocked": 30,
+    "passed": 78,
+    "pass_rate": "45.9%",
+    "gate2_block_rate": "17.6%",
+    "gate2_samples": [
+      "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+      "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+      "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+      "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - ",
+      "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Consensus Recommendation of \"Hold\" by Brokerages - Mark"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superi...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superior SpaceX Competitor...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superior SpaceX Competitor...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
