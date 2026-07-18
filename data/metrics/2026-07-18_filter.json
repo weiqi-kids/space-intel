@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 19,
+  "gate2_fail": 30,
+  "passed": 65,
+  "gate2_samples": [
+    "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+    "Ghaffarian entity sells 110,976 Intuitive Machines (LUNR) shares under plan - Stock Titan",
+    "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - "
+  ]
+}

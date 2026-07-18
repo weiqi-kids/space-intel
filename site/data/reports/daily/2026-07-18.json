@@ -1,0 +1,180 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T09:18:23.307970Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Vikram-1: India's first private space rocket by Skyroot to carry diamond flower - BBC",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sSVZfcGtZblJnSVhwQlFabUJ5N09wNk5BMzZVLVUyYjdTZWtBbnFNczNIdVJLTExreWRUc2FIdnJVNFRrVGhFdmVvckFVVUNNQzl3aDZUdWFCZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "planet-2026-07-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geospatial Intelligence Partner? - Yahoo Finance UK",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVU2WmRnZUVqVzZHTHp3SGxWN2k1REdtTURKdy1FNnhMd0llQk50di1PbTlEM2M3eURFOTJjamFBaW5QU3BhbFlpam05NmNqVjRpdURBUUVVOFEwQXN2VlF0MXlfYThpUkdYTDJScEh4MkVkS2ZXVFZJSWZqUW96STQ2ZTRMeGpXb2Vxdnln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-07-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile Nears Commercial Launch: Is It Time To Buy The Dip? - The Motley Fool",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObDdRMUx6MUF4U1VBQ0Ewb3NEY2sweVdtZTY0ci1oMEpLek1FT1pENjhkbDJwYW0yVDR5dXJva3JVaUgtZ3ZmMXlTSExYazBjWG9tWFNNakZSQndfQ1hrMk42X3R1Z1V1eVhNaVhiOVhGMktuRkFzTm8ySDBxNmdxSFRKRkZXazd4dXZQRmI1MWpjR1VOcWkyMQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-18-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NASA terminates Draper lunar lander mission",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 176,
+    "too_old": 40,
+    "gate1_blocked": 19,
+    "gate2_blocked": 30,
+    "passed": 65,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "19.5%",
+    "gate2_samples": [
+      "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+      "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+      "Ghaffarian entity sells 110,976 Intuitive Machines (LUNR) shares under plan - Stock Titan",
+      "A 7-Day Losing Streak Has Intuitive Machines Stock Down 25% - Trefis",
+      "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為行星實驗室、AST SpaceMobile相關動態：「Vikram-1: India's first private space rocket by Skyroot t...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Vikram-1: India's first private space rocket by Skyroot to carry diamond flow...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Is Planet Labs (PL) Quietly Repositioning From Imagery Vendor To Premium Geos...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
