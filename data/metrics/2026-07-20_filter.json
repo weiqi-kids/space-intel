@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 210,
+  "no_date": 0,
+  "too_old": 44,
+  "gate1_fail": 23,
+  "gate2_fail": 28,
+  "passed": 28,
+  "gate2_samples": [
+    "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+    "160,763 Shares in Intuitive Machines, Inc. $LUNR Purchased by Calamos Advisors LLC - MarketBeat",
+    "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Consensus Recommendation of \"Hold\" by Brokerages - Mark",
+    "Craig-Hallum Maintains a Buy on Intuitive Machines (LUNR) Despite 40% Decline Over the Past Month - "
+  ]
+}
