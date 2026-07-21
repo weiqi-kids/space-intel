@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:19:45.747460Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-21-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaking astronomy map",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.space.com/astronomy/galaxies/galaxy-clusters-magnetic-field-reconstructed-for-1st-time-with-record-breaking-astronomy-map"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swiss National Bank Acquires 212,700 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQclN2eV8teEhaT3daU2dvaTEwV01YVk5OTDBsX0NLX3FKTlkyVk5YeVhCOVAza19qMWl3bjBfaEdKbDZyQVJUR2JNOUNzTmQzaDlZS0ZvRUxmRHpiNENWcXUtVkhCNGN6WW9iM3ZNMDgyUlpqTURKeVBqeVVtcWVXTmhXS20tOVdFQ0Q4VDNLX05SSW1EdFdzYngxUnE1R1B3R1hPMkdyYW9TSUpCMVdVM1FRcUJBNHpMMm1YekJuSEs2SDR5RGN0dGJ5Nnktb1U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California Public Employees Retirement System Increases Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWnoxNWVpb21IM1l5ejFobk9yZkZrQnp6Y3lnRDJWamt1enVKaW9mZzBneGE5Q1JEamdIdzdYSmtRellHMTBmTUdrMDhUSm9Gc2RJdEZvYjEyMm81Umx5RFpkdkFyU3NUb3d4aGxuS0QwalY3V3BsbktWTEtMdkR3Tlg3MFdrMGdlUE1iTmtaR3p3NUdPY19yU05JbkMwWXQxNlZNV1JjWWlqd1FFbkE4OXNval9fcHJNQUQ0Y1lLNWM1MXpoWWoyWVRvMVl0WkVhQWpkQlpBUHlEcG5jZWlDWFRLcHhmNG9hOFJQdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "D.A. Davidson & CO. Raises Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSTctZ3BHTUdyeFFycmN5S09ValZwdTRGZktUMHQwWGk4dFB5NmYxemFLczJLMHJVSU1pdllzV21wU1VIN2p6LXkzeGM3WlhSanpvTmhCX29IQW03WFJIWkNTUFdTVS1yLWtZZjBRaFAxVlNkR0dGcENlazZDWS1yTXpCbGZSY3JWNjZ2TGZ2YVJLem8wOUloOFBSTVBaRzlEM05vYUZoNEJ4NGtqaWVNc0xOZGVuNXpGZHJJUkR4QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Boosts Stake in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS2FvZTFid3RDMHF0ck45Ni1raGZwdldEczY4ek9wMndtWlFMRjNqWWxTM0RtNHhQdVVSWHg0OFJ6SkRiY3pUazEzLWtNcjhhOERkOGtLYTBFaTY4LTJncDNaS21GWjFrejdGYVJlVmNrdmJNMWd3a0tjYndCM0ZSNGQtQXVFWEFiWDZnby1yOExPZ1RPWHk4YkdiVVlPWldBU1g2OG5WbjJ4dGhBU3l2MHZ2X1FyMS1fQjdsUVJmRU9OdmZ1My1wUzlhSkJwQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "redwire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 168,
+    "too_old": 39,
+    "gate1_blocked": 28,
+    "gate2_blocked": 25,
+    "passed": 74,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+      "Ghaffarian entity sells 110,976 Intuitive Machines (LUNR) shares under plan - Stock Titan",
+      "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+      "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+      "L3HARRIS TECHNOLOGIES, INC. (LHX) - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Galaxy cluster's magnetic field reconstructed for 1st tim...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Galaxy cluster's magnetic field reconstructed for 1st time with record-breaki...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Swiss National Bank Acquires 212,700 Shares of Rocket Lab Corporation $RKLB -...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

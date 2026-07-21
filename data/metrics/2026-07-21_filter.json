@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 28,
+  "gate2_fail": 25,
+  "passed": 74,
+  "gate2_samples": [
+    "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+    "Ghaffarian entity sells 110,976 Intuitive Machines (LUNR) shares under plan - Stock Titan",
+    "Intuitive Machines (NASDAQ:LUNR) Upgraded at Zacks Research - MarketBeat",
+    "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+    "L3HARRIS TECHNOLOGIES, INC. (LHX) - MSN"
+  ]
+}
