@@ -1,0 +1,16 @@
+{
+  "total_raw": 320,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 21,
+  "gate2_fail": 28,
+  "passed": 73,
+  "gate2_samples": [
+    "Intuitive Machines Down Over 9%, on Track for Lowest Close Since December 2025 -- Data Talk - Moomoo",
+    "6,231 Shares in L3Harris Technologies Inc $LHX Purchased by Bellwether Advisors LLC - MarketBeat",
+    "RBC Cuts Price Target on L3Harris Technologies to $310 From $365, Keeps Sector Perform Rating - Moom",
+    "L3Harris (LHX) Stock Could Be A Bargain On Cash Flow Despite Strong Returns - simplywall.st",
+    "L3Harris Technologies Inc $LHX Shares Sold by California Public Employees Retirement System - Market"
+  ]
+}
