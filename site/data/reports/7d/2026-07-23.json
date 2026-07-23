@@ -1,0 +1,150 @@
+{
+  "date": "2026-07-23",
+  "date_range": {
+    "start": "2026-07-17",
+    "end": "2026-07-23"
+  },
+  "generated_at": "2026-07-23T10:14:08.178968Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-07-17-001",
+      "date": "2026-07-17",
+      "title": "AST SpaceMobile vs. Rocket Lab: Which Stock Is The Superior SpaceX Competitor? - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 66,
+      "last_week": 86,
+      "week_over_week_change": "-23%",
+      "sentiment_this_week": -0.0
+    },
+    "space_defense": {
+      "this_week": 4,
+      "last_week": 9,
+      "week_over_week_change": "-56%",
+      "sentiment_this_week": 0.0
+    },
+    "space_debris": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ast_spacemobile": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "rocket_lab": {
+      "event_count": 17,
+      "sentiment_avg": 0.06,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "planet": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "intuitive": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 346,
+        "last": 416,
+        "change_pct": -16.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-17",
+      "event_count": 70,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 30,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 20,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 66,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-21",
+      "event_count": 79,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 69,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 12,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-17 ~ 2026-07-23）共 346 則事件，重點為「AST SpaceMobile vs. Rocket Lab: Which Stock Is ...」。銥星通訊表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 15 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

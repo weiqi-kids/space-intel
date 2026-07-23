@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-23",
+  "generated_at": "2026-07-23T10:14:08.032656Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-23-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Iridium Posts 4 Percent Revenue Growth in Q2 2026 as Rocket Lab Deal Nears - GovCon Wire",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Sa2JBZHJaYVcxdHZWVjAwYkdBTWxKU2xXZ2xHWFBTV0VtTk1zNWota2YzSVpPM3VzNEx3NE5oNGpTbEdaMER5RGpzQVhicWwwRk9aalhwWjFlNk5YSzVtTWZycnFOTjFrMVNCRUNfNDZJaGZRNG45Z0Rnbw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "boeing-2026-07-23-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Boeing Stock, L3Harris, And Archer Aviation On Aerospace Investors’ Radar - simplywall.st",
+      "companies": [
+        "boeing",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQakYtSERucGRwdXlqckg5UlozQTJKNXpOUFdtWEYtMGhFZDBacEtrZW1nQzVxbXNKR0hZbzJZalZjdEktM2FKMmhKQzVweU5sRjhmQmJkZ1BMQklNQVQxNVIxV1QyQmVzeXRfNVRpZkNMUGp3ZEx3RFRPNjNyZWhpamthUUx2azA0YnY4anRIOVpKendEYmJ3RDEzclNQQW12bTAyYVdiWlR6OFphZUdNVlI3SFQ2enlKT0NGTDZ6Uk9tQXVzbGVETTYzbXduTm9WXzJ3eEpaaGHSAdgBQVVfeXFMUGpGLUhEbnBkcHV5anJIOVJaM0EySjV6TlBXbVhGLTBoRWQwWnBLa2VtZ0M1cW1zSkdIWW8yWWpWY3RJLTNhSjJoSkM1cHlObEY4ZkJiZGdQTEJJTUFUMTVSMVdUMkJlc3l0XzVUaWZDTFBqd2RMd0RUTzYzcmVoaWprYVFMdmswNGJ2OGp0SDlaSnp3RGJid0QxM3JTUEFtdm0wMmFXYlpUejhaYWVHTVZSN0hUNnp5Sk9DRkw2elJPbUF1c2xlRE02M213bk5vVl8yd3hKWmhh?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New Zealand’s ‘rocket man’ takes on Elon Musk and Jeff Bezos - Financial Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM3JxanRHNE1yWkJkSWFSSkFkZk5fSHRhLTNfdVlwOEYtOFR3a2x0Sm1FMEdyM3dlU0FvMmVkalpJNFREdGZXRHFLTFd5c0dNZktJY3VNb2haVVRNZDMzbF82bXExYXMtS3Z4QXdiUHk1N1Via2V1cmFqRHU1XzBGQlg5Qi0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$Rocket Lab (RKLB.US)$ Shorties well done - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSEI5Y1V3TTBpa0NBd3VOSzcwTHFTdXNxZ2RaTEpkbUVLcU9yTnF2Z3FLS0ZiMkZKQWw1bDFOUDdSM0sxaEtNUkluYTlQaGtCYjJrY3JYWjRZb2VXZzdfMzFqNy1nUkJTbWxaR1l2YU85bk12ZmlITkIwaE1MWndGQXBRVDB2eVlYdUNSQzRWT21wMU5NSnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-07-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CI Investments Inc. Purchases 17,855 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd1FfWHh1XzVVSjhJRE1ZYUVsU3dLTFpQbFkwNGl2NnBScnE3X2VGeWFGSG1lcmV1ZTJMYlBDLS1URi11SkRfVEhrU18zRDFld3RMSzZDWDJudVdMTThibTBUNkpoVkM0MTRuU0RjbXdDbkpCbkZUbmhmTHV0c3licGFod0NKRE9iQkRPZmlsMjN6Nm8yRU9vRDJBdENIUUNWMTJ4YUdSSUJSY0w0Ti1pQWlaVm12ZUk2WUlBeDRtc3E3NGtQWENOVjFyaDhwS1dr?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      },
+      {
+        "id": "boeing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 335,
+    "dup_title": 174,
+    "too_old": 39,
+    "gate1_blocked": 24,
+    "gate2_blocked": 21,
+    "passed": 77,
+    "pass_rate": "47.8%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "LUNR: Intuitive Machines Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+      "6,231 Shares in L3Harris Technologies Inc $LHX Purchased by Bellwether Advisors LLC - MarketBeat",
+      "SEB Asset Management AB Purchases Shares of 24,361 L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris Technologies Inc $LHX Shares Sold by California Public Employees Retirement System - Market",
+      "Mediolanum International Funds Ltd Acquires 40,883 Shares of L3Harris Technologies Inc $LHX - Market"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「Iridium Posts 4 Percent Revenue Growth in Q2 2026 as Rock...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Iridium Posts 4 Percent Revenue Growth in Q2 2026 as Rocket Lab Deal Nears - ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Boeing Stock, L3Harris, And Archer Aviation On Aerospace Investors’ Radar - s...（太空產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

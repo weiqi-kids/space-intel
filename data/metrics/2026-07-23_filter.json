@@ -1,0 +1,16 @@
+{
+  "total_raw": 335,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 24,
+  "gate2_fail": 21,
+  "passed": 77,
+  "gate2_samples": [
+    "LUNR: Intuitive Machines Inc Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+    "6,231 Shares in L3Harris Technologies Inc $LHX Purchased by Bellwether Advisors LLC - MarketBeat",
+    "SEB Asset Management AB Purchases Shares of 24,361 L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris Technologies Inc $LHX Shares Sold by California Public Employees Retirement System - Market",
+    "Mediolanum International Funds Ltd Acquires 40,883 Shares of L3Harris Technologies Inc $LHX - Market"
+  ]
+}

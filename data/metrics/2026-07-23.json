@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-23",
+  "total_events": 12,
+  "by_company": {
+    "rocket_lab": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "iridium": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "l3harris": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "boeing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "spire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
