@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T10:14:04.683002Z",
+  "updated_at": "2026-07-24T10:10:28.689853Z",
   "quarter": "2025-06-30, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "銥星通訊",
       "ticker": "IRDM",
       "currency": "USD",
-      "ar": 104382000,
-      "ar_prev": 93772000,
-      "ar_qoq": "+11%",
+      "ar": 104515000,
+      "ar_prev": 104382000,
+      "ar_qoq": "+0%",
       "ar_period": "QoQ",
-      "inventory": 69667000,
-      "inv_prev": 73764000,
-      "inv_qoq": "-6%",
+      "inventory": 63470000,
+      "inv_prev": 69667000,
+      "inv_qoq": "-9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "l3harris",
@@ -126,17 +126,17 @@
       "name": "諾格",
       "ticker": "NOC",
       "currency": "USD",
-      "ar": 1806000000,
-      "ar_prev": 1375000000,
-      "ar_qoq": "+31%",
+      "ar": 2311000000,
+      "ar_prev": 1806000000,
+      "ar_qoq": "+28%",
       "ar_period": "QoQ",
-      "inventory": 1450000000,
-      "inv_prev": 1309000000,
-      "inv_qoq": "+11%",
+      "inventory": 1415000000,
+      "inv_prev": 1450000000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "planet",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 23,
+  "gate2_fail": 28,
+  "passed": 66,
+  "gate2_samples": [
+    "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts",
+    "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+    "L3Harris Technologies Inc (LHX) Shares Surge 5.1% -- What GF Sco - GuruFocus",
+    "L3Harris to Deliver Critical Monitoring Systems for US Navy Submarine Programs - ASDNews",
+    "L3Harris delivers RS-25 engines for Artemis III - Metal Additive Manufacturing magazine"
+  ]
+}
