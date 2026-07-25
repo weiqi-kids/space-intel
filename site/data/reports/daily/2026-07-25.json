@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:39:58.542998Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lido Advisors LLC Sells 69,148 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2ZGcXBYeFZla0c3R1E3NUhCemZHQWhKVmZuaGlfVzFLUUE4U21QdTFtZ0s1cVZJRWxfYUtzNGpKVF9kYmtxZ0FnclJtZXVEcl9XUXNhWW9lZ0twN3hpNTUtOEgzUTRyU3FNeTFlcng4V3FXN2lHOGNOSVBBM09IenlYcHVZaHdBWGMwbE1HRDZDSjFXTTIxM0xhNVNSUzVyUC1EdGU0RXRkSkJFajhycEFNYTRzbTFvdkhXbUpjTXdHVk5LalA0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "KBC Group NV Sells 124,385 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS3YyQnlYM2haWHlSeXJkcEM5NTFjWldDSzBKbG5sT3NSWm1zc3otRWVsdFI5alJwbDdVc1BVRnVUOFN3eDNjdEJWa2NOaUlha1U5OEhVYjFleUdlNXRPOWNDQ1FZMUJ4UFRCZ3FkNlplV21mT3JKdl8yVHczZkpqV0lFQWFwVUxxQXptWmdZcWFsQk9MN0oxN213aWFLRjBlTkhzMjRja3FweE1zQmltOHBUYURDdDdvSW82cXBkM2xvdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-07-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is L3Harris Technologies (LHX) A Bargain Following Its Space Force Satellite Contract? - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcUtGUVNnV0VWTWROOE55NmJMRTZDb0lwQWtzcDRtNm9IVnlvb1ZGMlVjRjF0a0E0WnduOGJrZTZacm9GVkJXLVdsd0RncGtyMUQzQkxtNVotZ2hLbWJWUGZOdTZGV0FHNk8zaXZldjk3R1FaUUZoZUx5NXdTTUtBc1h1aW0wQnVXU3VnY3gtOXdXQnUzRDNRMjJLME83N19TM1V0bmtyNldvZWxB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-07-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arrowstreet Capital Limited Partnership Lowers Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVF9COFdzSmJaVXVKQU5oNmFWZzZMN0ZTUWFWRE9KSE9XajVsSzI5XzM2eHBHeHNCR2QwUjNPZmhGQXhuSWVtWGNhVjBabXFFbnktNE03OFM1QmZvMGdIOG0zcl82VWhhMFJmRWVYa2FXV21ubGNWaHRfV0wwV2NFdzVjemtVM01nQ2NTZXREQmVwdWVoZDFaTDlMMWJMTy1yMmg0cTR2ZFpTam05Zkx1bF9OeHVQeXNvc1lnOXVEUVY3R1o1Z1A0eFgwd21YQ2hILWpfRzlKTFQtY0tUODBQZVMxdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-07-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (ASTS) Slides On $1b Note Deal As The Valuation Story Stays Intact - Yahoo Finance UK",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWFAzUHZERjZCMGxGQ2phckZ3YnNSSGVDdlkxcldBWkNIUjIwOFoyeDB2U0dHTUlrdmtWZHg4RTVveTloZlZTRDJQbjNDMHU3OGV1OVd4TGZFbWxFeGN6ZkRSMnRWazZ3M0VublV4aDRoM1llTGtOd183emZXanlFaWVFZUZVZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 2
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 173,
+    "too_old": 41,
+    "gate1_blocked": 25,
+    "gate2_blocked": 28,
+    "passed": 66,
+    "pass_rate": "41.2%",
+    "gate2_block_rate": "17.5%",
+    "gate2_samples": [
+      "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+      "L3Harris delivers RS-25 engines for Artemis III - Metal Additive Manufacturing magazine",
+      "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions - Yahoo Finance UK",
+      "L3Harris to Deliver Critical Monitoring Systems for US Navy Submarine Programs - ASDNews",
+      "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「Lido Advisors LLC Sells 69,148 Shares of Rocket Lab Corpo...」。主要關注主題為太空產業通用、衛星星座、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lido Advisors LLC Sells 69,148 Shares of Rocket Lab Corporation $RKLB - Marke...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "KBC Group NV Sells 124,385 Shares of Rocket Lab Corporation $RKLB - MarketBeat（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

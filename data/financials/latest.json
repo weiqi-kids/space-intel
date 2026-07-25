@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:10:28.689853Z",
+  "updated_at": "2026-07-25T09:39:55.398339Z",
   "quarter": "2025-06-30, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -109,17 +109,17 @@
       "name": "洛馬",
       "ticker": "LMT",
       "currency": "USD",
-      "ar": 2322000000,
-      "ar_prev": 3901000000,
-      "ar_qoq": "-40%",
+      "ar": 3356000000,
+      "ar_prev": 2322000000,
+      "ar_qoq": "+45%",
       "ar_period": "QoQ",
-      "inventory": 4251000000,
-      "inv_prev": 3524000000,
-      "inv_qoq": "+21%",
+      "inventory": 4411000000,
+      "inv_prev": 4251000000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "northrop",
