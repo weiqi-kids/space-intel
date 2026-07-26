@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 214,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 23,
+  "gate2_fail": 24,
+  "passed": 29,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo Finance Singapore",
+    "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+    "L3Harris delivers RS-25 engines for Artemis III - Metal Additive Manufacturing magazine",
+    "L3Harris to Deliver Critical Monitoring Systems for US Navy Submarine Programs - ASDNews",
+    "L3Harris Technologies Inc (NYSE:LHX) Receives Average Recommendation of \"Moderate Buy\" from Analysts"
+  ]
+}
