@@ -1,0 +1,235 @@
+{
+  "date": "2026-07-27",
+  "generated_at": "2026-07-27T11:13:10.026590Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-27-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Awarded Record $266M Missile Defense Contract with U.S. Space Force for Suborbital Launches - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGJTNW54WE85WnRUUnVmVzlsMmZMS09rZm05Z0p4bXhsaTg1cVoyOWF3YjNmd2pjOWstNzdubXdPUFpLTDJqcmhrWmMteHZuMkwtVHJyUVFLamM4ZnE2MURGUWdZRGg1N0dGVnpXazFnSTI0Uk9tdXUyV1JvMGFjRzVCOVlhcVFJcFdSX0N1dTRJMDdFTnc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-27-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Awarded Record $266M Missile Defense Contract with U.S. Space Force for Suborbital Launches - The Manila Times",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNZEppS201Z1o0NUJzOTRfLXZ4cGVwNVM5bVVlS0xfaVVXb0ZualJpR19MTjZBekRUbmk0MWJaTk9za3hPdFRmNzNxQjJTaWU5VnpveHBLWVJEVWdLSWVfVjNhMG5EamtNWmlyeWNLUFlaTTJtTld3U0dLRzR5US1OSGhBN29sTFVkYUhIajV2eDFSaVR2SjBuZkZKTTFjVWkyZUVyNEVPYUdzU3BZaW1HSF9Pb3E2YV9INW95WGtPaTBabzBEdmJBblhJXzZKQ1NhdmZYWVc4a28weVMtM2l1TWJPMlozRUh6NGxmRnA0NnJiTDVIT21iVnpDTndOcS1YSE1n0gGIAkFVX3lxTFBZbDN4YWlpaUU2UHJvLXFtNXFVWVlBU1k5Ry1DeWJocFh3M21aUXlqU2ZKNnV4SHdfc2d1cGdxZUJHRUw5QkJQSEs0ZS1IZXlzZ0RhdkkwQ2dXc3l1bjhGME1ScjVMZ19lSEN2dXpMSWNiOGtWRU9kU1lickZIWEpVTXFHQXJ4Z3UzUk1GUHBxZm5KTHJtYy1YYnJVVzBYb2VPNHhUcmV1cTJaZlpkcW5tQWlJVTBxeTBSMk5vamJMRWQ0Wk5KRUc1VF9lQnQ2c0ZZeXhOdjE3Q0NfbmRjM05xMnJyWC0tZUItWXVOaDJGTVh2eW4wS1h0LVpRa2J0UE9iTE1rS21RRg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab to open Alaska launch site under $266 million Space Force deal - SpaceNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWGJGcHZaU2haX0ZWWWhqU0lJSURUSGlicGxSdTlGa2JscEVENmhUUkZxSEZ0WHRVMHg4aUs5XzVQNkI3ZzlNbmJCcFBlT0NHYXl5ZkRYbzlpR1ltUmR5ekJNLTlra2FtRTZkRUM1RWRfY3gydVpOTE53a1Vsa0Rzdl9NQy16dlRYR1kwcTNPX1Z4VUtGZDNZN1M1MA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab wins $266 million Space Force launch contract - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdmJSLUpxMTdsdXBVU29rVFo0OURXRXJsNkNSczg1by0tQW5OeTNYRnNzcEdtUVNuTGR5YkVaU3pjcy15Y3ZPX2xHcm5iY3ViU1NCdlVDeVp2b2JySmRqWmVLcXhOSmU1cHdSMkdta25TYWNleFA1Wm5ZYVAxSXNnajNZckNrMk5aUHZiUE9UdzNxbmNCREJBb2Q2X1VrWml4Zk1vbzhuOVV1NlNvekpDR3V3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-07-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Secures $266 Million U.S. Space Force Launch Contract - Quiver Quantitative",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMzFMT3VzdjFyVWctQk9hY2dycVdEQlBFNm91Qm51VjJfQXAwVTFPaUZDZlBScXFPRGx5UzhWNktVZVFYVFlqNDhsU21hWTU3SGhMd2hmelZleXQ4VHBuOXJZZllrN2ZkbWE0NVY1RmpORmtNazNOT1pXS29HUzNiY3UzM3pLbW0yOWIya09HYzdwUVhHT2h6OWJNODVMa0s4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.29,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.11,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 8
+      },
+      {
+        "id": "ses",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "spire",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "space_defense",
+        "count": 7
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 207,
+    "too_old": 40,
+    "gate1_blocked": 19,
+    "gate2_blocked": 23,
+    "passed": 43,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "18.4%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo Finance Singapore",
+      "SummitTX Capital L.P. Invests $11.68 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+      "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+      "Themes Management Co LLC Boosts Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為火箭實驗室、SES S.A.、AST SpaceMobile相關動態：「Rocket Lab Awarded Record $266M Missile Defense Contract ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Awarded Record $266M Missile Defense Contract with U.S. Space Forc...（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Awarded Record $266M Missile Defense Contract with U.S. Space Forc...（太空防禦、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 207,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 19,
+  "gate2_fail": 23,
+  "passed": 43,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo Finance Singapore",
+    "SummitTX Capital L.P. Invests $11.68 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+    "Why L3Harris Technologies (LHX) Stock Is Up Today - Quiver Quantitative",
+    "Themes Management Co LLC Boosts Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris (LHX) Stock Looks Below Fair Value On Current Assumptions - Yahoo! Finance Canada"
+  ]
+}
