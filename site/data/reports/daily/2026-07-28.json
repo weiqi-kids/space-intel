@@ -1,0 +1,233 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:28:06.388908Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-07-28-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Radar - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOX2Z5MEJmOW5DdE1LVlNEYWJ3S0lGOUwxbzl4SVpkbXh5RG1XNzFkMHAyWTRLZ19tTUJEWlhoVW52cXRxTGR2X0hfTDFETk84eTRiN09LMHdSTlBrTUFqanQwaFdUX3ZsR19NbGZXWWI2MTliZHEyQ3d2V1h6ZlJXeE9tMmdsclRXUEswcjVwNVdWUkZyNHN4WThwN3V5VDRTYU84RA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-28-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Radar - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzFLM29oODVhMXh5cjRqNmYtRlB4enB1N3IxaDRRUUEyNFNsblVhNExlSU4tdkEyRHc0eHd5dDBJVW94cEw5UjJIOFlGMzQ0MjdXeVZpckFNMTQtRkwxbXZwZjFUMzZKUTByTzY5NWI0TV9wMHNMUU9MX3d1Wlp6NEpqbDFQdVh0RFlZMGxpTkREOURTR2JITg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-28-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX Rival Rocket Lab Scores Record Contract in as Space Race Engines Roar - The Daily Upside",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYXJVWFlVS2tOTmp6b0dLRWRvRlZ4TnhWRW9iR3hlaE9YV3hxVkNGWmwtUjJmeFB3ckhwMFRhOGxfTFd4LWxCcHVaOVBMWmFqTkctZWU1WHBSQlVQbC05S05HZ3JISlJUNXFMQVhjMnhNR3YzQ2ozWGJUUWxnTEhlMzNvWlp6SV9BaUtVdDBCMGc5M1p0RXBackFzSXgzMThpdFZDcDlqdzBqS2NvOG9qT240NW9HMlNEM3RPYmpvb3Q1M29hbkZzcmhfdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Space Force Picks Rocket Lab for Suborbital Launches from Alaska - Air & Space Forces Magazine",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSTFITXdaamtmMFFmQzhGRUNzS1JlVEpselNFVDdKdjBfSTBaTFpxRFlvRkNlNDY3ZmhBRFlpeDZ2M3BJTzNMUzhtZmRkcmd5ZUZjZ2Y1c3VseWZCSTV2WXI3N2xYM0lvdll4cEVrYWx3cjhya25zc2l4T3BhbzFidF9lNFhONThvaVdBNzlpeU1HVVZYdzNlV2NB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-07-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong. - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT19MMGEtWjhsZjMwTmRYVmJlbnBlQzlvZllDbi1PODV2d01IMGpNQlpwTkphT3R4N0tzcFJreFBLaWt2NHhVODd1OWg0MHFaUGJJdzBMZkp5WTRlR191LVl2dkpUSHctWjBIeVNiVzRTY29Rdl9xRWw0WFFieEhrSGVISVZCYi0wOFdsakNOeUMycTdvaVhR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "space_debris": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ses",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "space_defense",
+        "count": 3
+      },
+      {
+        "id": "space_debris",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 184,
+    "too_old": 36,
+    "gate1_blocked": 15,
+    "gate2_blocked": 22,
+    "passed": 77,
+    "pass_rate": "51.3%",
+    "gate2_block_rate": "14.7%",
+    "gate2_samples": [
+      "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors despite daily gai",
+      "Why Is L3Harris Stock Gaining Monday? - Benzinga",
+      "LHX|L3Harris Technologies Inc|Price:303.410|Chg%:+3.200 - TradingKey",
+      "SummitTX Capital L.P. Invests $11.68 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+      "Themes Management Co LLC Boosts Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「Rocket Lab Debuts a Breakthrough Technology Investors Sho...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Ra...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Debuts a Breakthrough Technology Investors Should Have on Their Ra...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

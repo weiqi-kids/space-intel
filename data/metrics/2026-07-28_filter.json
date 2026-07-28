@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 15,
+  "gate2_fail": 22,
+  "passed": 77,
+  "gate2_samples": [
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors despite daily gai",
+    "Why Is L3Harris Stock Gaining Monday? - Benzinga",
+    "LHX|L3Harris Technologies Inc|Price:303.410|Chg%:+3.200 - TradingKey",
+    "SummitTX Capital L.P. Invests $11.68 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+    "Themes Management Co LLC Boosts Stock Holdings in L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}

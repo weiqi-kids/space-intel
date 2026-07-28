@@ -1,0 +1,156 @@
+{
+  "date": "2026-07-28",
+  "date_range": {
+    "start": "2026-07-22",
+    "end": "2026-07-28"
+  },
+  "generated_at": "2026-07-28T10:28:06.531750Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-07-22-019",
+      "date": "2026-07-22",
+      "title": "Iridium Reports 4% Revenue Growth in Q2 Amid Rocket Lab Acquisition Deal - Via Satellite",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "space_defense": {
+      "this_week": 15,
+      "last_week": 5,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.14
+    },
+    "industry_general": {
+      "this_week": 85,
+      "last_week": 73,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.01
+    },
+    "space_debris": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 2,
+      "week_over_week_change": "+50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 32,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 11,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 5
+    },
+    "intuitive": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "planet": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ses": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 355,
+        "last": 434,
+        "change_pct": -18.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-22",
+      "event_count": 76,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 72,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 19,
+      "sentiment_avg": -0.05
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 78,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 21,
+      "sentiment_avg": -0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-22 ~ 2026-07-28）共 355 則事件，重點為「Iridium Reports 4% Revenue Growth in Q2 Amid Ro...」。銥星通訊表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 32 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 11 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
