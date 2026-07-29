@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 21,
+  "gate2_fail": 19,
+  "passed": 69,
+  "gate2_samples": [
+    "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+    "Healthcare of Ontario Pension Plan Trust Fund Has $8.57 Million Stock Holdings in Intuitive Machines",
+    "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo! Finance Canada",
+    "Talon Private Wealth LLC Invests $3.06 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+    "Why Is L3Harris Stock Gaining Monday? - Benzinga"
+  ]
+}

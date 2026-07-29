@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-29",
+  "total_events": 19,
+  "by_company": {
+    "rocket_lab": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "lockheed": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 4,
+      "sentiment_avg": 0.12
+    },
+    "boeing": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "space_defense": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 18,
+      "sentiment_avg": 0.03
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-07-29",
+  "generated_at": "2026-07-29T10:32:56.899845Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "lockheed-2026-07-29-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "L3Harris to quadruple THAAD propulsion in contract with DoW, Lockheed - Army Technology",
+      "companies": [
+        "lockheed",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzcnZfUi1SS21pVVZaNjIxUkJkUWVadEsxUmdiYnhqVE5iTmFyX3EtaW1YYUtMbjI0Y3FlWHpLNER3MC1fcmlDRGk2YXRGMnZJNjRzZHQxNTlEemVpbElYTUl1Q2JNTktTbTI3UGlKUlh4a1BOMDJ5UXhEUFQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-07-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Wins $266M US Space Force Launch Contract - The Defense Post",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13T1FWNFVtazlwN3BBaDQwR3BBSlBpYVVLWmY2SUYtQzRJckRISy1uQS1BWkkzd2QtSWtaN1IxQm5hY2ZmXzF4SGsyMjdMaTRHOVlyYXQtbVhsTHpPdE5KSmFIcUozb2ttMmlRSERUeE83ZFV3NnVN0gF8QVVfeXFMUE9NTWV5dlBUTVNaaUtoTy1WRzhzLXNqMkE1UE9hcXNoSUV2U3FFRU85NWg0QnFWTTJTTXJtTzhBN1lUQzkwUFFSNDhaN3BienpKWDhWWGRleWhOOWtfQ2pYbGJDT0luRDd2dmx0b1R0Vkt3aUx0NUpkM3VaQg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stocks making big moves yesterday: Zoom, TransDigm, Elastic, Rocket Lab, and Tyson Foods - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU04tNTAyeGRQcW1sMnhTWkFBVmNZRDBKSmliLWtMNGM0TlVZMU5UR2JaOHJJMWpzR2FZcGxvUVpsMy1uTlF1YS1NVVhCblNxSm5jcmZWMnM3VU51QzUtTTdDZ1pGQ3VVZzRnSUViQzdqdXI0UllVeEhaeW40emVXOUF4SFhCbXpjYXFDM0tranlOeFU4QkpMUVJMZnJJMTg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Could Be 25% Undervalued Following Its Biggest Space Force Deal - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcTQ1blo0RkIyemp2VVJMazNOMmh2WVY5WE5OUTRoa2FUOXZPQ01qVWFsb1Y1Q2I0MnpwNERiQXpRMHdMMktmWTl3Zy1MOUJiXzcwWGVHbUlwTWc4MmJBRE4yMDRfV3lMVDZzTnBkUGV5OXV0SE5ZOXN5TmZOdWdFaHNOT29FSkFRYmJnSkpER0xQT2dXQWVvOEJkSTZXblV3NmVyNko4Ry1TbEYwdi0wcWw5NW5uTzF3V1BISExNQ2c0RlloZW9wVDVmd09NSE3SAdQBQVVfeXFMTlM3ZDlYS3h5TDlkcFdyd3FCeGJJQVc1ZGRESktOR3FhejQ5NHoxNldXQ3FXOUNKeXZVaW5QMzh5WmhBbkFiTXF4dXlfbm5UQjFtNGNab0tOMXZJTlZvNTAwZEpsSGMwbWRWXzlOR0ozUGVZaFlhc25JWXlzNjRCVnFldEdOTUJVVU03aV9ub3VsVjFwc2NKeTZBYlpNVXh6NExsS3dmX28yTWNkRW9JLXpCX283Tk9Qemp3MHJPZTltR3hnU2xfRWVEM1lqUHg2OWpwd3A?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-07-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Eyes Worst Month Ever, But Cathie Wood Keeps Buying — ARK Adds Rocket Lab, Cuts Exposure To $8B Takeover Target - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnB2dnBDRHVRd2xnV1oyNUVWNUJyUm1HdHBZQ1BMbk1YWDVualJCV09ybnZqTUY3WUw4S2VKVUktenZTT0Rzc202UFlFM0Z4QU5VdU92WmlqVUFVY1ZkLTdFczN5NGk1Z3NMMElsbXFtM0lZdDQzLXNVZldEY2JFQ0dLZ0F3T2dPblVPV1B6aEhGbW5IYVJfOGhrd0twUXJ0dzF6SXllWVZvejJkSGQ0dkhuOWdvRDRDYUNWXw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "planet",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 188,
+    "too_old": 35,
+    "gate1_blocked": 21,
+    "gate2_blocked": 19,
+    "passed": 69,
+    "pass_rate": "47.9%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+      "Healthcare of Ontario Pension Plan Trust Fund Has $8.57 Million Stock Holdings in Intuitive Machines",
+      "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo! Finance Canada",
+      "Talon Private Wealth LLC Invests $3.06 Million in L3Harris Technologies Inc $LHX - MarketBeat",
+      "Why Is L3Harris Stock Gaining Monday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、AST SpaceMobile、行星實驗室相關動態：「L3Harris to quadruple THAAD propulsion in contract with D...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris to quadruple THAAD propulsion in contract with DoW, Lockheed - Army ...（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rocket Lab Wins $266M US Space Force Launch Contract - The Defense Post（太空防禦、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
