@@ -1,0 +1,16 @@
+{
+  "total_raw": 334,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 29,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 100,
+  "gate2_samples": [
+    "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Major Shareholder Sells 11,495,514 Shares - MarketBeat",
+    "Intuitive Machines Will Release Q2 Results Before Market Open - stocktitan.net",
+    "Form 4 Intuitive Machines Inc For: 29 July By Investing.com - Investing.com Canada",
+    "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo! Finance Canada"
+  ]
+}

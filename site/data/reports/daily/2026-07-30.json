@@ -1,0 +1,198 @@
+{
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T10:17:40.863767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-07-30-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call Highlights: Record Orders and Revenue ... - Yahoo! Finance Canada",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2RYS1FLN2J1TDNWaFRXUVlRSm9iWXFRU2I3WmlqaVhJZk1McXhCZEpFQTdrVGJuZUNBVm5fR25ONG5kRFZUT3d0aXgyQW5rN1VHYXB4b2UySlJaNWo5dWZBeW1raXZreHE3U1Zma0xDaThxTWQ0Wnd0NkNvLVFHMUt2UDh5cWJN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-07-30-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Look at AST SpaceMobile Inc (ASTS) After 6.2% Decline -- GF Value $502.71 vs Price $53.03 - GuruFocus",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRVA2dnFZdDFSR1dOc0pRdlBDSHYzMjA0WDlrcHZISmRTNEhUT2N5WS1ZMElyTHNWNno1NW9PSXFIcTZHMklUdGs1ZVlWQ2xCam1JbjJMR3ZIM0lRbTJha25mVHE2OE9ITloyTi10MlFMUUEwY1d1MzJfcDU0eXZJZEt4c0VXSTZOd3dCS0xLb1lHNGg1SElWdVNzZnR1MS1YVEdSMGZwR2FHdVBFcUVfRjBMNUpSMXdlQTlr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-07-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock Keeps Dropping. Here's Exactly When I'd Buy The Dip. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZHpCamY4NnZhX3UzYS1OV0JfYjhySjBMQ0dCN0JfT3NXSmVOanJ3dlhYX3dMdG9rbHFFelp6LW12UjB5dGRsU3R1UTVMbng5QU1tQm1zWGxiM1NUWmE5d3ItaENvZ2VIQzJpcFNjbHRrMnQtTlA2bmdCc3huVjlBc2ZYMlRjQlI5a3h4OGp5dEVTVWZ5NnVxOFREUVc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-07-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cetera Investment Advisers Acquires 17,084 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTJyYWh5QkFHLXp4ejg1VDdZeWtwMjdZbDdnSnJVZ3NnQmtXdUg5T2xDVVdOMi1fUF9nUERzdFFFOE5LdDR6bUl3V2ZZdWVjSUFac0txRTQ1bE9iZ2ZDNkhic1lhRGNtTjIyVndHMVlLc0RkV2lrYjdwMTVoVGVrbzdkeGpEeTcwQmpxa2I1SjMtZ05QdHdLQXB4NFpqVEF0R1ItcXlUUTZ6c1RmLWdSc0VRSGxSSHhXUE1XeUFXbGJkZGgwVHliUGhMRlE1RkpHVkRxR3c0Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-07-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells 47,303 Shares of Stock - MarketBeat",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRrS1Z0WVI4MWVvc19hS1Q3VEVrWEJvQkljMVhzMWRvNURfbVFRLWprbW1YZ2pGYjNiaVRrU1lJNVktVzlBOTkwNDFBdWc5RmdDbDIydkowdi1xaHE0Q25qX0tYXzNuTDFQQVljZm1GaUJNNm5YWG1iMjlfM3VzTGFiVEU4UFB1d3BvMU5SZU94OW93RmFtWVZBS3dOWWpwTE5zeUQwdTMxc2hRbVhGME9Jc3FJZkFYOHVPNnpwOTRpaEtwcUFhMnhfRUVvbVdSZHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.11,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "ses",
+        "count": 4
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 334,
+    "dup_title": 168,
+    "too_old": 29,
+    "gate1_blocked": 18,
+    "gate2_blocked": 19,
+    "passed": 100,
+    "pass_rate": "60.2%",
+    "gate2_block_rate": "11.4%",
+    "gate2_samples": [
+      "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Major Shareholder Sells 11,495,514 Shares - MarketBeat",
+      "Intuitive Machines Will Release Q2 Results Before Market Open - stocktitan.net",
+      "Form 4 Intuitive Machines Inc For: 29 July By Investing.com - Investing.com Canada",
+      "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為L3Harris Technologies、SES S.A.、火箭實驗室相關動態：「L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call H...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Inc (LHX) (Q2 2026) Earnings Call Highlights: Record Or...",
+        "level": "green"
+      },
+      {
+        "text": "A Look at AST SpaceMobile Inc (ASTS) After 6.2% Decline -- GF Value $502.71 v...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
