@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 28,
+  "gate1_fail": 18,
+  "gate2_fail": 23,
+  "passed": 83,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Lands On Strong Sell, Is The Stock Cheap Or Pricey? - simplywall.st",
+    "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+    "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Major Shareholder Sells 11,495,514 Shares - MarketBeat",
+    "Intuitive Machines (LUNR) Stock Looks Pricey After a 51% Three Year Run - Yahoo! Finance Canada"
+  ]
+}
