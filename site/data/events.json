@@ -1,5 +1,79 @@
 [
   {
+    "id": "l3harris-2026-08-01-001",
+    "date": "2026-08-01",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQZ25pckxLNHBoZVVQdEZsMUpqQ2kwVGVMdndnSDJoc2ppdGxZbWN0UEtZRWJQRDY3UFNXcFIzTjJBWXFkSDl3dUNhc2VwWkd5TlFRcVh6MXphd3BCWnhMWFFkYlFjZ0JES0Z2WVFrRF",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ25pckxLNHBoZVVQdEZsMUpqQ2kwVGVMdndnSDJoc2ppdGxZbWN0UEtZRWJQRDY3UFNXcFIzTjJBWXFkSDl3dUNhc2VwWkd5TlFRcVh6MXphd3BCWnhMWFFkYlFjZ0JES0Z2WVFrRFRIbXdHdkhSR1h4ZDNHclZlMHhjcTZPY3ZyNHFKU1ozY1NHNkZPbi1oVE5ubXJ3QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-01-002",
+    "date": "2026-08-01",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Bank of America Corp DE Acquires 350,313 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDFpRjQyS21UeTl0V2FYN21pRTVXZkp2dlJWRW5QYU5rMWlGZVloNGdtU2ZJclliNExqRlZadzVMS1F5WkNmZUV6eHhJRW4wMWVESzlJRVV4TmJaT0VLRzZhWWNpU0RNWURuSzE1dG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDFpRjQyS21UeTl0V2FYN21pRTVXZkp2dlJWRW5QYU5rMWlGZVloNGdtU2ZJclliNExqRlZadzVMS1F5WkNmZUV6eHhJRW4wMWVESzlJRVV4TmJaT0VLRzZhWWNpU0RNWURuSzE1dGlFd09vYjhndTZjSVBwalZOVDBBY0IwRTZDOTNWOHB0dEtidUp5dXppRG05ZlpoX19rRG85eHJCaTg3RV9qWmh6bzEtTUV1RnR5blJRaUpjVHZlNzlXTzVrZU83WTZRczg4NUdHVm1LMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-08-01-003",
+    "date": "2026-08-01",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SES SA FDR (Class A) Revenue Breakdown – EURONEXT:SESG - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBMY2t3OHdYdFhORW5iYTRlRHBaUkgxNEVQSEZjNlB1RGNfR0ZsSlhwcnN6MEJTSUhoZDlXaGQ3UGFJWTZpaXU4T0tTcHlJRC00SUJOS3VERXFhQWlQWlhUVnFRRzdXd1RwQmVnTFlnbT",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMY2t3OHdYdFhORW5iYTRlRHBaUkgxNEVQSEZjNlB1RGNfR0ZsSlhwcnN6MEJTSUhoZDlXaGQ3UGFJWTZpaXU4T0tTcHlJRC00SUJOS3VERXFhQWlQWlhUVnFRRzdXd1RwQmVnTFlnbTkzeUh2dThkaHZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-01-004",
+    "date": "2026-08-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+    "summary": "APOD Science APOD APOD: 2026 August 1 – Buck… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a dif",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-07-31-001",
     "date": "2026-07-31",
     "companies": [
@@ -313,6 +387,942 @@
       {
         "name": "nasa_breaking",
         "url": "https://science.nasa.gov/image-article/apod-2026-july-31-ngc-4372-and-the-dark-doodad/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-018",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Lands Launch Contract, Space Force Taps Vendors For $981 Million Program - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXFaaDhiNS1kaXMyWUZXUGUxek9OaVBwUERzdkJ5ZWhxXzdnTW81bEJJc28tVks3eFk0N0RsaXBuY25ZaXRXWFY5U3Y3bTlQbjZTQndQWVRUMV9rZGRIX2I1SFllZnI2UnZEeHNkWE",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWXFaaDhiNS1kaXMyWUZXUGUxek9OaVBwUERzdkJ5ZWhxXzdnTW81bEJJc28tVks3eFk0N0RsaXBuY25ZaXRXWFY5U3Y3bTlQbjZTQndQWVRUMV9rZGRIX2I1SFllZnI2UnZEeHNkWEw3VEY3Q0Z0X1Y4UTJmbzU3NFVKSkRqNWU3WDhNYWVTT3JSM0ZsRmNPaTdtbGJodGI5Z3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-019",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab",
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Rocket Lab: Which Space-Based Network Stock Is a Better Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHhGVkcycUQ2QUNhSkFXeU5DZk9ncGZfYk1vLWVBdVdQNnFGVXBsc1NMSm15QkJIUTMtM3RMMlRfUW9pcklHc3lfZlFGOGl3bFFzWF9yM3RDVlVfZUVEY05oejFJV1padkFsbHViMk",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaHhGVkcycUQ2QUNhSkFXeU5DZk9ncGZfYk1vLWVBdVdQNnFGVXBsc1NMSm15QkJIUTMtM3RMMlRfUW9pcklHc3lfZlFGOGl3bFFzWF9yM3RDVlVfZUVEY05oejFJV1padkFsbHViMklkcnNXaWNnekJXSWo1RWJfcmQ0SzFvRENsTGFsSGtyeGw4YlFwQVVzbjdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-020",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rocket Lab: A New Growth Engine Changes Everything (NASDAQ:RKLB) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0VvYkRxUFVpcHpGSVFJTTRIa3lPbzQybnRZWE5nNloxY29tZlRySDM5blhaWFlqSmpfS00tYTZOMG41ME00bjB0Sy1FT25QcXJHZ1hZZ3RmRDdYLVBMXy05XzVySjAtQmFsckx4Sm",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0VvYkRxUFVpcHpGSVFJTTRIa3lPbzQybnRZWE5nNloxY29tZlRySDM5blhaWFlqSmpfS00tYTZOMG41ME00bjB0Sy1FT25QcXJHZ1hZZ3RmRDdYLVBMXy05XzVySjAtQmFsckx4SmFITThSSXRpR3ZuOTMySWdGNkRqdkh6OF9NdHM5blpWVHhvdlBj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-021",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab’s Rally Isn’t Random: 3 Catalysts Driving The Stock Higher - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNTldHWFJDRUVNcW5HV0tTS3NRVmlVTnZ3NGJuNDloR0tuYTVRUk1zYnVNREI2d1FhNnFPV0VrY211cjR3NXg0a0xsNTdvbEVoMDdqeEJvTEZLX0RDY3JpaE90dlpxd0k5ZmgtRlR4b0",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTldHWFJDRUVNcW5HV0tTS3NRVmlVTnZ3NGJuNDloR0tuYTVRUk1zYnVNREI2d1FhNnFPV0VrY211cjR3NXg0a0xsNTdvbEVoMDdqeEJvTEZLX0RDY3JpaE90dlpxd0k5ZmgtRlR4b0lURTdZM1hoSk5IRE9TcnRmMUR5VU1KOFZNY1dfSXRLNlRhNVZ2QnhJWFBFdDJIRHR1OXVDRnZkcHhRLVlROE1n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-022",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab (RKLB) Just Won Its Biggest-Ever Contract. The Stock Barely Noticed - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPbEZHVmVSTHlkOWRmR2RVUGdMOFd4TDhtQ3ZXTm1WQThHTzZfRFNVd3QyZHBqcDhHMWhicGF1dmI0S0x3amxjSUs4SnllOVVmMnlwc0FraUdCX2JkR002dWh2WmlscUJFTVRNNGVXYl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbEZHVmVSTHlkOWRmR2RVUGdMOFd4TDhtQ3ZXTm1WQThHTzZfRFNVd3QyZHBqcDhHMWhicGF1dmI0S0x3amxjSUs4SnllOVVmMnlwc0FraUdCX2JkR002dWh2WmlscUJFTVRNNGVXYlpzYVpTZmRhNUJsdzdsM0E0Y0RfQnJqNVVES0ExVEdUeU0tTzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-023",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX Is Now Down 36% in a Month. Would You Be Better Off With Rocket Lab or ASTS SpaceMobile? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkZXYU9tU0lQOVAta2RfZnlOWkZ0OGJZeVNvRC1RaXJsbEh4S0c3eEJBai03cVFCM2tHRTFqS0g4a002VkU3UE5VQkxwNlR5WHVKaG9TVXpULWhJYkkzVTI3TDh3ODJkMy13OGVVdH",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkZXYU9tU0lQOVAta2RfZnlOWkZ0OGJZeVNvRC1RaXJsbEh4S0c3eEJBai03cVFCM2tHRTFqS0g4a002VkU3UE5VQkxwNlR5WHVKaG9TVXpULWhJYkkzVTI3TDh3ODJkMy13OGVVdHNVT1lsU2xyOENVdm9qNDNEcVNjdXFaZ3ZSWDI5OXZXWXplZEh0Y3FWWTV6Y1FTZEV5RXZrNEdVMW11aVZzOUJHYm5QamtaYUg2Q3RENlNMc1VwcmllWkcwc2dYdEozZUh5OGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-024",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile",
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOVowSGphVnJhdkNQWHhJODJ5MW1hS1VjaEhreFlaSU1sZ0xZQUVTRGZVdmNCVnpnWFg3RkZyUzE2Ny1oa2NuVkhPcldiOElOVTUwQzlrQUh4czhkcVhrTHNwNG9yMWVvUHl5aTZHR1",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOVowSGphVnJhdkNQWHhJODJ5MW1hS1VjaEhreFlaSU1sZ0xZQUVTRGZVdmNCVnpnWFg3RkZyUzE2Ny1oa2NuVkhPcldiOElOVTUwQzlrQUh4czhkcVhrTHNwNG9yMWVvUHl5aTZHR1NYRnVvY2g3QkJ4alR0eXVFcUtEY083RldhcWh1V2pTOThMLXVmVlNJbUc2ZzB3OXFRWTdxbWtkZVhDVjAyUHNJbVlrN3dITGg5QkpjQzB6ZU90S0pfaG04UkxXOGZHdmhGalJaSl9udUZaYnJlMmloeg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-025",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile",
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Infrastructure Stock Is a Better Buy in 2026? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxOSkdCMlVQNXlCUFpNOEQ2dVhfQVl0VTJqNnBCbnFTYXd1cTZXMkk1RjdzY2VMaFVPRlFxZmdRbjZ4TWx5LXpOcWlhZWI1aFFuTjctZjBkSkY2MDNtX3FBLXRodUJlQjlkSGl1WnJfQX",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSkdCMlVQNXlCUFpNOEQ2dVhfQVl0VTJqNnBCbnFTYXd1cTZXMkk1RjdzY2VMaFVPRlFxZmdRbjZ4TWx5LXpOcWlhZWI1aFFuTjctZjBkSkY2MDNtX3FBLXRodUJlQjlkSGl1WnJfQXBQTGRWRDdWLW5SMTI5eTlrelJRSFNsRHJrRUpBSk5BX2NjYTJYNFloYk9WYXFpSlo2U2JwTnhjc0g1TDctMG9zaWd2eGoybTZYbmludmhGT2NRS1VaR19GWUFBblRKRGtQRUZoNFV3bDhhUmJNZUtRTm9GTENEajdaR05rQ3YzcnJHdzl6STFnQldUbU5WWWxVbjFkZW92QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-07-31-026",
+    "date": "2026-07-31",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Bank Adjusts Intuitive Machines Price Target to $20 From $34, Maintains Buy Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclFtVVExVEFDOFFYQVQ0SzJJQTI5dm5oVHVYRXNxUGRDQnJYMURYQ0x4MEtIdDJIWTRKT3pLSzN0bjFsZDV6VUMxanZyWW1nVGdnZTA5Wk9reGpSWXZlMkxkREt1V2tYZndORTRBSG",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclFtVVExVEFDOFFYQVQ0SzJJQTI5dm5oVHVYRXNxUGRDQnJYMURYQ0x4MEtIdDJIWTRKT3pLSzN0bjFsZDV6VUMxanZyWW1nVGdnZTA5Wk9reGpSWXZlMkxkREt1V2tYZndORTRBSGJuNVB6NWhKQjh4RW43Nnc4SGlyRlNhNW93NTBXOTgzN3liYVRPOE9uV014dEJLdlVLYnYwRU5wZlZGZUhGT05lV1ZWTnhKd0Zuc2JJRnVaQVB1c1hjRl80NkM4RHRJWlZzNzRlaFlrMlI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-027",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iran Tensions Illustrate Defense Supply Shortages That Will Benefit These 3 Stocks - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2tzSHVoYktSRHJRVWl6OF9TdkwwRjVMdTAzQWtiUFZLNGtJejVCcy1faWwwb2dRTnZHUGQ2cVNkOTFRbjNaTzhabzh3S2xPSEtSOHdZMkU1RTJLR0x1NDRONElGSW9BTUN5RVZ4Z1",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2tzSHVoYktSRHJRVWl6OF9TdkwwRjVMdTAzQWtiUFZLNGtJejVCcy1faWwwb2dRTnZHUGQ2cVNkOTFRbjNaTzhabzh3S2xPSEtSOHdZMkU1RTJLR0x1NDRONElGSW9BTUN5RVZ4Z1FQY3Q4UmFVdThLR2p2UGZwM2haemRiRHV1MWFyNUlxVlRkUXIxcnlB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "redwire-2026-07-31-028",
+    "date": "2026-07-31",
+    "companies": [
+      "redwire"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RTX vs. Redwire: Which Aerospace & Defense Stock Offers More Upside? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeTh6MTAwSUQ0cGs0ZU1zeVRBd3BCTkdaR29ZRkFfZ3ZRVTdyaVlUNS1UOFRidVV2bnQ0MTlrYnZBa1prNUtjcERjOUlQenhQanpreGRIQWRzSjRmSGZJdngzY1ZIQWRCdkVXQkZZen",
+    "sources": [
+      {
+        "name": "redwire",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeTh6MTAwSUQ0cGs0ZU1zeVRBd3BCTkdaR29ZRkFfZ3ZRVTdyaVlUNS1UOFRidVV2bnQ0MTlrYnZBa1prNUtjcERjOUlQenhQanpreGRIQWRzSjRmSGZJdngzY1ZIQWRCdkVXQkZZenNxOU5NMzMzMDNQc2JLZ2dNM2w5Tm85alM0cDRjTXBZdXJfVlNXbjRTeTc4MGdaakZ0cnZFVmJtUm1nMl85aGxvRk93dWVidm40ZnBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-07-31-029",
+    "date": "2026-07-31",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Liontrust Investment Partners LLP Cuts Position in Planet Labs PBC $PL - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1lVS2dMaEN1Z2VWem90NGZranBCSnJCSHdrR1prbklYZjU3WmtJRWpKTE5IUWNQcThDT1FILWQwTEJCRHpuZDJyVWEyRUNNbVA4TDgxcVlqLVVLam1pMm5YdFkyaUxtb2pCRjFHZ0",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1lVS2dMaEN1Z2VWem90NGZranBCSnJCSHdrR1prbklYZjU3WmtJRWpKTE5IUWNQcThDT1FILWQwTEJCRHpuZDJyVWEyRUNNbVA4TDgxcVlqLVVLam1pMm5YdFkyaUxtb2pCRjFHZ0l4TFR6OThpaXlVeW53cElhRy1KUHQzQTlSRXZ5LUhOSTQ0R0Z1RUw0ZkcxeXRtbFFnX1B6TFFuYzRhVUNqUWlNWS1PazFEdVU1N05qaDR5RTBQVUZRZURZbFJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-07-31-030",
+    "date": "2026-07-31",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Half-Year Report on SES’s Liquidity Contract - businesswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW03VmxSdDZaSm93emRKMWRNa1NqZHc1ZkVoMGNVSE45WXdVelZGcjkyVDdSTVlmcXc1cUdxMlotRFF4T3JDR2hvLVBBNXhQUGg5X0pFRFl2UmFVYmlTOHExcE0yQmlfT1RXQ3lqdV",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWW03VmxSdDZaSm93emRKMWRNa1NqZHc1ZkVoMGNVSE45WXdVelZGcjkyVDdSTVlmcXc1cUdxMlotRFF4T3JDR2hvLVBBNXhQUGg5X0pFRFl2UmFVYmlTOHExcE0yQmlfT1RXQ3lqdVl4QjhGRHR4M3hSMDdhVGMtMU9Bb291UnZVSlZVQVZqa3hlNC1uLTBtVjZpczltZ2ZlSFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-07-31-031",
+    "date": "2026-07-31",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Revenue jumps but SES (SGBAF) posts H1 2026 loss and higher debt - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnY1Ny0tNHZ4VHUyZWVrNXZ0endURHhmek5DQmNKSWZoLVdYcVRxOFlIRmdXWGpBMjZMOS1BVG81VUdiV2x0ZEd1bVRFX3czRlhwSS1CdXR2Ym1pNWZ0WHZMSmttbnlhYXlSLW9NX1",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQnY1Ny0tNHZ4VHUyZWVrNXZ0endURHhmek5DQmNKSWZoLVdYcVRxOFlIRmdXWGpBMjZMOS1BVG81VUdiV2x0ZEd1bVRFX3czRlhwSS1CdXR2Ym1pNWZ0WHZMSmttbnlhYXlSLW9NX1drYjYtenpUejl4LUYwWG8zVmhPa3JwY1hkNElhU1M2WmtHNXAxVE80aU1taTY2Y29NUWx2YWZwbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-07-31-032",
+    "date": "2026-07-31",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SES: Disclosure of Share Buyback Transactions - businesswire.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOckk0Q3c1bTBFaVFDY3ZpU0FDS0FPTVZienF0ZUlUT3E1QXBnSjBnNzFvbjlPMXVFaEI5QkcwLTN0SG9oZkFVWGY5NFRmVlRlQzhReFhQc01xbUZpRV9wX3ZoZldSekdlc0p1OGtUbV",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckk0Q3c1bTBFaVFDY3ZpU0FDS0FPTVZienF0ZUlUT3E1QXBnSjBnNzFvbjlPMXVFaEI5QkcwLTN0SG9oZkFVWGY5NFRmVlRlQzhReFhQc01xbUZpRV9wX3ZoZldSekdlc0p1OGtUbVFjbTlqdXV5YmEyNERJN2VSX1I5YVFBMHZpSG56OXFJZU9nUFRVdF85azVva0ZXUVZSOTln?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-033",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Locks In Next Launch For Its Mega Satellites - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQblh2N3lUYjBYNk9FeU5iRG5QNkxqLXdxWmJNN3I4MXgxMkpxTmVYeWtQdGV2S2xjbVVnMS1NOU1WWFd2bmpteU5OczRvYlNtWFowMXM4QU5RQ1NCT0hWa1BObUI2d3dVTml2NFZOVz",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQblh2N3lUYjBYNk9FeU5iRG5QNkxqLXdxWmJNN3I4MXgxMkpxTmVYeWtQdGV2S2xjbVVnMS1NOU1WWFd2bmpteU5OczRvYlNtWFowMXM4QU5RQ1NCT0hWa1BObUI2d3dVTml2NFZOVzhCcE1PNU1FM2VUbnQ1NHk4OUdkLVNzU2Fzd2pFVUdkTGIzVEEzb1kyVDlMS1FHLVp0WG9hdHVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-034",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Investors May Respond To AST SpaceMobile (ASTS) Accelerating Its Next-Gen BlueBird Constellation Deployment - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHYzOVIxRzVfbmZpNm9NVktoUHAwZlMtZGhibjFtYUJzemJlNUJmWUJaQUFET0dfbnJpT2FLcS1rYjBUSW00R3ZIeVN3TEFFR1V6YzBTeVFyZHBNczJEODlJU0ZyMGs0NnYtMEtuNH",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUHYzOVIxRzVfbmZpNm9NVktoUHAwZlMtZGhibjFtYUJzemJlNUJmWUJaQUFET0dfbnJpT2FLcS1rYjBUSW00R3ZIeVN3TEFFR1V6YzBTeVFyZHBNczJEODlJU0ZyMGs0NnYtMEtuNHBWLXlDek9LRWY4TnAxM1d4SHQyYUN2X1JYSHQ4VThlN0hGVFIyWUdnTkVmbWNQYkhBMmNjOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-035",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile expansion to bring more than 1,000 jobs to Midland - CBS7 | Permian Basin, West Texas News | Midland, TX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPMktnU2wzR3pjbGJkYV9VY1QtWlp2VkNjX2F3TC1WVXJtcWZtejFXd2NKeFRZdmdUZ2VEWWQxdTZESy1BeHV6eDhxOUxkeEV6RXcxMWpRWTVVaDNHcXNhSjRvNFRnSk9KNDVQdTA4WT",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMktnU2wzR3pjbGJkYV9VY1QtWlp2VkNjX2F3TC1WVXJtcWZtejFXd2NKeFRZdmdUZ2VEWWQxdTZESy1BeHV6eDhxOUxkeEV6RXcxMWpRWTVVaDNHcXNhSjRvNFRnSk9KNDVQdTA4WTVPZHhxMkQ2SUZHNnpUcURVRm1WRS12NHBJUExOZmJCTXppZmVVV0l5RFVRSmRxRWts0gG0AUFVX3lxTFBqU21lY0lfUGZSTDhOWnpJbTRZUVhkdTl2aExrbE5TNEhWS1NiN1BVSXAzQWZ4aHQ2NlkyTlJiNFdZYjlMM1VETHRqcmRQU3NvUHluSTJCM1ExMkc2dUF0aHlmZm1NQVgyWHFfRHNiUFVBdFVFa3hTZHNTb2I4ejA5cFp4c1d6ak5kZTdKU1M3VFh4SS1wbWdPZnhCdnFXOTBmZzhiVGJvdkRwNElFb0QyNml3ZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-036",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASTS Stock Gains Nearly 2%: AST SpaceMobile Says BlueBird ‘Production’ Is Advancing — Retail Says ‘Execution Is Becoming The Story’ - Stocktwits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeXFQaFF0b2dFOENMLS1ickZ5NnJUdGxCZDBoYU1zTkVnQ3A1Qy1fcnZTMVV0N1R0NlgybXpYVzZ5Qm54UFlHTVZ5Y1pwUzhSXzYyWXA3X0NobFU1VEVhOWU3NmNGVWpOQS1DQ3VlUD",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeXFQaFF0b2dFOENMLS1ickZ5NnJUdGxCZDBoYU1zTkVnQ3A1Qy1fcnZTMVV0N1R0NlgybXpYVzZ5Qm54UFlHTVZ5Y1pwUzhSXzYyWXA3X0NobFU1VEVhOWU3NmNGVWpOQS1DQ3VlUDNhQ1h2STJLQUREb2tFVWthY1FUdXpxZ2VfY1VvVFJBeFNzUUdIWjVNX3NiTXFtbkxlRFBuMlp5Q0owVS1hSlNneXF2S2JjNVNRMVZKSk1UYmlJWHA4XzBXS0xodEpDeUJqMERTQVFVa3lVd01acFRrbkh6SnFrbVFrZEp5cjZRZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-037",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Next‑Gen BlueBird Launch and Scaling Plans Could Impact AST SpaceMobile (ASTS) Investors - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWQzSGw3Nkk0MURuLXh0RG1WV2E2VWJSU2dGVi1WQnZkOERWLXo1QmJPMnNWRVlmREp4QWwycl9ucFg4SS12Z0xMR0JheDl5V3NnM1d6X3RFTHk1bUd6d1BHemF4VWxPSEJFN3h1WG",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUWQzSGw3Nkk0MURuLXh0RG1WV2E2VWJSU2dGVi1WQnZkOERWLXo1QmJPMnNWRVlmREp4QWwycl9ucFg4SS12Z0xMR0JheDl5V3NnM1d6X3RFTHk1bUd6d1BHemF4VWxPSEJFN3h1WGh2dE8zSnBJZ3JKN3htektiREEwR0pYdC0yQTU4T1lTZGxuSk90dVhaOEU3UjBRZXhGcWthOUJjdXFXallfSHBSMGpheGhUTlRYUTQzRlZldWVaZHJpWmNldERMTHZZUdIB0wFBVV95cUxPQzBDeXdjaVNLZUkzSHdaX25GRUlHM0N5dWM0Q2x6LW9QRjB1eEMwZnNfRFZyRC1OTURRaDhma2d6a1dhVjRZWGlrbVFtR2NyakNMekxpTEMwMnZOUTl1NmFGWElhbllWR01sbEl3VkVmaG9WTzBGMUctTGRMZENGRm9ISll5b3BrcmJCQlNPQWo3TGJKbUsxY0hvYndBdE1UUHVSRVMyQUpaYnAwYm5KWVhmcGdjVzFjLXl5a0Z5TEZDTnI5X2JWalVDdXZrT255SW44?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-038",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+    "summary": "<figure><img width=\"1024\" height=\"716\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/optimism.jpeg?fit=1024%2C716&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp-p",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-039",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Spain commits up to $2.3 billion for national military communications for IRIS²",
+    "summary": "<figure><img width=\"1024\" height=\"819\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/IRIS2-image.jpg?fit=1024%2C819&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-040",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside the effort to show Congress what war in space looks like",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/National-Spacepower-Center-Pilot-Demo-July-21-2026-46-1-scaled.jpg?fit=1024%2C683&amp;ssl=1\" clas",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-041",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Force picks 15 companies for $981 million training range contract",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/07/9823511-scaled.jpg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-042",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA still assessing Starliner-1 flight opportunities",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/02/53988402529_bec93e5a26_k.jpg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-043",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The new space wars: lessons from Ukraine and the Middle East",
+    "summary": "<figure><img width=\"1024\" height=\"576\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/06/Belaya-Air-Base-Strike_Irkutsk-Oblast-Russia_20250604_014408_ssc4_geo_rgb_detail_50cm_4826px.jpg?",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-044",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX's Starship seen in space by next-gen Starlink satellite (video)",
+    "summary": "\n                             We just got an amazing new view of SpaceX's Starship vehicle in space, thanks to one of the company's Starlink V3 broadband satellites. \n                                 ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-seen-in-space-by-next-gen-starlink-satellite-video",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-045",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How do supermassive black holes grow? AI finds 7 spacetime-warping 'quasars' that could help solve the mystery",
+    "summary": "\n                             Astronomers found seven rare quasar gravitational lens candidates using AI, providing a powerful new tool for studying black hole and galaxy evolution. \n                 ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/black-holes/how-do-supermassive-black-holes-grow-ai-finds-7-spacetime-warping-quasars-that-could-help-solve-the-mystery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-046",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA is sending 2 probes to the moon to test complex 'three-body orbits'",
+    "summary": "\n                             NASA is planning to send two maneuverable probes to lunar orbit in order to learn how spacecraft are affected by the complex gravity environment near the moon. \n         ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/nasa-is-sending-2-probes-to-the-moon-to-test-complex-three-body-orbits",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-047",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch SpaceX's Starship land at sea in these stunning new videos",
+    "summary": "\n                             SpaceX used drones and a special 'buoy cam' to capture incredible footage of its Starship upper stage making a soft ocean landing after its 13th test flight on July 24. \n",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/watch-spacexs-starship-land-at-sea-in-these-stunning-new-videos",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-048",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space!  July 31, 1971: Apollo 15 astronauts drive on the moon for 1st time",
+    "summary": "\n                             On July 31, 1971, Apollo 15 astronauts drove on the moon for the first time. Here's how it happened and why it mattered. \n                                                ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-july-31-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-049",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Artemis moonsuits take a dive | Space photo of the day for July 31, 2026",
+    "summary": "\n                             NASA is using its Neutral Buoyancy Laboratory to develop the training programs it will use to prepare its astronauts to explore the lunar surface. \n                      ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/artemis/artemis-moonsuits-take-a-dive-space-photo-of-the-day-for-july-31-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-050",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What’s Up: August 2026 Skywatching Tips from NASA",
+    "summary": "A solar eclipse, the Perseids, bright Venus after sunset, and a deep partial lunar eclipse highlight August’s skywatching. Skywatching Highlights Transcript A solar eclipse, one of the year’s best met",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/solar-system/whats-up-august-2026-skywatching-tips-from-nasa/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-051",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA to Host Florida Event Celebrating American Air, Space Leadership",
+    "summary": "NASA will hold a news conference at 2:30 p.m. EDT, Friday, Aug. 14, live from the agency’s Kennedy Space Center in Florida, and media and digital creators are invited to attend in person. The announce",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/news-release/nasa-to-host-florida-event-celebrating-american-air-space-leadership/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-052",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA’s Newest Wind Tunnel Opens at NASA Langley",
+    "summary": "On Friday, July 31, 2026, NASA leadership and Virginia government officials opened NASA&#8217;s first major new wind tunnel in more than 40 years, the Flight Dynamics Research Facility at NASA’s Langl",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/image-article/nasas-newest-wind-tunnel-opens-at-nasa-langley/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-053",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TB 26-04 Webbings for Use in Elevated Oxygen Environments",
+    "summary": "Flammability test results for commercial-off-the-shelf webbings that meet NASA flammability requirements are reported for use in elevated oxygen environments anticipated for future lunar and Martian m",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-054",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket",
+    "summary": "NASA and its industry partners are preparing for next year’s Artemis III demonstration mission by completing new wind tunnel tests on SpaceX’s Super Heavy Version 3 rocket booster. The tests, conducte",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-055",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Opens New Flight Dynamics Research Facility in Virginia",
+    "summary": "NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generation",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-056",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Curiosity Blog, Sols 4961-4967: Approaching a Break in the Rock Record?",
+    "summary": "Written by Abigail Fraeman, Deputy Project Scientist, Jet Propulsion Laboratory, California Institute of Technology Earth planning date: Friday, July 24, 2026 Curiosity spent the week continuing to cl",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-057",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA’s Roman Telescope to Carry 1.35 Million Names to Deep Space",
+    "summary": "On July 27, technicians at NASA’s Kennedy Space Center in Florida installed a memory card containing 1,350,144 names as part of a commemorative plaque on the Nancy Grace Roman Space Telescope. The nam",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-058",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX plans late-night California rocket launch. Here's where to watch - vcstar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVVMHRXdnpHZW9iQUpTeUNtVm9YWW82WEcwNWh3dloxdTczYzZpZlE1Si1YRG9DUXhhaTJCZ284WkI3ajRjOEQ1cE0zVnV0Z2REdUkySHhfQnV2VVJpeHBlYmpEZTFLek0taGlWdE",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHVVMHRXdnpHZW9iQUpTeUNtVm9YWW82WEcwNWh3dloxdTczYzZpZlE1Si1YRG9DUXhhaTJCZ284WkI3ajRjOEQ1cE0zVnV0Z2REdUkySHhfQnV2VVJpeHBlYmpEZTFLek0taGlWdEhXVVVYY29lcTdWRk1aTnVSMk5XVFJXdUhFTnlFSmpERnMxQlJSUnZhaHZMQm8wWGdRNXN4X1BFa3Q?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-059",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Facing a lack of kit, Space Force creates $981M pool to buy training capabilities",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-con",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/facing-a-lack-of-kit-space-force-creates-981m-pool-to-buy-training-capabilities/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-060",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Marine Corps F-35 suffers crash in California",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/marine-corps-f-35-suffers-crash-in-california/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/05/9061",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/marine-corps-f-35-suffers-crash-in-california/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-061",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Key B-52 upgrades face cost, schedule risks: GAO",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/key-b-52-upgrades-face-cost-schedule-risks-gao/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/B-5",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/key-b-52-upgrades-face-cost-schedule-risks-gao/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-062",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GCAP timeline could shrink ‘by a couple of years,’ Leonardo CEO says",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/gcap-timeline-could-shrink-by-a-couple-of-years-leonardo-ceo-says/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/s",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/gcap-timeline-could-shrink-by-a-couple-of-years-leonardo-ceo-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-063",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The devil was in the waivers: How new minerals procurement rules will change the game",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/the-devil-was-in-the-waivers-how-new-minerals-procurement-rules-will-change-the-game/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/w",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/the-devil-was-in-the-waivers-how-new-minerals-procurement-rules-will-change-the-game/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-064",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Light at the end of M-code’s tunnel? Receivers for ships, planes to finish tests by 2027",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/light-at-the-end-of-m-codes-tunnel-receivers-for-ships-planes-to-finish-tests-by-2027/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-065",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Starbase Pad 1 Retrofits Progress as Block 3 Flights Start",
+    "summary": "<p>While SpaceX has now flown two flights out of the newly designed Pad 2, crews&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/\">Starbase Pad ",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/07/pad-1-retrofits-block-3-flights/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-066",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Blue Origin continues rebuilding LC-36, prepares testing alternatives for New Glenn second stage",
+    "summary": "<p>Two months after losing a New Glenn rocket to a pad explosion during a static&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/\">Blue Origin continu",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/07/blue-origin-update-july26/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-31-067",
+    "date": "2026-07-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Chinese military researchers tap US AI models to train defense systems",
+    "summary": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
         "type": "rss"
       }
     ]
@@ -1725,6 +2735,118 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-30-076",
+    "date": "2026-07-30",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Investors Take Note: Rocket Lab or SpaceX Before 2026 Runs Out - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzlwM0FoSEs3dEVLRFpmYUttWG92SDlIeUNtQ3FDNkZPLWpDbjZBQXkyc3hhX2VialNfV05NaEppaTZENGM3cmxDdndmdS1Rd05JOHRZNVMtNHphZjRZWkhaZDhTT3BrbDFDZTJzNW",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMzlwM0FoSEs3dEVLRFpmYUttWG92SDlIeUNtQ3FDNkZPLWpDbjZBQXkyc3hhX2VialNfV05NaEppaTZENGM3cmxDdndmdS1Rd05JOHRZNVMtNHphZjRZWkhaZDhTT3BrbDFDZTJzNWZGYmkwNjZhT2Q4cEF4ejFzQ1NFdlBGWlRHV2loNVJoUlRHeUZnVDJJRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-30-077",
+    "date": "2026-07-30",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Stock Keeps Dropping. Here's Exactly When I'd Buy The Dip. - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3N1ZlY4RnNPRnFyTG5iVDNmNWR5RWhJOUdjRG5XbGFmb2N2TVk2XzRuLW53WUQtSFdLSTZIbXhPWDYwV25pVzN6SnRqSEdJeWxEblZma2ptZjAtOUxnVGlyeWVMek9rc296UVVaWk",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3N1ZlY4RnNPRnFyTG5iVDNmNWR5RWhJOUdjRG5XbGFmb2N2TVk2XzRuLW53WUQtSFdLSTZIbXhPWDYwV25pVzN6SnRqSEdJeWxEblZma2ptZjAtOUxnVGlyeWVMek9rc296UVVaWkEzWWJqcnk1aW9VQ3V2LW9xaTZCTjY3Y1prbDJUajRublllVk1IbXdIZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-30-078",
+    "date": "2026-07-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Q2 Earnings Call Highlights - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNyTUVEemFlMDEtbFRKY1FXMlZtZnVCV29CS0Q2VGRYSVJiLTlHOE9aUFJPLVFkVGNBeEVhNldTSGE0TkVaekgzUWh3a2ZjSmhhemVaU1BQWU11bDZLSnhYb1U4WXIteHJhcGRpaH",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGNyTUVEemFlMDEtbFRKY1FXMlZtZnVCV29CS0Q2VGRYSVJiLTlHOE9aUFJPLVFkVGNBeEVhNldTSGE0TkVaekgzUWh3a2ZjSmhhemVaU1BQWU11bDZLSnhYb1U4WXIteHJhcGRpaHhsR3hDdjlrRzRpemJOOXFST3U1UktlMHNzQVk1b1hVcnVIZnNtTXJlV1pLdXFmQ0dhOFVVc0lR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-30-079",
+    "date": "2026-07-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Q2 Earnings and Revenues Beat Estimates, 2026 Outlook Raised - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzFvTHJ2TU5RanBDMGtZZ19JRUVJbVRpamxvUmowRUg4dE5FS2U1SUNwVjJsNEI1Y2pjYmJLMEdkLU80a0NfOF9TaE9UTEtmNzNtSGUwdVBhRzBHZlh6MjVWWVJ2OGhVTUNYaXZ5bV",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZzFvTHJ2TU5RanBDMGtZZ19JRUVJbVRpamxvUmowRUg4dE5FS2U1SUNwVjJsNEI1Y2pjYmJLMEdkLU80a0NfOF9TaE9UTEtmNzNtSGUwdVBhRzBHZlh6MjVWWVJ2OGhVTUNYaXZ5bV9lNXNOT2xobGVnZ0lRbTJDT3U5ZFZTa01qZXZES1ZKNG5tek9SOG5VUEJhLUNydndI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-080",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches secret US spy satellite from Florida (video) - space.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0FtQ2hNNjZ6T2d0SXZJclkwNlI2WU5xN25tV0F5WXprd0tmcWx4QTlybmtSYTZQMHVfb2dXNFNuaDZJaFRwM3lhMXNrZGlxdHpTbjkySkxheWF4TUR2Y2ZVNXpWTzhoR3BKZHFsTE",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ0FtQ2hNNjZ6T2d0SXZJclkwNlI2WU5xN25tV0F5WXprd0tmcWx4QTlybmtSYTZQMHVfb2dXNFNuaDZJaFRwM3lhMXNrZGlxdHpTbjkySkxheWF4TUR2Y2ZVNXpWTzhoR3BKZHFsTEQ2Z05EYmNuN1hNRU9hLTI3TkxnWHJDUXhMdHlnLWFxMGpDd0NwMEpaM0RaVzZ2dDVwM3VYY1hWUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-30-081",
+    "date": "2026-07-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Senate takes next steps toward confirming key Pentagon officials",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/upload",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/07/senate-confirms-hurst-as-pentagon-comptroller-after-1-5-year-vacancy/",
         "type": "rss"
       }
     ]
@@ -3529,6 +4651,100 @@
     ]
   },
   {
+    "id": "intuitive-2026-07-29-096",
+    "date": "2026-07-29",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tracking Cathie Wood: Betting Big on Space — Intuitive Machines, SpaceX, Dumping Genius Sports - moomoo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3cwZHZYZXJMV3NhNEJQcHl3MEhYeXMyMFQ1U1VucENRQ2QzOGxoeUwtVnhBTnYzUnB5Tk1XbzF6d3NuUXp4YUhsYXAwazB2WVlUeVF6cGc1bkZodmFfOFMxX1RFelBERlVFWlRMSm",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3cwZHZYZXJMV3NhNEJQcHl3MEhYeXMyMFQ1U1VucENRQ2QzOGxoeUwtVnhBTnYzUnB5Tk1XbzF6d3NuUXp4YUhsYXAwazB2WVlUeVF6cGc1bkZodmFfOFMxX1RFelBERlVFWlRMSmpoNXpqTVRJVWtNWXpfTmpteGpJLThYMk1IbUpvYTFkRW9MMDYyMjA4eHNlVE15d3d4YXVpSnA4R1BwT3BFbkhiZWlVSjF2cllHeEZWZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-29-097",
+    "date": "2026-07-29",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Raises Guidance on Higher Profit, Revenue - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUVZLVRPR3pGZkFadzFWNmpxSVJfSmEzZ3d6OEx3N20xOWE1UktQTjhoY1lhd3BQN1R5NjdGRkY0ZFYtb3FHWkhqYVY5Y2tSYU5jeU0yaGNlVzRtOXdDYWRXNGVYQkFqSk96UEVHcU",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUVZLVRPR3pGZkFadzFWNmpxSVJfSmEzZ3d6OEx3N20xOWE1UktQTjhoY1lhd3BQN1R5NjdGRkY0ZFYtb3FHWkhqYVY5Y2tSYU5jeU0yaGNlVzRtOXdDYWRXNGVYQkFqSk96UEVHcUlpWERLMG42RTREQXVyajh5RzcwUS15MER2TjZyNVZVTkd4NXl1OGpnS1pfQzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-29-098",
+    "date": "2026-07-29",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. QuantumScape: Which Stock Is a Better Buy in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXlfbkpzZTdkaHMzY3BHZGd0c1VQMGkxZlJneXlScEp1dTRJemlSUzF6RkJHZGJaVW1JR0tnbXhFc0hnX0pZVmdidWh4ZjBtUWhYTlNRZFYtX0habGp0YjhjQkRlazhTVVhYZm55LT",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNXlfbkpzZTdkaHMzY3BHZGd0c1VQMGkxZlJneXlScEp1dTRJemlSUzF6RkJHZGJaVW1JR0tnbXhFc0hnX0pZVmdidWh4ZjBtUWhYTlNRZFYtX0habGp0YjhjQkRlazhTVVhYZm55LTk2T3VHRFJ3YzdWdDUtSUczQTUzMXJYbzI4a1doODhUWHQyT1N0M1lsODVnclJGLUFPSG1Zd0VXdm1VUXVDeFpRcGllTmhUdkp1VmhRMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spire-2026-07-29-099",
+    "date": "2026-07-29",
+    "companies": [
+      "spire"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Spire Global Offers Webcast Access to Aug. 12 Results Call - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQSU5vQldSZzNDaDBjWk9uUXJTM3BQOTh2Q0FNa21tXy1KVTJpZ3RDREcteVVlWU1IelBPaDlyZ0cxZDZzT29JUTRCc0VEaFM3UVV0cjNQSVJvcnZzcVNUSmM3eHRVdHVmajhLZDR5TF",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSU5vQldSZzNDaDBjWk9uUXJTM3BQOTh2Q0FNa21tXy1KVTJpZ3RDREcteVVlWU1IelBPaDlyZ0cxZDZzT29JUTRCc0VEaFM3UVV0cjNQSVJvcnZzcVNUSmM3eHRVdHVmajhLZDR5TFJaSDhZNW5XaGdMdk5tc0psaEZicWRYN0lHTjRuOWoyeXZudlp3UUVqWS1pYUpVZTRsRUlKbzZMd3VEcEt4TGhEOHVBX01jdms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-100",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Chinese rocket hit by rare midair lightning strike moments after launch as onlookers gasp in horror (video) - Live Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUEFFMWNmZXVxNUQ5VEZDNXFLdDBnUTZVTHduZDFLbTdjXzVHemwyT2hzMC13YmxkY2xfMFJmY1hjaEg1ZmNMNGI4eXVkampIdlRvazBVWnZrTEwtMHBpQWt0RU1IQm9lRW9EMGM2Q1",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOUEFFMWNmZXVxNUQ5VEZDNXFLdDBnUTZVTHduZDFLbTdjXzVHemwyT2hzMC13YmxkY2xfMFJmY1hjaEg1ZmNMNGI4eXVkampIdlRvazBVWnZrTEwtMHBpQWt0RU1IQm9lRW9EMGM2Q1dwWmNrRUp4S3o1UkN1WVRYWGdxcmRXbzRwR01DYjNOOW4ydVdDdEZSQ1JjYzNIQzVXcWRTbFlib09aeWdjd3ZlYWM5Mjl5bkt5RG8yMS1GMm9IRkRva0hBcW5kZ3FKUkJXVHlVN3FLdkc2VzE0UFFMSC1vWm9Yc1l0QXhqbHZn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -4906,6 +6122,25 @@
       {
         "name": "defense_news",
         "url": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-074",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches 24 Starlink satellites to orbit in wake of Starship test flight (video) - space.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONFYybGFZOGp4cy1INnpiSFFDZVRhMW9abHptaldWRmo1bzM1YUxuMEV6em14RG9CQmVQWkZCeldyMDFhTTVOemhHdTE1ZjdjMkVOSEh6Y1BlMXp3NmFpV29MVGpWeGI0SFU2Y3NIVV",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONFYybGFZOGp4cy1INnpiSFFDZVRhMW9abHptaldWRmo1bzM1YUxuMEV6em14RG9CQmVQWkZCeldyMDFhTTVOemhHdTE1ZjdjMkVOSEh6Y1BlMXp3NmFpV29MVGpWeGI0SFU2Y3NIVVdsMEF6cDJsdEU0TE1jVWo1clJ4cmdLNG9IODBJaUo2cWRPZVRXVFhuQnRKc2VMMFYx?oc=5",
         "type": "rss"
       }
     ]
@@ -6600,6 +7835,126 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsclNFdGlVYS1oZkp6RUd4SllmckNRTDVnTDFTUURjM25MVGZmYkJwWHVWeUxLM3pMWEpvZ2tjRkJlLWU0d1NfYWN1cmdqdkpOdzFKTmh2WHoxUWRtMGFoMzQzS3lROGpWYXNV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-27-090",
+    "date": "2026-07-27",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab to start launching missile-defense missions from Alaska under $266 million Space Force deal - space.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOVh2cTJ4Ri1tSFkzRkVUNTFtTURnYkZ2b3ppRzdJSGhqcjRVc25wVHFXN0tURUpkVzQyU2lYV0JueTItVWwxbTYxUUpJTFJHZ0R1R1lmcjhrdUY1S2xtYUxHU3lJVGhIcGNySzM2Wk",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOVh2cTJ4Ri1tSFkzRkVUNTFtTURnYkZ2b3ppRzdJSGhqcjRVc25wVHFXN0tURUpkVzQyU2lYV0JueTItVWwxbTYxUUpJTFJHZ0R1R1lmcjhrdUY1S2xtYUxHU3lJVGhIcGNySzM2Wkt2SnRjaEpiU0xCeS1YemZ1cVFnYVVBNE03dTNIUzRXZU1zUjluTzlLZi1LZUNlVVI0Qld0Q2cwbi0xZ2ZKN3RMZ2drN0ctdEYxRWo1Ulo5cWRNVjctZXg3TThPdE1reTRtYWZxUW5GamZpT0oxYUFxOTJ5N0dVWnZkTUhJOUhHR205dllSeDZv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-27-091",
+    "date": "2026-07-27",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Rocket Lab Wins Record $266 Million U.S. Space Force Contract - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnk3dGdXa1dEVGNQNnByV1ljRDdzY0dqb0RSSlVza2toaFFzUFIxZkFrNV9OZDE3RGlsOWROb2psMnhwMkVkNDRtN3RjUFZuMWxZQmdqQlRvWi1Jd3ZYMWEwN2JZanR2S1ZZYkc0UE",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNnk3dGdXa1dEVGNQNnByV1ljRDdzY0dqb0RSSlVza2toaFFzUFIxZkFrNV9OZDE3RGlsOWROb2psMnhwMkVkNDRtN3RjUFZuMWxZQmdqQlRvWi1Jd3ZYMWEwN2JZanR2S1ZZYkc0UENiamltZENNbHROcWtlY2dYeUVIbF9KWGdMS2dtSFBFU3o2RXVMYlpoX0ZBcC1iUjNyLVQ0MEswVEd5Wi1URjR6SDBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-07-27-092",
+    "date": "2026-07-27",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Planet Labs PBC vs. Snowflake: Is a Space Stock or AI Cloud Stock the Better Buy in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVRfQTN0cnRsdHpRZjRMUWFaY2w2Wl80MUdvRnNZTlRKTzdheTIyWU9TX1ZRbEVJcF9DOGVZTEF6em1ya2Q0NEV0a3FRNklZXzFkS1ZCd19uTVNxaWhJeUFTVDA2TFFZMk9GcTl6b2",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOVRfQTN0cnRsdHpRZjRMUWFaY2w2Wl80MUdvRnNZTlRKTzdheTIyWU9TX1ZRbEVJcF9DOGVZTEF6em1ya2Q0NEV0a3FRNklZXzFkS1ZCd19uTVNxaWhJeUFTVDA2TFFZMk9GcTl6b2NKUXFiYzVUQXlzN1Y2OFV3V29OWDBNenhBMVZ2NHotQUZSc01LLXFwOF9jcWNZckNMVUJtNTd5RUNXczdxdGl3UDJNX3lZaTZpNWllWDJBcXItbzVkanZGR3NweVlzOElyb29zS1ZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-07-27-093",
+    "date": "2026-07-27",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Dell Technologies vs. Planet Labs PBC: Which Technology Stock Is a Better Buy in 2026? - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMnJ3WGlfMEI0ckV3XzByak1tU3pLek5TR2hxUFVfdkR5eWw0eHFNTHNnYV9ra1pPcEF4TDlNdHJYSElWRHJEYjdiWWwyY3FNMHY4Sk1jX0xKR0NseVNrVjJTZW1jUzI2bEF5cndDQT",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMnJ3WGlfMEI0ckV3XzByak1tU3pLek5TR2hxUFVfdkR5eWw0eHFNTHNnYV9ra1pPcEF4TDlNdHJYSElWRHJEYjdiWWwyY3FNMHY4Sk1jX0xKR0NseVNrVjJTZW1jUzI2bEF5cndDQTRxaUhFQi04c2kwQ2l5VFNYUmt4Y3dRc3ZtczYzYmFkc05uR2gxR3VLdFMxbDBHTnFmWGxkd1JJV29INVB5cFJzcXMza1VxM1IwWXM2VmtKOGZIMUJLZEVjTEV2d3A4T0JFTHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-27-094",
+    "date": "2026-07-27",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASTS Stock Jumps Premarket: Analyst Says AST SpaceMobile Could Be ‘Too Little, Too Late’ As Starlink Widens D2D Lead - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkxlOThDc29aN3FRSlE0QUVXS2MzMFFpXzZ0WmZ3Wm9jU0NqNGFrRk1QcU9DTkx5NXd2djJKREZVV1RZSklkX01yTks4UkxnSjVaTUxYR0dFTDFON191QmRTajl0VVI5UGo1QVBscG",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbkxlOThDc29aN3FRSlE0QUVXS2MzMFFpXzZ0WmZ3Wm9jU0NqNGFrRk1QcU9DTkx5NXd2djJKREZVV1RZSklkX01yTks4UkxnSjVaTUxYR0dFTDFON191QmRTajl0VVI5UGo1QVBscGNGclo3Y0tkVVlqWjFxa3l5SnpOdmNfMTh2Q3NCQVVxZDVCLUc2Z0dDakhYZGVaUU9OVkFYamk4YXlYcl9jSHZCeUhhbUdjYzhuRERCdTdEcjRNVGprWFd6YkJyUWs3LWRMNVo1bFdyVFNycTdHQmM4V2staEZ0MFNkTzN3ZGFVQlQ4Q3JaeXFsYl80eThzMmVQOHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-27-095",
+    "date": "2026-07-27",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX plans 2 rocket launches this week in California. See the schedule - vcstar.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3RjZm05eGpBdC04LWhMeERoQXdjU09kMGtqdlhtWmhYUGNHOFBLQ1dHUW42SFRVNUVVMkllWTlIWU1CeXFCUGY0WnVhcXd3QVhKX1N6SXoyNFNQSFV0Y2V4SFo0empRLUZnVDQ1QX",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3RjZm05eGpBdC04LWhMeERoQXdjU09kMGtqdlhtWmhYUGNHOFBLQ1dHUW42SFRVNUVVMkllWTlIWU1CeXFCUGY0WnVhcXd3QVhKX1N6SXoyNFNQSFV0Y2V4SFo0empRLUZnVDQ1QXI5UjVRSFowMjRhVF9Zdnl0aXM1X0drdFVJNjFsX0ZlR2tta3prOGgyeXJlUm1ZWUVsYjRpYUdQVVdsUXA5bGN4a2NqbEhjUQ?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,158 @@
+{
+  "date": "2026-08-01",
+  "generated_at": "2026-08-01T09:52:35.613509Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-08-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ25pckxLNHBoZVVQdEZsMUpqQ2kwVGVMdndnSDJoc2ppdGxZbWN0UEtZRWJQRDY3UFNXcFIzTjJBWXFkSDl3dUNhc2VwWkd5TlFRcVh6MXphd3BCWnhMWFFkYlFjZ0JES0Z2WVFrRFRIbXdHdkhSR1h4ZDNHclZlMHhjcTZPY3ZyNHFKU1ozY1NHNkZPbi1oVE5ubXJ3QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-08-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of America Corp DE Acquires 350,313 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUDFpRjQyS21UeTl0V2FYN21pRTVXZkp2dlJWRW5QYU5rMWlGZVloNGdtU2ZJclliNExqRlZadzVMS1F5WkNmZUV6eHhJRW4wMWVESzlJRVV4TmJaT0VLRzZhWWNpU0RNWURuSzE1dGlFd09vYjhndTZjSVBwalZOVDBBY0IwRTZDOTNWOHB0dEtidUp5dXppRG05ZlpoX19rRG85eHJCaTg3RV9qWmh6bzEtTUV1RnR5blJRaUpjVHZlNzlXTzVrZU83WTZRczg4NUdHVm1LMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ses-2026-08-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SES SA FDR (Class A) Revenue Breakdown – EURONEXT:SESG - TradingView",
+      "companies": [
+        "ses"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBMY2t3OHdYdFhORW5iYTRlRHBaUkgxNEVQSEZjNlB1RGNfR0ZsSlhwcnN6MEJTSUhoZDlXaGQ3UGFJWTZpaXU4T0tTcHlJRC00SUJOS3VERXFhQWlQWlhUVnFRRzdXd1RwQmVnTFlnbTkzeUh2dThkaHZB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 August 1 – Buck Moon and Belt of Venus",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-august-1-buck-moon-and-belt-of-venus/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ses",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 190,
+    "too_old": 32,
+    "gate1_blocked": 17,
+    "gate2_blocked": 20,
+    "passed": 72,
+    "pass_rate": "51.1%",
+    "gate2_block_rate": "14.2%",
+    "gate2_samples": [
+      "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+      "Intuitive Machines (LUNR) Lands On Strong Sell, Is The Stock Cheap Or Pricey? - simplywall.st",
+      "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+      "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Major Shareholder Sells 11,495,514 Shares - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為L3Harris Technologies、SES S.A.相關動態：「L3Harris (LHX) Lands Seven Year Missile Propulsion Deals ...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "L3Harris (LHX) Lands Seven Year Missile Propulsion Deals For PAC 3 And THAAD ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Bank of America Corp DE Acquires 350,313 Shares of L3Harris Technologies Inc ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
