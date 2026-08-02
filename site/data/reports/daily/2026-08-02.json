@@ -1,0 +1,156 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:50:53.251088Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know. - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3FtUjhQQlhVSXNOQmJ4RDlWVXNnNTRhZTB6cHpBcVdmNi1wa25neVZWTC0yblcyby13MWF2MTkyVnF2MVZIVWRvdEFaUkRONXE1SE9DUzVIandhcVNUQXllZlV3TnhIbTJrRmNYY21POHROOGtGSnFDQVc0V0VoUFJ1YzlhZ2t5MFhiZWhCV1dPVmVOYnpZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-08-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "$10,000 Invested In Rocket Lab (NASDAQ: RKLB) Stock 3 Years Ago Is Now Worth $81,000 Despite Brutal Drawdown - foreignpolicyjournal.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFVoRXl0NlFIWWRWcXFDMzJ2ZXQwVjN4aDhoTU5CWkY4MEJCYTFISXFXalRLS3NuMjRPS2tXNUhwenNDTnhJMnBHR3NUTnRQQXV2bloyeXlYb3VVNHJhanpoR0VmTU50MEtpUTc0LVBDMEdNRzhJVjVVWU1xdFktOTdiODdVckZJbENpM3VqUV9zcHdCSGlyR2kyaW53X1BEWEJlTVpLS1pJa2lJZ0dlOC1RZkFpMHZwU2duMm9PYWRCUmI5dWhueHdHWXA5WjIzSmlTdE9hUkk0bmxNUE1VR3RHcEs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Is the Most Attractive Defense Stock Right Now - Barron's",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORG1jVFpkU0ktXzNmaG1iYUFoWUlKdDl3SHhnejVUR0NNbTZSRUwtWUc1QzJQb281dEtjLVlEUW92NlE4VzBNM1FKdmwyQUNXbnJQREV5VkpidXRQU0s1TDdzc2JnUkVaMU1qZnVhOXVJZWVYX3hSelFRZC0yNmFPMFVhMHZYYVFZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Celestron Moon Mission 100mm tabletop Dobsonian review",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 240,
+    "too_old": 28,
+    "gate1_blocked": 18,
+    "gate2_blocked": 18,
+    "passed": 28,
+    "pass_rate": "30.4%",
+    "gate2_block_rate": "19.6%",
+    "gate2_samples": [
+      "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+      "Intuitive Machines (LUNR) Lands On Strong Sell, Is The Stock Cheap Or Pricey? - simplywall.st",
+      "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+      "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+      "Intuitive Machines (NASDAQ:LUNR) Major Shareholder Sells 11,495,514 Shares - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為火箭實驗室相關動態：「U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic M...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Mil...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "$10,000 Invested In Rocket Lab (NASDAQ: RKLB) Stock 3 Years Ago Is Now Worth ...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
