@@ -1,5 +1,62 @@
 [
   {
+    "id": "rocket_lab-2026-08-03-001",
+    "date": "2026-08-03",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Air Force Awards Rocket Lab (NASDAQ: RKLB) $266 Million Hypersonic Missile Defense Contract - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZnNBcjVtU1B2LXBRZ0lDWW91dlZ0SlNQU3ZnTFRxYmxMRE9idXEzT0FJQzRWNWpzV0I5bmtXZzZTdjYxTF9vaF8yLUZ2R1JwM1pWaTV1MFVPeHBLSWRmSWJBSkcxOXdRS2o4WGhhV1",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZnNBcjVtU1B2LXBRZ0lDWW91dlZ0SlNQU3ZnTFRxYmxMRE9idXEzT0FJQzRWNWpzV0I5bmtXZzZTdjYxTF9vaF8yLUZ2R1JwM1pWaTV1MFVPeHBLSWRmSWJBSkcxOXdRS2o4WGhhV1ZjMTJ5YWMxVW9LSFlCWTktSks3X2U0cXhoQk1TM1Q3TW5vWXBsTE9qeHRkeUo2SUhhSHFBenhab3hobWhGZl9xaERQckxfWDc0UW04SkpIbEQ0SXU5dFhQcXZhWXdjbnVIaUJKWWQzMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-002",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+    "summary": "\n                             Satellite constellations are getting bigger and increasingly difficult for human operators to manage. Artificial intelligence will soon be able to help, but will the spac",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-003",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+    "summary": "APOD Science APOD APOD: 2026 August 3 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a differen",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-08-02-001",
     "date": "2026-08-02",
     "companies": [
@@ -71,6 +128,254 @@
       {
         "name": "spacecom",
         "url": "https://www.space.com/stargazing/skywatching-kit/celestron-moon-mission-100mm-tabletop-dobsonian-review",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-02-005",
+    "date": "2026-08-02",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Peter Beck's Rocket Lab Reports Earnings on Aug. 10. Here's the One Number That Will Move the Stock. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOemNmalR3NjVCNW10eWZXLXhJdDNDSTBhTVl2NFNjTUJqZ3JBQ0t6YmJmNFQ3b3VHcFl0SnNkalBGWVJ1el9aMm5XU20wWEpkYzJjYkJ1U0E4M2YyeVZMZkhzM05HMzVtTlNKeTVhVU",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOemNmalR3NjVCNW10eWZXLXhJdDNDSTBhTVl2NFNjTUJqZ3JBQ0t6YmJmNFQ3b3VHcFl0SnNkalBGWVJ1el9aMm5XU20wWEpkYzJjYkJ1U0E4M2YyeVZMZkhzM05HMzVtTlNKeTVhVUl1X2t5SjdHZ3Vjc21qV3IxYnY2VXRZSW1Ed05TV09pMjFVbzE5SmFvNXZWaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-02-006",
+    "date": "2026-08-02",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "U.S. Air Force Taps Rocket Lab to Sell It 12 Hypersonic Missiles for $266 Million. Here's What Investors Need to Know. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2w3SUZKaW5KeWRleU96d3d3QTF4UkJ5SWxuWng4TElsU1FadkkxZzBCdTJJb0pDdkV3NEdCSEVxRWNmN3FGWGxDN1NmNWxxWmliT1dtZ2k5MUtMakpMYW9zMTNlVW5scFlLbjM5UU",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY2w3SUZKaW5KeWRleU96d3d3QTF4UkJ5SWxuWng4TElsU1FadkkxZzBCdTJJb0pDdkV3NEdCSEVxRWNmN3FGWGxDN1NmNWxxWmliT1dtZ2k5MUtMakpMYW9zMTNlVW5scFlLbjM5UUw4UkxsNXlQamU3NENjbTVIekRyZTctODRiTEJjVGNyWGtGZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-02-007",
+    "date": "2026-08-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Stock Leads Defense Picks Backed by Long Term Military Demand - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVJmWEZsQ2wxWWVHXzZyaHU1TFdJZ0Q2M05GTmgwajg1Zy10dVY2MVJXRUtmaDhyeDdvU291dU9fNmNVRDZ1ODFGT2JzNXZRUmVqUmR2V2VNTGtWRDhyb2Y4dmVJX0hpeDVadmt4ai",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUVJmWEZsQ2wxWWVHXzZyaHU1TFdJZ0Q2M05GTmgwajg1Zy10dVY2MVJXRUtmaDhyeDdvU291dU9fNmNVRDZ1ODFGT2JzNXZRUmVqUmR2V2VNTGtWRDhyb2Y4dmVJX0hpeDVadmt4ai02bVlVTEhkWmtvazh6LVczcDdBVGpFdGk3LVhxalRPckxMb3ZBUm1WZzc4WXRPd2RXT0dfdloyNFZEam9vU0ZYclhrWHRtMUp1SFJkVnhKalE0QnBqbC1jUlFQOTZlNGJYYllBdFgwd2Y4UW1PMnRn0gHfAUFVX3lxTE5RUmZYRmxDbDFZZUdfNnJodTVMV0lnRDYzTkZOaDBqODVnLXR1VjYxUldFS2ZoOHJ4N29Tb3V1T182Y1VENnU4MUZPYnM1dlFSZWpSZHZXZU1Ma1ZEOHJvZjh2ZUlfSGl4NVp2a3hqLTZtWVVMSGRaa29rOHotVzNwN0FUakV0aTctWHFqVE9yTExvdkFSbVZnNzhZdE93ZFdPR192WjI0VkRqb29TRlhyWGtYdG0xSnVIUmRWeEpqUTRCcGpsLWNSUVA5NmU0YlhiWUF0WDB3ZjhRbU8ydGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-02-008",
+    "date": "2026-08-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies to open automated GMLRS rocket-motor plant as Pentagon presses for faster, higher-volume missile output - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNS1oNDZiRmNjVXh1b2NmMWZTcEprOTgtdmtXLUUyY2VLWmwyVlRva2hHdHNXRXNHdEh6dWFOZlNxWVVneEU1czBsWWdITDh2MHlHTW9oRExNWXhJMXZIWnhPS0xyaUFjLTg0R2JYbG",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNS1oNDZiRmNjVXh1b2NmMWZTcEprOTgtdmtXLUUyY2VLWmwyVlRva2hHdHNXRXNHdEh6dWFOZlNxWVVneEU1czBsWWdITDh2MHlHTW9oRExNWXhJMXZIWnhPS0xyaUFjLTg0R2JYbGtSU2Z0bnNScVJwTU1qVUg3d0t4UDRpdmxIcmllVnVfNExGS2tZUWlwYmNXbFJWNmFfMjBVTVdjU3dlYkc0OWJTV3RLd3VERGNTakdFTkx0Ui1fTFhLcWVWcXFsNTBwMy1oeVRwMEdacWc0RjFTM285SURTc18yZ08x?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-02-009",
+    "date": "2026-08-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "L3Harris Delayed Its Missile IPO Right After a Record Q2 Earnings Beat. Here’s the Math. - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWhmZEZRQmNuMXFITjJ4ZmhiSl9JaGQ0V3V5ZXB5WVRWSWE4UmZNem1LamNhUDBuWnpaY0VVNEVkNi1VaXlvYmtHbktKZEFfWE9Ld3NyUEU2M1M5T3pGSjhBUmZVc2lsX2p5ODkzbl",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOWhmZEZRQmNuMXFITjJ4ZmhiSl9JaGQ0V3V5ZXB5WVRWSWE4UmZNem1LamNhUDBuWnpaY0VVNEVkNi1VaXlvYmtHbktKZEFfWE9Ld3NyUEU2M1M5T3pGSjhBUmZVc2lsX2p5ODkzbl9RLWFEdTNRLTVlYS1OUDRKY1J2Qk9GeUtOeE9iZnE5MFZBSk9VMUF4ZDRnbnhXTDVCMm10ZmV5dnZuNnM5Y0xsag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-08-02-010",
+    "date": "2026-08-02",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Shares Sold by Janus Henderson Group PLC - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pnNVZEam1fd1U5eEJwQjVJeXFJdHUtT1FrdldVM1JQWkJMUWJnMHh6bUpmLS1wZVdMZk15SDFzZFltTERkdGJuZDUwZ2ZSeV9WcGt0TGJqR0pvWjVMazVHUVBZR3Jjd0RzT3dxb0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc1pnNVZEam1fd1U5eEJwQjVJeXFJdHUtT1FrdldVM1JQWkJMUWJnMHh6bUpmLS1wZVdMZk15SDFzZFltTERkdGJuZDUwZ2ZSeV9WcGt0TGJqR0pvWjVMazVHUVBZR3Jjd0RzT3dxb0NqMUhnMXJyV2xGVjRnMnEweldVVE0xeXdHOEViLTRDQy16bFIyWkNSSko3eFQ1aHRmSEFuWUU0NGtsLUt3UmpKdWRxMDF3dmxpbkV1bUIzMkJORVZEaEU2V2Nsaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-02-011",
+    "date": "2026-08-02",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile (NASDAQ: ASTS) Accelerates BlueBird Constellation With New Satellite Launch, Targets 22% Stock Upside - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU9CSUV3Zmo0Vnd2ZkNvSFNiYmthQjktQkp2VHRTZ2p2TzZDZjNQZkhkNnFnX0MydXA3UEVRYUFQWXZDVnFGNFY2Ym9zRWwtQWRvakNWMng3YS14S2VYZ28zM2JWRHptVlJqQzhlN3",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOLU9CSUV3Zmo0Vnd2ZkNvSFNiYmthQjktQkp2VHRTZ2p2TzZDZjNQZkhkNnFnX0MydXA3UEVRYUFQWXZDVnFGNFY2Ym9zRWwtQWRvakNWMng3YS14S2VYZ28zM2JWRHptVlJqQzhlN3oxN0VKNGFlOExKejRFbzVZSzdPYWxVOTlGejZlT3JPWWx0dkpIdEhJLWtvc3I4d0loV3F5RW54UjJmV0JReFVqb2QtTHdDeXNLdTdKMkhpRHljOUxQYmdzS0I0NTdJY3IzUGR5bGxsX3JfSVc3SWJTYXlCSlN2SkNDZnRCcWRNU2gyNkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-012",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/05/gallery-gallery_ng2-8615.jpg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-013",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Double digits! Air-launched 'Talon A' hypersonic vehicle notches big flight milestone",
+    "summary": "\n                             Stratolaunch has now conducted more than 10 flights with its Talon-A hypersonic vehicle, an autonomous, air-launched craft that can travel five times the speed of sound. ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/technology/double-digits-air-launched-talon-a-hypersonic-vehicle-notches-big-flight-milestone",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-014",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Aug. 2, 1971: Apollo 15 makes 1st-ever televised liftoff from the moon",
+    "summary": "\n                             On Aug. 2, 1971, a lunar liftoff was televised for the first time on NASA's Apollo 15 mission, one giant leap for live TV from the moon. \n                                ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-2-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-015",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "space_debris",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Hardspace to Clearspace: How space salvage games compare to real debris removal",
+    "summary": "\n                             Clean up on spacelane five. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-games/from-hardspace-to-clearspace-how-space-salvage-games-compare-to-real-debris-removal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-016",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Rocket issue delays 1st orbital rocket launch from the UK",
+    "summary": "\n                             While testing a rocket on the launch pad at the U.K.'s SaxaVord Spaceport, RFA found 'an issue with the vehicle that requires further investigation.' \n                   ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-issue-delays-1st-orbital-rocket-launch-from-the-uk",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-02-017",
+    "date": "2026-08-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 August 2 – A Fire Rainbow over West Virginia",
+    "summary": "APOD Science APOD APOD: 2026 August 2 – A Fire… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a d",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-august-2-a-fire-rainbow-over-west-virginia/",
         "type": "rss"
       }
     ]
@@ -1791,6 +2096,159 @@
     ]
   },
   {
+    "id": "rocket_lab-2026-07-31-072",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab’s Rally Isn’t Random: 3 Catalysts Driving The Stock Higher - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1hvZi1mdG1fWnUwMEd3bDVGMnZmZXo0eHRUZzF6cnNFd3NyUG1SWTRGZlBNWUlaYWdxajJVUGVLVW5mZzRERVUxbmVnTkhBOEZoNGdzMlE4ZG56VmVWNEJFREJuTnB2eGxfRjJJRz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR1hvZi1mdG1fWnUwMEd3bDVGMnZmZXo0eHRUZzF6cnNFd3NyUG1SWTRGZlBNWUlaYWdxajJVUGVLVW5mZzRERVUxbmVnTkhBOEZoNGdzMlE4ZG56VmVWNEJFREJuTnB2eGxfRjJJRzJpbmdGQ2hJdkVmT1RqVmdlSWtPbDdzM2tUcUlPdXpZUlY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-07-31-073",
+    "date": "2026-07-31",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "First Trust Advisors LP Boosts Holdings in Intuitive Machines, Inc. $LUNR - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHpjRngwTTJ4RVJKQS1VYi0xS0p2cnAxZHp3LWFUT1h0cWsxNVVOR2hObnFGSzBJV2lHbl84eWQ2TE1MUjhLOVBZamduZFRqMTRwaTI0d2w1Q2hIRFl3S2VDSHVMSUI0NHVBUXRHak",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVHpjRngwTTJ4RVJKQS1VYi0xS0p2cnAxZHp3LWFUT1h0cWsxNVVOR2hObnFGSzBJV2lHbl84eWQ2TE1MUjhLOVBZamduZFRqMTRwaTI0d2w1Q2hIRFl3S2VDSHVMSUI0NHVBUXRHakxTUWhsZkN5ekp1MFpkd25XREdxZXo4NktuZHgyZkpaUmt6aEQwTlBUdHZvVUQyb1N0N3hyTEwxRDNDUElEUWFXdWdYZUptaElpdTNZWlBnOGNVM3FNWGhWa01QQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-31-074",
+    "date": "2026-07-31",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Inc $LHX Shares Sold by South Dakota Investment Council - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV204dmdIbm82TXFSNFlsZ3NSRXktRzJkZVgtellnbmJrWUNOVlBoUnhlak9HckVpaEpSX3hzdXhWck5mbWlvY0pRTVlOUl9Oa1FpdDhuUkkzWWwwNk0yTHo5MXdlZzNra1dRYnhuaj",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV204dmdIbm82TXFSNFlsZ3NSRXktRzJkZVgtellnbmJrWUNOVlBoUnhlak9HckVpaEpSX3hzdXhWck5mbWlvY0pRTVlOUl9Oa1FpdDhuUkkzWWwwNk0yTHo5MXdlZzNra1dRYnhuajJfcGp6WEhxVnRxS0RCYTUyc2VwUzdhVU1WYWp6RnpvMkVRWUpGQXI3bGUyS3hTQ1I4TzJTMjlZRjhZVUtKUE9kc0VNNUE2QlVxTF9yd1ZQZW5HenE0VVd3eHlRUThaUHdLTjA4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-07-31-075",
+    "date": "2026-07-31",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Liontrust Investment Partners LLP Cuts Position in Planet Labs PBC $PL - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1lVS2dMaEN1Z2VWem90NGZranBCSnJCSHdrR1prbklYZjU3WmtJRWpKTE5IUWNQcThDT1FILWQwTEJCRHpuZDJyVWEyRUNNbVA4TDgxcVlqLVVLam1pMm5YdFkyaUxtb2pCRjFHZ0",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS1lVS2dMaEN1Z2VWem90NGZranBCSnJCSHdrR1prbklYZjU3WmtJRWpKTE5IUWNQcThDT1FILWQwTEJCRHpuZDJyVWEyRUNNbVA4TDgxcVlqLVVLam1pMm5YdFkyaUxtb2pCRjFHZ0l4TFR6OThpaXlVeW53cElhRy1KUHQzQTlSRXZ5LUhOSTQ0R0Z1RUw0ZkcxeXRtbFFnX1B6TFFuYzRhVUNqUWlNWS1PazFEdVU1N05qaDR5RTBQVUZRZURZbFJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-07-31-076",
+    "date": "2026-07-31",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SES: Disclosure of Share Buyback Transactions - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUE5na0JyOU0tOEg1SDVHajFTRGFhVXl4THlWMTM5c3dnTlRjRzNLb1dBS01icmo1Z2RHR1VfVVZfOTdROHJUNlRzemNBczJQYWhSV3pvemZ0eEt4QkQ2Sm5QbDY1Y0pWRjRQQlBwZW",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUE5na0JyOU0tOEg1SDVHajFTRGFhVXl4THlWMTM5c3dnTlRjRzNLb1dBS01icmo1Z2RHR1VfVVZfOTdROHJUNlRzemNBczJQYWhSV3pvemZ0eEt4QkQ2Sm5QbDY1Y0pWRjRQQlBwZWxuQ0l6cnpYVDBBZmRYYXdiNjNnanRQdjZwZmV0TnZxTUpoMm91bmd5S2NzMl9CQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-077",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Locks In Next Launch For Its Mega Satellites - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW8xcDFveG4xYUIzelpaajN0SklMYV8tV1dBOWUyZjhVRU9XYXhhaGJibzNaQ3lTQkFsRHhLUDBpcmhjajV6aXRtZ2VqNjdfMzhTNjVyLWhGWlZaUklKc0ZlbUxnV1A3ZlJ4S3pWWE",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW8xcDFveG4xYUIzelpaajN0SklMYV8tV1dBOWUyZjhVRU9XYXhhaGJibzNaQ3lTQkFsRHhLUDBpcmhjajV6aXRtZ2VqNjdfMzhTNjVyLWhGWlZaUklKc0ZlbUxnV1A3ZlJ4S3pWWEo0TjlTWHlFaWtWdmItYzJQVDZTaHBFdmFnTC0zdDZlRjFRTWdXS0tCV0tB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-31-078",
+    "date": "2026-07-31",
+    "companies": [
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Rocket Lab: Which Space-Based Network Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHZEUFRyWU5yMGM4WkpMYUNfRWQ5RnNVNFl3RGFQRVozWlh1d1BKYlY3dEtIWFByOWp3X0x2NndRSTAtOV9BUWpyd2dqMHRsNGJ3OTR5QTRjSjRIY3lReFQwRC1OdXBDZW91Yy00Qz",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeHZEUFRyWU5yMGM4WkpMYUNfRWQ5RnNVNFl3RGFQRVozWlh1d1BKYlY3dEtIWFByOWp3X0x2NndRSTAtOV9BUWpyd2dqMHRsNGJ3OTR5QTRjSjRIY3lReFQwRC1OdXBDZW91Yy00QzF6S0w0QlFRSlBxajBxS0tSdld6OTJRd2tjQ2k2VDlFVF84NERWck9qVDFaeWRJVFVNNXdFaU13YjY3aDhseE9QbnRkS1d2dnJfRkVlSVhGcEdTVU1nVTZlU2xZWHVPaDNIT3JQZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-31-079",
+    "date": "2026-07-31",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX Is Now Down 36% in a Month. Would You Be Better Off With Rocket Lab or ASTS SpaceMobile? - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkZXYU9tU0lQOVAta2RfZnlOWkZ0OGJZeVNvRC1RaXJsbEh4S0c3eEJBai03cVFCM2tHRTFqS0g4a002VkU3UE5VQkxwNlR5WHVKaG9TVXpULWhJYkkzVTI3TDh3ODJkMy13OGVVdH",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkZXYU9tU0lQOVAta2RfZnlOWkZ0OGJZeVNvRC1RaXJsbEh4S0c3eEJBai03cVFCM2tHRTFqS0g4a002VkU3UE5VQkxwNlR5WHVKaG9TVXpULWhJYkkzVTI3TDh3ODJkMy13OGVVdHNVT1lsU2xyOENVdm9qNDNEcVNjdXFaZ3ZSWDI5OXZXWXplZEh0Y3FWWTV6Y1FTZEV5RXZrNEdVMW11aVZzOUJHYm5QamtaYUg2Q3RENlNMc1VwcmllWkcwc2dYdEozZUh5OGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-07-30-001",
     "date": "2026-07-30",
     "companies": [
@@ -3328,6 +3786,82 @@
       {
         "name": "ses",
         "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aQlZyblpEYUNUVGtRa3J4dnZRVFJSeEJRRkhNcl9nNXZKeFRQNUVSN2RiZklINjZ2Ui04ZVlSbTZnRnd0OWpzc0ZPWkpxUThDR0ZNSFRqMk4wbTZ5WUVGNGJjblVYYTBG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-30-083",
+    "date": "2026-07-30",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should You Buy Rocket Lab Stock After It Just Won Its Largest Launch Contract in History? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkNFQmJuQjU1aXNfbm5GTVpER1p6YzdZS0NONFd2aVpwaW41dFJHOE4zdjhiYnA4cmNKZGd0dTFNdnFpQmY4cXdHUmVFZXdGUGxad1lXOC1RNHA5S3JvNXhweE1KR2NkWTlNbXl5bV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMkNFQmJuQjU1aXNfbm5GTVpER1p6YzdZS0NONFd2aVpwaW41dFJHOE4zdjhiYnA4cmNKZGd0dTFNdnFpQmY4cXdHUmVFZXdGUGxad1lXOC1RNHA5S3JvNXhweE1KR2NkWTlNbXl5bVRiYkRZM0VMTDhKSk9EX28xZVdQdnBtaW5DYWd1eS1ieWZ6cXZxdGNz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-07-30-084",
+    "date": "2026-07-30",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Stock Keeps Dropping. Here's Exactly When I'd Buy The Dip. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3N1ZlY4RnNPRnFyTG5iVDNmNWR5RWhJOUdjRG5XbGFmb2N2TVk2XzRuLW53WUQtSFdLSTZIbXhPWDYwV25pVzN6SnRqSEdJeWxEblZma2ptZjAtOUxnVGlyeWVMek9rc296UVVaWk",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa3N1ZlY4RnNPRnFyTG5iVDNmNWR5RWhJOUdjRG5XbGFmb2N2TVk2XzRuLW53WUQtSFdLSTZIbXhPWDYwV25pVzN6SnRqSEdJeWxEblZma2ptZjAtOUxnVGlyeWVMek9rc296UVVaWkEzWWJqcnk1aW9VQ3V2LW9xaTZCTjY3Y1prbDJUajRublllVk1IbXdIZg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-07-30-085",
+    "date": "2026-07-30",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells 47,303 Shares of Stock - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRrS1Z0WVI4MWVvc19hS1Q3VEVrWEJvQkljMVhzMWRvNURfbVFRLWprbW1YZ2pGYjNiaVRrU1lJNVktVzlBOTkwNDFBdWc5RmdDbDIydkowdi1xaHE0Q25qX0tYXzNuTDFQQVljZm",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRrS1Z0WVI4MWVvc19hS1Q3VEVrWEJvQkljMVhzMWRvNURfbVFRLWprbW1YZ2pGYjNiaVRrU1lJNVktVzlBOTkwNDFBdWc5RmdDbDIydkowdi1xaHE0Q25qX0tYXzNuTDFQQVljZm1GaUJNNm5YWG1iMjlfM3VzTGFiVEU4UFB1d3BvMU5SZU94OW93RmFtWVZBS3dOWWpwTE5zeUQwdTMxc2hRbVhGME9Jc3FJZkFYOHVPNnpwOTRpaEtwcUFhMnhfRUVvbVdSZHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-07-30-086",
+    "date": "2026-07-30",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Q2 Earnings Call Highlights - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYl9URmxKSU4wcl9LUEZoUVFvQnRPaUgyMGlGOW16NlFwbUZjcXNjNnJHa2VoMkRRalQ2UlhQRTRlUTM2Qk9yMW9va2xmSHE3NkczM09wQzVXZGNiLVdkakdtSkcyaWJiWjBlVXZIaz",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYl9URmxKSU4wcl9LUEZoUVFvQnRPaUgyMGlGOW16NlFwbUZjcXNjNnJHa2VoMkRRalQ2UlhQRTRlUTM2Qk9yMW9va2xmSHE3NkczM09wQzVXZGNiLVdkakdtSkcyaWJiWjBlVXZIazlKMW5QdzNXRUlRSkdTd3FXWk1kVFZMbDlQTTRsai1abWJ3emRzU3M1SWVsNXNVZHlMTGZlLWpR?oc=5",
         "type": "rss"
       }
     ]
@@ -5262,6 +5796,42 @@
     ]
   },
   {
+    "id": "planet-2026-07-29-103",
+    "date": "2026-07-29",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ranger Investment Management L.P. Sells 78,785 Shares of Planet Labs PBC $PL - marketbeat.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPalNGcmZkcjQ4LVI5YzdKdnFUeF9lRkRTQkZlQ0YtV2d5RVp4LThVMnhYakxoRGZuNDRHVmxzT3V4TURMUHlRYzRtNE1IcVcyX3hPYjdGTXlwdGwxT0MzMWF6NGlwTjdjZkVtVjlDRG",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPalNGcmZkcjQ4LVI5YzdKdnFUeF9lRkRTQkZlQ0YtV2d5RVp4LThVMnhYakxoRGZuNDRHVmxzT3V4TURMUHlRYzRtNE1IcVcyX3hPYjdGTXlwdGwxT0MzMWF6NGlwTjdjZkVtVjlDRGxRd183SU4xLWNSVWxrM0NpMUJOSzZyQVhzN1o2SFhhMEUzZmZTLWVNQm9PTWUxQTFxUjNjOTd0NmFSMXdIcnNzZGdxSXpFSmFqNVdnVjZzbHB1VVJqOWZMUkRnNDVWdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "spire-2026-07-29-104",
+    "date": "2026-07-29",
+    "companies": [
+      "spire"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Press Release: Spire Global Schedules Second Quarter 2026 Results Conference Call - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX09JR1d2bmdsTEFieGN3ZGRuZGpoZW5TWjVValk2MTVWS0FVb3dKTXdCMkFjb3JLMW83YkdUV0NBNzVnR3hXNkxfYmlHbEh2OXpFeVQ2Z0dXaVc1b3FkaUlNR1o4RDhVLXg4VDlNS2",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX09JR1d2bmdsTEFieGN3ZGRuZGpoZW5TWjVValk2MTVWS0FVb3dKTXdCMkFjb3JLMW83YkdUV0NBNzVnR3hXNkxfYmlHbEh2OXpFeVQ2Z0dXaVc1b3FkaUlNR1o4RDhVLXg4VDlNS2hwUG9wUHZKc0VGNElYbTdmVmQwaElSdF9hdFU1S1B1WG92dmVmbzNUQXh6YmkwaVRVT0M2R1p6WFh6MThCSEFneHVGeDUyaDJE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-07-28-001",
     "date": "2026-07-28",
     "companies": [
@@ -6676,6 +7246,46 @@
       {
         "name": "google_space_industry",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEdEQnktNFVqVzJFVzFtaEFkRGNkYWNHaV93d0ZubHZoNmRRdXd3VlFjbHVCbGJCZHdtbi00U0hRQXlabmdhWnZnQVVVUzR6S3lLT1ZBS3FFZVRYVjk5TG9LT2lOMklGalphc1MwUHBoSEtDUFZsUUN3VWZmSnJ3dmVlaDM4U3FURTJDYzZKdnA5Sk5sclQ1bEcyemNoNmNsVDZzQlY2OU13Ml80RlBwVTg2bUZWdTRxSUFQRDh2M2g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-07-28-076",
+    "date": "2026-07-28",
+    "companies": [
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX Slips 3%, Rocket Lab Sinks 9%, AST SpaceMobile Drops 7% Even as Six Members of Congress Buy SPCX Stock - 247wallst.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakdWdDRFZU8xQzVKVThZcGltU21WQk5KNmxRZHRBRnhTQlVyMWhXUzVVQzY1V0xkVXBucGtXUjNwcmUzQmR3RUUtQ1VmWjQzbklPY0RhUjZ3cnpnb1JtVHI3eUhnYzdhT08xdFRWVF",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQakdWdDRFZU8xQzVKVThZcGltU21WQk5KNmxRZHRBRnhTQlVyMWhXUzVVQzY1V0xkVXBucGtXUjNwcmUzQmR3RUUtQ1VmWjQzbklPY0RhUjZ3cnpnb1JtVHI3eUhnYzdhT08xdFRWVFdaRURPNDJ6RTEyYlBrMjU1N3pEcmQ2SmZWQ2tzdjlGeEFSNjRwQ3ZQakFaSVJhcERNTGJKbEpPUV9MRGVGaEZYMVZGeHh4U0U5bU9faUN0bzgzZzltSE5OSERSSFdHeVVxcmhRTGhrSEtOX051MXhNWWZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-28-077",
+    "date": "2026-07-28",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SPCX, RKLB, ASTS, LUNR In Focus — Trump Administration To Expedite Approvals For Commercial Rocket Launches - es.tradingview.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMEtCTVdEMzVWWVJBVEJTY2k2bTZsQkx2dmlyNW1obGUwV3hJNklSb2RINW5odHVKRy1WQ2stdm1RN2pHUERURTVTZlgzTFhaajJncGxKZjBPVzJLc0l3el9EWndzT204bTQ0WXkzX2",
+    "sources": [
+      {
+        "name": "google_space_industry",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMEtCTVdEMzVWWVJBVEJTY2k2bTZsQkx2dmlyNW1obGUwV3hJNklSb2RINW5odHVKRy1WQ2stdm1RN2pHUERURTVTZlgzTFhaajJncGxKZjBPVzJLc0l3el9EWndzT204bTQ0WXkzX2tQWDk4bFc2RUF5V2RmalJFYnNqd0dYeUtpci1vajNBcDY1U0RUa29vLWt5a0lMLTlreXBJakFzbi1RcklXbXEwNTV0TElxU3l4VzhJU2c1OUktT1NfVTlUYUJSYTVpdlZtWUZQU2o0cTFpanRQZld3eUZMeXQxbmFHUFllWVpVTC1yWjlC?oc=5",
         "type": "rss"
       }
     ]

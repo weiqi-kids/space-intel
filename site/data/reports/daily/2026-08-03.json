@@ -1,0 +1,149 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:15:40.397718Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "U.S. Air Force Awards Rocket Lab (NASDAQ: RKLB) $266 Million Hypersonic Missile Defense Contract - foreignpolicyjournal.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZnNBcjVtU1B2LXBRZ0lDWW91dlZ0SlNQU3ZnTFRxYmxMRE9idXEzT0FJQzRWNWpzV0I5bmtXZzZTdjYxTF9vaF8yLUZ2R1JwM1pWaTV1MFVPeHBLSWRmSWJBSkcxOXdRS2o4WGhhV1ZjMTJ5YWMxVW9LSFlCWTktSks3X2U0cXhoQk1TM1Q3TW5vWXBsTE9qeHRkeUo2SUhhSHFBenhab3hobWhGZl9xaERQckxfWDc0UW04SkpIbEQ0SXU5dFhQcXZhWXdjbnVIaUJKWWQzMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/space-exploration/satellites/ai-is-ready-to-run-spacecraft-is-the-space-industry-ready-for-it"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 August 3 – Vaporizing Meteor Photobombs the Lacerta Nebula",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 319,
+    "dup_title": 211,
+    "too_old": 38,
+    "gate1_blocked": 18,
+    "gate2_blocked": 20,
+    "passed": 32,
+    "pass_rate": "29.6%",
+    "gate2_block_rate": "18.5%",
+    "gate2_samples": [
+      "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+      "Intuitive Machines (LUNR) Lands On Strong Sell, Is The Stock Cheap Or Pricey? - simplywall.st",
+      "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+      "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+      "Intuitive Machines Insider Sold Shares Worth $624,404, According to a Recent SEC Filing - marketscre"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為火箭實驗室相關動態：「U.S. Air Force Awards Rocket Lab (NASDAQ: RKLB) $266 Mill...」。主要關注主題為太空產業通用、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "U.S. Air Force Awards Rocket Lab (NASDAQ: RKLB) $266 Million Hypersonic Missi...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "AI is ready to run spacecraft. Is the space industry ready for it? (op-ed)（衛星星座、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

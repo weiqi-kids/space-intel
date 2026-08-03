@@ -1,0 +1,16 @@
+{
+  "total_raw": 319,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 18,
+  "gate2_fail": 20,
+  "passed": 32,
+  "gate2_samples": [
+    "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+    "Intuitive Machines (LUNR) Lands On Strong Sell, Is The Stock Cheap Or Pricey? - simplywall.st",
+    "Intuitive Machines director Kamal Ghaffarian sells $624,404 in stock - Investing.com",
+    "Intuitive Machines Will Release Q2 Results Before Market Open - Stock Titan",
+    "Intuitive Machines Insider Sold Shares Worth $624,404, According to a Recent SEC Filing - marketscre"
+  ]
+}
