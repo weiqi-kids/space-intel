@@ -1,5 +1,59 @@
 [
   {
+    "id": "unknown-2026-08-04-001",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocketdyne reemerges as standalone space company",
+    "summary": "<figure><img width=\"1024\" height=\"574\" src=\"https://spacenews.com/wp-content/uploads/2026/08/msl-accelerating-production-space-asset-additive-manufacturing-article-hero.jpg-1024x574.avif\" class=\"attac",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-002",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+    "summary": "<figure><img width=\"879\" height=\"495\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/rsz_kreios-sede.jpg?fit=879%2C495&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size ",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-003",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+    "summary": "<figure><img width=\"1024\" height=\"682\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2025/01/f9-fireflyispace.jpg?fit=1024%2C682&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-si",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-08-03-001",
     "date": "2026-08-03",
     "companies": [
@@ -52,6 +106,413 @@
       {
         "name": "nasa_breaking",
         "url": "https://science.nasa.gov/image-article/apod-2026-august-3-vaporizing-meteor-photobombs-the-lacerta-nebula/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-08-03-004",
+    "date": "2026-08-03",
+    "companies": [
+      "lockheed",
+      "northrop"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northrop Grumman Enters Into $3 Billion Landmark Agreements to Accelerate Missile Interceptor Production",
+    "summary": "Multi-year framework agreements with the U.S. Department of War and Lockheed Martin deliver speed, scale and certainty for the United States and allies FALLS CHURCH, Va., Aug. 03, 2026 (GLOBE NEWSWIRE",
+    "sources": [
+      {
+        "name": "northrop",
+        "url": "https://investor.northropgrumman.com/news-releases/news-release-details/northrop-grumman-enters-3-billion-landmark-agreements-accelerate",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-005",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+    "summary": "<figure><img width=\"1024\" height=\"763\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2024/01/J-3-satellite--scaled.jpg?fit=1024%2C763&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-ima",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-006",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Xona secures spectrum approval for satellite navigation network",
+    "summary": "<figure><img width=\"1024\" height=\"683\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/G_Xm3MYbAAAAE9s-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-i",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-007",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Airbus and Thales win order for SpainSat replacement",
+    "summary": "<figure><img width=\"1024\" height=\"745\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/08/spainsat-ng3.jpeg?fit=1024%2C745&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size ",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-008",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CNN dives into how Elon Musk and Jeff Bezos are backing NASA's race to the moon against China (exclusive clip)",
+    "summary": "\n                             \"Eclipsing Power\" is a new FlashDocs special highlighting how billionaires like Elon Musk and Jeff Bezos are shaping the global space race. \n                             ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/cnn-dives-into-how-elon-musk-and-jeff-bezos-are-backing-nasas-race-to-the-moon-against-china-exclusive-clip",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-009",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A SpaceX rocket will crash into the moon this week. Why is it on a collision course?",
+    "summary": "\n                             The upper stage of a SpaceX Falcon 9 rocket will slam into the moon early Wednesday morning (Aug. 5). Here's what put it on this kamikaze course. \n                       ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/moon/a-spacex-rocket-will-crash-into-the-moon-this-week-why-is-it-on-a-collision-course",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-010",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jupiter's moon Europa may have signs of life in its buried ocean — but can we get to them?",
+    "summary": "\n                             \"This helps future missions interpret what they find and better understand where to look for signs of habitability.\" \n                                                    ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/search-for-life/jupiters-moon-europa-may-have-signs-of-life-in-its-buried-ocean-but-can-we-get-to-them",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-011",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 moons of Neptune may be remnants of ice worlds shattered in a catastrophic crash",
+    "summary": "\n                             \"We've had only a single flyby — Voyager 2 in 1989 — and these results make clear there's much more to learn.\" \n                                                          ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/neptune/3-moons-of-neptune-may-be-remnants-of-ice-worlds-shattered-in-a-catastrophic-crash",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-012",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 1st 'three-headed' asteroid | Space photo of the day for Aug. 3, 2026",
+    "summary": "\n                             New images reveal what astronomers believe is the first-known \"trilobate\" or three-headed asteroid in our solar system. \n                                                 ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/asteroids/the-1st-three-headed-asteroid-space-photo-of-the-day-for-aug-3-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-08-03-013",
+    "date": "2026-08-03",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Aug. 3, 2004: NASA launches MESSENGER spacecraft to orbit Mercury",
+    "summary": "\n                             NASA's MESSENGER spacecraft aimed to orbit Mercury for the first time to hunt for clues of water on the tiny, innermost planet. \n                                         ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-august-3-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-014",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is the Nocs Provisions Lite View spotting scope a good alternative to a traditional telescope?",
+    "summary": "\n                             A compact spotting scope delivering detailed views of the moon and bright star clusters. \n                                                                                ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/skywatching-kit/is-the-nocs-provisions-lite-view-spotting-scope-a-good-alternative-to-a-traditional-telescope",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-015",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Louisiana Students Loft Payloads from NASA Balloon Facility in Texas",
+    "summary": "Every spring in Palestine, Texas, the wide-open fields around NASA’s Columbia Scientific Balloon Facility fill with students and faculty from across Louisiana. They arrive carrying sensors, laptops, a",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/missions/scientific-balloons/louisiana-students-loft-payloads-from-nasa-balloon-facility-in-texas/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-016",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guinea-Bissau Tidal Waters",
+    "summary": "Twice each day, tides ebb and flow through a maze of sandy channels, mudflats, and mangrove forests that flank the 88 islands and islets of Guinea-Bissau&#8217;s&#160;Bijagós Archipelago&#160;(Arquipé",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/image-article/guinea-bissau-tidal-waters/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-08-03-017",
+    "date": "2026-08-03",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Delivers Navigation System for Commercial Lunar Relay",
+    "summary": "NASA delivered the NavCube3-mini payload&#160;on&#160;July 13&#160;to Intuitive Machines for integration into&#160;Altus-1,&#160;the company’s&#160;first&#160;lunar relay&#160;satellite, marking an im",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/technology/space-comms/nasa-delivers-navigation-system-for-commercial-lunar-relay/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-018",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ike Theriot Helps Prepare Astronauts to Work on the Moon",
+    "summary": "From serving in the U.S. Army to helping prepare astronauts to explore the lunar surface, Ike Theriot built a path to NASA&#160;through discipline and determination.&#160; Theriot serves as the&#160;F",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/ike-theriot-helps-prepare-astronauts-to-work-on-the-moon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-019",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Brings Space Exploration to the FIFA World Cup",
+    "summary": "From June 11 through July 19,&#160;NASA’s&#160;free interactive exhibit at FIFA Fan Festival™ brought space exploration to soccer fans in East Downtown Houston.&#160;&#160; More than 500,000 visitors ",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-brings-space-exploration-to-the-fifa-world-cup/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-03-020",
+    "date": "2026-08-03",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Launch Preview: Starlink, AST SpaceMobile, and Chinese missions fill launch manifest",
+    "summary": "<p>The first full week of August is shaping up to be another busy period for&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/08/launch-preview-080326/\">Launch Preview: Starlink, A",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/08/launch-preview-080326/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-021",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "US Air Force jet engine manufacturing plagued by ‘significant challenges’",
+    "summary": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-022",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
+    "summary": "The Pentagon is looking to triple Patriot missile production and quadruple THAAD interceptor production through framework agreements announced Monday.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-023",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Poland readies Ukraine ‘Coalition of Willing’ drills, eyes NATO support for border defense",
+    "summary": "Poland is preparing to host the first military drills for the 'Coalition of the Willing,' a group of nations established to provide support for Ukraine.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/08/03/poland-readies-ukraine-coalition-of-willing-drills-eyes-nato-support-for-border-defense/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-024",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Denmark begins extended military conscription in response to Russia, Trump",
+    "summary": "Around 1,600 military recruits kicked off Denmark's new extended conscription, as the country seeks to reinforce defenses amid Arctic security pressures.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/europe/2026/08/03/denmark-begins-extended-military-conscription-in-response-to-russia-trump/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-025",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "UNIFIL’s final months: Uncertainty persists in Lebanon over what comes next",
+    "summary": "The mission for the United Nations Interim Force in Lebanon is nearing its end. Amid Israeli occupation, a decision on what comes next has yet to be made.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/mideast-africa/2026/08/03/unifils-final-months-uncertainty-persists-in-lebanon-over-what-comes-next/",
         "type": "rss"
       }
     ]
