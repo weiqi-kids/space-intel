@@ -1,0 +1,154 @@
+{
+  "date": "2026-08-05",
+  "date_range": {
+    "start": "2026-07-30",
+    "end": "2026-08-05"
+  },
+  "generated_at": "2026-08-05T10:28:40.476496Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-07-30-025",
+      "date": "2026-07-30",
+      "title": "Ready to Launch on Rocket Lab, Planet Labs Shares - TheStreet Pro",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "intuitive",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intuitive",
+      "company_b": "l3harris",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 50,
+      "last_week": 90,
+      "week_over_week_change": "-44%",
+      "sentiment_this_week": -0.02
+    },
+    "satellite_constellation": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 5,
+      "last_week": 14,
+      "week_over_week_change": "-64%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 9,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "ses": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 7,
+      "sentiment_avg": -0.14,
+      "rank": 4
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "planet": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 350,
+        "last": 459,
+        "change_pct": -23.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-30",
+      "event_count": 86,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 79,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 21,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-02",
+      "event_count": 18,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-03",
+      "event_count": 46,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-04",
+      "event_count": 86,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-05",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-30 ~ 2026-08-05）共 350 則事件，重點為「Ready to Launch on Rocket Lab, Planet Labs Shar...」。太空產業通用、太空防禦、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

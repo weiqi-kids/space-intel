@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 19,
+  "gate2_fail": 14,
+  "passed": 121,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Ghaffarian Enterprises sells Intuitive Machines (LUNR) stock for $3.29m - Investing.com",
+    "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+    "Why L3Harris Technologies Stock Is Plummeting Today - Yahoo Finance"
+  ]
+}
