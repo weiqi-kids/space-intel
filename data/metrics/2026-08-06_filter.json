@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 198,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 22,
+  "gate2_fail": 16,
+  "passed": 59,
+  "gate2_samples": [
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+    "Ghaffarian Enterprises sells Intuitive Machines (LUNR) stock for $3.29m - Investing.com",
+    "Intuitive Machines Stock (LUNR) Opinions on Options Activity and Technical Breakouts - Quiver Quanti",
+    "L3Harris' Viper Shield Undergoes F-16 Two-Ship Flight Testing - ASDNews"
+  ]
+}
