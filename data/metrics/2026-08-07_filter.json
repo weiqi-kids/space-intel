@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 86,
+  "gate2_samples": [
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+    "L3Harris' Viper Shield Undergoes F-16 Two-Ship Flight Testing - ASDNews",
+    "L3Harris (NYSE: LHX) awards 17,995 RSUs to segment president - stocktitan.net",
+    "L3Harris (NYSE: LHX) awards CFO 8,998 restricted stock units vesting in 2029 - stocktitan.net"
+  ]
+}
