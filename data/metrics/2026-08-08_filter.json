@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 46,
+  "gate1_fail": 8,
+  "gate2_fail": 18,
+  "passed": 58,
+  "gate2_samples": [
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - benzinga.com",
+    "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+    "Sarasin & Partners LLP Takes $15.50 Million Position in L3Harris Technologies Inc $LHX - MarketBeat",
+    "L3Harris' Viper Shield Undergoes F-16 Two-Ship Flight Testing - ASDNews"
+  ]
+}

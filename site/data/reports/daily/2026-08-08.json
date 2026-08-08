@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:32:05.083426Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Rocket Lab (RKLB) In Focus After New Commercial Space Signals? - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVVpOWWFoSC1fMkpxaDd6OGo3RUNaV2NIRnc0SjB4VGRmNlFwRmlRU3lYUVN5SXpsYVdtTTc2c3hudHdIUUhxQW94X1JUNHdxVElpQTJXaXdSV1J3WUtucGtkZjhQZEthaVhUbXkyZkNhd1dpY1JWbWpjOXRDOFZxMG1rNm1FSUF2RUE2VWp3X0xnUDdJNy1GWDlrakpESDBaTVAzQ1FjS0o0Q1d3VW9JektTd1lPT3dGb3R3Wk9YVHZleW5PcHBsTUFqSzlMd2fSAdQBQVVfeXFMTVNXclBmUU1HUXRaZGRHakFyYlVZRHNITDRKNFQ5bHM5N19hblpYeGJWWTJKb25kSXFpaE5uMUJoakxqNmd3M2xiM0V0MzJsMkVCQWlHUEJLdGNkYWpDbzRWbGtWR2NUZU05aGFjY2doRWlPbVdBa2JZRUpUTnVRRmZVRjJ0MTVucjdUZlJUX0toMjR0QnRYbUFqV0NlbXRidjNTU1JoX0FvSXoxX3AyTU5GUmM2V1N4am13aWRCRG1FSlNPUDFkNTNETGViWDZTemlCN3U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 August 8 – A Messier Moment for Tempel 2",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod/apod-2026-august-8-a-messier-moment-for-tempel-2/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 331,
+    "dup_title": 201,
+    "too_old": 46,
+    "gate1_blocked": 8,
+    "gate2_blocked": 18,
+    "passed": 58,
+    "pass_rate": "44.6%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+      "Why Is Intuitive Machines Stock Surging on Tuesday? - benzinga.com",
+      "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+      "Sarasin & Partners LLP Takes $15.50 Million Position in L3Harris Technologies Inc $LHX - MarketBeat",
+      "L3Harris' Viper Shield Undergoes F-16 Two-Ship Flight Testing - ASDNews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為火箭實驗室相關動態：「Why Is Rocket Lab (RKLB) In Focus After New Commercial Sp...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Is Rocket Lab (RKLB) In Focus After New Commercial Space Signals? - simpl...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "APOD: 2026 August 8 – A Messier Moment for Tempel 2（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
