@@ -1,0 +1,118 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:34:00.356363Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Earnings To Watch: Rocket Lab (RKLB) Reports Q2 Results Tomorrow - FinancialContent",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ1dqWmFCaFVqVlA2VlRpY1l3Q2JLbjN5X3RVRk5lUE9tWVJMZWFoRWtzQk9MNzVRRllnWWtWMW5kV1JFZnlqU0lsVmhxSXZqQzVjMHJIQzltdndVZ1k0TVU2ZXZ2aXA0Mk90MjAyZGVZelc0THN1bjlqeGFyY3JheUxuLTdkcFRQdDdtZWVUVjlrR3dqUkw4OTFmM3dYUWFUOGx3b1RWMGlBWkRmUmpXSmpPbTZpRDNhcmU5ZHBSTUdEWUUtNE9wc1p5UTZCUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-08-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Average Recommendation of \"Hold\" by Analysts - MarketBeat",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM3JCM2ZRUXFsbFZVS2ZEUlJmOUw1dDQ2cXZWUzdlWGlDcXlOeG5DSzFRNUljdWVFRUdxNXhpbTdNNC1zYTFLMkQ2X0NGT0JUZTFfRVVqdXZVT2hhVVNvN19CQk1yVXpseEJZaDVQeE4wWFAtVmZMclhHa0NtZU1OM0xJY2RtRXRWdGZjYmI2cU13dUlJaGtsWmhjZlBaR05Gd3BoQzZIOU5aTFQyN3NWaWNHNEhqdmIyeFc0dnZQZFYxdkFkU2t2cmc5X0QwMXhCTGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 217,
+    "too_old": 51,
+    "gate1_blocked": 11,
+    "gate2_blocked": 20,
+    "passed": 31,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "17.7%",
+    "gate2_samples": [
+      "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+      "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+      "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+      "L3Harris Technologies Inc (HRS.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為火箭實驗室、直覺機器相關動態：「Earnings To Watch: Rocket Lab (RKLB) Reports Q2 Results T...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Earnings To Watch: Rocket Lab (RKLB) Reports Q2 Results Tomorrow - FinancialC...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Intuitive Machines, Inc. (NASDAQ:LUNR) Given Average Recommendation of \"Hold\"...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

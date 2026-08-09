@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 217,
+  "no_date": 0,
+  "too_old": 51,
+  "gate1_fail": 11,
+  "gate2_fail": 20,
+  "passed": 31,
+  "gate2_samples": [
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+    "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+    "L3Harris Technologies Inc (HRS.DU) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie"
+  ]
+}

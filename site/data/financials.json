@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:32:01.802195Z",
+  "updated_at": "2026-08-09T08:33:56.888738Z",
   "quarter": "2025-06-30, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "Redwire",
       "ticker": "RDW",
       "currency": "USD",
-      "ar": 24342000,
-      "ar_prev": 37251000,
-      "ar_qoq": "-35%",
+      "ar": 27495000,
+      "ar_prev": 24342000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
-      "inventory": 69350000,
-      "inv_prev": 55847000,
-      "inv_qoq": "+24%",
+      "inventory": 85364000,
+      "inv_prev": 69350000,
+      "inv_qoq": "+23%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "rocket_lab",
