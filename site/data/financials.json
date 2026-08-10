@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T08:33:56.888738Z",
-  "quarter": "2025-06-30, 2026-03-31, 2026-04-30",
+  "updated_at": "2026-08-10T09:11:15.722019Z",
+  "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
       "id": "ast_spacemobile",
@@ -41,17 +41,17 @@
       "name": "Globalstar",
       "ticker": "GSAT",
       "currency": "USD",
-      "ar": 19762000,
-      "ar_prev": 19976000,
-      "ar_qoq": "-1%",
+      "ar": 20529000,
+      "ar_prev": 19762000,
+      "ar_qoq": "+4%",
       "ar_period": "QoQ",
-      "inventory": 10078000,
-      "inv_prev": 9614000,
-      "inv_qoq": "+5%",
+      "inventory": 10938000,
+      "inv_prev": 10078000,
+      "inv_qoq": "+9%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "intuitive",
@@ -194,17 +194,17 @@
       "name": "SES S.A.",
       "ticker": "SESG.PA",
       "currency": "EUR",
-      "ar": 440000000,
-      "ar_prev": 649000000,
-      "ar_qoq": "-32%",
+      "ar": 1111000000,
+      "ar_prev": 440000000,
+      "ar_qoq": "+152%",
       "ar_period": "QoQ",
-      "inventory": 42000000,
-      "inv_prev": 49000000,
-      "inv_qoq": "-14%",
+      "inventory": 218000000,
+      "inv_prev": 42000000,
+      "inv_qoq": "+419%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2025-06-30"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "spire",
@@ -228,17 +228,17 @@
       "name": "Viasat",
       "ticker": "VSAT",
       "currency": "USD",
-      "ar": 539758000,
-      "ar_prev": 542120000,
-      "ar_qoq": "-0%",
+      "ar": 530060000,
+      "ar_prev": 539758000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
-      "inventory": 281220000,
-      "inv_prev": 286954000,
-      "inv_qoq": "-2%",
+      "inventory": 293788000,
+      "inv_prev": 281220000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     }
   ]
 }

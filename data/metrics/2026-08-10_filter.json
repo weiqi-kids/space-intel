@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 221,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 12,
+  "gate2_fail": 23,
+  "passed": 36,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13 - Barchart.com",
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+    "Why Is Intuitive Machines Stock Surging on Tuesday? - Benzinga",
+    "PensionDanmark Pensionsforsikringsaktieselskab Buys 4,571 Shares of L3Harris Technologies Inc $LHX -"
+  ]
+}
