@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 19,
+  "gate2_fail": 20,
+  "passed": 93,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13 - Yahoo Finance",
+    "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+    "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie",
+    "L3Harris Technologies Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+  ]
+}

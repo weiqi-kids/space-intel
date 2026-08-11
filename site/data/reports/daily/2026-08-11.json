@@ -1,0 +1,209 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T08:46:44.488232Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iridium-2026-08-11-004",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call Highlights: Record Revenue, Iridium Acquisition, ... - Yahoo! Finance Canada",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80M3FZbVJ1YmZzMVp3U2xRbTZjb3ZwakdpSGhsX2dCVkJDV3BNUDJZdDNkYUNRSEZLckFWLVZNdk8waC1qekQtQy1iaDZPdWdNS2thOVBBZ2c4ZFhDSHg2bjlTc2FPcERUQkVRTXJVZDlNZHd0T1VMQ0lhN1A?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-08-11-013",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab USA, Hims & Hers, AST SpaceMobile, Archer Aviation and Plug Power: Why These 5 Stocks Are on I - Benzinga",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQeDNObTBOeEFIQ1dnZmFpYUktTV9abmxtUjZmd2l6aHBZUzBxTGpvdVBpQ3BPYkVhN1Byb3IwcE14U3QwV0VpUWZRbkV6QkMxUEttWVB2YjU4QmtFSDJCM004ZnlOWWZZOFhLSHdkSjdGSHdieDRROTV6eHFST3Q4bVBOb1pMX0pKTXVpZjExVjVEMGVDdWN1TWlscjFESExGQ05FY3VnVFVTQUJhMGxaZ2RVcGxFUndSNXh5SXI3Q3NuRjRzTjV3aFpBTlFPS1ZnQmpib2JMb0hHWFlkaTlLZHQ0VnlIMGRXZm9xNVl0akoxTUNHcW9tZA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-08-11-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab (RKLB) Q2 2026: Record Revenue, Acquisitions Dent EPS - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa0g2NlRQNTBOSy1MVE94VnlWM1FLdUczOHJiZ0Y0V3Z6d3N6bnlPMXJvRFRlajNrcXY5Q2VnNm1rdGp1RTJwUnN5OXljLWhVU2dRMW9fOXNIUEdZakY2dXdET3lCSmZkTzA5WkRmT1hUUW1NRG1qeWVQam03dTBaVGtLWEpQczkxeTF2ekQ5TnVrWllIN3VZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-08-11-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SpaceMobile, Inc. (ASTS) Reports Q2 Loss, Lags Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTWk0NE85aGtpU0x5SGdmRFFQU3ZzOEJFdm9fOW1tc0xIdmRNbUtrbDZBWjI2cDlNZGh2TWV2ajBQY18tdWdXZG9GSkM4RlNieEJPTm5DRkdjOVZwVmlOajFkaGMweWpDYUllX2g5VkhmUE1GUWdta2RNZ3N2V2FmWHZObURXdTJ1bG84N2Z3YXJoUDZESC1mU0ZvMlRIdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-08-11-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Curiosity Blog, Sols 4968-4974: Rock Climbing Towards the Discontinuity",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://science.nasa.gov/blog/curiosity-blog-sols-4968-4974-rock-climbing-towards-the-discontinuity/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 6
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 161,
+    "too_old": 40,
+    "gate1_blocked": 19,
+    "gate2_blocked": 20,
+    "passed": 93,
+    "pass_rate": "54.1%",
+    "gate2_block_rate": "11.6%",
+    "gate2_samples": [
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13 - Yahoo Finance",
+      "Voya Financial (LUNR holder) discloses 7.48M Intuitive Machines shares in 13G/A - Stock Titan",
+      "Intuitive Machines: Early-Stage Infrastructure Story With Binary Execution (NASDAQ:LUNR) - Seeking A",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie",
+      "L3Harris Technologies Inc. stock outperforms competitors on strong trading day - marketwatch.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為火箭實驗室、AST SpaceMobile、行星實驗室相關動態：「Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call Highlights...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call Highlights: Record Revenue, Ir...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab USA, Hims & Hers, AST SpaceMobile, Archer Aviation and Plug Power:...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
