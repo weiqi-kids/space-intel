@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 43,
+  "gate1_fail": 18,
+  "gate2_fail": 18,
+  "passed": 98,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13 - Yahoo Finance",
+    "A Look at Intuitive Machines Inc (LUNR) After 4.4% Gain -- GF Va - GuruFocus",
+    "Intuitive Machines: Back To Earth (NASDAQ:LUNR) - Seeking Alpha",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - TradingVie",
+    "PensionDanmark Pensionsforsikringsaktieselskab Buys 4,571 Shares of L3Harris Technologies Inc $LHX -"
+  ]
+}
