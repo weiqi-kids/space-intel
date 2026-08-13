@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 102,
+  "gate2_samples": [
+    "Intuitive Machines: Back To Earth (NASDAQ:LUNR) - Seeking Alpha",
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for August 13 - Yahoo Finance",
+    "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $4,324,634.16 in Stock - MarketBeat",
+    "Intuitive machines director & 10% owner Kamal Ghaffarian sells $4.3m stock - Investing.com",
+    "Can L3Harris' Platform-Agnostic Model Expand Growth Opportunities? - The Globe and Mail"
+  ]
+}
