@@ -1,0 +1,141 @@
+{
+  "date": "2026-08-14",
+  "date_range": {
+    "start": "2026-08-08",
+    "end": "2026-08-14"
+  },
+  "generated_at": "2026-08-14T09:01:40.518424Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "iridium-2026-08-11-004",
+      "date": "2026-08-11",
+      "title": "Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call Highlights: Record Revenue, Iridium Acquisition, ... - Yahoo! Finance Canada",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "l3harris",
+      "company_b": "lockheed",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 55,
+      "last_week": 39,
+      "week_over_week_change": "+41%",
+      "sentiment_this_week": 0.07
+    },
+    "space_defense": {
+      "this_week": 3,
+      "last_week": 7,
+      "week_over_week_change": "-57%",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 17,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "l3harris": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "planet": {
+      "event_count": 5,
+      "sentiment_avg": 0.3,
+      "rank": 3
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 7
+    },
+    "ast_spacemobile": {
+      "event_count": 11,
+      "sentiment_avg": -0.09,
+      "rank": 2
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 413,
+        "last": 420,
+        "change_pct": -1.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-08",
+      "event_count": 20,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-09",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-10",
+      "event_count": 103,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-11",
+      "event_count": 104,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-12",
+      "event_count": 87,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-08-13",
+      "event_count": 72,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-08 ~ 2026-08-14）共 413 則事件，重點為「Rocket Lab Corp (RKLB) (Q2 2026) Earnings Call ...」。行星實驗室、銥星通訊表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 17 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

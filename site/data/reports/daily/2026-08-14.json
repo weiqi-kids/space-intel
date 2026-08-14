@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-14T09:01:40.374421Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-14-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab (RKLB) Is Up 5.9% After Record Q2, Space Force Win And Neutron Progress - Has The Bull Case Changed? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQOTFZZHZWa1JZSk5zLXRRbVZMVXUzdlFINFBWZFFmMjJRaE56QzJsNnFNUGt6RHRTNzE0VWZYc19LR1lBRnVjMUFvRzBiVGV0OU1GMnNzOWdRYVlBbDNHcnhHUUY5QldMUGlKZzlud3JiZWxPNFpYVTR1dGMxaGYyMjA0ZTNJdzJrNXloeQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is RocketLab Stock Crashing, and is it a Buying Opportunity? - fool.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmtUZmJGM09JQk44YzZ3dGdlUHZwM0ZCQ01lRUhpcGxXQ0xJQm1pQlV5emxRQkdGQV9WY3d3MVplQldKMDVYOHo3SGtTMFI1NXZrMXdyVGo1TFREOTI2Q19hZjNwWFkweFVudmtpc3d3TG5YOUVWSlYteEhjOG1IM1UtLTRFTUFwam9ibjc3VXh0OXkyWWlTZg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-08-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Enters Europe’s Crowded Launch Market - Payload Space",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ka3lOTHptdWNMV2hlTmRBVEozVWFKV2ltZGVmc0c3bHV4QVB3V0dJUXhkS0dvaERwVVc4M0JMSXRVdFdKRTJodFhiU2szbktyTFBlajZhQ2xSbXg0emtRbWJEc0pCQl9vYk85M1Z2SVN2RHBSMVVmZjZ1MW1TUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Gains Overnight: Rocket Lab Advances Neutron’s ‘Hungry Hippo’ And Wins New Space Force Deal - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTHBjTlZ2c1pLTC1sdFkwOXZDOTBITG96Qmt1T1djY3hxV1VLYjJoU1VYQldtMFdLRDZqU0MzNEgzVm8tcURacTVRZC12cThKdHBlVjIycjBsLVM1QzRCMy1fXzV6NWVyU1ItcDBQbDdWaUxxNDE5QUdBS2FJZURsTFQ1emVGcE13ZldKVFlNZzVpbFdweVc2WlBzaDVRS01xZlJZclF4XzFCWWVaSGZn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-08-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stifel upgrades Intuitive Machines stock rating on backlog surge By Investing.com - Investing.com UK",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjBHTDRXb3hwOGFiSGlYLTFmdlFHcW95Qmd5YW5aeFczcTFBNm1jcm5zenVvMTdIeDYyNkhEdElGbHJRTzFRN3pZQWVwQjRhckhlSXR1ZjZnZVY2TGtKY0oyOTVqZTZGdklqMWpBb0hBdFF2UDBNNTZ2TlBObVVRXzF3R1hfZ29oXzhoU0xpV2IzOS1jM3JjbUhNTTh5MEtMQVROdnV1aUpyVjROb0RKMmQxTER1ampVQkMzLVJ2bnZ5UG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 165,
+    "too_old": 40,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 85,
+    "pass_rate": "57.4%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Dropped Today - fool.com",
+      "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire",
+      "Conferencia de resultados del T2 de 2026 de Intuitive Machines (LUNR): cartera de pedidos de 1.800 m",
+      "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - tradingvie",
+      "What’s Driving Redwire (NYSE) Against the Russell 1000 in Q2? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「Rocket Lab (RKLB) Is Up 5.9% After Record Q2, Space Force...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab (RKLB) Is Up 5.9% After Record Q2, Space Force Win And Neutron Pro...（太空防禦、太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Why Is RocketLab Stock Crashing, and is it a Buying Opportunity? - fool.com（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

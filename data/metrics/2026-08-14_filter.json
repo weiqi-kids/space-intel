@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 85,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Dropped Today - fool.com",
+    "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire",
+    "Conferencia de resultados del T2 de 2026 de Intuitive Machines (LUNR): cartera de pedidos de 1.800 m",
+    "L3Harris Technologies, Inc. Stock 12‑Month Price Target Cut to $359, Implies 25% Upside - tradingvie",
+    "What’s Driving Redwire (NYSE) Against the Russell 1000 in Q2? - Kalkine Media"
+  ]
+}
