@@ -1,0 +1,188 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-15T08:19:15.996207Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock: Neutron Is Becoming A Real Growth Driver (NASDAQ:RKLB) - seekingalpha.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSTJLYmpoY0VfNm5OVlRZR0RjdmRmX04wUi1CS21lS1dRMW5heDh4OTNrNF83UXk1eEJvUEdfRVBsVVN5QnpyMzR2R19NTnVkRmNnamNycFhESUo5OXJITlQzczMxTmpqZE9fV0JUMHhBcUd6UDJaQjRCbWJEMVdUWDB2emtUd3ljcWhOaTRYU2FLNGxtdmxR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-08-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies, Inc. • Robinhood Token Price, LHX Price, Live Charts, and Marketcap - Coinbase",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWkk2dGhDRjF3X2dXMl95YkVFNGRuLVRjVm0wbl9DWThoMHFqMlVZcVJvbnpYMGNSS0lmUFdrRHNEaFRuX3hVWEFfaXo2Z2lIWlh3RDF5dWZ2d3dMNWhQeFY4Z3RPYlFGVE1pWlRpYzZBb2lkdVJ1M3VhaW4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-08-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Handelsbanken Fonder AB Acquires 10,400 Shares of AST SpaceMobile, Inc. $ASTS - MarketBeat",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaWJSU3RvM0FyYVFFZWFKM3I3UWNqSUF5SlF6aDZDc1dJS3k2Ui1KNjI3cnNkV3M4Y2UxR0thS3ZwMHBTeXZpT2UyY2VfY3VvdG42SWFZT01LdzUydnFUQ1Zra3dId05QeDMyaGJ1YUI0R0lIcFRfbTVZYjFzZ1AwM2lVYmhOVkZMSFFTWDh4WmxvMXpZRHVYOXI5ckdHYTNzMlBxTzQ3SDhaQl9sQnhaSURhSVJva1E2TzhfQ2hvcDF5OFI0ckR1Z3ZDZHJiN1k?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "spire-2026-08-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Spire Global (NYSE:SPIR) Stock Rating Upgraded by Wall Street Zen - MarketBeat",
+      "companies": [
+        "spire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb243aFdDOTZrWm1ET3FJMWRtVUh0S0ViVmhPLWtvOGtiMk02VzVvT1B6MnhfbHQyR2JEZnZQMFQtdjBUeGpIMHVsLUdFQXZWa0NiZmk3OFJMRVYzdkExRzNaZ2ljVWlFSi00TDY4SnlCSWNsTVU2akxfeWhxZmVsaW80azZyVU13ZnBWd2QwTFJMSnNXaHpTa3NqR0RlcVN6LTdBak1zTFh1RG0zTXpzSWFrRE1KMUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 August 15 – Bright Perseids from Sweden",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod/apod-2026-august-15-bright-perseids-from-sweden/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 179,
+    "too_old": 37,
+    "gate1_blocked": 14,
+    "gate2_blocked": 8,
+    "passed": 95,
+    "pass_rate": "61.7%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Is Soaring Today - The Motley Fool",
+      "Convert L3Harris Technologies, Inc. • Robinhood Token to Us dollar (LHX to USD) - BeInCrypto",
+      "What’s Driving Redwire (NYSE) Against the Russell 1000 in Q2? - Kalkine Media",
+      "At TED, Robbie Schingler Explores the Promise of Planetary Intelligence - Planet Labs",
+      "Planet Labs: Long-Term Is Not Good, For Bears (NYSE:PL) - seekingalpha.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「Rocket Lab Stock: Neutron Is Becoming A Real Growth Drive...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Stock: Neutron Is Becoming A Real Growth Driver (NASDAQ:RKLB) - se...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "L3Harris Technologies, Inc. • Robinhood Token Price, LHX Price, Live Charts, ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

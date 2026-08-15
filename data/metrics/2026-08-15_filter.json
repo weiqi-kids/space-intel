@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 14,
+  "gate2_fail": 8,
+  "passed": 95,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Is Soaring Today - The Motley Fool",
+    "Convert L3Harris Technologies, Inc. • Robinhood Token to Us dollar (LHX to USD) - BeInCrypto",
+    "What’s Driving Redwire (NYSE) Against the Russell 1000 in Q2? - Kalkine Media",
+    "At TED, Robbie Schingler Explores the Promise of Planetary Intelligence - Planet Labs",
+    "Planet Labs: Long-Term Is Not Good, For Bears (NYSE:PL) - seekingalpha.com"
+  ]
+}
