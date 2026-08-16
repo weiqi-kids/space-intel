@@ -1,0 +1,211 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:21:34.522036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-16-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-breaks-record-launch-doubleheader-ussf-366-globalstar-2r"
+    },
+    {
+      "rank": 2,
+      "event_id": "globalstar-2026-08-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX launches record-breaking back-to-back Falcon 9 rockets for Globalstar, U.S. Space Force - Spaceflight Now",
+      "companies": [
+        "globalstar"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTE5adVY0NzhZY1JBNFlBNGYxLUF5dFNPZ3RwaWxHSXFtZkFhc2xfdVBQVFhsUjVMalNPdnBrOUNZYVJ2RDg3T2tFLWRvVzVRRmJhQTZjMU9yNkUtbktWbUF1YVJScEZneC1DOGRnX2ttLV93alUtX2syNDdEUVh6MlptSUhCNnBrOFE3X3oxM3ZxcWQzaUpsX2NRTWV5b2tDN1lVTXNfX0ROUVptSkJxY2kzQlEzeUhsOUxlajZ1elFmbDdxc3FmN0dGNFdKblR5b1E?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-16-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart - Space",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM1Q5U3hkU0RZS0JaUWQtekJPWDA5eEtYUlA2R0lkN0kyRWZqOE1mdmlURzA2Qk1FbjZySmcyXzZqTHAwTkdjN0FYdnctUXlyS3AzZV80RjcyYXRyb3dPYmQtVWl6SDNWeUh6enlOcWF0ajA0ZFl5dVc3YzFPblFyaGJsemExV2tXVTBKWHhxNjUxQUllSDJha01EM0h2ZFhScUt1LWFDTW11bDJlTUxRZ3JhWnV3Rkstdl8weEktdTE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock And 2 Defense Picks For Rising Geopolitical Tension - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSXl4cnZUeDZHcVVzN3pqNUpnOEJxd3lqcmN4cVhMeTA4U25XT20zdHBxYUR6TXZGb2kxbkxaN095OUxzM3NPbW1kZzhIZGJQZUtWY2M1dEtvbG5BMjI0SEQ5UFVPQm9zcHZ0X3NGM3FNZngxWmgwTDZFVy1YSTM4WWJGNkpIRnJqeGNKYmFZT20zQW1EUHc2UWp4Q2pzN3FOeEMzMld4d1FEbFhkWFZOak96UThJTm16ek5EU0xCd0h3WFRrYjlzRTNsVGNOdTFJQzlqdVc5MNIB3AFBVV95cUxQY0JLWlpxOWg4YXJ1bzNJU096VU9OelNZLXBtZnN5RktkXzExaU1idXdRcVpTZWRBOG1HWXRVbmR5cUpCdHBNX3JoT2wtY3M3S1NyM0hIWnpuTk9oMV9UM0pKbVFNcGNpTlM3MkRTa2p6SVMyR0k5M3h0Tk9tY2VEYU9abU5mUmQ4MjdtR2E1eUZzYjVuX0E5TGs5azZLb2pmTDRyS0N4Y2xLR215cEhtcFY1WDh2QWw4LVVtSU15VDRJclNKQjdlX3lTMS1ldkQ1M3k0bGdSX0RSYlo4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "If You'd Put $5,000 Into Rocket Lab 5 Years Ago, Here's How Much You'd Have Today - fool.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdU93YVpUd3JXb2NhNlBYYWJrQ2U3MWlGZWtOU0d2UC1Yb3MxWThwemhZb09IcThOSlVISGNES1FYZTBUMUM3cnFHWTRKVFFxZkJNdGFiUzkybEF5QmVGSTlBVGprcjFObWk5aGlYWXdWODZOMHpKZ3ZEUVBTU25UOEc4UFJZUDJoclR5UDlwZXNGOUhVRGtZMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.39,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      },
+      {
+        "id": "globalstar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 228,
+    "too_old": 37,
+    "gate1_blocked": 15,
+    "gate2_blocked": 15,
+    "passed": 38,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Is Soaring Today - fool.com",
+      "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire",
+      "Why Intuitive Machines Stock Dropped Today - fool.com",
+      "Empowered Funds LLC Acquires 3,491 Shares of L3Harris Technologies Inc $LHX - MarketBeat",
+      "New 50,000-sq-foot L3Harris facility to deliver advanced undersea training systems for US Navy - Int"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為火箭實驗室、直覺機器、AST SpaceMobile相關動態：「New record! SpaceX launches 2 Falcon 9 rockets just 38 mi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "New record! SpaceX launches 2 Falcon 9 rockets just 38 minutes apart（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SpaceX launches record-breaking back-to-back Falcon 9 rockets for Globalstar,...（太空防禦、太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
