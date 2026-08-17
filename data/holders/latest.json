@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T08:21:33.866761+00:00",
+  "updated_at": "2026-08-17T08:34:57.509481+00:00",
   "companies": {
     "rocket_lab": {
       "name": "Rocket Lab",
@@ -613,7 +613,7 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 537543,
           "pct_held": 0.16,
-          "value": 2921546
+          "value": 2902732
         }
       ]
     },

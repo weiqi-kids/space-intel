@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 224,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 13,
+  "gate2_fail": 18,
+  "passed": 38,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Is Soaring Today - The Motley Fool",
+    "Why Intuitive Machines Stock Dropped Today - The Motley Fool",
+    "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire",
+    "Focus Partners Advisor Solutions LLC Purchases New Shares in L3Harris Technologies Inc $LHX - Market",
+    "New 50,000-sq-foot L3Harris facility to deliver advanced undersea training systems for US Navy - Int"
+  ]
+}

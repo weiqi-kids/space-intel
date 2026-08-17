@@ -1,0 +1,216 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:34:58.243266Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "globalstar-2026-08-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab launches eight Globalstar satellites - Yahoo! Finance Canada",
+      "companies": [
+        "globalstar",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSW1BRTA3SFljNlBOc0ZUNnYzMFpNMDRuTVhQQUFJdmkzYnUwWFI2QmtQeV9VZktTTk5uNUMweVZtTUg4NnFJaVlRREtaaWJJZjB1ZW5lMDE1WWthR2pNQ0pmOFV5cUZLcHFyeW9vdDNOdmN2dlR1X1pZa2ZzenNrTjhXMF9tZk1VLXJhZzlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "globalstar-2026-08-17-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB Stock Rises Overnight: Rocket Lab’s First 8 Satellites From $143M Globalstar Deal Reach Orbit - Yahoo Finance",
+      "companies": [
+        "globalstar",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEdTZ3h1RGtqUUwwemxXcFM2NWRqWDBVd19ta1RBb1lxYW9VTEpyTXdMb1lMNFNZcmlkdmx6S2hLR3VCVERfNDZpSC03YktnM0s1R29Kc21od3A0OUtqYkRYSWZRMHdxQ3JhRmFObWNLYjhwcHViZ0FZbmc1d1RmVDdsbFlJcEs3R2FBZVNWN3VsZ2dCZW56U1hGU2Q1ZXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "globalstar-2026-08-17-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB Stock Rises Overnight: Rocket Lab’s First 8 Satellites From $143M Globalstar Deal Reach Orbit - Stocktwits",
+      "companies": [
+        "globalstar",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSnJUNnRWUVR5VzdpNUVNSGJINElrRzFDZDNsNk1Qc3QzZzd4MWZBeG4tUTZLVkppTkJEajF2WmNvU0tBT1FGWW44ZVgxZ3JES1NManQ4UTFIQnRlUnNpYm8zVEVBUjdzZDZzdnJDOUwzanhOOFhRU21RT3p6M0pWRklVRTlYWGprMXBmcWhmWG43OGJrdkotMEVqTlJiT2RIaFNUQlRrbC1DM3k5c25FMmg4d0ZPOTVqendvdg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-08-17-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intuitive Machines Stock Surges 8% After Stifel Upgrade and Record Order Backlog Growth - TIKR.com",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONHJVNXZwOEstUGlDdHcxY3FtekZSMklNbmNXN1Y3bWgwc2lodk1oRlhmTjZ2ZTlONEYydm1VNzVwVFlOS2FoNndKU01rR1VmRng2V1FxUGVHSW5MQkdtci1QRlgtUXdDSjNPdFAyWVRUSzZ3TUFNU2kzMFc3X3JiSEJoSFI5LUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-08-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 5 Most Interesting Analyst Questions From Rocket Lab’s Q2 Earnings Call - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUndIdDNzbm9ZVGFSekEwaldJUjhaQUlHUzFGREFpZ0QzRWZPRG9LNk4zcE9mcUJkTEwzU25YRlVPLW4zajl2T0NleVZpZm55VXlzWTJkU3FPa0w1WW9SdHdRcDZpSzV4RmxrMFhDQWZJaXpEaU5oTDI2UnBydDVwWGJ2eW9UbUJGa3lQalYyN09UYzJKM01lWWg0NzZoRzBLVnQ4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "globalstar",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "globalstar",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 224,
+    "too_old": 37,
+    "gate1_blocked": 13,
+    "gate2_blocked": 18,
+    "passed": 38,
+    "pass_rate": "35.8%",
+    "gate2_block_rate": "17.0%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Is Soaring Today - The Motley Fool",
+      "Why Intuitive Machines Stock Dropped Today - The Motley Fool",
+      "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire",
+      "Focus Partners Advisor Solutions LLC Purchases New Shares in L3Harris Technologies Inc $LHX - Market",
+      "New 50,000-sq-foot L3Harris facility to deliver advanced undersea training systems for US Navy - Int"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為火箭實驗室、L3Harris Technologies、Globalstar相關動態：「Rocket Lab launches eight Globalstar satellites - Yahoo! ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab launches eight Globalstar satellites - Yahoo! Finance Canada（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "RKLB Stock Rises Overnight: Rocket Lab’s First 8 Satellites From $143M Global...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
