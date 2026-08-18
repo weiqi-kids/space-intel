@@ -1,0 +1,16 @@
+{
+  "total_raw": 333,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 97,
+  "gate2_samples": [
+    "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more - CNBC",
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Why Intuitive Machines Stock Popped Today - The Globe and Mail",
+    "Intuitive Machines (NASDAQ:LUNR) Trading 7% Higher - Still a Buy? - MarketBeat"
+  ]
+}
