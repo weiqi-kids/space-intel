@@ -1,0 +1,225 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-19T08:28:19.177265Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-08-19-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Viasat taps Rocket Lab for protected GEO SATCOM satellite - militaryaerospace.com",
+      "companies": [
+        "rocket_lab",
+        "viasat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNUNTbndzWjZxTVh0dHd6MnhYYzV6MWpjMTMtTGVTNmdzZy05NGp4MkpnWEhuOEN2SjdRWkpCU1NBazhWeHVMMFpwdkVLajY2QURESW03VXFKaUY3azBJUS01NUhMbHZPOE9Bb3lnUkRCQVQ1Q3VHak1qdGc4YnZXcVpycF8tZHF1emZWWGM3aFlSYW1iNWRnUV9XSENVMWRMVEw1MWRlU1l1SHA5bHM4TENldUhRTEE4SGx1ZFEtZUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-08-19-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Viasat awards Rocket Lab satellite bus contract for PTS-G programme - SatellitePro ME",
+      "companies": [
+        "rocket_lab",
+        "viasat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbWFzSU1RcEIwYjVXdkFsaEUzNXBVcUdXYVVZc01BUnZPbFRwb082OTBfN3ZNdHhfYWVoRU1jRHhNMHR2SldxWVB3WmV3V3VuSzc1R2pYWHFmYnZGQnU4cmktVlBYRGFCbmJya3MxVlRFNFFZQ01OWEZiUG9qQzM4RXdHalliOUs3eGdRV2p3N2xKREV5N3NkRTFIM3NCSEZUbWc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-08-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood’s ARK sells AMD stock, buys Rocket Lab - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU2pvUE9YUVZoLU84ZF9rdnlnQkhfZi1kd05QYTR2N290QzJKRmxjX3lSeXk1VWZjSHdmOS05QTl1eXBfUzBjNkc0czdBMUlaYnRIUjYtLWlCdE1ieG1HSTNlQkFleW9oTENlblhESDFpYjV6eTYzeUxDaS1EY2dCNnZLYXR4Umh6cDlLcFY0ZVZFU04wUjBNQlhTWkRBaWhmdlh5VFRIbHI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "BlackRock Inc. Acquires New Position in Rocket Lab Corporation $RKLB - marketbeat.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV21ZTHhxMjNWVUktWDBJckxBejU4Y0wwbjJtOU81TjRwbjJHc1VSMFJNZDl2LTJmYkhCUlR1V183bTc1TFNKVmg1RUthb3hxeVllcm02T1Z2SjRYQ1d0Q3NITUtzdE9fRzFJZkxxODRPTXJKdVFVWkgzanNtLVdVNVJpSkxTdEdYc0sxSDlRSl93dU1LNVNfQUplS1ZFemZSSU55Y3duMXBCRDkySTZvYjM1TjNyWjM0RXRETGRaRVdyRklxbGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-08-19-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile Supercharges BlueBird Production With Midland Expansion — But ASTS Faces Retail Bears - Stocktwits",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZENFS251Q3MwR2JKSEs1Y2R2MUZQZWFsV05QVnpWYlJtTElmdWlSRU5UbzdtMFplNll5VnlsUl80TUVMY25ic2xnVlhTdUVRb0lxeVNPVmFtQTdBOUpkdHRNbDhHYlU0Z09IaDJhV2hwcnJoWG9uMEpEaXdKekRVejQyRU1CR1FfY003NjhxTExaeXZzS055VENEV1hYbmVaNm9LZjE2Sjh4UFZ4UFQ1ZDdUeWJyNUUxOGhvQw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rocket_lab",
+      "to": "viasat",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "space_defense"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "viasat",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 162,
+    "too_old": 39,
+    "gate1_blocked": 15,
+    "gate2_blocked": 13,
+    "passed": 83,
+    "pass_rate": "55.3%",
+    "gate2_block_rate": "8.7%",
+    "gate2_samples": [
+      "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more - CNBC",
+      "Intuitive Machines Stock Edges Lower Tuesday: What's Happening? - Benzinga",
+      "Intuitive Machines price target lowered to $39 from $41 at Canaccord - TipRanks",
+      "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+      "Aljian Capital Management LLC Acquires New Position in L3Harris Technologies Inc $LHX - marketbeat.c"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為火箭實驗室、AST SpaceMobile、Viasat相關動態：「Viasat taps Rocket Lab for protected GEO SATCOM satellite...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Viasat taps Rocket Lab for protected GEO SATCOM satellite - militaryaerospace...（太空防禦、太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Viasat awards Rocket Lab satellite bus contract for PTS-G programme - Satelli...（太空防禦、太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

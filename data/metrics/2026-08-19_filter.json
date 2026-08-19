@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 15,
+  "gate2_fail": 13,
+  "passed": 83,
+  "gate2_samples": [
+    "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more - CNBC",
+    "Intuitive Machines Stock Edges Lower Tuesday: What's Happening? - Benzinga",
+    "Intuitive Machines price target lowered to $39 from $41 at Canaccord - TipRanks",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Aljian Capital Management LLC Acquires New Position in L3Harris Technologies Inc $LHX - marketbeat.c"
+  ]
+}

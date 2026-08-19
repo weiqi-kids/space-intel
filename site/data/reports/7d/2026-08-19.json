@@ -1,0 +1,153 @@
+{
+  "date": "2026-08-19",
+  "date_range": {
+    "start": "2026-08-13",
+    "end": "2026-08-19"
+  },
+  "generated_at": "2026-08-19T08:28:19.387210Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-08-13-016",
+      "date": "2026-08-13",
+      "title": "Rocket Lab Corporation (RKLB) outlines $7.6B Iridium deal and $3.6B bridge loan - Stock Titan",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "globalstar",
+      "company_b": "rocket_lab",
+      "co_mention_count": 7,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "rocket_lab",
+      "company_b": "viasat",
+      "co_mention_count": 6,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 60,
+      "last_week": 50,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.09
+    },
+    "space_defense": {
+      "this_week": 6,
+      "last_week": 2,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.33
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 20,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 5,
+      "sentiment_avg": 0.25,
+      "rank": 4
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "planet": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "ast_spacemobile": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "spire": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "globalstar": {
+      "event_count": 4,
+      "sentiment_avg": 0.25,
+      "rank": 6
+    },
+    "viasat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 424,
+        "last": 491,
+        "change_pct": -13.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-13",
+      "event_count": 97,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-14",
+      "event_count": 91,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-15",
+      "event_count": 23,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-08-16",
+      "event_count": 29,
+      "sentiment_avg": 0.19
+    },
+    {
+      "date": "2026-08-17",
+      "event_count": 101,
+      "sentiment_avg": -0.0
+    },
+    {
+      "date": "2026-08-18",
+      "event_count": 70,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-19",
+      "event_count": 13,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-13 ~ 2026-08-19）共 424 則事件，重點為「Rocket Lab Corporation (RKLB) outlines $7.6B Ir...」。直覺機器、Globalstar表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

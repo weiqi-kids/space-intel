@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-19",
+  "total_events": 13,
+  "by_company": {
+    "rocket_lab": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "viasat": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 13,
+      "sentiment_avg": 0.04
+    },
+    "space_defense": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "rocket_lab",
+      "to": "viasat",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general",
+        "space_defense"
+      ]
+    }
+  ]
+}
