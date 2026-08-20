@@ -1,0 +1,16 @@
+{
+  "total_raw": 317,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 19,
+  "gate2_fail": 14,
+  "passed": 69,
+  "gate2_samples": [
+    "Stocks making the biggest moves midday: EyePoint, Intuitive Machines, Workday, JetBlue & more - CNBC",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 8.1% - Should You Sell? - MarketBeat",
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "Intuitive Machines Stock Edges Lower Tuesday: What's Happening? - Benzinga",
+    "Intuitive Machines Reports Second Quarter 2026 Financial - GlobeNewswire"
+  ]
+}
