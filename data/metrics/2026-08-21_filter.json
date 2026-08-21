@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 21,
+  "gate2_fail": 10,
+  "passed": 92,
+  "gate2_samples": [
+    "Intuitive Machines Inc (LUNR) Shares Fall 3.2% -- GF Value Says Still Overvalued - GuruFocus",
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "Intuitive Machines Stock Edges Lower Tuesday: What's Happening? - Benzinga",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP - WSJ"
+  ]
+}

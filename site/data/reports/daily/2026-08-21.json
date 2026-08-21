@@ -1,0 +1,210 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-21T08:31:30.649586Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-08-21-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "[Intuitive Machines Q2 2026 Earnings Call] Intuitive Machines books record $1.2B quarter, backlog hits $1.8B as revenue quadruples to $206M - finance.biggo.com",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ibFBhT0RWakJ0NU5JREFlVlJUNWd3MC04TU5nYWc1TWpxQkJtb2hpTTd2RGN6Z1BrMUQ4UXFJX2ZRSkgzazdJMDdtRHFkeW9tdmtkV1I0bloxd3NxMXc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-08-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MISSION SUCCESS: Rocket Lab Launches 93rd Electron Mission - ASDNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFNkSXN2cmlKekx0QUZPc1JVRllHXzZnVDdjMHpEenRmNU5LbmlTYUxILU5fd0tiUTNIYWdQZzJVczEzdDlnZjJmNkNqcW5GaWhaV3hVb0s5Qmo5ajVQdjlUZnZnRlRiRlFCNnlSUlpHZUNvMU9wRHNZUWZQYkZoeDdSVkV2WUxzYjFrUnB2Q3N6bUxPcFNNS0Z1YzdwVk5nNjg3cllxeGw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-08-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab’s Pullback Is Quietly Becoming an Options Test - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ0xhY0tYZkwyc3FMLUpGVFBNNEFSQmgyNnRkTkhsQTNydmpwd21uN01GQjExSjY3bGJNZGxfeGlUaTRPREJRMXJHSmhWcUExTllCbmthWEhWdTlnSU91Sm5zNC02UUtLb08yanhhd2tmaHNnVXJsNlRUSkpoQ1VYU0V0LWgyVzljbG5xa2ptckt2d1JSYjR4RkhRWjN4cVQ5Z2I4eklSM2VZbm1SWkUwRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "7,489 Shares in Rocket Lab Corporation $RKLB Purchased by Diversify Advisory Services LLC - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdHlCYlAwWjFOVnd4OWNaREJuM0hpNGZyT096SktUWDF4Sy1BNnAxYnEydlROMFFPSFNFalk2NmVPTmxaR3d3cEVWU29GMUR5dDJSWUg0NlJxOU8tX3d6cDh1YU03TnhsMnp5aGhVUnFOcUduUmhOUkNSNlp2UUVGUHR0aFhsNndYNHpMUHZnX1VGUEUxNUQwUmUwU3JSOUZQdG1jOEc1aHA2N0pBajRVOUhkaTNkcWxSaW1wcERjOVRIOW8xOU83dE1wR1hGZDFYWXFxVDEyQzllVS1wRllvam1R?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-08-21-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "2,591,220 Shares in L3Harris Technologies Inc $LHX Acquired by Bank of New York Mellon Corp - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnJoWVNmWnZYcGx3VXhRZUcwU1YzdU5lckp5UG5FMDVRVWpCaGdwd2NvSUtTWlZwcDJhV09ucFRmNXV1MFVEaWJCRmJ2SVZGb0tiTjlHZ2hsSlhlNEFfWmk1Z3ZLSTBWb0hXLVl4TzRHamdvdy15THlPVmxrYy1pbXo2aUFnV0lUTHIyNVg2VGhpYlJVdGxhcE9aZjM0bHZlRFJzU1kxdHhPem1fZHZ5Tjdmenl4V3NUX0s2LXhFSWl1a2VfRGJQcWNnM3ozcVJBLUJRVmI5YzRkQVlxaldGTEVDUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 169,
+    "too_old": 40,
+    "gate1_blocked": 21,
+    "gate2_blocked": 10,
+    "passed": 92,
+    "pass_rate": "56.4%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Intuitive Machines Inc (LUNR) Shares Fall 3.2% -- GF Value Says Still Overvalued - GuruFocus",
+      "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+      "Intuitive Machines Stock Edges Lower Tuesday: What's Happening? - Benzinga",
+      "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+      "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「[Intuitive Machines Q2 2026 Earnings Call] Intuitive Mach...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "[Intuitive Machines Q2 2026 Earnings Call] Intuitive Machines books record $1...",
+        "level": "green"
+      },
+      {
+        "text": "MISSION SUCCESS: Rocket Lab Launches 93rd Electron Mission - ASDNews（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
