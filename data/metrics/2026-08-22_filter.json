@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 211,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 21,
+  "gate2_fail": 11,
+  "passed": 48,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP - WSJ",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "Planet Labs Stock Is Bouncing Back After Hard Fall Last Week: Here’s Why - Stocktwits"
+  ]
+}

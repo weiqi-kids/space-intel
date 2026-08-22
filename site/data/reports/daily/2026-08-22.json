@@ -1,0 +1,215 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:20:29.633992Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "boeing-2026-08-22-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile (NASDAQ: ASTS) Vs. Boeing (NYSE: BA): Growth Risk Or Blue-Chip Stability In 2026? - foreignpolicyjournal.com",
+      "companies": [
+        "boeing",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORGpnaU1MY250UWxfdkxwNUZqMkRKT3Y4aXdfbFdtVWU3TEx1UmRwRWFjWl9sWHNWZldZbEZESjl4ejB2b3N3NmRhQmdZSy1UVEl2WnZxYm4wdGg4VmQ0d0FNUmNHODloQ2YwT09YN1pJWWJLRDdodDN0UFRNUU1FVklsNlN2TG1INVR4dEdHRFM4SU1IdWlNNkRMUENfWkd1MldtS3F6ZGVuckFodU5fejB4Z3E4ZWFoS0lYVXN5MFRyUFJWaWNDVE5IbDNudTFtRlFJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-08-22-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "How New NASA, Multi-Satellite Deals and Record Backlog Will Impact Intuitive Machines (LUNR) Investors - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3lnQURSOThua1VYTXBhN25OdWFYM2VPOEJVQ29icFhJZkFpQWZxcWJ4Nm5aVnFMcFVoLVU4OHVraTJJb3NjNWdhcVN5RGhob1NkcHhyRExQOHRJeXVVTXRaLTJSQVljOHBYVFlaTlhGLUtBM2c3bUczLU84eU9ybk1fbjY4ODNNcVNMZmdNS0dsS1Y2UEVIOWRLZzZuSVlGTTdMb1NteWwxb0RRNjFTdWZ3VGJtN3JGVFEzOE1lQkpYRFpyeC1YU1piVFNyNUdaRGFiZnpWQUQ0Z9IB3wFBVV95cUxNcEl3c1NseGtZR3VwRUNZRW1teGFHbWM2Z2lLd2h2WFRmM3BDMm01QXcwN1NNMUt4dmcwR3VaUi1pVlN0blhVQ2tTMzMzZGxLeWVGVFBCazZtZkRHWkNCVzVRUFZhZXN2d1NuVXRsX3Z3QXpOYkVHWVdZbU1HX0p6UmpGdlA2SWppRW11aHRCdlZtY2JPV1JZcDJ2TzF4OXhxdXV2QWlTa3FZZXd1ZlgtM1N5b0Z4UDM4dWZKanFQTHl1X3hPUzhESzdiTll2cXZOZ0syUEtfUEh3VjJRbHNF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-22-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "APOD: 2026 August 22 – Mostly Perseids",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod/apod-2026-august-22-mostly-perseids/"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Lands Spot On Nearly $1 Billion Space Force Program - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd1YxbHBEeG9RRlFzQXJVU3k3anotRlI4T3g1UkJZa2gtMHZTVEs5Q1pDQVB2SDBkdWVjX1lvS3VpbDJOYkhqTVgxV244dkwtRmxBTWh0UlNVUTRqUXcxTEI3dzREOUxsajQyRTdKWUFOaTVTUGRiZzhmMkRVelZRZy12RE5sb0habElZSFhDTy14MjByc0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-08-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile’s 800 MHz Push and FCC Tests Could Be A Game Changer For ASTS - simplywall.st",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVDhrZllUbXF3Z2JDQXlDVXJmc2FuMUdibmpQSG1ZblVlYUpzMWFRemRiY1pteE5xb1RVZkt6ZFloWTktbmhWQVBtc0Faa2p0czRtLXRUaF9CcEVRd2hhMm11NjkyQ1J4MVVseEJIWmY2MF9ELVg2cWY4RWFRUXVBa1JlMW9SUWM0WDRnQ19RZ3ZLVUt0bXAyR1BWSVV4WXB1eE1YMEdZbjFRUlhYVlYzSjdrYmhuRGx2TURqOHo4NlFTYzJZUGU4ZmVWbEl3RjlDWVHSAdIBQVVfeXFMT1Q4a2ZZVG1xd2diQ0F5Q1VyZnNhbjFHYm5qUEhtWW5VZWFKczFhUXpkYmNabXhOcW9UVWZLemRZaFk5LW5oVkFQbXNBWmtqdHM0bS10VGhfQnBFUXdoYTJtdTY5MkNSeDFVbHhCSFpmNjBfRC1YNnFmOEVhUVF1QWtSZTFvUlFjNFg0Z0NfUWd2S1VLdG1wMkdQVklVeFlwdXhNWDBHWW4xUVJYWFZWM0o3a2JobkRsdk1Eajh6ODZRU2MyWVBlOGZlVmxJd0Y5Q1lR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 2,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "boeing",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 211,
+    "too_old": 39,
+    "gate1_blocked": 21,
+    "gate2_blocked": 11,
+    "passed": 48,
+    "pass_rate": "40.3%",
+    "gate2_block_rate": "9.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+      "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+      "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP - WSJ",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "Planet Labs Stock Is Bouncing Back After Hard Fall Last Week: Here’s Why - Stocktwits"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「AST SpaceMobile (NASDAQ: ASTS) Vs. Boeing (NYSE: BA): Gro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile (NASDAQ: ASTS) Vs. Boeing (NYSE: BA): Growth Risk Or Blue-Chi...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "How New NASA, Multi-Satellite Deals and Record Backlog Will Impact Intuitive ...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
