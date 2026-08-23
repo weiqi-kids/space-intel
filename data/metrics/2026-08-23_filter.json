@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 240,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 20,
+  "gate2_fail": 12,
+  "passed": 22,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris brings Link 16, electronic warfare and counter-drone capabilities to U.S. Army command-and-",
+    "Planet Labs Stock Is Bouncing Back After Hard Fall Last Week: Here’s Why - Stocktwits"
+  ]
+}
