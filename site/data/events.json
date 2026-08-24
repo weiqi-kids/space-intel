@@ -1,5 +1,145 @@
 [
   {
+    "id": "unknown-2026-08-24-001",
+    "date": "2026-08-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RKLB Stock Rockets Toward Best Month Since May: ‘Hungry Hippo’ Begins Flight-Like Testing Ahead Of Neutron Debut - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1hWV3Q3RDhqbHRIa29FaTVrbG5maDJJRWRFX1RDejBNTWFVc1BHXzhocmI0VExjRDVPXzg4d2MxYklGMXBmZkhSY29PR0pMQk5XTjk2TmdyVWdmRjJ0UWJfSUNPLXNDUmdZZnduQ1",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1hWV3Q3RDhqbHRIa29FaTVrbG5maDJJRWRFX1RDejBNTWFVc1BHXzhocmI0VExjRDVPXzg4d2MxYklGMXBmZkhSY29PR0pMQk5XTjk2TmdyVWdmRjJ0UWJfSUNPLXNDUmdZZnduQ1NzOFoyS3RrWnF6UHJpVkx2d3ZfR3UzS2FtY2I2bEVYbDVySm41SEJieGU0bw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-24-002",
+    "date": "2026-08-24",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EP Wealth Advisors LLC Buys Shares of 11,991 Rocket Lab Corporation $RKLB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF95X2lIMVJ3V0dLdGtfVlZVYnlHZWY2cXctTm1iQmZ1dnZpWG5JdFlXWjktd1lvVTRxcGhBdzI0VXZMSmk4cG1EenNwdGFSS1o1LVpZMVk5Tm01Mk80RWlwYTgwZUZsN0FwRTM1Yl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF95X2lIMVJ3V0dLdGtfVlZVYnlHZWY2cXctTm1iQmZ1dnZpWG5JdFlXWjktd1lvVTRxcGhBdzI0VXZMSmk4cG1EenNwdGFSS1o1LVpZMVk5Tm01Mk80RWlwYTgwZUZsN0FwRTM1YlhEcHJ1ZzY1bkFZdk9DZml6WmI4U0otbFNHSmxlOE9yWVlUS2dmdkFvNm5qMlpRalM3Ny12aDcwTUc2Mkw2UXRYTUVWWkRiMTVNR0N0Ti03N0VTa2ZQakY5YWlWT3g?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "viasat-2026-08-24-003",
+    "date": "2026-08-24",
+    "companies": [
+      "viasat",
+      "rocket_lab"
+    ],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Viasat Selects Rocket Lab for GEO Satellite Under PTS-G Program - The Fast Mode",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeV80NFBUd3hLazFrYVE3ZE1xb1pBTHVzQUJOeFRvR3lxSkt1eDNVaFVVUTk4Y09mSkdVcHlibmQ3eXdhbk9qT1Y2WmJSVndMYmlYaDc3NGFmNWJDNVpyMTVEcWd4TTFKNDg3N2k3MV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeV80NFBUd3hLazFrYVE3ZE1xb1pBTHVzQUJOeFRvR3lxSkt1eDNVaFVVUTk4Y09mSkdVcHlibmQ3eXdhbk9qT1Y2WmJSVndMYmlYaDc3NGFmNWJDNVpyMTVEcWd4TTFKNDg3N2k3MVc3Y1FHUEVJb0NEOWQycmJlbmVxbDZYd2tobk0wX2V5akxMSDJnWWJWcno1cFVMUXctRjY3ZnJzVzFrRDJIUzhaZ0JlTXk5OXMxUWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-24-004",
+    "date": "2026-08-24",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab (NASDAQ: RKLB) Carries $45 Billion Valuation As Neutron Rocket Remains Unproven - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSU5LMXlUd2NteEp3UUVSY1ZjQ29FNzBGMFZZcXhFQmFxWUxYenJwLVZjT25rVzU4YnJFRm5qWmp6U2JZOEE4QWhxQ3VWMVJJWWRrVmJpVHdrVEh0TjNuQTVBS3dhUS1tMXNjbFZlWE",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSU5LMXlUd2NteEp3UUVSY1ZjQ29FNzBGMFZZcXhFQmFxWUxYenJwLVZjT25rVzU4YnJFRm5qWmp6U2JZOEE4QWhxQ3VWMVJJWWRrVmJpVHdrVEh0TjNuQTVBS3dhUS1tMXNjbFZlWE9sMjZFYng4OWp6VTZFb3ZyXzVuaTlUUjlSaFp3QkNpaEJjUl9rakhuUzlJYnVTbHFJZUpGRVdxZkZNeGE3T3E5NEZDUi1sN3FaVGhCNmxJTTRvNmZyT2R0d1lRakVlUEJN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-24-005",
+    "date": "2026-08-24",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Daiichi Life Insurance Co. Ltd. Acquires New Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdFgySFB2WXF2T1ZWSkFELXFaUkxUWjM4QVU0NXhCZUFOQ0tuMHNwZEJ6YWY3bTc4R1E3RlhEdzlaOHpQTGZYLU9rYkxfNmM0WDgyZ1NFWGEyaHpvUDJNTUVMVTFFejhFNmRKM3kwOX",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdFgySFB2WXF2T1ZWSkFELXFaUkxUWjM4QVU0NXhCZUFOQ0tuMHNwZEJ6YWY3bTc4R1E3RlhEdzlaOHpQTGZYLU9rYkxfNmM0WDgyZ1NFWGEyaHpvUDJNTUVMVTFFejhFNmRKM3kwOXNVTklvLW13bmFDZEFOczRGNmZhUHBpbkJDU3FjM0gzSDhRMjNFZXpBQXAzLW1DVnpMNnRtbjgxN3hfenRtZlpqY0thRlM4WmVaMW5QSEVCQ2h6Vnl6RzMtU3FGSV9HVV80V3RWUFNYc2F4bWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-24-006",
+    "date": "2026-08-24",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Tokenized Stock (Robinhood) Analytics - CryptoRank",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTZKSlR6YUFRa1I2ei1WNlM1N2FtazlZZURLSTVpWGxjZktJUVZfd1dlZW9fUURaeVdHOEhacG13SGlQU3VBUVVkMkI1NHlTM3NVRS0xbDJhWGN2RERRZnFUOGo0NVEydUhkN01xVk",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSTZKSlR6YUFRa1I2ei1WNlM1N2FtazlZZURLSTVpWGxjZktJUVZfd1dlZW9fUURaeVdHOEhacG13SGlQU3VBUVVkMkI1NHlTM3NVRS0xbDJhWGN2RERRZnFUOGo0NVEydUhkN01xVkNKVWg5d3Q1OVRvdWRuQ0l4WjNFUU4tdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-24-007",
+    "date": "2026-08-24",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone vows coverage with AST SpaceMobile in Portugal - Advanced Television",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlRreHcxVW1aRWJfbkIwdVBBUFEyaVlYVmF6TWNwRjFpTkR3SkNyQjA0LUd6djJDaWdjZXprNUFoUlFCMkpyRVBZN0NqRzJydm1oWUxmNW5lZ1ZhMk1EenVQczFUYWtQMm9RNUhVOT",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVlRreHcxVW1aRWJfbkIwdVBBUFEyaVlYVmF6TWNwRjFpTkR3SkNyQjA0LUd6djJDaWdjZXprNUFoUlFCMkpyRVBZN0NqRzJydm1oWUxmNW5lZ1ZhMk1EenVQczFUYWtQMm9RNUhVOThGeHNUZHRDcV9MNFYtNVpLRktRd1RhQ3F5QmJGcFZ5SG9OSDFZQlAyS1Q2WkxhMnV3NENfdm93?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-08-23-001",
     "date": "2026-08-23",
     "companies": [
@@ -91,6 +231,173 @@
       {
         "name": "nasa_breaking",
         "url": "https://science.nasa.gov/blog/curiosity-blog-sols-4982-4987-back-to-our-regularly-scheduled-programming/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-23-006",
+    "date": "2026-08-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Stock (ASTS) Opinions on Q2 Earnings and Analyst Targets - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0x2QzY5c3FIZ09SQkszV3dxMldYNnRQbHVTUGJfQ0tIWWNINHRDRHpGSzNoenpxeXQ1ZXplSjJtZW9Qci1yQzFIeHItUWNLNnZPWS1CSnpHeVA1WXdCOVc4Qk9EdmxEdWd5aW5zel",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ0x2QzY5c3FIZ09SQkszV3dxMldYNnRQbHVTUGJfQ0tIWWNINHRDRHpGSzNoenpxeXQ1ZXplSjJtZW9Qci1yQzFIeHItUWNLNnZPWS1CSnpHeVA1WXdCOVc4Qk9EdmxEdWd5aW5zelcwRFRNQTFqTDc4dmRfam1Rc1lQRFNzRW83a2pqQ2JLRHltLUlKUWx2dlM0QVlrNG5Qa29uUUtMVjBlWGVMV3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-08-23-007",
+    "date": "2026-08-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Sovereign Satellite Strategy Expands AST SpaceMobile Backlog Amid Constellation Deployment Risks - satnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0xSV2g1eVlldGFRVHpxRTZIOE9CNThDdTVTa2p1eGhYS3RDSkFhZ3VsdUtHekxWZnNmRTkxMklEbGhPQnBWS1lMTmxFa0M4ZlFFSW9BVldiS1VvY3VlX2w5N0tWT3FtNFNtV0xRRT",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa0xSV2g1eVlldGFRVHpxRTZIOE9CNThDdTVTa2p1eGhYS3RDSkFhZ3VsdUtHekxWZnNmRTkxMklEbGhPQnBWS1lMTmxFa0M4ZlFFSW9BVldiS1VvY3VlX2w5N0tWT3FtNFNtV0xRRTNIaTZvWlJYeGt4RmpGLS1tMzlBLWM4MXZKUS1HY1lNaDE5N2xLNVhzaGtRX1FLeTRtMXN0clBJUW9lLWNOWUZUb0ZtTVFKNFdLSmcyRUpKblRqTlhVdmNJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-008",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How a huge fleet of 17 spacecraft discovered something surprising about solar eruptions",
+    "summary": "\n                             Taking measurements of the same CME from different vantage points in the solar system revealed the true extent of a solar eruption. \n                                     ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/sun/how-a-huge-fleet-of-17-spacecraft-discovered-something-surprising-about-solar-eruptions",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-009",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Bad weather delays launch of China's historic Chang'e 7 mission to moon's south pole",
+    "summary": "\n                             China has delayed its ambitious ice-hunting Chang'e 7 mission to the moon's south pole due to a brewing storm near the launch site. A new target date has not been announc",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/bad-weather-delays-launch-of-chinas-historic-change-7-mission-to-moons-south-pole",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-010",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Launching 10,000 tiny 'femtosats' to Saturn? NASA funds 18 futuristic spaceflight ideas",
+    "summary": "\n                             NASA has chosen 18 technology proposals for its Innovative Advanced Concepts awards to help turn some out-of-the-box ideas into out-of-this-world research. \n             ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/technology/launching-10-000-tiny-femtosats-to-saturn-nasa-funds-18-futuristic-spaceflight-ideas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-011",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India’s satellite launch cost 4x US, says Cambridge study; space dept source contradicts report - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTUtvenhCQ216TUNuMUFhN1cxaS1YTEFianU3ek9GdXNjM09Obk5DelpQZlYxcE80SmUwZEZtbmpkeGIyY0IyU041R29KMHhrcVhySDVoZGZhRUJrVjNDVExJWmNFT2Fkd2xlOWI2dH",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTUtvenhCQ216TUNuMUFhN1cxaS1YTEFianU3ek9GdXNjM09Obk5DelpQZlYxcE80SmUwZEZtbmpkeGIyY0IyU041R29KMHhrcVhySDVoZGZhRUJrVjNDVExJWmNFT2Fkd2xlOWI2dHFlZU1hVHFucG9IbjJfNHBubVA5Vmt0YkRDbGhlUVpPYjBuc2dSMmZJbW1zMVJCSzAxY2FEQlpFa1BlT0RXcWdoaHpqcmh0WTNod25ydTZ5a1QxcDJNMGJNbHNoVVdQOEtsVGRhTlIwM3VYYWZ3NUhiakJ2dVlYZU5lbGpmZTdLX1hEd9IB9wFBVV95cUxOYm1BU1JCZXFmR2NNYVhxX25mRG1BZ2NrcVRHeFJDM2pCZUtXem5BdHNxbTRiU2YzbEdIdTJtTUtPOGVtN3c2enNvNnI2bXNtUGtRZUtWbkd0eW45Skw3U1g4OHY5ZHFfZC1lNDlTNUFXeWRldndCNWp1NHh0cUNvbDR5akIySzdQT3l4T1J1cGFVM1g2RE9veDFJX09RTG8zTjJEZ2JrLUF3X2h2R3BKeW5lTjgxbk9YVTlKUnhRVDNZb2UySElfQUZjSjV1RlJVVmtEbXRkM1hSa21hNzRMSzRVRzhHT3FEaFZ3VF9lajNoZlIySVE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-012",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tema Space Innovators ETF rated BUY after 33% d... - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNZl93Qm5KbkdfZFdWSGFZZGIwbUh5eDJic1IzbExjdURHc25Da0lNeXpWVWhHQkVEWGVJTkFPRjFXVVNSSGFFSlRfQkZ1eklTNlluX0piTEU3T1lwV28wd3RlYUt4OGZWOURuSGNTZz",
+    "sources": [
+      {
+        "name": "google_space_industry",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZl93Qm5KbkdfZFdWSGFZZGIwbUh5eDJic1IzbExjdURHc25Da0lNeXpWVWhHQkVEWGVJTkFPRjFXVVNSSGFFSlRfQkZ1eklTNlluX0piTEU3T1lwV28wd3RlYUt4OGZWOURuSGNTZzU0TjJlZG9ScHQ1T1FhekJpX1ExVkg1VWpXNjZzVEZmdVlIYzZkcGRIcDBTZWw2UjA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-013",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA’s Roman telescope nears launch, reaches final integration and rehearsal milestones",
+    "summary": "<p>With a scheduled launch date of Aug. 30, NASA&#8217;s Nancy Grace Roman Space Telescope is&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/08/roman-update-082326/\">NASA&#8217;s",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/08/roman-update-082326/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-23-014",
+    "date": "2026-08-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LandSpace’s Zhuque-3 topples following milestone landing",
+    "summary": "<p>LandSpace achieved a major milestone for Chinese commercial rocketry this week when the first stage&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-toppl",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/08/landspaces-zhuque-3-topples/",
         "type": "rss"
       }
     ]
@@ -467,6 +774,26 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSlJKU1JUbmloZnFIY1hJYjduQjNCUUh0SGtPQTRGemFIbzBvQV9ORWdUbjBORUw4NjY0bF9BTjhIQ25XbmRXOGt6eUpjbXJwVlNacERkNm1YRTRobThWNUI1TVoxWHVQbmdmNTJwR01Vb1I0V09fcjdvLWFhVVRaSm16Tlc3VThnOVhCekhOMVNZX0lpRlo2SlNyMUtONlg0Ylg4eHFvTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-08-22-020",
+    "date": "2026-08-22",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Rocket Lab and MIT are preparing a privately funded probe to plunge through Venus's clouds looking for organic chemistry linked to possible life. It will get only about five minutes to take measurements before descending into increasingly lethal conditions — a - Space Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPeF9oWWtOYmR6TXVfNFlsTE9BR1Y4cG9yQkhGQmtpMUFpMl9Iek1BWkRldlBsODRtSjZaeGN4WWJ0ek1wVmJGTk5zSnRTVjIwOFdnTXk0WGVWSnpfclNjbTBEb01qS29wUlBYVTFQRl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeF9oWWtOYmR6TXVfNFlsTE9BR1Y4cG9yQkhGQmtpMUFpMl9Iek1BWkRldlBsODRtSjZaeGN4WWJ0ek1wVmJGTk5zSnRTVjIwOFdnTXk0WGVWSnpfclNjbTBEb01qS29wUlBYVTFQRlJyR3pfcmQtS2lCX3F4NGdGcmZnRjB4S0FPbGFlVkdSc3FIdw?oc=5",
         "type": "rss"
       }
     ]
@@ -2864,6 +3191,45 @@
       {
         "name": "l3harris",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVnBKRll1ang0Z3VHZjg0cUpPT0F2R2lwcFJLQzg4NXNYXzlxUHRpbmFjU3N3TnpfSW5YQlplQ2dkamxYRkcxbFJCd3FqRUJiclVLR2NUdUtFV2xsQm16eGFPNWhEQlZPT0ZQY041X2xlRUxHTnFTcGM0aW92Yl84T3dfXzBxLUp6ZzlkeXpUY1M2dnRoRklSallKZmRRbDhxOVdLYnVyZDNpb1k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "redwire-2026-08-20-081",
+    "date": "2026-08-20",
+    "companies": [
+      "redwire",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Curtiss-Wright, Redwire, Rocket Lab, Astronics, and Woodward Shares Are Falling, What You Need To Know - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2JNck9OYjhjT0tnb3kwWlE5Q000OU96eWdVTS02Zm5ETU5HRlowTnRFUGg4VVJXTXZ0UUkzZThMLXRXZlF0YzlBbTZVaDQ3SkJwblU0QnJ0eUpXTXlTQ3pSQ0tNWHdENDhTRWFxbj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2JNck9OYjhjT0tnb3kwWlE5Q000OU96eWdVTS02Zm5ETU5HRlowTnRFUGg4VVJXTXZ0UUkzZThMLXRXZlF0YzlBbTZVaDQ3SkJwblU0QnJ0eUpXTXlTQ3pSQ0tNWHdENDhTRWFxbjNUTHBfaTVKbi1ENkZQNmpkTEM2bW80Z3BSaGpxQ04tVFdpcUNGdGo2Z3pST2plMTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-082",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Small-Cap Space Stock Could Be a Long-Term Moonshot - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjZwTXVvcjZILVBWWGpkWTBWUzdnU3QyWjYwWHpZZUhUMmdIVUxEMUp1RkxsUlFKeVBFeXlpQ1lXWWtVQXp6eExoc1VNQ1ZBVjBoQVJoYmY4Yl9sMlFnTWJ3WWRwWmVpWkRFdGFuWV",
+    "sources": [
+      {
+        "name": "spire",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMjZwTXVvcjZILVBWWGpkWTBWUzdnU3QyWjYwWHpZZUhUMmdIVUxEMUp1RkxsUlFKeVBFeXlpQ1lXWWtVQXp6eExoc1VNQ1ZBVjBoQVJoYmY4Yl9sMlFnTWJ3WWRwWmVpWkRFdGFuWVFjWjJUcFc4R2tIT2hsRjlfaDNTYTZGekhtc0ZBVnhQaUtNTk9MTGFj?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,207 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:39:48.822374Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "viasat-2026-08-24-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Viasat Selects Rocket Lab for GEO Satellite Under PTS-G Program - The Fast Mode",
+      "companies": [
+        "viasat",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeV80NFBUd3hLazFrYVE3ZE1xb1pBTHVzQUJOeFRvR3lxSkt1eDNVaFVVUTk4Y09mSkdVcHlibmQ3eXdhbk9qT1Y2WmJSVndMYmlYaDc3NGFmNWJDNVpyMTVEcWd4TTFKNDg3N2k3MVc3Y1FHUEVJb0NEOWQycmJlbmVxbDZYd2tobk0wX2V5akxMSDJnWWJWcno1cFVMUXctRjY3ZnJzVzFrRDJIUzhaZ0JlTXk5OXMxUWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Rockets Toward Best Month Since May: ‘Hungry Hippo’ Begins Flight-Like Testing Ahead Of Neutron Debut - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM1hWV3Q3RDhqbHRIa29FaTVrbG5maDJJRWRFX1RDejBNTWFVc1BHXzhocmI0VExjRDVPXzg4d2MxYklGMXBmZkhSY29PR0pMQk5XTjk2TmdyVWdmRjJ0UWJfSUNPLXNDUmdZZnduQ1NzOFoyS3RrWnF6UHJpVkx2d3ZfR3UzS2FtY2I2bEVYbDVySm41SEJieGU0bw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-08-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EP Wealth Advisors LLC Buys Shares of 11,991 Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNF95X2lIMVJ3V0dLdGtfVlZVYnlHZWY2cXctTm1iQmZ1dnZpWG5JdFlXWjktd1lvVTRxcGhBdzI0VXZMSmk4cG1EenNwdGFSS1o1LVpZMVk5Tm01Mk80RWlwYTgwZUZsN0FwRTM1YlhEcHJ1ZzY1bkFZdk9DZml6WmI4U0otbFNHSmxlOE9yWVlUS2dmdkFvNm5qMlpRalM3Ny12aDcwTUc2Mkw2UXRYTUVWWkRiMTVNR0N0Ti03N0VTa2ZQakY5YWlWT3g?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ: RKLB) Carries $45 Billion Valuation As Neutron Rocket Remains Unproven - foreignpolicyjournal.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSU5LMXlUd2NteEp3UUVSY1ZjQ29FNzBGMFZZcXhFQmFxWUxYenJwLVZjT25rVzU4YnJFRm5qWmp6U2JZOEE4QWhxQ3VWMVJJWWRrVmJpVHdrVEh0TjNuQTVBS3dhUS1tMXNjbFZlWE9sMjZFYng4OWp6VTZFb3ZyXzVuaTlUUjlSaFp3QkNpaEJjUl9rakhuUzlJYnVTbHFJZUpGRVdxZkZNeGE3T3E5NEZDUi1sN3FaVGhCNmxJTTRvNmZyT2R0d1lRakVlUEJN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-08-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daiichi Life Insurance Co. Ltd. Acquires New Holdings in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdFgySFB2WXF2T1ZWSkFELXFaUkxUWjM4QVU0NXhCZUFOQ0tuMHNwZEJ6YWY3bTc4R1E3RlhEdzlaOHpQTGZYLU9rYkxfNmM0WDgyZ1NFWGEyaHpvUDJNTUVMVTFFejhFNmRKM3kwOXNVTklvLW13bmFDZEFOczRGNmZhUHBpbkJDU3FjM0gzSDhRMjNFZXpBQXAzLW1DVnpMNnRtbjgxN3hfenRtZlpqY0thRlM4WmVaMW5QSEVCQ2h6Vnl6RzMtU3FGSV9HVV80V3RWUFNYc2F4bWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "viasat",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 330,
+    "dup_title": 245,
+    "too_old": 37,
+    "gate1_blocked": 22,
+    "gate2_blocked": 7,
+    "passed": 19,
+    "pass_rate": "22.4%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+      "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+      "Intuitive Machines Inc (LUNR) Shares Fall 3.2% -- GF Value Says Still Overvalued - GuruFocus",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "how Fair Value spotted Planet Labs’ 53% crash before it happened - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、AST SpaceMobile、Viasat相關動態：「Viasat Selects Rocket Lab for GEO Satellite Under PTS-G P...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Viasat Selects Rocket Lab for GEO Satellite Under PTS-G Program - The Fast Mode（太空防禦、太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "RKLB Stock Rockets Toward Best Month Since May: ‘Hungry Hippo’ Begins Flight-...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

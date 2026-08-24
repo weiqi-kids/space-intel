@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 245,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 22,
+  "gate2_fail": 7,
+  "passed": 19,
+  "gate2_samples": [
+    "Why Intuitive Machines Stock Popped Today - The Motley Fool",
+    "A $600 Million Reason Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Intuitive Machines Inc (LUNR) Shares Fall 3.2% -- GF Value Says Still Overvalued - GuruFocus",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "how Fair Value spotted Planet Labs’ 53% crash before it happened - Investing.com"
+  ]
+}
