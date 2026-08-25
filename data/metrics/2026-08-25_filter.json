@@ -1,0 +1,16 @@
+{
+  "total_raw": 330,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 14,
+  "gate2_fail": 21,
+  "passed": 64,
+  "gate2_samples": [
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+    "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Barchart.com",
+    "L3harris Technologies stock hits 52-week low at 262.54 USD - Investing.com",
+    "L3Harris to Present at Upcoming Investor Conference - FinancialContent",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch"
+  ]
+}
