@@ -1,0 +1,16 @@
+{
+  "total_raw": 331,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 10,
+  "gate2_fail": 24,
+  "passed": 68,
+  "gate2_samples": [
+    "L3Harris Technologies (NYSE: LHX) outlines Aebli’s stock and option holdings - Stock Titan",
+    "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Barchart.com",
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3harris Technologies stock hits 52-week low at 262.54 USD - Investing.com"
+  ]
+}
