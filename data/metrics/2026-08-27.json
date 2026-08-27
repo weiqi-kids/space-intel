@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-27",
+  "total_events": 38,
+  "by_company": {
+    "iridium": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "rocket_lab": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "spire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.01
+    },
+    "launch_cost": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

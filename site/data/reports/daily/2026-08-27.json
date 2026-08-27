@@ -1,0 +1,236 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:42:48.020902Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iridium-2026-08-27-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium Deal Advances — CEO Teases Secret Defense Programs - Yahoo Finance",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVHpDZnY3X1N3VUlJUmlfZmlDem5fam5ibkRqTTFqRGotdVQ5QnVxVGQxUW5wRG1rTzlRbUg3ODhIZnd0T3RicDRwTEZDU2VUbWN1S2dVeVJrU0pCLVBoeEhDVHloMTl3R1ZhWDFRZnZjNGJjSHV1T0pLU09FTmd5VGJWaXFDdGxkaUZqcm41MzE1Zy1WaHc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "iridium-2026-08-27-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Why Did Rocket Lab Hike Its Iridium Bid By 30%? Analyst Says ASTS May Have Been Mystery Rival - Yahoo Finance",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGZSN3lqQVpSYTZsdGZQOHl3YV9fTy0yOFdPTHh6UTNOUTh1cGIySHhpYmhael9fNHJ6RzJxRzZia29UUXFrZVBmQ040MkFZa2lvb3VKM3Q2NTFiTENxMGFUNG4xQlczYkJDMHFDeXpSUnI4QllLazFydUUxbmJDQy1ZQjl0NFRoMGlLWWZHbDR3dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "iridium-2026-08-27-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Why Did Rocket Lab Hike Its Iridium Bid By 30%? Analyst Says ASTS May Have Been Mystery Rival - Stocktwits",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMWJSSUYzNk4xN2tDNDhlNTVCbC1hdXUySTBLUHEzdXV4Skg0Z1JrWHZCc1hNN2VOQVRvS0NGQlBXaGlmWE1qdFZock9PaUI0M2hZRFZkVTluSi1obzJMV3ljU1laUFFkM2g4T3R6ZDFseXVRcmk4MWpjU2k0VTlCajVRNTBLb2dSRG1fUHI2U2hHSDR5N3N6aUFzLXlwcUMxVTU5cUNNOGNLd2RMQ3VhWnFfaXNPSk50?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here's My Top Space Stock to Buy Right Now, And Why It's Better Than SpaceX - The Motley Fool",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWXBXSVY1YmVxQ3RWa3g3Y0JUcGJmT1kyZGdfUWg4Z0hTSk1GYVowcGRZRXF4S3gxek5sR0VTQk15SU04dWhUSEF5UGQ3YVBKa0c5R19BN1dZR2lONm82RzBiSHR4ZEJmREx3Q2FtT29ZZ25KSUp3RmwzUU4ydnlWZnBPbkRmXzczelFRT25xRmJzeXhzTlkw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-08-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘It’s Not Just One Thing,’ Says Top Investor About Rocket Lab Stock - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmp0YW45NjhrVnFrX2pDZl9JUWNhX1ZVT0Z3QS1JblBvandZV0EyVjRheHZmVl9zZm9ESjVieno0TU9qdXA5MDE3cXFmM1dpQ0hzTUhBVzh6UHVvTXRfT3NQY3pkb2E4OXZ6NXRIVzY4LW5UVXJJVWtoenpiMXJMaVdJRVlpOFdDRHlFZ1MyODB1ZkZYSEM2YWI2cHZJeHE4WkR3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 38,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 35,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 9
+      },
+      {
+        "id": "iridium",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "launch_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 333,
+    "dup_title": 157,
+    "too_old": 36,
+    "gate1_blocked": 20,
+    "gate2_blocked": 23,
+    "passed": 97,
+    "pass_rate": "55.1%",
+    "gate2_block_rate": "13.1%",
+    "gate2_samples": [
+      "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+      "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,394,004.83 in Stock - MarketBeat",
+      "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Yahoo Finance",
+      "L3Harris Technologies Tokenized Stock (Robinhood) - CryptoRank",
+      "Why is L3Harris Technologies stock gaining today? - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 38 則事件，焦點為火箭實驗室、銥星通訊、行星實驗室相關動態：「Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium Deal Advances — CEO...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Why Did Rocket Lab Hike Its Iridium Bid By 30%? Analyst Says ASTS May Have Be...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
