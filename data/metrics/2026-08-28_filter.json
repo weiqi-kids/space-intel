@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 200,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 54,
+  "gate2_samples": [
+    "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+    "Intuitive Machines (NASDAQ: LUNR) insider plans 3,050-share sale - Stock Titan",
+    "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,394,004.83 in Stock - MarketBeat",
+    "Can Viper Shield Expand L3Harris' Electronic Warfare Growth? - qz.com",
+    "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Yahoo Finance"
+  ]
+}

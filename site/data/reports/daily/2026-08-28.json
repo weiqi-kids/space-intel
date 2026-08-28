@@ -1,0 +1,251 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:49:51.642564Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iridium-2026-08-28-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Pushes FCC to Scrutinize Rocket Lab-Iridium Deal Amid Spectrum Clash - PCMag",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd01tNmg4eHVjQ2FtbEQyRWhCQnQ1bGxXcE1BNTVYNlBUZDNXTUNzYURkQU93Q0dIWWppZWJseXdKSjN1VnIwblJibzdFb01QSF95dFdCekVIand0LTJ2MXZGbU9XdkZQNW92VmthaExzVWx4Q2RXZ2RoaTc0OXgweElrUjJmUks1V2sza1pDT3FKTS1iNUNfT1Z0ajJWWWhaV01yVg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-08-28-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machines Slides 5% - 24/7 Wall St.",
+      "companies": [
+        "intuitive",
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0tTakJZeFh3eDNoZzJ2Q1dOVmpyNFpzcTQ0cGZjMWdTMGtxWEtObjAtdFhpTm9RT3BJbmJJTlk4VFRjcEVBM1oyRmJIYVYzamJZQjhzR3VCckFtaUVpdjZlcU5MRjNaWWt6YVdEbUtldkdkSFZ6TmhuaGNmNWxHa3lzQjVTaThpZDU4d3hoZlBzaHY4RmQyQ19PTGNGdFRtX0FpSm9RRE5aVU92a0lhWGNSbDNMUWIxMTluTjN4Sk5KbkJhR29pTmxB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-28-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "The devastation of NSA Bahrain is a national security warning",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.defensenews.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-08-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Here's Why Rocket Lab Corporation (RKLB) Could be Great Choice for a Bottom Fisher - Zacks Investment Research",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0R0enFJMDVCa2tYaWRrbkpNdUpkaE5JUTNZaE5NVFVyeDQzYkxseDkzNFdzSHVib2ZPQ2ROTzBwOGtDbFo2N3FWbkxnR0pMbng2N2xySmVJRjBqcW5hUG5ZVmZGdEZrVXRWVUJ6eUd5UWlDN044Z2Jjbkp2OE9jeFBjVl9mdFhacFdmZ2FQbS1rM2d2RkYyZGNPS1VDQzYxX29fT3dxV3lVZWZJZmJUZTZXUVk0anBKMV9YMA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-08-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab COO Frank Klein Sells 45,692 Shares for $3.2 Million -- Should Investors Beware? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2U5Rjl3NjBZamFyYlk1ZGNFaVFBQ0ZaUlQ1YVBaZUZDNHBrNzVpTFBId2gyWTJ4Z1lVSVFOWjBzdmNvTkw2Zi1yQXBwMjZjbGY2anZJUFlDZHlZbENUN1p1Nm90VXc4d0VRcm1uYXl3Sy1qRnpVOUFvZFBMd0EtM3hCVmFiZFVfS3NhMDVJU3BCaEpZNWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 36,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 11
+      },
+      {
+        "id": "iridium",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 332,
+    "dup_title": 200,
+    "too_old": 36,
+    "gate1_blocked": 20,
+    "gate2_blocked": 22,
+    "passed": 54,
+    "pass_rate": "40.9%",
+    "gate2_block_rate": "16.7%",
+    "gate2_samples": [
+      "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+      "Intuitive Machines (NASDAQ: LUNR) insider plans 3,050-share sale - Stock Titan",
+      "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,394,004.83 in Stock - MarketBeat",
+      "Can Viper Shield Expand L3Harris' Electronic Warfare Growth? - qz.com",
+      "Are Wall Street Analysts Predicting L3Harris Technologies Stock Will Climb or Sink? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為火箭實驗室、銥星通訊、L3Harris Technologies相關動態：「SpaceX Pushes FCC to Scrutinize Rocket Lab-Iridium Deal A...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SpaceX Pushes FCC to Scrutinize Rocket Lab-Iridium Deal Amid Spectrum Clash -...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Falls 6% as SpaceX Flags Iridium Deal to the FCC, Intuitive Machin...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
