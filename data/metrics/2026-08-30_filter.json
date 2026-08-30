@@ -1,0 +1,16 @@
+{
+  "total_raw": 332,
+  "dup_title": 237,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 17,
+  "gate2_fail": 21,
+  "passed": 24,
+  "gate2_samples": [
+    "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+    "Intuitive Machines (NASDAQ: LUNR) insider plans 3,050-share sale - Stock Titan",
+    "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells $2,394,004.83 in Stock - MarketBeat",
+    "Why is L3Harris Technologies stock gaining today? - Investing.com",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+  ]
+}
