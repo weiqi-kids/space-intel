@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-31",
+  "date_range": {
+    "start": "2026-08-25",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-31T15:44:34.032515Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-08-26-025",
+      "date": "2026-08-26",
+      "title": "AST SpaceMobile Falls 4%, Rocket Lab Holds Steady: Is the Falcon 9 Wind-Down Really Hitting Space Stocks? - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 131,
+      "last_week": 55,
+      "week_over_week_change": "+138%",
+      "sentiment_this_week": -0.02
+    },
+    "launch_cost": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 4,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 36,
+      "sentiment_avg": -0.03,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iridium": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "intuitive": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 7
+    },
+    "planet": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ast_spacemobile": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 311,
+        "last": 395,
+        "change_pct": -21.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-25",
+      "event_count": 61,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 70,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 54,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 54,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 20,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 23,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 29,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-25 ~ 2026-08-31）共 311 則事件，重點為「AST SpaceMobile Falls 4%, Rocket Lab Holds Stea...」。直覺機器表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 36 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 10 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Spire Global",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

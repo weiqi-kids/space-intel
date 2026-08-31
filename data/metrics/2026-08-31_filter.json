@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 17,
+  "gate2_fail": 17,
+  "passed": 50,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Gap Down on Insider Selling - MarketBeat",
+    "BofA Adjusts Price Target on Intuitive Machines to $13 From $11 - marketscreener.com",
+    "Intuitive Machines (NASDAQ: LUNR) insider plans 3,050-share sale - Stock Titan",
+    "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+    "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law "
+  ]
+}
