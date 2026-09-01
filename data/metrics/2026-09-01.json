@@ -1,0 +1,37 @@
+{
+  "date": "2026-09-01",
+  "total_events": 25,
+  "by_company": {
+    "rocket_lab": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.05
+    },
+    "space_defense": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

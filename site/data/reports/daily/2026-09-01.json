@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:56:42.307678Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-01-024",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Bets $38M on Block Stock, Adds $13M in Rocket Lab Shares - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQelBTTG5zT1p5UFM1c0FUOUFjYmgzbEw3XzR5NzR3ZnZ2SDF4V2VmeGFmTEo1WUtJdDNiSkJVOEFtbHZWMjd3NHhxOGZJM1gtOFdtZDlPUmZLNUpIMW1pMGI4cVBnVlA4UWQ5TEV0Y0huYTNJSVpQUEZMQVJpMWE5Smc2VTEtaXk3eWh3UE1HU0F6dlpBQlFYOHlQcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Keeps Faltering So Why Does One Big Bank Currently Expect 100% Upside? - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUUJPUVBhRUVCdmdnUU9jcUpzZ3pjaFFvNE1lS190RU1LMk12bXNISThUQnZ6TDlXZE9IQ2dodzA0dDllNmZMaWZxdE1DU3M5NmNXUUN6VGVCSk90cHVSY0VGSW93UFBsY2xIRVNDa2MyYkMtX29uVFcwYldtektrbU5LdlZBaHhiWUx1Ulh5el9iMWVoQmFqT3JMRERRY0FzSTdHR3dQNWNDZ2VEc0EyTWR0T3E1T0F1UUdPdTlPSFc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Stock May Be 46% Undervalued As Space Force Work Grows - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOM3kzSmNEdEVsbnBOODJKczFkQWhXVlhvLXIxSm41VVZmV2RkVmtLRHZCTmVjcFNVNkg2NTlodnVsbV9RblA4Nk9WY0VGRnBsRVVpbXJVYkVDVFc5WXBVandhSUFiaVlUcXNSUW9HMElSeUJJMF8zaDlDOVB5YXRHQTBQQ2lGMlEtODNBNk9XRmoybWZVZlk2LTFmUW9TTkVYT1FxS0thTzNkc1NMLWlvOUxPcVFYRzYyb0RnUU10YWxnVGFHZ2xqaDgzVTlYTGvSAdQBQVVfeXFMT3NYSXZXNTV1Uk1hbmhCMkNjU0doUURlT1o0bzZVa1pTVlBoampId1F5a1doeUdseDN6WmRMVFZzYlg3OV9CcVhSUFZYNkFZdW56OW1WN2FUOXFBU1JaYXViWDQ3em8xQl8wZDdEWHRSTzhzNlBZTEZCUkhfNTBYN2k2XzgxdUpWeFZLWWg5Q3phX1FmU2NrTjlvWkZxSkJBWnVVeGFNRnlxWVlPMzlpUXJuQlE4RTZGSHJKbG9hNFU0SV9JeHFxVEFwVkJhVHVkM0pURmQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood’s ARK sells Palantir stock, buys Rocket Lab and Block - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVnVNTjRTRTJDZ0EzdDhkTEt4ZlBQME5TRVV6U3ljNmZ4ajZ0MTFfWGY4UFpBM2RDU2RTZndnQmZTcG9YZ25md09CSU81T3lERWRLV2d1M0lqSWxaTVRBWkdIN193MFc2V2ZSb2xqejB5MXVWZTRLNndqekNvX2hGSGt1SVlMZmhIWXNXekZTdURyVW0wak51WVA2YUpQRzRwYkJZQ010dTFlYVJkemFjSXROQ241NHUtSDVLYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "intuitive",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 182,
+    "too_old": 31,
+    "gate1_blocked": 12,
+    "gate2_blocked": 15,
+    "passed": 58,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Gap Down on Insider Selling - MarketBeat",
+      "Intuitive Machines (NASDAQ: LUNR) insider plans 3,050-share sale - Stock Titan",
+      "Intuitive Machines director, 10% owner sells $2.39m in stock - Investing.com",
+      "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law ",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「Poland readies for record-breaking defense show as opulen...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Poland readies for record-breaking defense show as opulent budget lures vendors（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cathie Wood Bets $38M on Block Stock, Adds $13M in Rocket Lab Shares - TipRanks（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
