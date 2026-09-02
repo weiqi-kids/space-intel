@@ -1,0 +1,246 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:26:48.445771Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-02-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium Deal Advances — CEO Teases Secret Defense Programs - stocktwits.com",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzdsX2V1NXUwOEN2dThHWURpWmdYSE5YOVctRkcyVGp2X09WbEFlbUpRTVhaRHBBSVFwcVNMMEYzOGpWcEVUUXRjX204S2RoWG9ReDJnd1p2cWY1eDF2d3cxWkFFeHBIZUtPazI0UGdNaGljRVFRNXB6RU9KSlBDUTZwbzF1TzJOODFqQU1SZzlTVURHblZPVmJYcDhENnZDUk9zMnFBWkM1RVB5Mlc5VkJUVWdXTVlxVWxJYi1LMXNaMGx3dEEzbV9hc1I0U3RP?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-02-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab’s Bull Case Strengthens On Neutron Progress And Iridium Deal, Says Citizens – Firm Sees 98% Upside Potential For RKLB - stocktwits.com",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOUW9SMW5WX04xdl9yMDdsOHBtaV82X1lieVI5bFFwM3VLMWN5azNKRThJMFlCbXJYbkhvb3g3WUFmbXRLOEJLOVQyTEZnX2tfT2J2M3BHcXQ0YmxfeEthd0tva0pTNWZhZlByYjNVMjhfX3FBQ0x6SG56SnN2bWc5MVBZLUtDLUJyeXNGTEZhdGpPTFd2Ul85SWQ3THI2Nkd2cy1VUEtXUDNGVDJHOTR4Vl9xZnZ4MzQ4NnNBczFkaEY4MDdVajkwREFrdmxBNjlfVUtGUVhSejh5YkllcFFFRzUycU00aC1pTEZCWWlJbHdxcEVGXzRhdVB2MXMta2JuTEtEQzFtRnFTa0tTMkdtTDBNeTQzdEU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Slips After $700M NASA Snub: Cathie Wood Buys The Dip As Retail Blames Neutron Delays - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnNnMFRsRW4wblhSYV9HZFJiMkFCZXIxZm9HSHlvSjluQTJkWENhaVhrSzFnTjZvRW84Z3hqM2lnSllSc2w0TUJfRmlMME1tajJVN2VXdEZqNE14LW5pT1VBakwtODdjSEpFT09UMGl1UFpydG5PQXBzRVlZdkpJeThHSlFNZVhfemRhZm1KNGFYZWd3dVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock (RKLB) Falls Despite a New Buy Rating and More Purchases by Cathie Wood’s Ark - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZzUtU1JFSmFpYTlueGxuRDFWSEdFMzZ2NUpIRUxSU1FGQjFLXy1YUU9HVzhQZWtVQmxhcjIxcWVfTVhRVDdzbVdUX0hSeThPYmgwbGgyRlVfQ3ZTZml4QWZpZmZuVldaa21EUEpLd0Zzd0o1b0lEeVlEeVdxa2NQMXJQMjd3YjFzb0F6d2dMcU9RSnkyT2JSNGJ4TTljMmNwUXFFdkpndGJWVXI1U0Y1aEl6MnJyUlRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tracking Cathie Wood: Buying Over 500K Rocket Lab, Selling Over 250K Tempus AI - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa1Bna01STTI3NGJnNU01eVdXVFZTLVltSGNaM1o1QVFXNUE4dk1iV2lrZzdYLXF3R2I0MHlCQ0ktWEhyNWtrZEhxOHk4a0NKZlZVWlFEU1h1UmN4TVU1ZWpEb2VPSlluRjZ1RzA1TDFpTV9EdEhpYkJ5WVlMRkRZNlh3ZWd5V1ZqWGdRMkxIS3Z6VlpGbHR3OHl1T3htYWVvTFBXYXYzM19qYld5RFM1RG9IakdZZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "planet",
+        "count": 4
+      },
+      {
+        "id": "iridium",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 298,
+    "dup_title": 163,
+    "too_old": 38,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 70,
+    "pass_rate": "51.9%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "BofA Adjusts Price Target on Intuitive Machines to $13 From $11 - marketscreener.com",
+      "Extreme Speculators Should Keep Close Tabs on Intuitive Machines (LUNR) Stock - Yahoo Finance",
+      "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law ",
+      "Shield AI expands Tracker C-UAS integration with L3Harris VAMPIRE™ - Shield AI",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為火箭實驗室、行星實驗室、銥星通訊相關動態：「Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium...」。主要關注主題為太空產業通用、發射成本、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Insiders Sell $5.5M Worth Of Shares As Iridium Deal Advances — CEO...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab’s Bull Case Strengthens On Neutron Progress And Iridium Deal, Says...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 14,
+  "gate2_fail": 13,
+  "passed": 70,
+  "gate2_samples": [
+    "BofA Adjusts Price Target on Intuitive Machines to $13 From $11 - marketscreener.com",
+    "Extreme Speculators Should Keep Close Tabs on Intuitive Machines (LUNR) Stock - Yahoo Finance",
+    "LHX Investors Have Opportunity to Join L3Harris Technologies, Inc. Fraud Investigation with SBS Law ",
+    "Shield AI expands Tracker C-UAS integration with L3Harris VAMPIRE™ - Shield AI",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+  ]
+}
