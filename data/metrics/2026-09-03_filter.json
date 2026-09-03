@@ -1,0 +1,15 @@
+{
+  "total_raw": 178,
+  "dup_title": 102,
+  "no_date": 0,
+  "too_old": 13,
+  "gate1_fail": 17,
+  "gate2_fail": 4,
+  "passed": 42,
+  "gate2_samples": [
+    "BofA Adjusts Price Target on Intuitive Machines to $13 From $11 - marketscreener.com",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Gap Down on Insider Selling - MarketBeat",
+    "A Look at Planet Labs PBC (PL) After 3.8% Gain -- GF Value $5.04 vs Price $19.99 - GuruFocus",
+    "This Insider Has Just Sold Shares In Spire Global - webull.com"
+  ]
+}

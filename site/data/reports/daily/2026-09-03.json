@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:26:52.171445Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-09-03-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Feroldi Favors Rocket Lab Over AST SpaceMobile - Intellectia AI",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3Bwbmd1V0FxY05UOXI5WWdYaXd6M3ZpTWdSZV95NEN5czdmTkMwOTRVckk3eGk3OTA3VllxWEM1aDc2QmUyRzBNMWhBRGJCSnlaSGxpekw0X0xRMkRsclRWM09RamtabnJfbThDclh1ZlBQSVQySWRzVm1mZnJZN2I2aFYxOGM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "planet-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Planet Labs PBC (PL) Could Be 50% Below Fair Value On Satellite Launch Progress - Yahoo Finance",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRzZuSVV4aWxBbVZZME9NX2ZrZE5hZ3g1eWtweGgzQ0FJb0JzSElFZHh1X3ZpNHB3MkVrbzY3Rm5ZRkZrTnhoWXg2OHQtdEgxcUlGekp0TXlsLTdwbWNZSUxmVlUyWWdHZ3RMNWwzekRkSWdraHhiLUp4b1ltam0tNGc1VDQwVmxHa2hwRWtIbzJEMk0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST Spacemobile Just Moved Its Commercial Launch Target to 2027. Is That Bad News for Its Stock? - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONmdiMWkxUjlrLUluc0FHZW5KNDU5WW9xeVUwTDFkblN0QU9IRHJQaEp3RmpRSXJmWGRMclo2TWNBMnR6UG5pSk1rVmMxZHQwSU9GOHhkLS1nQk50Y2NMMFJ1aXFmR2lHNU9tNGQyam96Ymg4SHdrT0VNTHV1Z19GQUd6Qjh4YWZYQ3NRTVdHc3NfV0hEUVVZdTJ3LThRd0ZLQU5FSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile Stock Surges 12% Following Bullish Berenberg Buy Rating And Upside Target - tikr.com",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmRVd1N3U2Jjd1E2bG5MbF9LVlZROG1iNHFBellqVWZBcGdlOEl6cGQzbHZwajNIeUNxZ2thS1JqbFhMejVQelQxQUtrQnpRV21ONE51cTlPMGQtR2d6bzQ5emNWVG5nS1FIcmhoSXdPQmJqYW5DNGpjU3FBbDcxTnAyOTljYVk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NASDAQ: ASTS Investigation Alert: Kessler Topaz Meltzer & Check, LLP Encourages AST SpaceMobile, Inc. (ASTS) Investors to Contact the Firm - Business Wire",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPWWhDbXZtdlg1OFpmblNrcnJoWUlyZkwzVXBubE1sTlc5LWc4YVJIWUlwN0pmWEd1enVUcmtJNDBodDVRZWk1QWFqOHh2aG0tQ1N1RkZSYTVfN0J0SjZOMkxVcWFpcERjTUhNQW9GamE2eVdVODdKemtDaDZrSEpZSjd4NklHcml0VWpTdmZqNjEwVmI5Vl9hT3c0Y0ZFZk5ObTAzbHUtZkwyMDhWZk5LN3NGV1FpRUJ2OTVuTHBLZWFWSDFJNlAwTGwtZlBFOGVrTmNTREdTRUVNbGFNQVIwSTBMSVpqb2l0dW9GWGtCZWpDek12Sm5qb2NhbnZyNG83TEp3b2RqTy02MGNHOEdYbHFPN2cwQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 178,
+    "dup_title": 102,
+    "too_old": 13,
+    "gate1_blocked": 17,
+    "gate2_blocked": 4,
+    "passed": 42,
+    "pass_rate": "55.3%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "BofA Adjusts Price Target on Intuitive Machines to $13 From $11 - marketscreener.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Gap Down on Insider Selling - MarketBeat",
+      "A Look at Planet Labs PBC (PL) After 3.8% Gain -- GF Value $5.04 vs Price $19.99 - GuruFocus",
+      "This Insider Has Just Sold Shares In Spire Global - webull.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「Feroldi Favors Rocket Lab Over AST SpaceMobile - Intellec...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Feroldi Favors Rocket Lab Over AST SpaceMobile - Intellectia AI（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Planet Labs PBC (PL) Could Be 50% Below Fair Value On Satellite Launch Progre...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
