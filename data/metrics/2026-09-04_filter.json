@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 92,
+  "gate2_samples": [
+    "L3HARRIS TECHNOLOGIES, INC. INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Investigates L3Harris T",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi",
+    "New 5,692-share stock award at L3Harris (LHX) vests in 2029 - Stock Titan",
+    "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance",
+    "L3Harris CFO presentation will stream live from California Sept. 16 - Stock Titan"
+  ]
+}
