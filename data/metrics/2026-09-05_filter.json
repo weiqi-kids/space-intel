@@ -1,0 +1,16 @@
+{
+  "total_raw": 294,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 32,
+  "gate1_fail": 23,
+  "gate2_fail": 11,
+  "passed": 62,
+  "gate2_samples": [
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance",
+    "L3Harris Technologies, Inc. (LHX) Investigation: Bronstein, Gewirtz & Grossman, LLC Encourages Inves",
+    "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+  ]
+}

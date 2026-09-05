@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T12:25:26.449231Z",
+  "updated_at": "2026-09-05T11:31:48.105007Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -177,17 +177,17 @@
       "name": "火箭實驗室",
       "ticker": "RKLB",
       "currency": "USD",
-      "ar": 74955000,
-      "ar_prev": 39001000,
-      "ar_qoq": "+92%",
+      "ar": 112889000,
+      "ar_prev": 74955000,
+      "ar_qoq": "+51%",
       "ar_period": "QoQ",
-      "inventory": 183146000,
-      "inv_prev": 158407000,
-      "inv_qoq": "+16%",
+      "inventory": 266931000,
+      "inv_prev": 183146000,
+      "inv_qoq": "+46%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ses",
