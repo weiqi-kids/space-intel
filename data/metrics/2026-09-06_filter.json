@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 186,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 21,
+  "gate2_fail": 13,
+  "passed": 37,
+  "gate2_samples": [
+    "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance",
+    "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi",
+    "L3HARRIS TECHNOLOGIES, INC. INVESTOR ALERT: Scott+Scott Attorneys at Law LLP Investigates L3Harris T"
+  ]
+}
