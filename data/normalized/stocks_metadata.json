@@ -55,8 +55,8 @@
   },
   "ses": {
     "earliest": "2004-05-05",
-    "latest": "2026-09-04",
-    "count": 5722,
+    "latest": "2026-09-07",
+    "count": 5723,
     "history_complete": true
   },
   "viasat": {

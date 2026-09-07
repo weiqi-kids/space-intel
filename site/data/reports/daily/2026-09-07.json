@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:51:44.696921Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-09-07-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Better Space Stock: AST SpaceMobile vs. L3Harris Technologies - The Motley Fool",
+      "companies": [
+        "l3harris",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFRjdzVscGVnQzY3ZWp3cnRrdHNqOVZJRVY4a1JNWVdfbHMxM29lNkg1YVVvTERkdEJVeXlhTThmZU1KLWJBOEVyLXJkMV8xREo0VnhsbG5jZ3JKMlNRT0c4bFNyRVdlVTNTcTlGUUtsOXMtcUFkYmZ6enppVldNYzMzMDA4NDMwcXFTYmFfMWVnN1U?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Rocket Lab's SDN Contracts Boost Growth Opportunities? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdFluZDJzSF9CMWVMdzM4RF8tRUZCRnJiRklRMFRoMFdZNzVMcWlXMjRtRXRmMWstQXJsdXphaEVDWG1yS1dpQzNPZXNHZm9XdEgzTmo1bFJXNlAxYU5ldnNkblVFQmpleG5UU2hjZmxrUjJZOFRRbzhudnFkUTNra0NfcXRrTnV2WXVCZW9LRENhck5UdUNVdVh3UzI?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood's weekly recap: loads Rocket Lab, Block; cuts Palantir, Tempus AI (ARKK:BATS) - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXRhSDJYMTJZUURtWFJHeE1wU00xenlVaGd5UXB1eXZDTG5SY0F2d25JQUhrWTBraW84bjk2ZGFOcXoyNUZRWnR4SktkenMtYmxWaTJza01VZTd3eUhxeHVUcHIzR1RsRS02a0lWMEJwazJITFBZZnpNeVYyTHNKRHotMlJhQjNYaTdfd0dZZlJMeDVoTEJMdTZCdWZtelhSX1A2aXZiaHBkM1RoelE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab's Neutron Just Slipped Again. Here's the Only Date That Still Matters for Shareholders. - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMU8zZVByTEJlb3BxcVp1UTg5MUp4aDB0Y0VRWGY2N0J2alJRYVhQb3J4REN6MHFmRlFmMmFydllWLW1GR2dadUpWMFFyNl9kM2lWVDVNNTJJbFIyN0NiYmFMRkxad1NVX3lIWWVjSU94aVFyS3JRTG5CSFRjRU40ZkwzR2x5WXFIN0JjZkZXMV9wNEJhQlVDNw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saudi Central Bank Increases Stock Position in Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmoyVVU1UDI0dWtULUh1LXJ4QUR4ZXVzQ093NkRKTWh2S2x6SlZBVHdUeEJ5R1RkaXJGNm5SVzFXT3dBb0F0ODl5LU13bzhRRll1NE5GV1k2LW9VLTByR1NubllEaVE1OWc3N1M4YmlsZXFMWDk1VHhjVHE5NW1DdGxMTWEyeTUweHVsRVpxTFEyS3NkQTVOQmRXSTAzZTFiWm9wOEdUTWVBRGJCVHRoaVlGY1ZQanZjVm0ycUpBeTNTZTByNFhTY1BDdkllbFB2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 183,
+    "too_old": 31,
+    "gate1_blocked": 22,
+    "gate2_blocked": 15,
+    "passed": 41,
+    "pass_rate": "37.6%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance",
+      "L3Harris: The Essential Pieces Behind Modern Warfare - Seeking Alpha",
+      "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「Better Space Stock: AST SpaceMobile vs. L3Harris Technolo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Better Space Stock: AST SpaceMobile vs. L3Harris Technologies - The Motley Fool（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Can Rocket Lab's SDN Contracts Boost Growth Opportunities? - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
