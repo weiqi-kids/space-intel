@@ -1,0 +1,16 @@
+{
+  "total_raw": 294,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 28,
+  "gate1_fail": 18,
+  "gate2_fail": 11,
+  "passed": 43,
+  "gate2_samples": [
+    "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris: The Essential Pieces Behind Modern Warfare - Seeking Alpha",
+    "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance"
+  ]
+}

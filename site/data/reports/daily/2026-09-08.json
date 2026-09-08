@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-08",
+  "generated_at": "2026-09-08T12:29:25.510446Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-08-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Iridium Stock Dips As Rich Rocket Lab Deal Caps Upside - TipRanks",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRXpudk5ObHN6Mk9xNnRmRXdrRDF2Y2o4ZnF5QWEwYk92a0lrdmVBdk1qaVBCTjFzakhnT09aZzdETVM2SkFfR0VJVTAzYTNBNkRUTGtLenQtR0VLMEFHaFc3R3laQV8wWFRCQXRXTTJ2RVoza0FLS0JQMkFyeGlYdUxoZXY5aUFxaG81SHZVVmRhbE1YdjkyTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Rocket Lab Stock Down 57% From All-Time Highs - TIKR.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRl9uR1EtMHZHZUdmcU9YN2MxdUQ2d3VuVlNLWTVKeHRYWndnZkE5dGwxdE13alFybjhFck9lZkIwTFFraVVfNU51UG9PS0xJdmxURmVHallpQ3JJdV91MWpaSUdmV3BsNmpQRFl6S0Y5N1dsV3dYeUpFNVNYeWpwblFkb1QwZGhmS253UFFHMWh6akls?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Insider Sold Shares Worth $8,777,721, According to a Recent SEC Filing - marketscreener.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWFNZRjIzSlBhN3BrR0ZGT0lVZWJ2TWtQZWNteXlwVEkyVmgyVG1MZlAtaTNFTFFzbkdkZ1VoS3UxWkRRejZCMVBYXzZwMS0tYXhKTmFIRHlVTURQWl90X1puNXVXS3EwNXRjODJhQVNOZVYtS1A2QWhxcFJ6b19lY2pBV0wyRjRNTFluU2I3M25UMHNGWk1lc2JnSVBnUFhGT0VZWHFHUERYTVFlaEJ3SS1iS0JtTjJyOHZOT0Jqdnd3aU1yWmJMUTk4WVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "planet-2026-09-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Planet Labs built the largest Earth-imaging satellite fleet - Fast Company",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTWx1VGtrNjMzSmVkNW94cTF6OTFZLVBPc3dlZ2pZT1BwUldyU0ZRV1V3SzVNUF9iOTRXck1ObXNTbTh0blpzSTg2U2ZXNEJmSVBWQnBCZ1pESzhIU1hLMUtabzhxeTE1SENXVmlIbzFUcjdNZHAyYjJTWkYzZnp3bDlOV3ZxUjhDdXdFMw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-09-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Bank Adjusts Planet Labs PBC Price Target to $28 From $36, Maintains Buy Rating - marketscreener.com",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdE9XSWY0cU9UclVrUnZ3bGxSMUI5TC1RTGdlOUQ2aDcweDJLV1BGYnZFck5KMnk1anlzU1ByS1l3b3pBRjkzbTZLbGluT1lnc092N1NVLVVsRVRneWotN3dVQmhfNFMwWlpJWDh0Q3B0UFBrNlluZjNWYWk0RmVDSVFIQnFtNk1JN2x1cVpGZEpSNVlpeWZBdW1VMFpndTU0aTROeVhTX0poZ3ItTUpWem40Y1ZHVklNaFpIMEc5Y01BMmdGT2cwN0ZmWjBiZ09rVnZvMw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 294,
+    "dup_title": 194,
+    "too_old": 28,
+    "gate1_blocked": 18,
+    "gate2_blocked": 11,
+    "passed": 43,
+    "pass_rate": "43.0%",
+    "gate2_block_rate": "11.0%",
+    "gate2_samples": [
+      "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "L3Harris: The Essential Pieces Behind Modern Warfare - Seeking Alpha",
+      "L3Harris Technologies (LHX) Deepens Its Role In Navy Electronic Warfare Program - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為火箭實驗室、行星實驗室、銥星通訊相關動態：「Iridium Stock Dips As Rich Rocket Lab Deal Caps Upside - ...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Iridium Stock Dips As Rich Rocket Lab Deal Caps Upside - TipRanks（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Why Is Rocket Lab Stock Down 57% From All-Time Highs - TIKR.com（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
