@@ -1,0 +1,199 @@
+{
+  "date": "2026-09-09",
+  "generated_at": "2026-09-09T12:37:37.694417Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-09-09-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "L3Harris Lands $4.7bn Contract With Lockheed Martin, Jefferies Notes - marketscreener.com",
+      "companies": [
+        "l3harris",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzR1X05WNl85QXRjbVV1aHJMcEJWLUdwRUpjUjNmRlRHVEo3dURkRUdZckF1UW1GUUNPVG9tcTJDSFpmSGlDWS1MMl9lZW9EcEp2aEZOUkJrMWp1ZVBWLW9FdUlnMHI0ZzBWNmRGTWp2VEd1Ry00YVB4VGV3aXRJT1Y4LWd6cjlQU1hMWENEZC0wb2RPazJOZUI5bXlKRVE1TUxaVlFudXpCWnU4WTdyY2R3OUxzMzdxLTNv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-09-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "South Korea supercharges defense budget to record levels",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab's Next Neutron Milestone Is a Pad Delivery, Not a Launch. I'd Hold Off on Buying the Stock. - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc0RpSzZxT2l5VlNqNzk3WmFBRFlCREF1b1AxNkl1SXZHMzB3bkJxeXQ3MEFvU1pRaXdEUFVBNTZPR1lJd2xHbGZSR0pNQnFYN284LVNCcTNPcXRFZUV5VnVLMnBpd056T0ZaRWsxUnY1cFlfeElGWVdST2RRb1Z2bEJfMUpmQ1RZUk1mTnJHeTU5WXo5eEl2aXVzUndBbGw0Q3NOaDNaVTVtMGZkdHZocXloQkViMzJrSW1QYm1NUHBGS2lUMFpVYzNadFdXcGxaQ19Ic3pzbTFsZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Rocket Lab Stock Gaining Wednesday? - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOFBzSnVYYVZTdmhucTlMSEg3X0JrVjh2UFNkVWRHazBWOEJrM1FWcUVubUR1djJIektjaXZiSGRqR01pOGFoM3NKRWNLRUZMbEh5N21oN2FVcEZIYXRKbmE3ZFljVktBNDFTb045cU5wSzJGMjE1NkIxMnZ0cWE2QVBKNnFPOG8zMWpDRmJEWUZlN1JLNUVtTGxlSjdGRjFBclBDQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Extends Gains Overnight: Cathie Wood’s ARK Adds To Rocket Lab Stake On New Space Solar Catalyst - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTm1OZU8ySHVzdjZJVXZaYUhYaldPOHY3amxSVTN1MVJSM29MNFdFd21FUDc0enRwQ0pFNUppRFU1QlY5NWlLRVdqS09SUWxtY19sWlZWTExKNUJQc0VOUWVQa0pvT2dHLThpekNRWFNOZzAtN0xCNnlXLWhFQjlVV0FOSWxZR1NDZDZvVGwwRkFYOGQ3dm1qekdOUEJzSGNq?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "planet",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 155,
+    "too_old": 30,
+    "gate1_blocked": 20,
+    "gate2_blocked": 13,
+    "passed": 74,
+    "pass_rate": "54.0%",
+    "gate2_block_rate": "9.5%",
+    "gate2_samples": [
+      "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "L3Harris Delivering Counter-Drone Systems to US Navy - ASDNews",
+      "U.S. Navy selects L3Harris VAMPIRE counter-drone weapons to strengthen littoral defences against unm",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為火箭實驗室、行星實驗室、L3Harris Technologies相關動態：「L3Harris Lands $4.7bn Contract With Lockheed Martin, Jeff...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Lands $4.7bn Contract With Lockheed Martin, Jefferies Notes - market...",
+        "level": "yellow"
+      },
+      {
+        "text": "South Korea supercharges defense budget to record levels（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

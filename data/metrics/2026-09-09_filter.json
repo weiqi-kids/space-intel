@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 155,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 20,
+  "gate2_fail": 13,
+  "passed": 74,
+  "gate2_samples": [
+    "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris Delivering Counter-Drone Systems to US Navy - ASDNews",
+    "U.S. Navy selects L3Harris VAMPIRE counter-drone weapons to strengthen littoral defences against unm",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris Technologies stock hits 52-week low at $258.43 - Investing.com"
+  ]
+}
