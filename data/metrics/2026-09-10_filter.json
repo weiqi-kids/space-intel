@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 24,
+  "gate2_fail": 10,
+  "passed": 68,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Financial Statements - pluang.com",
+    "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris to deliver VAMPIRE counter-unmanned systems to US Navy - navaltoday.com",
+    "Counter-drone systems to be delivered to U.S. Navy by L3Harris - Military Embedded Systems",
+    "PL Stock Jumps 8% After-Hours As Planet Labs Delivers A Blowout Quarter — Retail Calls Q2 ‘A Clean B"
+  ]
+}
