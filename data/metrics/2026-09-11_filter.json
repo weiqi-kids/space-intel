@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 32,
+  "gate1_fail": 19,
+  "gate2_fail": 12,
+  "passed": 48,
+  "gate2_samples": [
+    "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris (NYSE: LHX) officer Kubasik plans $5.4M stock sale - Stock Titan",
+    "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of L3Harris Technologi",
+    "L3Harris to deliver VAMPIRE counter-unmanned systems to US Navy - NavalToday",
+    "L3Harris Technologies stock heads into the open after a 0.8 percent drop - ad-hoc-news.de"
+  ]
+}
