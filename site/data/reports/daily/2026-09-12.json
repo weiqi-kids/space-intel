@@ -1,0 +1,190 @@
+{
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T11:52:22.743997Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab protests NASA award of Mars telecom orbiter contract - SpaceNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb19KbERYQW1YWmVva2stR1d3blFQLTgtTGZ3TWhFNVJ6RHppR0tKNzB6ckxremxlZm5yRV9Na280UWJscnlYUWNNeV9qQU5wMzhMMkloby1adUZ0YS1jLWpNaDRLaDdJb1pnOFZEOENrdDFlYmtLenhHMFFVaFlvby12Z1hoTG9pQWdEUHpOWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Protests Blue Origin Mars Contract, X Report 12 Sep 2026 - KeepTrack",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CelpVS0l3NFpVWU1BTmVzQjNSSkQ1TW5oYlRWSlVUd1BYV0VzQWNXak8yb1FmeGxPd1lDbjRSRVhzR3M0b0xiM2VfYVBoMWJqVzQyTzVNZy02MDJqSDZ4cEQ0RmRQMFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "In 2021, Blue Origin challenged NASA’s decision to award SpaceX its first crewed lunar-lander contract. Now, in a striking reversal, Blue Origin has won a NASA Mars communications-orbiter contract worth up to $700 million—and losing bidder Rocket Lab ha - Space Daily",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84UGEwY3hWZEh0Skd5SXJOWjRLYmp3ZkYwUzdoZGtqY24waGJVX0tYd19sWF9NZ2FvX2JIa2p0V1ZfR2UyT3dXX0kwWHAwb2ZBRWxZMnBxWllVb1dsYWJHbzljTE51aEhONTJ6Sm9wQVY1QVJVTG13dWN6eFBLdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Raymond James Financial Upgrades Rocket Lab (NASDAQ:RKLB) to \"Moderate Buy\" - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcnVpbGFjd0pWdjYycWNfaXRkUTZGR2Q5S3BPbzZRUXVsRWF2Z3BzWDR5Tk9KTjhQdEEteWdQTjc2WnBXaG5NUnRGTmVTVm9qMWVHb1RsdkhLbFNCd2xjZG54M25zUDhjN1FRTHVuVVRYeGV0SFlBOVZmdGp1RmZvYjVJOXNVaktuY2drVnN1dHdSN1g5bGlsRlFXOVJ5cGpWeldrRXJtMFYySkU0WkVzYVp5OEpyR3A2dDgtMDFrOWlIb2NXYWh0eU8tWEQxdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Protests NASA's $700M Mars Award, Space Brief 12 Sep 2026 - KeepTrack",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5weVlGQWQxOWRJeDRta0Izb2NXellDVkFlQndYOTFqRWM3WUFCb2FiZEt1QVd4dERSM1VJU05TdUMyaDFkN1p3elYxc2NPc0FNWldTdjV2YldQYkhLdkZ1SnBXdDJrbVhPVWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 288,
+    "dup_title": 153,
+    "too_old": 35,
+    "gate1_blocked": 29,
+    "gate2_blocked": 13,
+    "passed": 58,
+    "pass_rate": "43.0%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "Form 144 | L3Harris Technologies(LHX.US) Officer Proposes to Sell 4.42 Million in Common Stocks - Mo",
+      "L3Harris to deliver VAMPIRE counter-unmanned systems to US Navy - NavalToday",
+      "L3harris Technologies stock hits 52-week low at 246.43 USD By Investing.com - Investing.com Australi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為火箭實驗室、直覺機器、AST SpaceMobile相關動態：「Rocket Lab protests NASA award of Mars telecom orbiter co...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab protests NASA award of Mars telecom orbiter contract - SpaceNews（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Protests Blue Origin Mars Contract, X Report 12 Sep 2026 - KeepTrack（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
