@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 187,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 27,
+  "gate2_fail": 13,
+  "passed": 23,
+  "gate2_samples": [
+    "Intuitive machines director Ghaffarian sells $1.48 million of LUNR stock By Investing.com - Investin",
+    "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "L3Harris (LHX) Stock Looks Reasonable Following Its 51% 3 Year Run - simplywall.st",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris (NYSE: LHX) officer Kubasik plans $5.4M stock sale - Stock Titan"
+  ]
+}

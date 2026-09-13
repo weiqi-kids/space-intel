@@ -1,0 +1,178 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:01:54.372686Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - Currently.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWtqR1B6MnFzWUtrQTVLcHBkdlNrTGRvQkdUYTktU1NnYTNpVF9CbzFLWWlYMTNXd3VkdDhZSnNueXd4TkRLMjVucE9EelBfOTlWRFFEZlVzYVQwWlFaX2hPSmYya0V2TW1FM0dCaTU4UmFHTXpwYjd2S0FkbDdJcWRnWk00S28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORnphX1hhdnpNdmVzaDdjTWNLalU4Zzg0TUptcmpXNThSVklLd0Rha1J3SkNoNWN5Yy0xVS1IN3JwUEtONHpaNXc2ZmJvcXRsdkpESEZPbml0SWIzSXpEWThVS1VBeFBnSlRMTXN4M2lEaFZTaWtaT2Zhcy1SMFhZVDVHcFd5OGU3Sl93eFJJU1dtdTd6QlN5eg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Corient Private Wealth LP Buys 423,039 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcTBoYk16Vm5LZkpMdzBxRWhuZldUdHJudHRmODlraDdPLXdFcnp2NFJXRTRfYlgxUFYzSzdJTVJSQUdzQUxJQWhSUkdqaFZQMUw4T0lEQ1dxNGpSakJjQnJTLUwtMjBHd2dtaWJfcmhJcUVfNHlXUFFwcUd0SFprZjVwcnhCdVlxNlhOeVBubDQ2VGZRX3RxeHpRMEhPYW5lQzkxZFkzUlk5bXMxN2lLdW8tNzBQbUhYek5oZlR1WE1qZHRrT1Z0bmJiT2ZRNUJBaWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Don't miss Venus shine beside the crescent moon at sunset tonight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-13-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 September 13 – Comet NEOWISE Rising over the Adriatic Sea",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 187,
+    "too_old": 39,
+    "gate1_blocked": 27,
+    "gate2_blocked": 13,
+    "passed": 23,
+    "pass_rate": "22.5%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Intuitive machines director Ghaffarian sells $1.48 million of LUNR stock By Investing.com - Investin",
+      "TD Waterhouse Canada Inc. Sells 119,213 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "L3Harris (LHX) Stock Looks Reasonable Following Its 51% 3 Year Run - simplywall.st",
+      "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+      "L3Harris (NYSE: LHX) officer Kubasik plans $5.4M stock sale - Stock Titan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為火箭實驗室相關動態：「SpaceX and Rocket Lab Have a New Space Rival -- in Norway...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - Currently.com（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SpaceX and Rocket Lab Have a New Space Rival -- in Norway - The Motley Fool（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
