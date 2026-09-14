@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 22,
+  "gate2_fail": 12,
+  "passed": 42,
+  "gate2_samples": [
+    "WINTON GROUP Ltd Acquires 144,957 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Intuitive machines director Ghaffarian sells $1.48 million of LUNR stock By Investing.com - Investin",
+    "L3Harris Technologies Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "L3Harris (NYSE: LHX) officer Kubasik plans $5.4M stock sale - Stock Titan",
+    "Form 144 | L3Harris Technologies(LHX.US) Officer Proposes to Sell 4.42 Million in Common Stocks - Mo"
+  ]
+}
