@@ -1,0 +1,16 @@
+{
+  "total_raw": 291,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 17,
+  "gate2_fail": 16,
+  "passed": 69,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Trading Down 3.3% - Here's What Happened - MarketBeat",
+    "WINTON GROUP Ltd Acquires 144,957 Shares of Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Insider Selling: Intuitive Machines (NASDAQ:LUNR) Director Sells 1,698 Shares - MarketBeat",
+    "$L3Harris Technologies (LHX.US)$ Wow, finally turn green😃 - Moomoo",
+    "L3Harris Technologies stock heads into the open after a 1.4% gain - ad-hoc-news.de"
+  ]
+}

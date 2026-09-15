@@ -1,5 +1,524 @@
 [
   {
+    "id": "iridium-2026-09-15-001",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RKLB Fully Funds $8B Iridium Deal: Rocket Lab’s Stock Sale Removes Key Risk Ahead Of Acquisition - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUZ0ZXl2NE5MMUdpaFhEaTNqT1N0ZDJYYmFnVnNLaDRZSW5HRHB0Q3QtTWZHMEhwUEh4RnUyQTBmVFJmZ0JRLUV1X2ZKdkdraHhaLTM1Wk9WMGR2TWFsSnEtbUxlOWJFQXkwZXhVRz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLUZ0ZXl2NE5MMUdpaFhEaTNqT1N0ZDJYYmFnVnNLaDRZSW5HRHB0Q3QtTWZHMEhwUEh4RnUyQTBmVFJmZ0JRLUV1X2ZKdkdraHhaLTM1Wk9WMGR2TWFsSnEtbUxlOWJFQXkwZXhVRzcyczVQZkcwc21weG5GRENJSzBPRTNDX3B5MW9JR1hySWtuNFB3bmRN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "iridium-2026-09-15-002",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Expects Iridium Deal To Double Its Size ‘Overnight’ — CFO Says More Space Deals May Follow - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXNnNUg5WXdXd3BJRUkwSmZDWjhXSVpHWDFJWWVEVzh1YWFCOXNIS2NtQU1ESGlZTWEydzNrVDR1UV9EY01QcVN0ODJnOVg2aEdvVXRic2Z5eTBTaUxURHZuMUo4ZEVrNDAyWjZJND",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeXNnNUg5WXdXd3BJRUkwSmZDWjhXSVpHWDFJWWVEVzh1YWFCOXNIS2NtQU1ESGlZTWEydzNrVDR1UV9EY01QcVN0ODJnOVg2aEdvVXRic2Z5eTBTaUxURHZuMUo4ZEVrNDAyWjZJNDBfYjZUNWoxcmRQVlVrMjhwR3FCb1FaRVN0NkxwZHpRUUYtVDdVaHo5YkpIUWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "iridium-2026-09-15-003",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Completes $1.944 Billion ATM Offering to Fully Finance Pending Iridium Acquisition - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDhxNWwxT3ZRWk1Jbjl5M1NlTWJfemluTm4tbjhBaTd0QWE5U1ZxNEk3Z2c5UnRlaE0wUk0wWmlIRW56TnA3MFFPTE1IdkhTOXZ4aDI1R3hmZk96REdST19kVjdzMjFMWDdWOEp0Nz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDhxNWwxT3ZRWk1Jbjl5M1NlTWJfemluTm4tbjhBaTd0QWE5U1ZxNEk3Z2c5UnRlaE0wUk0wWmlIRW56TnA3MFFPTE1IdkhTOXZ4aDI1R3hmZk96REdST19kVjdzMjFMWDdWOEp0NzZhaWprMWgzS0NqZzlzdUJJSHYyX3U0VmFuVDdILV9LaUFqYXZyWV9oam02bHJhZENka0ttVXNuSWVXcEpzd0EzbU1oVFlMNXpLVWNFaVROdFFyNzZHdzVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "iridium-2026-09-15-004",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab cancels a $3.6 billion bridge loan commitment. Iridium deal awaits regulatory approvals. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZUhpYk5tU09YUi1SUnkzdTFZQjRvd1JYNnlncWxmY19vU19VUDloODZwaGlRYzdMT1FrSUl3bGJLQ1JlVmwxbjd3QmlpSEZ1Sld0T2hXT0IzODlSMGo3WUNFdlI2MmNGd2Z4R08yWVA3cmp2VDNkYkV6UVFUaTQwN2hBQ2hHSDEtLXlUZGJyQ1MzeFhjRTY1QUpxQTN3c2FrYzdGZjFJejlzdHJXczk3SF9IM2w2MERESmtQZldCVkc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-15-005",
+    "date": "2026-09-15",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Advance Auto Parts vs. Rocket Lab: Which Consumer Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEppbThUTHFNU0RIMFU2ZDd6RS1GNGdYVmNHaEl5VEt5N1FTQThPQ0hSazZFSnBuWVdQSzk5Sms4Z3FpWEhtRzdneDJtSEhuVUpnME85ZWFnVV9kaFVQVnFUVUhNMlI0QkF3WVRGOV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTEppbThUTHFNU0RIMFU2ZDd6RS1GNGdYVmNHaEl5VEt5N1FTQThPQ0hSazZFSnBuWVdQSzk5Sms4Z3FpWEhtRzdneDJtSEhuVUpnME85ZWFnVV9kaFVQVnFUVUhNMlI0QkF3WVRGOVFxSWR5Y25LdGY1RVc3aUN1SUZRUEU1akQzMnF6ZDM5amhkMzZ0N0dadThER0JIc01oMXN3T1F4STZUZlJlanZDWHQ3Z2pRMFlVZTAzeEYzTjNIVjFtQWtnVVh3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "iridium-2026-09-15-006",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Iridium Wins Lender Consent for Rocket Lab Merger in Credit Agreement Amendment - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV0RfUXU3elA1c25WbmpmVEszN001ZVBVUFhUTWdLZUMxM2FVT2NqTzJkWHQyTXl1b2xtWTU5czctcktkMTlKU1NnOGtmVFNDWFhfSm5jWnZ2S1ltWWg5NXcxQUhxdDBaZTFrdkl2al",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV0RfUXU3elA1c25WbmpmVEszN001ZVBVUFhUTWdLZUMxM2FVT2NqTzJkWHQyTXl1b2xtWTU5czctcktkMTlKU1NnOGtmVFNDWFhfSm5jWnZ2S1ltWWg5NXcxQUhxdDBaZTFrdkl2alBpdHpzTlhtSXBzdGlWeXNHMl9XQzNQUkVKaE43dVZRLXprcDY0S29RUDU0ZmxNaC1BOGVBUS1yeFBnUHUwM3JySkhUel9TTWhMWWNMaGJMVGp4ZHRYcDFNTVRZTlBtS2ZNUG1Vaml2MEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "iridium-2026-09-15-007",
+    "date": "2026-09-15",
+    "companies": [
+      "iridium",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab completes $1.9 billion equity raise for Iridium deal - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTBDQmFPcFNpZGVwTHdYZEVwTEpabWhfeVlObk95WVBya2JlMjBuYWdDZ2xkaUZDQVIwTHJTbnMwLXA2V2hhMDdxd3BscjljNlAxSENvZWxiaExaMzJDemJxTUtldjdmMnZFTkp4WT",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNTBDQmFPcFNpZGVwTHdYZEVwTEpabWhfeVlObk95WVBya2JlMjBuYWdDZ2xkaUZDQVIwTHJTbnMwLXA2V2hhMDdxd3BscjljNlAxSENvZWxiaExaMzJDemJxTUtldjdmMnZFTkp4WTY0SGUyd29CbWRxemQ3SlBKY00zUFpBVVN5cHhBSzUxTHQ3bnVKT09mT3FORUdTcVFtREg2SzRlZGVhTTd2d2ZvMnZ2UFFmZmxmRlE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-008",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aerospace technology manufacturer awarded $60M Air Force contract - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGVCYmY0WU0yM09xSHhteGhGSVF0VDV2bUZKUW5NOUhjbExwc1pnR1hDMDZ0MWc0OHhPYndMRnhXNlJVbDl2REM4RHFadml1WmxmTnktVmNTZEp0TFBlanhlVEJMTE9lcDBxNm9Sc1",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGVCYmY0WU0yM09xSHhteGhGSVF0VDV2bUZKUW5NOUhjbExwc1pnR1hDMDZ0MWc0OHhPYndMRnhXNlJVbDl2REM4RHFadml1WmxmTnktVmNTZEp0TFBlanhlVEJMTE9lcDBxNm9Sc181N3pnS1JHS0RMTlFycUtCMGN0MU11cGd1c0daamsxQ05DbzRPcTVuNzB0ejZ6c1oyaTBOQzBJSWs2SVFLZ0xr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-15-009",
+    "date": "2026-09-15",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Should Rocket Motor Contract Require Action From L3Harris (LHX) Investors? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSjZyQnB1eHpua2RQN2N5RUpiVEoxcmJiclZUTlpMdXJyWXVoRk1YOGoxanlDU3BIUTJBem9hNTBJUVhEeWRwMGdqUml0bGFQdzNqQ2I4VUk4S1RFRldjTDAzaXp2NXo0SHdlZlI2cT",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSjZyQnB1eHpua2RQN2N5RUpiVEoxcmJiclZUTlpMdXJyWXVoRk1YOGoxanlDU3BIUTJBem9hNTBJUVhEeWRwMGdqUml0bGFQdzNqQ2I4VUk4S1RFRldjTDAzaXp2NXo0SHdlZlI2cTJUVTFnWGxSZTd5OWxlYkYxNFZVa1JwRkZfclM2R3BiUHNPTElxSXluUS01cDVnc0FJUGdSRUhORHhqUzl4Vl8tNEM3dXNMb2VhS0hmbWJla0RSUXBkeG15OWRDZkNDTGFuVGdSZjVPN19ESFZBMTh30gHfAUFVX3lxTE9KNnJCcHV4em5rZFA3Y3lFSmJUSjFyYmJyVlROWkx1cnJZdWhGTVg4ajFqeUNTcEhRMkF6b2E1MElRWER5ZHAwZ2pSaXRsYVB3M2pDYjhVSThLVEVGV2NMMDNpenY1ejRId2VmUjZxMlRVMWdYbFJlN3k5bGViRjE0VlVrUnBGRl9yUzZHcGJQc09MSXFJeW5RLTVwNWdzQUlQZ1JFSE5EeGpTOXhWXy00Qzd1c0xvZWFLSGZtYmVrRFJRcGR4bXk5ZENmQ0NMYW5UZ1JmNU83X0RIVkExOHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-15-010",
+    "date": "2026-09-15",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Guggenheim Initiates L3Harris Technologies at Buy With $365 Price Target - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVB5Yko3UkdZd0M4c2NLMHlyNllYcGJVZnh0bmpJZGhTTVRJSlNVSEtmODczVkljaDRDdlpfci1lRnJBaGxPbzlsYW5GS0puZXJNbDNFRVYxWXJ4QVFaRktSVnBsZXFFcDZwSnRVc1",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVB5Yko3UkdZd0M4c2NLMHlyNllYcGJVZnh0bmpJZGhTTVRJSlNVSEtmODczVkljaDRDdlpfci1lRnJBaGxPbzlsYW5GS0puZXJNbDNFRVYxWXJ4QVFaRktSVnBsZXFFcDZwSnRVc1loYTU5eTNrcGJIT2hEMjJxaGY5VUd3YVozamstRnB4aEJMcDJZZ2ZOdXlfNVdxeXdHNEstVWJNM0FBeTliQjhvWmxIVU15ckx0enFNYnJlU2t4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-15-011",
+    "date": "2026-09-15",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Guggenheim initiates L3Harris stock with buy rating on defense tailwinds By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHVuWTltOUVDdzJiZmUxV3owOGktOVV1MWRrdnNXU0I2bU82b29rRVRqa3JxY2g0clVTdlFlY2l3aENfdFRqaTY4OWtIdUh1QkxaZk5TSElTSDFXSm5MU1lCNnV4YXhJVklnNHFfUl",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMHVuWTltOUVDdzJiZmUxV3owOGktOVV1MWRrdnNXU0I2bU82b29rRVRqa3JxY2g0clVTdlFlY2l3aENfdFRqaTY4OWtIdUh1QkxaZk5TSElTSDFXSm5MU1lCNnV4YXhJVklnNHFfUlBxTWh5RDE5YVoxY216ZWFyeGhwQy1GODk1alN0Y2NyQUw1SlhRWU9sck1tU2FCY2hQV0hmajZ2TTA1M1d0dWdaYmdJV1VHZnBVVkNsdlZneElmcU9iRE5PakdMYm1zdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-09-15-012",
+    "date": "2026-09-15",
+    "companies": [
+      "ses"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New launches push SES S.A. (SGBAF) toward global high-speed satellite coverage by 2027 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFQ0eDdycktZcloxcnJUZ3ZjUkFMYThISTNtNDYwZ3AxR2l4NmFhUXNJRm1remNacEhDNDJFSkN5UkRtR25nUVJmNDZfZW9IUnFiMWFJQnVHWGRZbm5XZjFoN2NMOEZsWEtuWFFVX0",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFQ0eDdycktZcloxcnJUZ3ZjUkFMYThISTNtNDYwZ3AxR2l4NmFhUXNJRm1remNacEhDNDJFSkN5UkRtR25nUVJmNDZfZW9IUnFiMWFJQnVHWGRZbm5XZjFoN2NMOEZsWEtuWFFVX0VNVFMyU2NSbDdJNjFxU2lHbEhZeGJNc1hZNXdaTFJlSmg2X1AwSm1rQlJLb2ZibVIyRUFYN2RYNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-09-15-013",
+    "date": "2026-09-15",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SES Expands Its Partnership With Elveo for D2D Services in Europe - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNenpiX0o5ZUx5U2pXY2c1QzJKYXpIMDZNMWYzLVhGSm1faF9URy1qVHZYUjkzMFp2aXg1a2dVaDRkb1g5NUx1WEZVLTVKTm9kQko4ZkY5U0gyazRQa3VuWTlqclRhdnMzN3RtZDM0NG",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenpiX0o5ZUx5U2pXY2c1QzJKYXpIMDZNMWYzLVhGSm1faF9URy1qVHZYUjkzMFp2aXg1a2dVaDRkb1g5NUx1WEZVLTVKTm9kQko4ZkY5U0gyazRQa3VuWTlqclRhdnMzN3RtZDM0NGkwZmZXZ25qTDNKVHFGTTZkTTlYTzJHVGRXaE5yZGNyaksyN2FiX3dpT1BHRWtTZDZaZldxZXFrblQ3S3hyWllhQWpMQ2s5aE1mWFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-09-15-014",
+    "date": "2026-09-15",
+    "companies": [
+      "ses"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SES and Elveo Mobile Deepen Collaboration to Advance Direct-to-Device Services in Europe - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHlZS1dMc1M0V2JVNGZ4andiV0cyaExkSVp2RUZMV1FTT0NlUWdXdnRzZklwNUZuVEtvbnU5eC1kUGpORGs2bHFRdzUyM2F5RmhRS0dwZ1o1RUQ4Qk1SUGx3RUZIcGduV0tXTDExVE",
+    "sources": [
+      {
+        "name": "ses",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHlZS1dMc1M0V2JVNGZ4andiV0cyaExkSVp2RUZMV1FTT0NlUWdXdnRzZklwNUZuVEtvbnU5eC1kUGpORGs2bHFRdzUyM2F5RmhRS0dwZ1o1RUQ4Qk1SUGx3RUZIcGduV0tXTDExVEtoMENUdmpUYXFnOFVQanRJNWx2MHNXc1hiMVNWdGlSVkI1THNjeDJjRUJhSEx4MlJ4WUJubUtoVS1wNURnMzNycGo0cERVNDAzbmM1VmpOdDVXNkEzZkZXQkpCeEl4eXlDSkFVREhLUHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-09-15-015",
+    "date": "2026-09-15",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile (ASTS) Stock May Be Expensive Despite Its Huge 3 Year Run - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1dTWHd3N0xwcGVLZ3hyTnBXMnNTdXhNOG9oT2lOM2lsSS03MzJDZnA0ZG9NdE55NzUzM3Qxcld4MHFvaDNTUzM1TkR0Mnl5bmdpeVhZeERIS202X2Q5Nml6MjQxZFVJTU50Y19pZ1",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX1dTWHd3N0xwcGVLZ3hyTnBXMnNTdXhNOG9oT2lOM2lsSS03MzJDZnA0ZG9NdE55NzUzM3Qxcld4MHFvaDNTUzM1TkR0Mnl5bmdpeVhZeERIS202X2Q5Nml6MjQxZFVJTU50Y19pZ1pVZDhsOWtuX1JOMTZCZ2ZfVENNdXZxSTh5cEo0WVJEQTRuNFFpeHZxMG43WQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-09-15-016",
+    "date": "2026-09-15",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AST SpaceMobile (NASDAQ: ASTS) Expands MNO Network Past 60 Partners As Valuation Raises Questions - foreignpolicyjournal.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0pKby1JX2tFdDFqMVpXMUt5dDBZckFXZmQ2c09XeXpwWlRGWnVmM2g0dWN1Z2xHSkgyc2xYWlJKR0dFeHdyZ2Juc2JlYlBoNXZ0WU9PVkU1UmxVTmVURWRxZWVRc0k3M2N6NUtZU1",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX0pKby1JX2tFdDFqMVpXMUt5dDBZckFXZmQ2c09XeXpwWlRGWnVmM2g0dWN1Z2xHSkgyc2xYWlJKR0dFeHdyZ2Juc2JlYlBoNXZ0WU9PVkU1UmxVTmVURWRxZWVRc0k3M2N6NUtZU19tSWVfLU9KWURWSG94T3kyaU9pSk9YcFJ3bGQ5MXp2Zm1xQmJRRTEzUHpYbUlXYktkVzU5cWdYdkdUaFRrd0o0djhCSjZBQVBOcjNTYkNRcGlvU3RFVkQ1M0xMMUcwaHhLOU1Mb2puLU42WUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-017",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Iceye’s global presence expands to address sovereign demand",
+    "summary": "<figure><img width=\"879\" height=\"494\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/rsz_iceye_korea.jpg?fit=879%2C494&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size ",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-018",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launching 2nd classified mission for US Space Force in less than a week tonight: Watch it live",
+    "summary": "\n                             SpaceX will launch its second classified mission for the U.S. Space Force in less than a week tonight (Sept. 15), and you can watch the action live. \n                    ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-2nd-classified-mission-for-us-space-force-in-less-than-a-week-tonight-watch-it-live",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-019",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "'If I wanted to go to space, I would have stayed at NASA': What's next for Artemis II astronaut Victor Glover after his mission to the moon",
+    "summary": "\n                             Former NASA astronaut and Artemis II pilot Victor Glover is stepping away from his space agency duties to take on a new role —  executive advisor to the president of Cal ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/artemis/if-i-wanted-to-go-to-space-i-would-have-stayed-at-nasa-whats-next-for-artemis-ii-astronaut-victor-glover-after-his-mission-to-the-moon",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-020",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+    "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a di",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-021",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Avio launches pair of climate monitoring European spacecraft to study plants, oceans and atmospheric changes",
+    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/09/15/avio-launches-pair-of-climate-monitoring-european-spacecraft-to-study-plants-oceans-and-atmospheric-changes/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-022",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video) - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U1",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS0x4TWtzbm4wUG1KTGZPbFJ0QnkwZ3NTSlFkY3Z2dzJRX2Nlc19mcl9DQ2dUdVdHXzU5aXBnSXFwQUVrb1N3MFlySHdzdWR4aTEwTEgxTS0tVko2ZXdVb0xFakpfSFF1Y0JZcWN2U19FZGdfTnpSM0NRcDVkWlh2Z0M1dTRuWTZaWW1WWDN3RGlFcU51V3lBV0hZMDRzLXBMVFVpc3VoUDhmcU9qVjNwcUtYUjk5Y3lsdkFfMmVaRFI2WTVURHR1aHNtSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-023",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A new era of uncrewed airpower: GA-ASI’s lineup for high-tech warfare",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/a-new-era-of-uncrewed-airpower-ga-asis-lineup-for-high-tech-warfare/\"><img width=\"1024\" height=\"487\" src=\"https://breakingdefense.com/wp-content/uploads",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/a-new-era-of-uncrewed-airpower-ga-asis-lineup-for-high-tech-warfare/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-024",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EXCLUSIVE: Pratt licenses Hermeus to build F100 fighter jet engine",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/exclusive-pratt-licenses-hermeus-to-build-f100-fighter-jet-engine/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/s",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/exclusive-pratt-licenses-hermeus-to-build-f100-fighter-jet-engine/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-025",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why the US is talking about space weapons now",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/why-the-us-is-talking-about-space-weapons-now/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/AFA2",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/why-the-us-is-talking-about-space-weapons-now/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-15-026",
+    "date": "2026-09-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Space-based ISR launches to grow fourfold in next decade, Novaspace says",
+    "summary": "The number of satellites launched to provide militaries and defense departments with ISR data from space is expected to increase more than fourfold.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/space/2026/09/15/space-based-isr-launches-to-grow-fourfold-in-next-decade-novaspace-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "boeing-2026-09-15-027",
+    "date": "2026-09-15",
+    "companies": [
+      "boeing"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
+    "summary": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-09-14-001",
     "date": "2026-09-14",
     "companies": [
@@ -445,6 +964,710 @@
     ]
   },
   {
+    "id": "rocket_lab-2026-09-14-024",
+    "date": "2026-09-14",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab is seeing red about NASA’s decision on a Mars spacecraft - Ars Technica",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcllxR05naENRTTdYSmJUa1VYcXpNaTcxZVRTNmNZM3IySmczSXdMcXR2bnNVU0NkYzRTSmdnYUtTLW1OTVhDUHRxZTNhZVZDTG9lbHphRGVjb005cGVHdnZLenFTZ05EeDYwMXRYSW",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcllxR05naENRTTdYSmJUa1VYcXpNaTcxZVRTNmNZM3IySmczSXdMcXR2bnNVU0NkYzRTSmdnYUtTLW1OTVhDUHRxZTNhZVZDTG9lbHphRGVjb005cGVHdnZLenFTZ05EeDYwMXRYSWRueGJ6VmZsd3E5dUxpV2xSVmk0aWJieUNsTGVxcDhqQ0d6WWNfTTBnb0llM04tWGlIX3FGem1UcF8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-14-025",
+    "date": "2026-09-14",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab calls foul on Blue Origin's $700M Mars comms contract - The Register",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGk2OU1ycURvUmVyemJBelZORVNJb09tbkoyUlVsanBQVFlKTWdwWklmYkxDS09BdnpSNUJXVmszdi15b3JNamJ1UDIzUFlKTTBEMENuX0hBdEc4Zk9jd2Y1aXZaOS1KcmY2QVdoUj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMGk2OU1ycURvUmVyemJBelZORVNJb09tbkoyUlVsanBQVFlKTWdwWklmYkxDS09BdnpSNUJXVmszdi15b3JNamJ1UDIzUFlKTTBEMENuX0hBdEc4Zk9jd2Y1aXZaOS1KcmY2QVdoUjhieWJRTGk1bzV6S1BPZXFWV3pnbTc5ZG1DQ2VVaWx4c1ZQRG04N3lzV2pHclU5MWZfb3VyOXVZbmdnbWlIcGRrWHNCSHc4VG52?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-14-026",
+    "date": "2026-09-14",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab challenges NASA’s $700M Mars contract award - wesh.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmczRW5YNlVqbURhd2RmSVctNHhqNVFLTEo1alpsbk9JX3pZeXpGakFMN1hQaXd6cE5ZUkFYd0R2eFFIOUlwWnZMVUtmdjlKWWNuczhMbXNTcGRlbVo3S3NTZWRkcndOYjZPMVR1NG",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcmczRW5YNlVqbURhd2RmSVctNHhqNVFLTEo1alpsbk9JX3pZeXpGakFMN1hQaXd6cE5ZUkFYd0R2eFFIOUlwWnZMVUtmdjlKWWNuczhMbXNTcGRlbVo3S3NTZWRkcndOYjZPMVR1NG1RMVd5M3JHR09ELTVQTnZPMWRtbHJqenBRQThGUG1MX01ZWXV1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-14-027",
+    "date": "2026-09-14",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab unveils a 31.5%-efficient solar cell built for space, squeezing more power from every inch of spacecraft surface - Energies Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBudVVvRVZha1lFWUpseHNOVTZqLU94czJ0Y1Zzb0ZGRXVOQ0lXVzlnZm9XZ1NrYkd1dHM0T1ZIeXpROUU4aG5zYS0xZWlRUXJyRlFiWlNXbjVwSXIyY1AyVkZUY1ZJbXpmMmJXWWlZbl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBudVVvRVZha1lFWUpseHNOVTZqLU94czJ0Y1Zzb0ZGRXVOQ0lXVzlnZm9XZ1NrYkd1dHM0T1ZIeXpROUU4aG5zYS0xZWlRUXJyRlFiWlNXbjVwSXIyY1AyVkZUY1ZJbXpmMmJXWWlZblAyNFo2emc5Mnc3VzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-028",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Gets $60 Mln US Air Force Contract For C-HOBS Proximity Sensors - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQmhQZk1NRjNyaGNWdi1GQ0ZyUmJRd1ZHdU5tVFBQbzVIZENXUlhOYWxCN2d2QkJWQ1FmZ2FYNUFFZVNlTFlBVk9Yb2YzTWNidTdkYUg2MWkxNUU1MXB5YmtrVXYyOEtpOTh0a0JIcn",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQmhQZk1NRjNyaGNWdi1GQ0ZyUmJRd1ZHdU5tVFBQbzVIZENXUlhOYWxCN2d2QkJWQ1FmZ2FYNUFFZVNlTFlBVk9Yb2YzTWNidTdkYUg2MWkxNUU1MXB5YmtrVXYyOEtpOTh0a0JIcnhsR3h1Uno1NTYxVlB4NGJSLV9CaEtZRXpvdkNKV0Y1VGN1QzBzeU5JYmZVWlFpc1dNSkRBTlVjaEExZ1VOSVpzcldPblV6WXpuWlc2bDljMkxuelIwYjI1VTlycGo0TUZZZmNYTXl6anZPdE9yMkFBcDhhQkZmYVk4dVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-029",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Advances Production of Proximity Sensors for US Air Force - ASDNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW1zWURhOW1kNE1xUzNqaWtkd045REdfbGstbEtuWHdNcnJmRk5sYUdRU05ENlhTd3pNTTloSk5xWHJWa04xRnVPVzFRNGNVcFZJajR1V2dZeDBoVWlpMmJacDRic1dGMGVLbkV3dj",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMW1zWURhOW1kNE1xUzNqaWtkd045REdfbGstbEtuWHdNcnJmRk5sYUdRU05ENlhTd3pNTTloSk5xWHJWa04xRnVPVzFRNGNVcFZJajR1V2dZeDBoVWlpMmJacDRic1dGMGVLbkV3djYxYnZGTTVfcnp3TDhTQnljaG9qWWF3T2ZqNWpnb3NzWlFIb2ZyUXJHdWNGMjlYZk1uN2t0RVlfcFdac1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-030",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "L3Harris expands C-HOBS sensor production in Cincinnati, giving U.S. Air Force crews precise control over munition detonation altitude - Defence Industry Europe",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT0VxQWdocWx4MGVBdW9HSmMwMFpSeU5JTnVWaGZUdElrcTRpZDlkSGJab0l6UVFYRHM0ZnJEdGxqQ1RrQjdrQnQ4S2ZLcEIzV0JETWVaWWhiM29LMHF1Nm5HZ3FYZ3A1VU14SE1Ddk",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT0VxQWdocWx4MGVBdW9HSmMwMFpSeU5JTnVWaGZUdElrcTRpZDlkSGJab0l6UVFYRHM0ZnJEdGxqQ1RrQjdrQnQ4S2ZLcEIzV0JETWVaWWhiM29LMHF1Nm5HZ3FYZ3A1VU14SE1Ddk5CZENmSE1YSExVN0RGaXBneXlrbTVGRG1lZUVoQzl2dzA1NlpQVTR2SVVmR1NqMXlfdmVSOU1NUkxGVmc5ZlpQYXpUckY1Q0J1Sm1wMHBHVzBDaGtXX1RZNncwTkt2RjVlc1BJQTZFUTRfcC1ueW1nVS1PRXhyYUk5cEFreXFUVGsyVE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-031",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Moves Toward WIDMO Radio Production in Poland - The Defense Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBzRTdtRThSWDZObTNWTEZud1pOUkFmamRQMk1sVVZDY2NSTE1JeTRpbmdLRFpINi1PbU0yYXdXTHlMbXRtNzZzaDlTZEtTSERGV01SMDBybDJ5VXpHcXctSTdXQ3p2VXRDaVF0VzRjdW",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzRTdtRThSWDZObTNWTEZud1pOUkFmamRQMk1sVVZDY2NSTE1JeTRpbmdLRFpINi1PbU0yYXdXTHlMbXRtNzZzaDlTZEtTSERGV01SMDBybDJ5VXpHcXctSTdXQ3p2VXRDaVF0VzRjdW1YSXJG0gF6QVVfeXFMT3ZsZGh3ZTgzLVlLOV9wNkttRlR4dnpaa0hBNG9CdWRCSndZWG9IcFFjUUpvNVRtaDFzQ2F2MEdwZk5SWXhPSkhOeGd3Zm5Vck1WMVlETUFSZXVJYmg2eXduSDdubzAtTkVXUVEwdWI3dGVJTFBPNVRvMXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-09-14-032",
+    "date": "2026-09-14",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies Wins $60 Million US Air Force Sensor Contract - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcE5meXFxakhxcndpbDRLd2J3SWVXcWZudjhMYjVod3h4R1lMbE0wYkI0V3JmeDRFRUFGallxUWJrMkZlZk93N0xmSVp2dk01RWxoNUg0Um95Q05Bd2VrMDgzWl9sc3JnazdycEU2bk",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcE5meXFxakhxcndpbDRLd2J3SWVXcWZudjhMYjVod3h4R1lMbE0wYkI0V3JmeDRFRUFGallxUWJrMkZlZk93N0xmSVp2dk01RWxoNUg0Um95Q05Bd2VrMDgzWl9sc3JnazdycEU2bkRneHNsQXVoRTFIQk16UGtFemx5UEtocmJuYlR4SlFqdVZqNllVUDk1UEViTHI1NWlrYkJjNi00SWtqTUxZdGItXzR6dndGNGNTWTRN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-033",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trump dismisses report China supplied intel to Iran - DW.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVItbTJPZGhRZ2F0d0lKWXVuUGhEV3lEaklEYXNyUEtCeE1tRXFSZG1MZ1VSREVhWVB2M0lMT0VfWTZYZGZ0OEdXeDdVQnVzWUNwdms5aElzdGwtaUNSSnViRnJ4eDhrSGFZdk5fQm",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYVItbTJPZGhRZ2F0d0lKWXVuUGhEV3lEaklEYXNyUEtCeE1tRXFSZG1MZ1VSREVhWVB2M0lMT0VfWTZYZGZ0OEdXeDdVQnVzWUNwdms5aElzdGwtaUNSSnViRnJ4eDhrSGFZdk5fQmdsNUQ3SFdrbzkwSjQwaTB5Zks1SnBYZTU5OEN6Y9IBjAFBVV95cUxQaG1CMk1GQ041dGgyN0JoRWVKS25xcl84dllUVjduQVFsdnBJYWh3a2xjX2FwSWhCR2w0NVcwYTJnV2dPWnJUTlc3dGhZSy1zUFlkREZISFRyZTM5bENzTjFrbUFRMTUydDUxenRHRmg4ZlBPU2V1MEMyWUtDX1ZzbDZMTDE0R21IdGZJSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-09-14-034",
+    "date": "2026-09-14",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Investor Notice: Robbins LLP Informs Investors of the AST SpaceMobile, Inc. Class Action Lawsuit - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZHBhWDRSRU94TTVzdXBPcE9fdGpJQTFpRDN0dThWbm16VGZuVjNwOTdCS3V2b2VBREk3djQ5d3YtbVZ2TURGZms5MEJqSkR5aVV5dU9HUU8zQWhHNmVkYXd3ZlhMNUt3NUVKVk9RMF",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZHBhWDRSRU94TTVzdXBPcE9fdGpJQTFpRDN0dThWbm16VGZuVjNwOTdCS3V2b2VBREk3djQ5d3YtbVZ2TURGZms5MEJqSkR5aVV5dU9HUU8zQWhHNmVkYXd3ZlhMNUt3NUVKVk9RMFltc3psU21lSG5EaGZrdUZYeTRqMndkbFlOSmxVdjZ6UnJaLXQwS3lNdzNydk5fa3NkQ1B1VDl2c1ROLURNODlfU2xldGlEQzl6S2pMQWZ4cS16RU8wTGk3a2pCNkdLbENVYXdrY3hfQU5Gd0FOWEVGdWliSktXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-035",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
+    "summary": "<figure><img width=\"1024\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/on-orbit-servicing-virtual-event-spacenews-2000-1500-scaled.jpg?fit=1024%2C768&amp;ssl=1\" class=\"",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-036",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space’s growing billion-dollar club",
+    "summary": "<figure><img width=\"1024\" height=\"768\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/09/unicorns-spacenews-intelligence-1500-1000-scaled.jpg?fit=1024%2C768&amp;ssl=1\" class=\"attachment-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-037",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vega C rocket launches 2 European Earth-observing satellites to orbit from South America (video)",
+    "summary": "\n                             A Vega C rocket launched Europe's FLEX and Copernicus-3C spacecraft toward orbit from French Guiana tonight (Sept. 14). \n                                                 ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/vega-rocket-launch-europe-flex-sentinel-3c-earth-observation-satellites",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-038",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "No cities on the moon — there isn't enough water, scientists say (op-ed)",
+    "summary": "\n                             The discovery of water in dark craters at the moon's poles has sparked a \"moon rush\" to establish bases there, and then villages, cities and heavy industry. How sustainab",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/moon/no-cities-on-the-moon-there-isnt-enough-water-scientists-say-op-ed",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-039",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "On this day in space! Sept. 14, 1966: NASA's Gemini 11 astronauts set altitude record for Earth orbit that went unbroken for 58 years",
+    "summary": "\n                             On Sept. 14, 1966, NASA's Gemini 11 mission set an spaceflight altitude record that lasted for nearly six decades. Here's why the mission mattered. \n                     ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-14-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-040",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Webinar 9/23: NASA CSDA Program Update 2026",
+    "summary": "This webinar will provide an overview of the CSDA program’s goals and activities, including the new Cal/Val initiative, and more.",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/science-research/earth-science/webinar-9-23-nasa-csda-program-update-2026/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-09-14-041",
+    "date": "2026-09-14",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Crops, Health Research Proposals to Help NASA Advance Exploration",
+    "summary": "NASA has selected 12 new investigations to help support human explorers in space. Six will help advance the ability to produce food off-planet, while another six advance the understanding of how uniqu",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/science-research/biological-physical-sciences/new-crops-health-research-proposals-to-help-nasa-advance-exploration/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-042",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Welcomes Djibouti as Newest Artemis Accords Signatory",
+    "summary": "The Republic of Djibouti became the 72nd nation and eighth African country to sign the Artemis Accords during a ceremony Monday at NASA Headquarters in Washington. The Artemis Accords are the first se",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-djibouti-as-newest-artemis-accords-signatory/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-043",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Kicks Off Inspiration Tour with Steelers vs. Falcons Game",
+    "summary": "Fans pose for a photo with an astronaut in the NASA Experience Zone at an NFL game between the Pittsburgh Steelers and the Atlanta Falcons at Acrisure Stadium, Sunday, Sept. 13, 2026, in Pittsburgh, P",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/image-article/nasa-kicks-off-inspiration-tour-with-steelers-vs-falcons-game/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-044",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Summer Training: Catching Up With NASA’s Astronaut Candidates",
+    "summary": "Did you spend part of your summer camping, hiking, at the pool, or in an aircraft? So did NASA’s 2025 Astronaut Candidate Class. The 10 candidates have been working their way through a comprehensive a",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/summer-training-catching-up-with-nasas-astronaut-candidates/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-045",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Launch preview: Avio to launch spacecraft to monitor plant health and ocean conditions",
+    "summary": "The mission, with the shorthand VV30, is the second launch of a Vega-C rocket managed solely by Avio without Arianespace. Liftoff from Ensemble de Lancement Vega at Europe’s Spaceport in French Guiana",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/09/14/live-coverage-avio-to-launch-spacecraft-to-monitor-plant-health-and-ocean-conditions/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ses-2026-09-14-046",
+    "date": "2026-09-14",
+    "companies": [
+      "ses"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Space Academy push, SpaceX SES launch lead Florida space news roundup - Florida Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxNN2R4SHRQQTVqRFdTUWxHMkVuUXdqdXNVS3RlMjZrTnYtWDN6SnpwSFh2dWpQNE5oeVUyLXhMdExvejZwTmVIdFVWQ0NQUVl3ZjRvby1vZVdoTmo4eW93dHRoWXctaURuc1lxMExKWG",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN2R4SHRQQTVqRFdTUWxHMkVuUXdqdXNVS3RlMjZrTnYtWDN6SnpwSFh2dWpQNE5oeVUyLXhMdExvejZwTmVIdFVWQ0NQUVl3ZjRvby1vZVdoTmo4eW93dHRoWXctaURuc1lxMExKWGN0VExfUE5VaHNjdlU5d1A2OUpkYUF5QktIb015S1lmVEdOWG05RHpPd1A3LUwzcHJvSEJEUlRBOEowa09ldGloejJZbUpaV2VrWG1TWWRqeU9TMlllU09jNFJ3UzhZRkdLeTBPeHNJYm1uRXhEUXdkTWU4TzV2QnN2ZkxfMTZuUnEwVEQ2WDgwWWFpZkhvUzUteWtoYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-047",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The gap between demand and delivery is widening. AI can help close it.",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/the-gap-between-demand-and-delivery-is-widening-ai-can-help-close-it/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/upload",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/the-gap-between-demand-and-delivery-is-widening-ai-can-help-close-it/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-048",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "White House sends Cao’s SECNAV nomination to Senate",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/white-house-sends-caos-secnav-nomination-to-senate/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/white-house-sends-caos-secnav-nomination-to-senate/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-049",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Whither TraCSS? DoD, industry face hard choices in showdown over Commerce spacewatch effort",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.c",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/wither-tracss-dod-industry-face-hard-choices-in-showdown-over-commerce-spacewatch-effort/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-050",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Despite fire, lengthy deployment, Navy expects only six-month maintenance for USS Ford",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/w",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/despite-fire-lengthy-deployment-navy-expects-only-six-month-maintenance-for-uss-ford/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-051",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AFA’s 2026 Air, Space & Cyber Conference kicks off",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/afas-2026-air-space-cyber-conference-kicks-off/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/AFA",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/afas-2026-air-space-cyber-conference-kicks-off/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-052",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "After combat success, AFSOC wants new Leidos cruise missile on ‘every type’ of platform",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/after-combat-success-afsoc-wants-new-leidos-cruise-missile-on-every-type-of-platform/\"><img width=\"1024\" height=\"575\" src=\"https://breakingdefense.com/w",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/after-combat-success-afsoc-wants-new-leidos-cruise-missile-on-every-type-of-platform/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-053",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bombardier Defense, your trusted, mission-focused partner",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/bombardier-defense-your-trusted-mission-focused-partner/\"><img width=\"600\" height=\"300\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/202",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/bombardier-defense-your-trusted-mission-focused-partner/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "northrop-2026-09-14-054",
+    "date": "2026-09-14",
+    "companies": [
+      "northrop"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northrop drops off SNC-led Navy trainer team",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/northrop-drops-off-snc-led-navy-trainer-team/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/08/25082",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/northrop-drops-off-snc-led-navy-trainer-team/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-055",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Force has ‘space control weapons’ on orbit, Air Force secretary reveals",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/upl",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/space-force-has-space-control-weapons-on-orbit-air-force-secretary-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-056",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Textron, Merlin offer unmanned Cessna Skycourier for Pacific island resupply",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/09/textron-merlin-offer-unmanned-cessna-skycourier-for-pacific-island-resupply/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-057",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ship 42 wraps chopsticks tests, Flight 14 moves to NET Sept. 22",
+    "summary": "<p>SpaceX has completed multi-day catch-related testing with unflown Ship 42 at Pad 2, then rolled&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flig",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/09/ship-42-chopsticks-tests-flight-14-net/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-058",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
+    "summary": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-059",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Geissele Automatics reveals ‘production-ready’ assault rifle for SOCOM",
+    "summary": "The Pennsylvania gun company introduced a model of its Hypervelocity Improved Capability Assault Rifle.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-060",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Air Force to stand up point defense career field within 2 years, Wilsbach says",
+    "summary": "Within two years, the Air Force will establish a new career field focused on defending American air bases worldwide.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-14-061",
+    "date": "2026-09-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US, South Korean officials to broach thorny Hormuz mission at talks this week",
+    "summary": "The meeting comes at a tense time in the U.S.-South Korean alliance, with Seoul in no position to turn down a U.S. request for help, according to analysts.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/09/14/us-south-korean-officials-to-broach-thorny-hormuz-mission-at-talks-this-week/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-09-13-001",
     "date": "2026-09-13",
     "companies": [
@@ -749,6 +1972,24 @@
       {
         "name": "nasaspaceflight",
         "url": "https://www.nasaspaceflight.com/2026/09/vega-c-launch-sentinel-3c-flex/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-09-13-017",
+    "date": "2026-09-13",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Planet Labs Has Fallen Back to Earth, But Wall Street Still Sees a Rebound - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHExMlVONlh6YUpycDNPaE1jVElwSGprUTZnUUVMRXFaLV9GU0cyaVBuelVxWjRvdk5aeTRpSXdZM0U4LTdwRTljbXJfQ1NfNWVjTVVDTVMteE94YkpsazR5bklEVUhDX0VmdWtuTW",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHExMlVONlh6YUpycDNPaE1jVElwSGprUTZnUUVMRXFaLV9GU0cyaVBuelVxWjRvdk5aeTRpSXdZM0U4LTdwRTljbXJfQ1NfNWVjTVVDTVMteE94YkpsazR5bklEVUhDX0VmdWtuTWJzTUs4XzcxX2NZdXNGY2pJSVNpSzB5V01QZHFxdmNKV1hoV2ZvOVAxY29abFo1eW9wYlFPWVJ1ZFA5eGxFaXlSRHc4UlQyQS1B?oc=5",
         "type": "rss"
       }
     ]
@@ -1171,6 +2412,26 @@
       {
         "name": "spacecom",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-12-023",
+    "date": "2026-09-12",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Tackles a Supply Chain Bottleneck as the Stock Hunts for a Bottom. Time to Buy? - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVFpRHNpQWUxaGhhOUlEM3ZBOE1USzNnNTdQWWVsYmpyN3VCOVVmT0o0WkJGcC1FeDNHdUllTXJTdEVKR1Zha1lmeXpjdjlZX0wxQ3hRNzhxeDJ6ZFRBTVZwUld2QXFQaXR6R2UxZ1",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVFpRHNpQWUxaGhhOUlEM3ZBOE1USzNnNTdQWWVsYmpyN3VCOVVmT0o0WkJGcC1FeDNHdUllTXJTdEVKR1Zha1lmeXpjdjlZX0wxQ3hRNzhxeDJ6ZFRBTVZwUld2QXFQaXR6R2UxZ1dZVE9NQzNiTWp0cmFEX0NRcWM1aVBCNnJnemNTdzhhTjhDNEQ2R2h4ZEtXUDlJYjRibGdXQlVPZWg4cW5HcEdsNDlWM2hoTXRHUjZua2hBTkRjUm8?oc=5",
         "type": "rss"
       }
     ]
@@ -2397,6 +3658,26 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPci1TTWJSVUlwdEk0V19qc3dIU1hrRVhHajczcTRhTi1jcE1OVHdBT0l0bG81WjFFb1pnU0RMWHV6VldXU050QUxQS0UtbEJjZVl6QzlJT2dTN0NjUzdOTGJPeFlQRW9ia2VMeUlRQ1Rxd0tJWDV5YnVSaldvYTc1Z2g0RjV5TE51TGh6bDlZcVVWTHo2UDdiZHMxV0MzZzJ4VUhYdS1FU1BMNlJDQzctdUZpZG9xdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-09-11-065",
+    "date": "2026-09-11",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intuitive Machines: A $1.8B Backlog Helps The Next Phase Of Space Scale-Up (NASDAQ:LUNR) - seekingalpha.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXM5QmIzXzNRbHNOWkZGMkVDeDREbEpnWG9NYThXUkJvLUJzbl84QzZaYkROcEZkcW8zUmhGLXhxTllaeFVDLVNrdVRSNDBibmI2bVBaYUZhR1FuUURaN3NlcWlhMmhRRjRyN1dMbU",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOXM5QmIzXzNRbHNOWkZGMkVDeDREbEpnWG9NYThXUkJvLUJzbl84QzZaYkROcEZkcW8zUmhGLXhxTllaeFVDLVNrdVRSNDBibmI2bVBaYUZhR1FuUURaN3NlcWlhMmhRRjRyN1dMbUFLWWxnd21kaWhxQ1l6czc0b3U5Y29xOHVSNG5Kd3V1UFJ2OFlpTGlORm1DUDctMVdsNTZBa05BZThiaVE?oc=5",
         "type": "rss"
       }
     ]
@@ -4779,6 +6060,26 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeVZOTzdQeWVBU0g2a1VYOWhrVk4zd2Q0NWJwRUpWNFktMTJWcXNJXy1Gbi0wOEEyRHJ4REJ4b29nWW5OdFdDQTFnTWVaS3dyemhkWnJadHJOYVVEQTFrVWZQNzBNT3liMzFUYU1fdTZMVlJ5OTRveW93OU10XzRsdzNLMUdleFNMWTR2bUJvN0Z3QTY5aURvNmg1eXE5NmVRc1Y4NkwxYmZ3Q2t6SnR5eXFKWHBuMjEwM2djbUtpTlZmRllaelQ3YkFzZXdtTlRRUzRKaGJoQmZLNGN2UnFvdDlRT0VoVzI2Q05r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-09-09-075",
+    "date": "2026-09-09",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Introduces High-Efficiency Solar Cell to Reduce Reliance on Supply-Constrained Critical Minerals - Rocket Lab",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR2tkbmdfOU1pbFlSdTJCOEhnUThleGpUOXZKZWxKQkpzbTJlYVozWmpycDlTY3FtVFo4MXlQV3lraGIxNEU2TnFMWUdUaFBCUEE2Ul9MbWlZRC1iLXdLWHA3RW15bGdqV3FNWGNvVH",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR2tkbmdfOU1pbFlSdTJCOEhnUThleGpUOXZKZWxKQkpzbTJlYVozWmpycDlTY3FtVFo4MXlQV3lraGIxNEU2TnFMWUdUaFBCUEE2Ul9MbWlZRC1iLXdLWHA3RW15bGdqV3FNWGNvVHdZM29weTNpUERMamdRTjhIMnpoMHFGZHJaajFIbTNYZExXOGpCYk5qc1hLSGU1aGF5TWRBa2ktTHJGZHdvUzV2NFZlN2w4Z013MkJXX3A2a0dKeU1EVVJuN2poTzlQd1NYcHpEalJveHlNZw?oc=5",
         "type": "rss"
       }
     ]
