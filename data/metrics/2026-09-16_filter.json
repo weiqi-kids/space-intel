@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 129,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 18,
+  "gate2_fail": 21,
+  "passed": 81,
+  "gate2_samples": [
+    "LUNR Stock Inches Higher After-Hours — Intuitive Machines Hits Another SiriusXM Milestone - Stocktwi",
+    "Intuitive Machines vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026? - Currently.com",
+    "LUNR Stock Inches Higher After-Hours — Intuitive Machines Hits Another SiriusXM Milestone - TradingV",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo",
+    "Intuitive Machines (NASDAQ:LUNR) Trading Down 3.3% - Here's What Happened - MarketBeat"
+  ]
+}
