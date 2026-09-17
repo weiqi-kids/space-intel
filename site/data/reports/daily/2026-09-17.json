@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:56:04.628147Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-17-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab on track to complete Iridium acquisition - SpaceNews",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aYjFxZjNZN0JvTWpxT0tfdHZLQ3dOcHJzUW9qdWxuRXpLVFhvcF9hOE9Md1llZEx5MUJ6UU9UUTJ0VldBTHNmbTNTNTlJN0ZZSDJoTGRqa19tTmJINHltLUZzdkhzSzEtdEVOVnNza2R6V0hwQjRVLWR1X1hQU28?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ: RKLB) Expands Spacecraft Component Portfolio To Ride Space Market Growth - foreignpolicyjournal.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONHVJdkYtbElCc1ROTHZERndqV0JaY1RlYmlVLVFmUUVRamFlZk1jd25aRXM0X0w0ZE9fNUp1VWdGUy1acDFmZU9hajNSN1dSbDllMU1pM3RtcTV1OUx6Z0ROMmtFdU1VdXZKdzNna0VRUUl6UVZLNjdXME1zaDZuczE2MWpXRnFVU1k4TE9ZS2xBWGwwQTYtWlBGMzREenRQVFhpTzNSM2J6cmkwN0sxV2NxTEVVQWNlN0NTVXpxU3dab0dNRWliV0FCMEJsTXZwU2EySA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-09-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines eyes orbital data center opportunities - SpaceNews",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGx5LUdiZHIxSTAtMTN3aGJXQXBOWXd0NWJ3dGxWT3hVbm1LdGFjMFZteWZTYVZVZjVhb2ZLYkFjQ1pYTlBEQXBtb0Nndk5BRW95elNfQlJIRWV2cGxMZDlKVHZQTFlGZTE1Z0oyTkh3LUJHbUw4QU5FT2JocVlLdTBCbHVQTEU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-09-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines (LUNR) Could Be 40% Below Fair Value On SiriusXM Satellite Handover - simplywall.st",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQakhobVV0Sjl4ZC1IVE5VdEttSk5ueFkzd3RTX2NJTndiTU1tNGlRdFhrWnEzYkJqVURkazlyd0dvTEtNWjRBcFQ0RDJHeXVnaTJqREN3TzZ2Q0tWME5td1hNVTNoWUlVNEg0dFkxU1dJQm9ieGFSanpkY1ZoMlp3RmlxbmtjWW9mcFVmQUV6SjNwMmFfTGFaQVRyaWR2b2tsY09zb0JtemxibUQxaERsRmJTUV9GdC12SnhpdzdKNTk2SWZWX3A4TU5udElkN1ZLSjhya3RRUWNNQdIB3wFBVV95cUxQNmdGX2VOdk1vVk5sWThCM205R2xZZXVXWk81QmlBWkJ4ai13VC0yNmZYX0xUYjloZExnOXNDREJzSGs4Wi1mMkdIZ2x4LTV0aW92ZVBaQ2RDME9JWTFFRS1NRVNBYnZPNXpZUGdLeWo2LS1ZdEFCTU1rdVloNTZoOXhzWHFKV1hUT1QwbE9FeUtUbzlrdUkyWkZUcTR6UEtfcHRaeGFxbXlvdUdwbkxyVzhYN2x4Vk8xRlQ5cmpqTUl0WXZpUUh0LUZWWXVaLVNKR1JyOFY4MjkzaWhrcTJB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-09-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is L3Harris Technologies (LHX) Undervalued Following Its $4.7b PAC 3 MSE Contract Win? - Yahoo Finance UK",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXQ0ODZCb1d4VEt5MzJyVEI2elE2ekljWUlIQkNUZENad2JlWkltYTd2U21xbGpCbFpCR3IwMU5xT3Vtc3oxNWxNMENrNTMtYzlnOXJtU0RWZkJ5YVJ6X2pjRnZhbGN2RFM1V0RiQ3RzM1RGTk0xZDA4M3NEYWFvMVRPRExBRjN0cDBua2xRVnJUZ3JPTThRZ3Z1SDM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "launch_cost",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 268,
+    "dup_title": 136,
+    "too_old": 38,
+    "gate1_blocked": 14,
+    "gate2_blocked": 16,
+    "passed": 64,
+    "pass_rate": "48.5%",
+    "gate2_block_rate": "12.1%",
+    "gate2_samples": [
+      "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha",
+      "Engineers Gate Manager LP Invests $1.73 Million in Intuitive Machines, Inc. $LUNR - MarketBeat",
+      "Intuitive Machines vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026? - The Motley Fool",
+      "LUNR Stock Inches Higher After-Hours — Intuitive Machines Hits Another SiriusXM Milestone - Stocktwi",
+      "$Intuitive Machines (LUNR.US)$ - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為L3Harris Technologies、火箭實驗室、直覺機器相關動態：「Rocket Lab on track to complete Iridium acquisition - Spa...」。主要關注主題為太空產業通用、發射成本、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab on track to complete Iridium acquisition - SpaceNews（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab (NASDAQ: RKLB) Expands Spacecraft Component Portfolio To Ride Spac...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

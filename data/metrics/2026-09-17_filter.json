@@ -1,0 +1,16 @@
+{
+  "total_raw": 268,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 64,
+  "gate2_samples": [
+    "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha",
+    "Engineers Gate Manager LP Invests $1.73 Million in Intuitive Machines, Inc. $LUNR - MarketBeat",
+    "Intuitive Machines vs. Vertiv: Which Industrials Stock Is a Better Buy in 2026? - The Motley Fool",
+    "LUNR Stock Inches Higher After-Hours — Intuitive Machines Hits Another SiriusXM Milestone - Stocktwi",
+    "$Intuitive Machines (LUNR.US)$ - Moomoo"
+  ]
+}
