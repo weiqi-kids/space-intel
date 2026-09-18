@@ -1,0 +1,194 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:34:45.939648Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-09-18-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "LHX INVESTIGATION ALERT: Edelson Lechtzin LLP Announces Investigation of L3Harris Technologies, Inc. (NYSE: LHX) and Encourages Investors with Substantial Losses or Witnesses with Relevant Information to Contact the Firm - PR Newswire",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQaXdHOW9la3o3ZkVKWEFJWkVaVHBLaElwQUJaaU5zOHBoY2hzNmtkY3l5X2ppUXQ3YWswMEU5QkRGOEQ1VlNVN2QwdVQtOXB2dVp6cTJQZ3Z1X2tBQ0x4b1NpYTdiSGhRZUlrY0pUSTFqczFvQ0N2NEwwc3UxRXh5RDhlazgyanZkblNNaFE3SEhmaC1rNzJMX1kxRmVXeC1iQjhkaFNrVmJIUjlyRy1HemtDaDJ1S2hBV0FfSUZUSFlHbE9DaURQQXk0TTFFN1Y0NXBCNU9MRHE0UmswU2NZa2Qxa2lXdUJ3N1RLa0pRSDlINUlCWUg2U19sYXlJZkNMdlZRSXROanJ1eDJCRzRvc1J4SUFWS1VrblFlZmstc3djVWw1ZjUwLTdjWXQ5TVpQakJCdnMyYmpDc0tqYTRwUnU1M0hyeEoycHFPbG13S0stUTgzbmcyMlpZckd0bU1UZmxHNDFPaDZXaGMwdE40RzloSjhOT0Eya2ZhMTZjSkNXM19I?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Stock May Be 43% Undervalued Following $1.9B Equity Offering - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOFdFMGNNY2xRLXZQdlpjejE5ZExxakdsbmw3X3JjejBUV3RGazBnNm81S2NuUlpFODRiS3BCQzZKd0t4YWxQYzlrTXItQ252WXFtRHVBVUg0elpESll2UlIweWhlOHVkWjA4Z3R5eGJYRURuWHVtX2Zsd2otbDN1djBSblVZc1pBSElDWUJFV1BsaDNzUGxWbS15UHVIMzViRzRQNGdmdTdhZHVLMkY3QXh1aXZDdHhyNFRuekhlTUJMWG8ybGpzN1RwZHUzNnPSAdQBQVVfeXFMTUttNzFJRXRFSDhiTElFbG10UWtGZDRIclZJYmZHcjFXUkpQYVY0Yl9JYjJsMjZJa2hRa2lPa2ZuMktoSXk5ODhoMENObmtMb2lFdHFFV3BkVmtvRUl5OUxaRnhDMkozMFNEVTNkUWlOMHV1M3RobEN3RmdLS3pfQVlLMFlsQkxwTGFTa09DUzNnOGJtelJDd2N0MkJXNnJkbkVfMktOMFQ3b2xLbnpvOUh5V0VYQlVhUzZBYm15R3hWNi16dW5XZ1JsS19TUzd6YW5JQUM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX or Rocket Lab: Which Space Stock Is the Better Buy for the Next Decade? - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVBvN2QteWFwVUVYdkwwRVItMXh2TTF0UUtPUm1SZ0FiYlFoY0NIODYybW5abHdsWXdFNkZUZ1NnZDNBM2M1LUV3d003M29JbU03bUZvTk1GdmhQSlNOeXg4cnU0LWMwdG9nMEpFa3pOWW9RV0JVb0lvY3FSbFlpRXZ1Wkx4TFlONnNuaEpucXhQTmZKYTBXVA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Eyes Best Week In Over A Month: Rocket Lab Tests Key Neutron Hardware To Take On SpaceX - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOUJWLXJjQlc3QmNXbjgwN0dsNmM0SlBfYzMxcG5vX0JIUzVyWDJiOFNpb0lVVUo3OW1lZGFpYkdlR2ZkbmMwZ3VfZEhNQzJuM3h6TWlPRnBsbjMyUHVhZ3Y4LU5OdHE0UkxsdXdZWjQyUWtobld2ODF5ek5vRzZnVm0yOTloSkVZMFFCakJaTHBPUTZlb1F1QTRYdTJ4UXBoSFMybmxGWlF5a0ZkYkY3Q3h3cnhCNExfUE52TDNNQkY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX or Rocket Lab: Which Space Stock Is the Better Buy for the Next Decade? - currently.att.yahoo.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlNPT1Q5NU5fTUlpLTE5NjZZOGc3aDRQU1J5azdYdF95cnhRZkZGOGRNS0ZVU1dzTEU3ell6bXBVSHQzakU1TW9YOFVHcHlpYUZHV0trQ25OaW0zQUQwV3JuQjNXcnlkM2tVLU5pUExmZjB1MWJ6MHdNTGU1UVlqMkZ2TlYxOUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 274,
+    "dup_title": 138,
+    "too_old": 31,
+    "gate1_blocked": 17,
+    "gate2_blocked": 24,
+    "passed": 64,
+    "pass_rate": "47.1%",
+    "gate2_block_rate": "17.6%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat",
+      "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance",
+      "Intuitive Machines Inc (LUNR) Shares Surge 6.6% -- What GF Score of 65 Tells Investors - GuruFocus",
+      "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+      "Lyntris to supply antenna systems for Intuitive Machines network - Investing.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為行星實驗室、火箭實驗室、AST SpaceMobile相關動態：「LHX INVESTIGATION ALERT: Edelson Lechtzin LLP Announces I...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LHX INVESTIGATION ALERT: Edelson Lechtzin LLP Announces Investigation of L3Ha...",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab (RKLB) Stock May Be 43% Undervalued Following $1.9B Equity Offerin...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

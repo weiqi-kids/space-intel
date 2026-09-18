@@ -1,0 +1,16 @@
+{
+  "total_raw": 274,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 31,
+  "gate1_fail": 17,
+  "gate2_fail": 24,
+  "passed": 64,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat",
+    "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance",
+    "Intuitive Machines Inc (LUNR) Shares Surge 6.6% -- What GF Score of 65 Tells Investors - GuruFocus",
+    "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+    "Lyntris to supply antenna systems for Intuitive Machines network - Investing.com"
+  ]
+}
