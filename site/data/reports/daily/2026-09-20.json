@@ -1,0 +1,203 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T12:47:57.741045Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-20-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Stock Reverses 4.8%; Iridium’s FCC Review Is Only Starting - TechStock²",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOTVDU0dLWU9DU1l0YTFjZlJqcm4tSnNPRmdZYUlveDU4T3pxaTdyNl9hTWVDcDZ5MjFTZnhNTDRDQXZVOW1XV29pX0Z4Y0E3RHpRUDJhdVFXNUVlLVoyVExmeTlNU2k5SGJ0VmlpekthTm9NZmdzeFJMbVVXcUcyTEZJWEhQczhwd1BKS3g3Smg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Launches New Earth Observation Satellite - Fana News -",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWZ2dDJlR2JXcFRVYmRoODk1cE5aTENsbkI3ZTRqb3NzcEdJTTFNRGtEdWNwVEJfcDZ5RzFobllubzNFZVNCZGhaNUVBN1ZjeXdDVWM2ZFVrclJKUnMwNTVSQk1JeW9iWF9Vc0gwMmpaZ3RrbWptdHVjUzcwSEpoNzRtSVNhcXVubnJ6WXdBSkgxME0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-09-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies stock falls as legal probe and CEO shake-up weigh on sentiment - AD HOC NEWS",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTnVid3I2X1M3WnF2aXBzcTdRRWZNVldxZ3FUMGVwNzZHQ19taUFzQWpGQTh6ZDNDRWZGTmFTU2Vlajh0LU8zTlhHZHFTT0traHFfVzl5VjByU28yaF9GZVpvQU9Cb0tHNmJvLWdUbjBEdGcxTmNuZFpheTlyOVNKM0kyZXhJb05zQVpaU255VVZYNVJxZnhjSFhrUklMMHl6bDZfZWxXQTZoSHhwMTBtcGoxZGRrT2NuSlhSR3VCdXBnNi1oejZPcGtOTE1EYnVFX1cw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 September 20 – Analemma over the Callanish Stones",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-20-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX launches 27 Starlink V2 Mini satellites on Falcon 9 rocket from Vandenberg - Spaceflight Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "satellite_constellation",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZk9xc2tFc2RBNXJaNGNYNG5fdDhod1F2enpRaUdHZWllWEdkVHZrRFViNjNvU0FZcVB3TnJ0aDlLczBYM1JIN3FWM2YtcTdyODhLbDZ4RktULVpvbFVnX3dKY1QzQVR6MXpJeG41UEtQbHpSTkVqQ1FIWEQ1bFFHQmhEQXpZRFNHSGVPMjBqRFkzRGNtd3ZvVUhCQUZFY3ktazl4QXFEeVlkV0JsejAwY2V2NkRjMldPY3RxYmRHMkJBSGI0VFJIZmh6ZHpfWkJa?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 270,
+    "dup_title": 163,
+    "too_old": 45,
+    "gate1_blocked": 14,
+    "gate2_blocked": 28,
+    "passed": 20,
+    "pass_rate": "18.7%",
+    "gate2_block_rate": "26.2%",
+    "gate2_samples": [
+      "SXM 11 Handover Might Change The Case For Intuitive Machines Stock - simplywall.st",
+      "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+      "Lyntris to supply antenna systems for Intuitive Machines network - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat",
+      "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為火箭實驗室、銥星通訊、L3Harris Technologies相關動態：「Rocket Lab Stock Reverses 4.8%; Iridium’s FCC Review Is O...」。主要關注主題為太空產業通用、衛星星座，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Stock Reverses 4.8%; Iridium’s FCC Review Is Only Starting - TechS...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Launches New Earth Observation Satellite - Fana News -（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

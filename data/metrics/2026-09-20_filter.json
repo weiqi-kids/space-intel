@@ -1,0 +1,16 @@
+{
+  "total_raw": 270,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 45,
+  "gate1_fail": 14,
+  "gate2_fail": 28,
+  "passed": 20,
+  "gate2_samples": [
+    "SXM 11 Handover Might Change The Case For Intuitive Machines Stock - simplywall.st",
+    "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+    "Lyntris to supply antenna systems for Intuitive Machines network - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat",
+    "Intuitive Machines (LUNR) Stock Looks Above Fair Value As Its 239% Run Continues - Yahoo Finance"
+  ]
+}
