@@ -1,0 +1,218 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:45:09.996026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iridium-2026-09-21-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and Mynaric Along for the Ride - Yahoo Finance",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORVJET2JBR0t1UUtYa1dhdW9jOXV6ZFM5aDNtWm5LMzd0MEM4eGZpc3J2eUJLV2FYYnNId3VBeU41SVp2dGpYQk9MYk5Zckc5WkdhX3QzVjRCa2pET0ZoRjRYYnBFUkp4dTBSMFQ0VUdwc0RnejBGQkZzQ3JYSm9aQlBFcmh5ZkM4V0c5MlVCN1g1NnlmNzh2Tg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "iridium-2026-09-21-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Cantor Bets Neutron and Iridium Reprice Rocket Lab Higher - GuruFocus",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUNSOGdJX2lqNTVBdVc1S2E3SFdtRE1jQzItSWxRNV90S3dOS3R6Rno1ZFhjTmVkZm5uOTNaV2hNU0tIb3I0ekxxdHcxZUptU1RVWUdCU3JrNFB0ZEFkRU51UDh0VHR6OUttYjJZX2l2T0JfYlVLVUpKTW1FYmNLOV9FTkxuTkZ6ZmNsZVhlLW5ZZE51Q2Fyc2gwVEc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-21-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cantor Fitzgerald reiterates Rocket Lab stock rating on launch track record - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVRkM1Q0QU1EWWszUUxSR2lKUDlJYmRwR0xKR25OM2tfVTNvMDgxTC1sR2JPTmwzSEljemQ4dmJjX3liaG4tVEItZXg0aG5Ld0QwNUlRWXRtNVhSQXhva3lYZXUtYTdZZXNSOGhZMDlNWmVqNnJoenBOX1p3N0k0SEREV2dITmdZVEZKSVlvM0FsRnl5VDZKWTZib3ZDMlNzMVkydmtVY1IxczROdTk2T1p2MkNLSTRPaWk5VXl3NmIycTV3clIxRVBCSHFzWkhV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Dropped, So What Is Behind Its Latest Move? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWlRKcXJPREFQc2ZYSGtqd0hoZnZDN1lYd1dDLUJFLUg2LTl6Q3RHOE9LNG5ydUNxcE1ESUZnMEt2a2ZVN3VLekJBaVZhN3l2bjFaUUtGekFvX3ExcjRsMEdQN1FJRmM3akxiMVVaUC1qVVN0Z0c3WmEycXl4RmNSTW84WUZLMzZYUnBxMnZneWk0TUdfWjZvVTdaaw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Breakfast News: Rocket Lab Blasts Past Doubters - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjdhOHQ4cW1LYmdlMXNsdFJWVFpOSVZEemRBcXJmU2NxWW5WbEJjVkg3dXpLRDdOVU55ekJQTmdNdFg5Y0xHdmxicDNOZ0cyclN2OE5uLXN6Q25yTkpUVVF2alRmQ3ItaG9ockdRQUdIRGRNVkcwR3R6cll3a05BV19VNlJ2U3FqY0JNVjkwZHBKRUZod0x5QlZ5RTR0MVBOQVhCdG5kaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 24,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "iridium",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 165,
+    "too_old": 31,
+    "gate1_blocked": 14,
+    "gate2_blocked": 28,
+    "passed": 35,
+    "pass_rate": "32.4%",
+    "gate2_block_rate": "25.9%",
+    "gate2_samples": [
+      "Cantor Fitzgerald reiterates Intuitive Machines stock Overweight rating - Investing.com",
+      "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha",
+      "SXM 11 Handover Might Change The Case For Intuitive Machines Stock - simplywall.st",
+      "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為火箭實驗室、AST SpaceMobile、銥星通訊相關動態：「Four Launches From 100: Rocket Lab Gets a Bullish New Cal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Four Launches From 100: Rocket Lab Gets a Bullish New Call, With Iridium and ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Cantor Bets Neutron and Iridium Reprice Rocket Lab Higher - GuruFocus（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

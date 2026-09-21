@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 31,
+  "gate1_fail": 14,
+  "gate2_fail": 28,
+  "passed": 35,
+  "gate2_samples": [
+    "Cantor Fitzgerald reiterates Intuitive Machines stock Overweight rating - Investing.com",
+    "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha",
+    "SXM 11 Handover Might Change The Case For Intuitive Machines Stock - simplywall.st",
+    "Advance Auto Parts vs. Intuitive Machines: Which Stock Is a Better Buy in 2026? - The Motley Fool",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Up 6.6% - Time to Buy? - MarketBeat"
+  ]
+}

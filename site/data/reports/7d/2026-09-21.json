@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-21",
+  "date_range": {
+    "start": "2026-09-15",
+    "end": "2026-09-21"
+  },
+  "generated_at": "2026-09-21T14:45:10.146777Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "iridium-2026-09-15-001",
+      "date": "2026-09-15",
+      "title": "RKLB Fully Funds $8B Iridium Deal: Rocket Lab’s Stock Sale Removes Key Risk Ahead Of Acquisition - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 99,
+      "last_week": 90,
+      "week_over_week_change": "+10%",
+      "sentiment_this_week": 0.02
+    },
+    "space_defense": {
+      "this_week": 4,
+      "last_week": 1,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "iridium": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "rocket_lab": {
+      "event_count": 37,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 10,
+      "sentiment_avg": -0.1,
+      "rank": 4
+    },
+    "ses": {
+      "event_count": 4,
+      "sentiment_avg": 0.13,
+      "rank": 6
+    },
+    "ast_spacemobile": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "planet": {
+      "event_count": 8,
+      "sentiment_avg": 0.06,
+      "rank": 5
+    },
+    "intuitive": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 329,
+        "last": 367,
+        "change_pct": -10.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-15",
+      "event_count": 94,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-09-16",
+      "event_count": 62,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-17",
+      "event_count": 67,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-18",
+      "event_count": 55,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-19",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-09-20",
+      "event_count": 10,
+      "sentiment_avg": -0.2
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 27,
+      "sentiment_avg": 0.07
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-15 ~ 2026-09-21）共 329 則事件，重點為「RKLB Fully Funds $8B Iridium Deal: Rocket Lab’s...」。太空產業通用、太空防禦、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "銥星通訊",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 37 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 10 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
