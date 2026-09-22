@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T12:59:53.366873Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-22-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math. - The Motley Fool",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHdMX0V5X21iVmFJRGFTWjV4V0E4Yjlla192a010YmVwQUhNNXJSUHZ0dENQb3JEbFVPbzI4bXA2MUZuemRfT3BVMTNKRUNkT0pwV2U3czZ3U29JeDNZd0FSRTZVZ2hMUmZySzc0OURqUGFkSzVnZ0tPaXkwWmJFOWFTbUVwemdUWm81RXNIVG1ReDhyR1BCTnlnaDlBdGMwdGJfSEsxTFVTdHllT3lubkhpcU5uR3dleGxpSHRWbm9MZmIyZk92YlFn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-22-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilution Math. - The Globe and Mail",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdVZNblZVMUZnbUlxR3JyMUJqTE9RSnViaEE3eWlDdHk0R0xReFJlVkV4VllsTEJNUFl0NzZHQVU4cHpUMWg1WlJHU2hXQUtlWEVzQ0RVV3hhRXAyeDhtcGtzaUFFMWttZmd2NlJCTUxodGFuU08xQ3pCc0gxZjR2MWw0NzdLOUNWaXhvb00zNGdVWkIxUklWUzJNNmdkSHoyalZxUzZXYllnMXgxOG54TElsbWFaMjlhTnF2V3BLUl9RRHNfdDlmNjVhMHBZSy1DcnctalNRbmh5amJ3TEttUG1GMnZ1ZWVjSUtZVTN3Qmc0LTc5T0Q3MVRxQTYwM2s?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 Reasons We’re Fans of Rocket Lab (RKLB) - StockStory",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONHJDXzFZVjdMcC1wcVBXQjNhTERCUUhpMjYyNEg5UV92Y2ZSZlBvMXBlTTJWeHdJUWlBM2U1Ni1YTjM1YXJxMllOWWhCVGpLWDI0aVV6bEhmQ2wxRWVydFVwS0lNdjJ5UGlvOE1iNVdycFV2QmNxeHVRRGNvR3dqcmZodmg2bmtaTF9FSzNnWE9rTW0wcVdBZXhhWlUzZUNNZEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Shares Jumped, What Is Behind The Latest Attention? - simplywall.st",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNczMtSWlLQVpjMVRvdDJXT1prcmdOT3BvZGloNG9vTUljQ25xc25va3FaVUk1ZnBpQ2tpQ1lqVUVoc2hiRnFKUk9zc2tZTjR0LWVzek5fTGxWX2lRNEhxdGhlUGVmN184alVHSDZfY2c2bTRGaEtJS2tNaDJGX09SZmJ2TjgtdUhqUUEwX1lCSHBXN3N6WldCV2hubEMzTHVMYzdCaG1TWnpQQ3gzMTY2NjN5cVprQW9NNnQ3dEJXMzRKc2RPZUtqUmdxYklkb3PSAdQBQVVfeXFMUFhKN3NfWkR4SFZEUW9SelU1RUFDM0o5aUFheDQ2SGJxTk4xa3E2eHhxanFaWVNZUHI0M0FDUnNpUzdTVnowUEVxWGJQUzJCYnZjS0hDU2dIT2NiVEFKX09QYV9jTVJ1T0pkQjktWUVVdTJyUjA4MEdsUk1SVHc3SzVYem5ZVUQxM0hfN1RYdWtMVHhpWVl3VUVIbUxaalpvN3kxMmpZdVZBSFVKY3NoRGc5V1hlTWE3d1ptM3FCSlo3Z0lrbWt4RkRfYm1oVnRBbThUeUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Social Buzz: Wallstreetbets Stocks Mixed Premarket Tuesday; Rocket Lab, Alphabet to Advance - marketscreener.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRjFvUG1CekREWlBENElDSGR6SkgwTmVHU2FORVdlc0pOQ0pNWVFMSkMxX3hSV2VIYWR1NnliRTJya3JXOGJZUHZSNEhRODZiLUUtU0xOWG9Sam5QNXBWemM5dkJOVDlEek1JNnFGVUFnVVJBTVhfZlZucEFEWWhKRDNmYjBQWlZFMmJmQm1UazVyMHFONU82Vkl3SkhyMDRNUnFnbEdJcUNVeXZseEVDNXhhRl9HbERGbmhpQ2JZazByZ0hCbGNjZzlXOWFDc1VZSnJmdjBva3E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 8
+      },
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "iridium",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 272,
+    "dup_title": 150,
+    "too_old": 27,
+    "gate1_blocked": 13,
+    "gate2_blocked": 24,
+    "passed": 58,
+    "pass_rate": "47.5%",
+    "gate2_block_rate": "19.7%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+      "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+      "Why Intuitive Machines Stock Just Popped - The Globe and Mail",
+      "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為行星實驗室、火箭實驗室、銥星通訊相關動態：「Rocket Lab Sold $1.9 Billion of New Stock to Pay for Irid...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilu...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Sold $1.9 Billion of New Stock to Pay for Iridium. Here's the Dilu...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

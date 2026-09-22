@@ -1,0 +1,16 @@
+{
+  "total_raw": 272,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 27,
+  "gate1_fail": 13,
+  "gate2_fail": 24,
+  "passed": 58,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+    "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+    "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+    "Why Intuitive Machines Stock Just Popped - The Globe and Mail",
+    "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha"
+  ]
+}
