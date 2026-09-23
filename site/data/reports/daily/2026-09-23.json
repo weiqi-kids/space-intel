@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-23",
+  "generated_at": "2026-09-23T13:12:40.489654Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "iridium-2026-09-23-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Cathie Wood Loads Up On RKLB Stock — Cantor Pegs Iridium And Neutron As Major Catalysts For Rocket Lab - Yahoo Finance",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVnJPRlNyQTgtbW5wNjhaMkNCQTV0b2ljdkxtdWM4VVg3Mk5hTWRwRGtCS0NILUtuMFB4ZVRTd1Iyb0dZRGxoOXBoUUtXcEtYNWp0Z1JfVXVMQXJZTlFUNWkzMmxGb3pWWlBnd2dmaGpWa20wb19hREw5cmlhTDlZMWo0MmVOS2JhS0lEY09ocndQUHRRTklSVQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "iridium-2026-09-23-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Cathie Wood Loads Up On RKLB Stock — Cantor Pegs Iridium And Neutron As Major Catalysts For Rocket Lab - TradingView",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZVhCbEI2RjBQdlFkVEZmeG1YZFZQOTlFQmgzSjRCVnl6Mzc4eTJHWTVqT2FsdTQwcVpCWTJtblZqcEw1Ui1ZTnktRm9EY3ZqSUk4SlFUSlQwVmlrcXhjNE81NDFFVWJUbS1UX29FSV9Gdk5FNmlWMTRpYVRwczJnZ3lPeDJqZmZtU2U2MGgtc0xNTl9qVlhuTHBTR0t0VU5LcWhmMExLMlpkcXhGUzNYU0daWGtkaXhFRGdqUWVUX1o2R3p4azF2NDdsdnFVWXBsdkg1aUd4cnNVaEtweWlwRmFPekxhOC1tNWNWczNaVnFVVms?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Readies For Mission, Cathie Wood Buys $25 Million In Shares - Investor's Business Daily",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcW1CYk9jNy1sTlhLZWZ3VWoyNENIUUVUUFluc19hX0ZZX0lsakNPNEVid2NnV0dYSUlubFQwYi1QaGJDYm55ZGg4VWEyZUF6ZVJYS1FXSVBaSGVTejdkcHJEdnBwenpVVzJ3TFQ3c0NERmh6Tjl4VlQwT0lwbl9HbzZWTjlRaUlWcEQ1V1gyV3FqdGk1Yk96cThDcmtqWFdnODhobkd2TmxUa05ZYVRoY2ZrbXgweUI3ejhmVFNDemY1emFr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Trims Alphabet Even as Google Regains Search Share, Ark Bets Big on This Space Stock - Benzinga",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbXF0eHVKT1o5ZDd1ekhZVVBYVnhXQV9oWjZkd0dKU1ktZ3duVG9yaE1XelZJc1VWQmFoMDFzemZOSXRBanpsRFdDLXc1MVNQc0g3SDJ5a09acmN5VC1vZHFNbTNFbS1fYzdkVUJmYzhYbGtES28zTjFVajh6SGxkeTQyZ09ZZ3dBRjFiOGdnb3RldW1nVl8xWl9seVRzcHQ2N3dhR2w3clNvNTB4ZE5OSmdWak02MEg3OHNhQ3ZXQnV5c280WFJhbTRnZFZYVXBZcnBpS0ZjUmZzLUpyR0hMSzNjbUo4VWJJSk9oN2JMbmRhUXo2?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab or Alphabet: Cathie Wood Buys $25.1M of One Stock, Sells $5.8M of the Other - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZi1DQUd3dm9DMzVPMk55aEZ0dHZyQ3VTWGVTZEtTYVk2ekRlZUI5ZG5TVW1iSE1jaERzZUc1UEhoYURvM3MtckpwVHN1SDZMX3M3V093Y1R1VkI2YjlBN2lwdFNLdDF3RFp0cDIzTkZMbXllQy12Nmx6bUlnV0VJRHE4cG00WVRSb3JyQlk0MXVXcnNfMFQxTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 8
+      },
+      {
+        "id": "iridium",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "spire",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 274,
+    "dup_title": 139,
+    "too_old": 31,
+    "gate1_blocked": 16,
+    "gate2_blocked": 24,
+    "passed": 64,
+    "pass_rate": "47.4%",
+    "gate2_block_rate": "17.8%",
+    "gate2_samples": [
+      "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+      "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "Intuitive Machines Inc (LUNR) Shares Surge 3.3% -- What GF Score of 64 Tells Investors - GuruFocus",
+      "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為火箭實驗室、銥星通訊、行星實驗室相關動態：「Cathie Wood Loads Up On RKLB Stock — Cantor Pegs Iridium ...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Cathie Wood Loads Up On RKLB Stock — Cantor Pegs Iridium And Neutron As Major...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Cathie Wood Loads Up On RKLB Stock — Cantor Pegs Iridium And Neutron As Major...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

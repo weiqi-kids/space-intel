@@ -1,0 +1,16 @@
+{
+  "total_raw": 274,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 31,
+  "gate1_fail": 16,
+  "gate2_fail": 24,
+  "passed": 64,
+  "gate2_samples": [
+    "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+    "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+    "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+    "Intuitive Machines Inc (LUNR) Shares Surge 3.3% -- What GF Score of 64 Tells Investors - GuruFocus",
+    "Intuitive Machines: Growth Has Only Just Begun (NASDAQ:LUNR) - Seeking Alpha"
+  ]
+}
