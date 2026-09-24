@@ -1,0 +1,16 @@
+{
+  "total_raw": 275,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 13,
+  "gate2_fail": 23,
+  "passed": 62,
+  "gate2_samples": [
+    "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+    "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+    "Why Intuitive Machines Stock Just Popped - Yahoo Finance",
+    "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+    "Intuitive Machines (NASDAQ:LUNR) Trading Down 6.2% on Insider Selling - MarketBeat"
+  ]
+}

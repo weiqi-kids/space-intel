@@ -1,0 +1,192 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:04:55.871242Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX vs. Rocket Lab: Which Space Stock Has the Edge Heading Into 2027? - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlVnphLVdnUkRxeG9OMW1mWmU3VF9Cb29VbkpINDY3ODNxNF9WdzBvMFFzWUxjQWI1ODF4NUh5LXlHYVpyY09YOTRndlRxZzY0?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Just Made Another Big Bet on Rocket Lab - TradingView",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc0hVSFBEQ3Q2bm8tUW5DcEtubklOVTRhb1phcGotcVB4cnVpc19aZUVUUUNtMnZkbTg5V2RUMm8xazgyVDFSY3VfRm5GQjZ2eGVIWnp1b2U2b1NReFBEN3pqakM4SUhHZ19ZdzdQMVFUbW1tNUZ5bG9Mbkx0NVpnZENoQ3JIck95ZU45Y0l4aGczc2pmc3pud2hQMUJhb0Z5VGRIbi1aZG5EZ2p4Wm80MQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-09-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris awarded $876 million Navy contract for jammer system work - Investing.com",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXl6enpGa0xTZHBpZzVOSzNvLTRxNnVhUTNxOElDaWJWcTBmWEpFQXRWR2NINWxDT3B6MHJudHlBUWVWNWljNkpBN05HY1NpcXR1TGVHY1dSZTk0Y0JSZVk3b0NHakU5YlFKb1lVVEFHZnd2Vzd6N3Z2VEhyaER0YU9mWVhGd0ZidV9tdXhrc0xCTmR0WXB2c2VxTExGRUNJelZCSTE5Z1JvTWxiWWNhZ2dvakFZa0hhN1ViTGx1dlJLNHhXZFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Google Takes the A.I. Data Center Race to Outer Space - The New York Times",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEx1YzkwWVhOQ25ocmRXYkJ6SWh1Q01wRG1QY096aW9UZkVDbTdNWnoyRWJtcEIwZVVoVEJJUmNpWlhnQVRXTkpzYTg3QzR5OThOS1JXMVc0bnF2dDNXVFU1QnE5bjVpZ2pCUVZwYnZ2bjhUckwwNG02S01MbmY3ckdaRzM5c2Q1c2xmZ05LenBpVEk?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "planet-2026-09-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Planet Labs PBC (PL) Wins German Contract, Is The Stock Still Undervalued? - simplywall.st",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVlA5VEE0ck1aTHlaOW9JMDYxWnF3RXpremp4cm05VDFEQVpJaXZQTVVkT3JINi02d1lNOXNFU1ZTZFM5Sk9zR0JTMGxsUEwyYW1OLUlhQ1lBVkVWWmk4YTJsNkNYeFlHVnlwd1RJVlJHOWtxOE9zUWUzTnVzRXl0TjNJc3dUZUphS3ZlX0djMndHTXBsS2xCTnktT3FzTEpyY1pUOGVCV0gzTUNmZzItTU9fUS1kVEVEQmthZHFZTkVIeGtEZDB4cExIOWhXaVR2d18xYldTWGPSAd4BQVVfeXFMTkkzQmhyb0l5R3BPVTVwYzZYZ2dJakZBUV84NVpjMzByZDl1bWhscHFYa0V3T2JQTDZ0cjk2TE9qUVVES3RUZUlueUZjVFhfTTBtNThCQk1JWnA2Qk52dFNKTFRtcUpqM0N0WXJhQXdsbC15VkhlOGVPOE84YXBMTU5sOWZrZEdXeTc5Y0c1M3hfYWNKWTNwQnhCQWlIcEQ5WGRZYkJtQTdOb2ZVOTJXWDItVERlV1hUcnp3dndzaGNYUldWc0Zyci00MmFOcmVVUlVYYVNrSW13UmlEb2Vn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "ses",
+        "count": 3
+      },
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 275,
+    "dup_title": 147,
+    "too_old": 30,
+    "gate1_blocked": 13,
+    "gate2_blocked": 23,
+    "passed": 62,
+    "pass_rate": "48.4%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "Why Intuitive Machines Stock Just Popped - Yahoo Finance",
+      "Why Intuitive Machines Stock Just Popped - The Motley Fool",
+      "Intuitive Machines (NASDAQ:LUNR) Trading Down 6.2% on Insider Selling - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為AST SpaceMobile、SES S.A.、火箭實驗室相關動態：「SpaceX vs. Rocket Lab: Which Space Stock Has the Edge Hea...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX vs. Rocket Lab: Which Space Stock Has the Edge Heading Into 2027? - Ti...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cathie Wood Just Made Another Big Bet on Rocket Lab - TradingView（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
