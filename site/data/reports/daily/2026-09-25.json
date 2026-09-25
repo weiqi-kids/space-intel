@@ -1,0 +1,221 @@
+{
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T13:09:26.790735Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-09-25-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Space Economy Investment Hits Record $23B As SpaceX (SPCX), Rocket Lab (NASDAQ: RKLB) And AST SpaceMobile (NASDAQ: ASTS) Attract Institutional Capital - foreignpolicyjournal.com",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQSmNXbHNnN0t5bHYyanhuV3R5V2ZkQm1GNGlBX3pzNVVPMHdheVR4WU5IV0lLVjNYTk4wMkFxMkp0Y1lONldYY0tLSU5fTi1GcnpMWmRsbHhfOHhQQ3ZITVVlWjhjUXRtcHVvVFptMkNlVHBHSHhMT2Q1QndvTHVsYXdvQ2tJT190SklLYWYyTzdyWTVYSFJmc2l3dG40blBIM09zRFRyb3VlUU0yZEVLMTQ5YVlLSm1DRjhWZm9fRngtanFGYjFfbE5WdnNwS0JVRXc4eV82cWV5ZkYxUzhYRk5EZlotaEhsLUEzMnNDMFhoRXNfLWZOMnJlajlGWU0wcGhfRjdVenhnVTI0T24xbHptLS1hcDBB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "iridium-2026-09-25-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Why Rocket Lab Wants To Pay Up Big For Iridium (NASDAQ:RKLB) - Seeking Alpha",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSXJoTkN6cFdncXp4WXZvb0JJclJNNGl5dl8wUmlUbmZydFNfbHFlcVc2Y0VlUnFLcjkzajlKem1TRUFMS3pUdGR2UmJ4RHhNcU1aZFFNSkhpOHZOZ2RITEdUd3VvaE5DZ3R3bDFFaHVjTEhVbnh3aURnNU04TFhSOEFra3IyM1gxcThRQU9xSF8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "iridium-2026-09-25-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Iridium Stockholders Clear Rocket Lab Acquisition - GovCon Wire",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTRMbTNITTlYa3FqVTB5LWdkeFhOMVJ3Y0RCaTJwcG5pdXRrOV83UW9sckt4VFFYUkhDOGtrWFZWVXp4M19xUnNncWJ1SVg3QXJkOXRjcF9oeXlHa29FRmpWMXNCSGdSWjVkeTRaNnk3dTQwWFFLbVdRdXNlUWZJUlpMcGRQWUtDdDY2d3ZLN0c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab downplays importance of NASA business as it pursues Mars mission protest - SpaceNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU1lUNlBKT08tbFVkcl9TOE1ERjJhUTk3WVRSeHdENV9RYTNIOTNBeldSQzlFMTJlT0gxekFGaXVKakQtejQtYlVnX0xwTWJPbklLM3VWdkllSTc1RS1aMkZuc2hIOGZfZnlrRDJnWnlGS2JWZWZ1OGZTWHdycFBTN3cxWnJhcGR1bVhNRmV3S1o4VXFfeE5SWmtDM1lUcnlUN2pqYlBUVXZfZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab CFO Adam Spice Predicts More M&A Deals on the Horizon - Payload Space",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWFZPZG5lU3ZXV2VmdWZKUVhhaFpTSXd3VkM5bk1maTd6amtwQm8wa1ZrNnZ6T19WNmZjS0kwNWs1OTdoU1RvVUswWG9qZDI1Zk9TTjAxMGFMNmhYWTNUbUIweTFGMkp1dmVWSWF5RHdSYXVZcUZJTlhRY3NaMm5YQlJHSlBGQV92eHRoX2djdGJSRG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "iridium",
+        "count": 3
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 143,
+    "too_old": 26,
+    "gate1_blocked": 13,
+    "gate2_blocked": 26,
+    "passed": 65,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "20.0%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Jumped, But What Is Driving Attention Now? - simplywall.st",
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "Is Intuitive Machines Inc (LUNR) Overvalued After 3.0% Rally? GF - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Up 3% - What's Next? - marketbeat.com",
+      "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為火箭實驗室、銥星通訊、AST SpaceMobile相關動態：「Space Economy Investment Hits Record $23B As SpaceX (SPCX...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Space Economy Investment Hits Record $23B As SpaceX (SPCX), Rocket Lab (NASDA...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Why Rocket Lab Wants To Pay Up Big For Iridium (NASDAQ:RKLB) - Seeking Alpha（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
