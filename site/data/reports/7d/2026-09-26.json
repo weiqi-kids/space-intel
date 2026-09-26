@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-26",
+  "date_range": {
+    "start": "2026-09-20",
+    "end": "2026-09-26"
+  },
+  "generated_at": "2026-09-26T12:36:53.170654Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-09-21-029",
+      "date": "2026-09-21",
+      "title": "Rocket Lab Climbs 7% as Cantor Reiterates $122 Target on Launch Record; Intuitive Machines Jumps 10%, AST SpaceMobile Rises 6% - 24/7 Wall St.",
+      "importance_score": 1.0
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "intuitive",
+      "co_mention_count": 3,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intuitive",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 109,
+      "last_week": 95,
+      "week_over_week_change": "+15%",
+      "sentiment_this_week": 0.01
+    },
+    "satellite_constellation": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 41,
+      "sentiment_avg": 0.01,
+      "rank": 1
+    },
+    "iridium": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "planet": {
+      "event_count": 15,
+      "sentiment_avg": 0.03,
+      "rank": 3
+    },
+    "ses": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ast_spacemobile": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 336,
+        "last": 378,
+        "change_pct": -11.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-20",
+      "event_count": 13,
+      "sentiment_avg": -0.23
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 65,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 75,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 62,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 64,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 44,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 13,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-20 ~ 2026-09-26）共 336 則事件，重點為「Rocket Lab Climbs 7% as Cantor Reiterates $122 ...」。太空產業通用、衛星星座、太空防禦為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 41 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "銥星通訊",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

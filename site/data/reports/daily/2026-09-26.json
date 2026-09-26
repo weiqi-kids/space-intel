@@ -1,0 +1,230 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:36:53.024827Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-26-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Major Milestone Passed In Iridium/Rocket Lab Tie Up - fool.com",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGdLc19mS1hjS3Jta0N5cnVWY1hnQXB5REVuemFvWmtvZDZndHo0dnM3dC1sd1BpUVRocHhUV1FseVBUMDYxcnRPODJEU0pQcUV5VU4wNXNoVTNaQ3QwWXpET2pQSlcwZU5wUnlhV254QlBtSmlYRVE3RHJvQ0FfaTVXNVJ6VnluanlHc3BYVmVING41M2FXNTN3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-26-003",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "The Iridium Vote Is Done. Here’s the Number Rocket Lab Bulls Keep Missing - TIKR.com",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbTRZOG9KRjJwVU1BeFBMU3E0UWRKOWhBZkxrM253VWpCNDJxTUdVeU9Xd01BV09OLVE2c0x6bkt6NzRoN3c5NFFZUkxMY3lBR1M1dS1wNEtxQklZeHZhdEFwRWFiQVZlMVRSb092MXR2V2J5N205Wk9HSGZzZEFjZy1FSm5EaU1HWmpuWUxGejJhdW82Z2duT0NVZUlrQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-26-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Major Milestone Passed In Iridium/Rocket Lab Tie Up - AOL.com",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRmNiVllfNlZLaU8zTE8wYXJYNXhFaTlqR1Ztb0ZlTzNLTEtCT1h1THdybTV5clFsU3FmdW9RQUxCTnlLQ1l4SzY2cl9PdEJwSXFFZGxnbHhLRXZGT3RYSW9GMnBsOTAyOU1vOGNnLWdYQU5tQVQ0YkxHQUhrcnczN3k3a0ZiMnlj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-26-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Iridium Approves Rocket Lab Buyout at 99.6% - KeepTrack",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nRS10eU5INlVjZTlFblZoMlphS1FSNWlxQkNWSGVxei10dGQxcElyemlWTU02aWVaM1AyQktZb3p5VUQ5LUk3WjRpN085VldKVW9ON2JtZ3gyRnE5R3A2T0poa0lWNDJsT2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "'Owlright, Owlright, Owlright': Rocket Lab launches private Japanese radar satellite to orbit - space.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRGVQSTByNDlRWkM0NUlSQlJ0R1ZHNlJweEhNcGZpZ3kzVGhrUFhUQUhtTnNnUml5WEZaM1NWOHo2cXZsYldmWjFWczlmY1JNNDVWaXc0WVhrZ3FSbnJ4MlExcVdaY2NyTHA0ZkpkTzFQblhLWjFKVnA1X2VQbV8xQlcxaWtzRDNlS19lcW93SGFxRXp3LVRFTi1DemNPMmlnVEhqamZGSEJMcEMzM2NIcGxjLTQ3dkpMSi0zUG00MnVTWi16dmJSSmduZHRqTFFlTGtWU2pzRXF1NTZWVjBhSkpyVHk0UQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "iridium",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 4,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "iridium",
+        "count": 4
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 275,
+    "dup_title": 144,
+    "too_old": 35,
+    "gate1_blocked": 16,
+    "gate2_blocked": 29,
+    "passed": 51,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "22.1%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "Intuitive Machines (LUNR) Jumped, But What Is Driving Attention Now? - simplywall.st",
+      "Is Intuitive Machines Inc (LUNR) Overvalued After 3.0% Rally? GF - GuruFocus",
+      "What's Going On with the Pop in Intuitive Machines Stock? - Intuitive Machines (NASDAQ:LUNR) - Benzi",
+      "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為火箭實驗室、銥星通訊、AST SpaceMobile相關動態：「Major Milestone Passed In Iridium/Rocket Lab Tie Up - foo...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Major Milestone Passed In Iridium/Rocket Lab Tie Up - fool.com（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "The Iridium Vote Is Done. Here’s the Number Rocket Lab Bulls Keep Missing - T...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
