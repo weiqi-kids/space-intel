@@ -1,0 +1,13 @@
+{
+  "total_raw": 78,
+  "dup_title": 58,
+  "no_date": 0,
+  "too_old": 1,
+  "gate1_fail": 13,
+  "gate2_fail": 2,
+  "passed": 4,
+  "gate2_samples": [
+    "2026-2027 DWU: Middle School Design Challenge",
+    "2026-2027 DWU: High School Engineering Challenge"
+  ]
+}

@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-09-27-001",
+    "date": "2026-09-27",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 September 27 – Andromeda Before and After Photoshop",
+    "summary": "APOD Science APOD APOD: 2026 September 27 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a diff",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-27-andromeda-before-photoshop/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-09-26-001",
     "date": "2026-09-26",
     "companies": [
@@ -247,6 +265,42 @@
     ],
     "impact": "neutral",
     "title": "Flight 14 waits on approval as a near-term manifest sketches Starship’s next steps",
+    "summary": "<p>With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/09/flight-14-starships-",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/09/flight-14-starships-forward-path/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-014",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Next crew bound for the space station arrive in Florida",
+    "summary": "The three astronauts and one cosmonaut will spend roughly six months onboard the International Space Station. Launch is scheduled for no earlier than Oct. 1. <a class=\"mh-excerpt-more\" href=\"https://s",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/09/26/next-crew-bound-for-the-space-station-arrive-in-florida/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-26-015",
+    "date": "2026-09-26",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flight 14 approaches as a near-term manifest sketches Starship’s next steps",
     "summary": "<p>With Flight 14 being Starship’s first intended orbital mission, a near-term manifest is already pointing&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/09/flight-14-starships-",
     "sources": [
       {
@@ -1089,6 +1143,25 @@
       {
         "name": "breaking_defense",
         "url": "https://breakingdefense.com/2026/09/how-china-is-rethinking-tank-survival-against-fpvs-and-top-attack-threats/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-25-045",
+    "date": "2026-09-25",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX Falcon 9 launches classified mission for U.S. Space Force from West Coast",
+    "summary": "Liftoff of the USSF-385 mission atop a Falcon 9 is scheduled for 7 a.m. PDT (10 a.m. EDT / 1400 UTC) at the opening of a three-hour launch window. <a class=\"mh-excerpt-more\" href=\"https://spaceflightn",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/09/25/spacex-falcon-9-to-launch-classified-mission-for-u-s-space-force-from-west-coast/",
         "type": "rss"
       }
     ]
