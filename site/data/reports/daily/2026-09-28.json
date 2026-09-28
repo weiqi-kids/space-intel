@@ -1,0 +1,214 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:20:16.294693Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-09-28-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Cantor Fitzgerald reiterates Rocket Lab stock rating on launch record - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUUg4WXhnMnFJcVNoU0J4OGY1cGc2MjUyVDFPZTFxZFN6b1BZX1k2aUdRdEFxUW5OMkxGeU9Tdk8weEgzbzU1c2dUdnJHWmppSnhUem9Ub1l4eXhpWXROV0dzV0Y3TkNzLXdHaTZ3YmMzbTd0QURKd2FXamFKMW1wdGRxNU1ZV19SNGtsVjlLcjhKOHlWMTh4dlpaS3YzQzVYWlc0MG5PTVozVTBkRkxRYmVxV2U0dzgyM3owTHBSdnVEeXdlMkQwOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood's Ark Invest weekly recap: boosts Meta, Rocket Lab; cuts Tempus AI, CrowdStrike (ARKK:BATS) - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdVhmcFBiVF9ERmRhYkZhemcxUDBpc2xja1U5dzdzcHk2SENKYUpmaGRHX1oyWmlpTENscVJ3Y2RiMThYOHVlU2h1XzBUWEhqbG10UXgtdndVUWV3TGJHYXp0SDlGZWUybUttLXBiV2t6LTFYOUROWjBJb3NuOGk1eWJxRjI3V0Y4YUl4aE04REpTT1QzV0dBZDhKVUd5c1RvN3JNcTJPQ2t4YU9OU2VuaVVXcGFPMjhfZy1WOFJpZkEtQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Rocket Lab Stock Falling Today? - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkNqeW96b0V0Mjd4dWU5WE1ZYkdyWFpidkVfNkFlQmx4Umx2akZUM3BVOGNUb1AtdE14TDNIYU9ScF9sUTZYdUdvOVpCSy16Z05QWHhhNGtYR3ZVWUxLaXlWeDlYajNSTl9xWjh4YjVTVk4zZVI0TFlILTBTVXR0U3lPbHpmR1Y2Nnl1V2lXZGFWQ2c3d3pmYnIwMU1vTFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood's Ark Invest weekly recap: boosts Meta, Rocket Lab; cuts Tempus AI, CrowdStrike - tradingview.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOS1c5SlNHNVBmeGItS3NnT0UyYkdUTjlVcFJkRW9aTHI0Mk9zdVFLSmNrQW1qQjV0b0QyeEZfMGNGZmdRd1gtS09LREJtaDNxa3cwRUZoblljalNBR0M5b1JjMm9ielBKWGZ4TzA5MGVwTE43ai1PSXpEeDlaVUVuckZ1X3ZsWHlhUXNOVXRxUWprcVNLWlVsZkhjLWpLWG1UZ2NTWFRnMmppVzFyVm0yX1ZvWWpqR0pTSFJqOWJhUHBRX2pHZlprTnBva25sWmN6a3lNalZsNWh6X1dOQmdSSXM1cUI?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-28-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Rocket Lab's Rapid Prototyping Support Faster Production Growth? - The Globe and Mail",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYk9EQjc1SmdXMEJiZEZCRHpveTBsVTdKSG5HUnNuZXNxRjlUQ3E1R09zVUwycUMtYlJoOEs2ZWEwamlFODRycUNteGxpenlPU1AxVE1kREV6ckdES0ExdWE2QmROcTlOU2hTakVSMWo5OTU4RUpfNk5XYXhWRDNwOEZCNkt4dFVuQXF4eTRFdlNlRFFCSjlMak96TWF2aVZteEdJVFY1bW54N21ybWc0eE52dGl5VEl2dC1teUpXTTcyc0lILWNCN01abjRXZHF0V05EYldCSXZ6eHVkdkpxWnZYYVI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "ses",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 263,
+    "dup_title": 141,
+    "too_old": 30,
+    "gate1_blocked": 15,
+    "gate2_blocked": 26,
+    "passed": 51,
+    "pass_rate": "41.8%",
+    "gate2_block_rate": "21.3%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. (NASDAQ:LUNR) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBe",
+      "Is Intuitive Machines Inc (LUNR) Overvalued After 3.0% Rally? GF - GuruFocus",
+      "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+      "Why Intuitive Machines Stock Just Popped - fool.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Up 3% - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「Cantor Fitzgerald reiterates Rocket Lab stock rating on l...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Cantor Fitzgerald reiterates Rocket Lab stock rating on launch record - Inves...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Cathie Wood's Ark Invest weekly recap: boosts Meta, Rocket Lab; cuts Tempus A...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

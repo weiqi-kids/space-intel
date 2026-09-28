@@ -1,0 +1,16 @@
+{
+  "total_raw": 263,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 15,
+  "gate2_fail": 26,
+  "passed": 51,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. (NASDAQ:LUNR) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBe",
+    "Is Intuitive Machines Inc (LUNR) Overvalued After 3.0% Rally? GF - GuruFocus",
+    "Intuitive Machines (LUNR) Just Opened a New Market for Its IM 300 Platform. How Big Is the Opportuni",
+    "Why Intuitive Machines Stock Just Popped - fool.com",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Up 3% - What's Next? - MarketBeat"
+  ]
+}
