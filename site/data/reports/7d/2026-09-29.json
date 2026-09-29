@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-29",
+  "date_range": {
+    "start": "2026-09-23",
+    "end": "2026-09-29"
+  },
+  "generated_at": "2026-09-29T14:30:48.431162Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-09-25-005",
+      "date": "2026-09-25",
+      "title": "Space Economy Investment Hits Record $23B As SpaceX (SPCX), Rocket Lab (NASDAQ: RKLB) And AST SpaceMobile (NASDAQ: ASTS) Attract Institutional Capital - foreignpolicyjournal.com",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 111,
+      "last_week": 98,
+      "week_over_week_change": "+13%",
+      "sentiment_this_week": 0.01
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "iridium": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "rocket_lab": {
+      "event_count": 36,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "planet": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "l3harris": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ses": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "boeing": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 293,
+        "last": 354,
+        "change_pct": -17.2
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-23",
+      "event_count": 63,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 67,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 52,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-09-27",
+      "event_count": 10,
+      "sentiment_avg": 0.25
+    },
+    {
+      "date": "2026-09-28",
+      "event_count": 50,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-09-29",
+      "event_count": 25,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-23 ~ 2026-09-29）共 293 則事件，重點為「Space Economy Investment Hits Record $23B As Sp...」。太空產業通用、太空防禦、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "銥星通訊",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 36 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "行星實驗室",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
