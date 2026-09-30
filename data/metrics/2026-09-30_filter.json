@@ -1,0 +1,16 @@
+{
+  "total_raw": 278,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 32,
+  "gate1_fail": 16,
+  "gate2_fail": 22,
+  "passed": 78,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.3% - What's Next? - MarketBeat",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.6% - Here's Why - MarketBeat",
+    "Intuitive Machines (LUNR) Jumped, But What Is Driving Attention Now? - simplywall.st",
+    "Cash flow from investing activities of L3Harris Technologies Inc – HAN:HRS - TradingView"
+  ]
+}

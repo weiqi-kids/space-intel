@@ -1,0 +1,216 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:29:46.419726Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-09-30-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1U4VkFKUDhHdXRMR19sS284WGhzbUpIUXNNOFp1UFJpeEtMbzR0Y2M3YzVUam0tX05fLUJFWnlWVVN1blRLM0hHRmk5Uml1Rkd2WkRmRnFsQi10WEI0akw4RXk2azRnUzlkSS1uNDVlSnFvWjdjUVZXUGVEaE5yc0lNUUN6VHJFX3RsTzdlYTIxelUtM3gybVJBMTVMQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-09-30-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX Treads Water - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVENSU1UtNU5aQmxfMmh3aExfTExlRUJKSm40OHdtZ3M2TUpFY1dNU1ZMMWVOQW15d28xY1VTNXFvQlNuaDNGWFNQRTk0XzRBUDd1S0RVSzlfSkpzckwxekZSTjE4SmpJM29Tc0pjbm5DZnQzLWNWNWZ5LW5HcXVKa3VLSGlRejhydFEyY2dQdTdkekh2bnlSMXNnQ3dTVGFreUZBY1dVOTFXVXNhYjdrNWJ4cno3THA4MkRDZHVyNlVRckhZNFpQVWNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-09-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUM1UE1PdkFiY0t4eWJxRm1tLWFuY0dRZVVIaExQbktOMlZoQ2VoSGs4UTllVjJYalptVTlTQVA1WDNtbzB4OXd6UFNzSWY4aFNwZUplM19qTG5LNk1DR0hPSmphQzB0bXpsNURRZFloZEtiNHdRbXNyZkI3Vjc0blRPa21ZZmU4bGY2LWs3Um1JM19UVlc5T2JpZlZfdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-09-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Sold Kepler a Dedicated Neutron Flight. Here's How Many More It Needs to Justify Its Valuation - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0NGUWk1dDVkUDVMRWZoZHJHUExraG1VdzVabUZVQi1lWDRBUUNFQ0J3elRrakRoUzJlblpIVVpZbHdhRWVSSmxwNXJHQmtrZGN0WFJDRER1YkxXSC1tNmRYQUtTdVc2Vm9mWGhBTmVIUG9rc1JWaC1TWnpydTdiRGVZYVJ1R1czYXdqcGRIUWZkSEo1aEZn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-09-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Rocket Lab stock rallying today? - Investing.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUTNyLUNlZ0FvemFGVHU0UDlmYlY5SmFpdHB2N2dtMFBqdjFhNU1UN09FTjA2LTNTRDVScGh4ZTUtT05Zbkw4dmpJODdBTi1NVDJqNnZtVmh4TTZDdXgxTjBsdEJZUzVnM3V0LWt2cUpBVEttRTZJdmJyQVFQQ3VKbzhpMDdpTGY2LUZOUHZDbS1RUVNOZ25DQUJzbnVEaHJjMGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 33,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 7
+      },
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "ses",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 278,
+    "dup_title": 130,
+    "too_old": 32,
+    "gate1_blocked": 16,
+    "gate2_blocked": 22,
+    "passed": 78,
+    "pass_rate": "52.7%",
+    "gate2_block_rate": "14.9%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.3% - What's Next? - MarketBeat",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.6% - Here's Why - MarketBeat",
+      "Intuitive Machines (LUNR) Jumped, But What Is Driving Attention Now? - simplywall.st",
+      "Cash flow from investing activities of L3Harris Technologies Inc – HAN:HRS - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為AST SpaceMobile、火箭實驗室、SES S.A.相關動態：「AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile Jumps 5% on Takeover Speculation; Rocket Lab Rises 5%, SpaceX...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
