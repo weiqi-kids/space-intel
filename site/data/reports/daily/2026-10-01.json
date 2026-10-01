@@ -1,0 +1,238 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:59:15.254535Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-10-01-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSm9ON09CYjNPWDZKejEza0M4bG9YbHlka1dqTVJCTG1iamxQSmpyOUc2bVZyV2NnelZHR25nZ1dJYkFSRFlkdm9WUEFNSzVhVjJUa01GMWtsMk9HNVhQdjk5NnpNNlBsZTBjOUt3NnhRYk9kMmU4eDQ2RUcxSUZSUWlEUkNqWG8zak5xMzE1RERxb1VQOU9rcXdjZVJJajBIbWE2TkdBR1JLczVFXy1DZUNjR241NEY0OGFNNkJ4eFZxcW1QS1BXY1lvNVROd29raDI3Z0J1TWtZNEJDXzB1LUlNZnM4bVBzRi0xT2ZlNWpRMm9WTlNfUVNiRjI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-10-01-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat - AOL.com",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxYm5oSm01YV9GZF90OVlqSlF6bkFTUEdlLWo0TnBZUXJUZzM5UTl0YUxOTjUwc1FBYi1FRjhUWmRPdW5rSS1RR1Fic3VaVTZ3RW91V25RcE02Y1Z5RzFnSVV6OWF6dzZrSVJOakw1cWxUUjR0SUxwQ0dUZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-10-01-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat - finance.yahoo.com",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNS1BhM3dVNVdYblU5SzlOc2FtOE81amZBbGRaYlVPRU5kTEN3X3hWU0g4WHVWakFOQVRaLWVxSVFURVBaWTBXOEtwN0FQV0wzemViR2Z6c2VjS1Q3aXJobUNkQkJDZThYUUdiMjhMeGtsY2E4cFRMT1lXNEViUlNCTC1fZ1BGaDlvMUw3UGhleDBkYnNFZWJn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-01-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Stock Rises on Record Electron Launch Deal and Citi Buy Rating - Barron's",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV2YwTU5nUkEwXy1mbXYwRHNpTjVreTdzc3h1UzMyZ19Za1dhaHZIa2s4TEtWTUtJNmJNVWE5V1NnNlRuRUtnOUNDOEd3cG8wZmZRMTRibmFXNElJN0k2RzdGX0tlamFNUWVYWWZBUFNxcklqb1AxcWFWNFBmNHRVU19rbzF5UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-10-01-026",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ASTS ALERT: AST SpaceMobile, Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit, Robbins Geller Rudman & Dowd LLP Announces - November 13, 2026 Deadline - PR Newswire",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQTGt1NlRfNUdOMl9rNlpFUzc0dURhR3MwTVFtSGYteW5ndFRJZHBiTXhIX0Uyck1aQU9lWkljcHhQd0JBSXd6d09UMzFheU9VR1g2SmgzZzhydWIwNGE1Q1pkS0ZnYW5DdkFfRjcyRV9GNkRaenRMRnJ0ZGplM05VLXl1ZDNOLWJadS0yakZ6aUUyRDBNZ0hZWkVQcnVnR0dwRlFxeVFOVnhJWFhEVU9oNnBBMmIwendJRTRiY0NfM2oxeGFHNnpVemExa2djeUZEZmNoTUxfREl6aTBBVVNTZklQMGNpMzZNeEhDSDNMRklHdnZwUVFjVHVmcFcwSVZOMkR5bUp0R0ZnR1djdlM1azZqc0kxRzRZS21NRGctdlh6MnczYURLc05rYW93X0czSUctUjdOcFo3SmRzeDZKaW9QSjdKdnd4dnY1Qg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 40,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 38,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 16
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "ses",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 279,
+    "dup_title": 116,
+    "too_old": 48,
+    "gate1_blocked": 12,
+    "gate2_blocked": 20,
+    "passed": 83,
+    "pass_rate": "50.9%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Down 2.1% - Here's Why - MarketBeat",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.3% - What's Next? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.6% - Here's Why - MarketBeat",
+      "Intuitive Machines, Inc. (NASDAQ:LUNR) Stock Rated \"Moderate Buy\" by Sell-Side Brokerages - MarketBe"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 40 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts ...」。主要關注主題為太空產業通用、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Mis...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Mis...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
