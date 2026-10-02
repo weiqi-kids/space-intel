@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-02",
+  "total_events": 28,
+  "by_company": {
+    "rocket_lab": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 3,
+      "sentiment_avg": -0.17
+    },
+    "spire": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 27,
+      "sentiment_avg": -0.02
+    },
+    "launch_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

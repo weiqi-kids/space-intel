@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 31,
+  "gate1_fail": 13,
+  "gate2_fail": 20,
+  "passed": 80,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 1.3% - Here's What Happened - MarketBeat",
+    "Intuitive Machines vs. Virgin Galactic: Which Has More Potential? - es.tradingview.com",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "Intuitive Machines, Inc. (LUNR) latest stock news and headlines - Yahoo Finance Singapore",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Down 2.1% - Here's Why - MarketBeat"
+  ]
+}
