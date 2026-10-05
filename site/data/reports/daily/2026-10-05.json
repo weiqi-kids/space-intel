@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-05",
+  "generated_at": "2026-10-05T16:40:52.273058Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-10-05-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVlpmbzhoSkUtU3pWSkpDRU40Y0NvMzdTaUhDR1JLNEk0V3FHTjM4amVhUHBKYldVMl9WZEdDNFJON2I5YUFkRUc1azQ1aWFhdVBMN25GeExwTlpCYnJVdmJicmRXQVNEZ2Jfamh5X2xyVElmTVhHdjhrc25mdzQ3RzM3NmYtQ0JwbWlwazBGbGlCZXA5YnVsdG1KNmV4ZnducEZZSnR5enNsdkJidHBGeEFHSjQ1NUdXUE1sTGZIbnNndllrSmsxT1RKNUJabGlFZnZjRkhLZXV0TGdfQ1hhS0xFSEJraDN2TVlqd1Q3LVAtNHBhTHRKZWYtZDZXUnNPMW5SWDl3RHZON1Bw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-10-05-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reiterates $300 Target; Rocket Lab Slips, AST SpaceMobile Nudges Higher - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkdTSHp1ZjBCUEtfMjYwbm1vQTFnaHQtclR0czRFUkhmalhKbzN1X2k2S3BaSjVaTl9hUXBfbENNeHYyZXZuZ1AycFM0SzF0WGpvWXBZZ1NFUTJ4aUZKYVFRRExvTVFuNGJNT0RHZkxZclMzUHNWZVZKU1dPRnpiNUJrdHhfWFJrdTFaNXFnM3Q2WTFkSVNBZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Rocket Lab's Supply-Chain Strategy Support Future Growth? - Yahoo Finance UK",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVYwZFZTWG12UDQzdkpZd0NrWnBNZTB0WlhEMmR4RXpmdmNXT2hxa0Q4Xy1ZZHQ0UnJadUJZN2lpbTA4NFJyMGVIWjcydGJIYXlzMTEwYWRwcGxhQkZlRklDaHBRTFBkbXE3Vm9wUmVENE9tX0xEMFFDcTgzN3g4ZnBUWEQtcWhXdFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Down More Than 50% From Its High, Is Rocket Lab Stock a Good Buy Right Now? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONVNQdDFoLWM2TTNTZ2dOT0FYeWVyQUhUbTFoQVlxeHFHZFM0WVZhMVNNclNaZDFkMU1Pb3RiZlMzZGhtNGVONmNaMHo4TkUxMjBTUktWN3VyQnVsTEM0eFFLQ2tCSzBGNFNEOXZzc2xWa3BBN0ZtWlh6Y21yUnM4QlVCaVB1YWN1aEc3aUNhTnFsRnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab signs largest-ever Electron launch deal with Synspective - SatellitePro ME",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUhxcndrWFNkSndCSV94NjZxeGNqRlRkbzViZUtINXdseWhtMDdzckYzZ3pSeVZPS3RpTTNyTXhfS0xicmF2SWotZlJkWDNKamNoeUJWMFpnelp3SDN3NGlQUDZ1S3ZQc0dMV2dobTUyNjV2cl9oNjRteENMcm5yb2N4QS15YURaVUR4Q1h2bE94QVdiRk10X0lmQXNycVc5Wmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 32,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 9
+      },
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "planet",
+        "count": 3
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 276,
+    "dup_title": 165,
+    "too_old": 28,
+    "gate1_blocked": 10,
+    "gate2_blocked": 16,
+    "passed": 57,
+    "pass_rate": "51.4%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Intuitive Machines vs. Virgin Galactic: Which Has More Potential? - es.tradingview.com",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 1.3% - Here's What Happened - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Down 2.1% - Here's Why - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.3% - What's Next? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Mo...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reitera...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SpaceX Climbs 5% as Musk Renames SpaceXAI to SpaceXSI, Morgan Stanley Reitera...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
