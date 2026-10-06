@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:38:45.777160Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-10-06-004",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Climbs 3% as US and Japan Back Rakuten Satellite Tie-Up; Planet Labs Jumps 4%, Rocket Lab Ticks Up - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab",
+        "planet"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTHFjaVNxdmhXNXl0a1YxZk5fTTBwZWYyeWxnQUJsWGFQWDNOTTBwWTZ6a0xXMHg1bTdkXzBiYjJia2ptVTBmd2FrbzVUakhoc1ZrRzJTMVh2X042S0sxZjl6ZDE2SnJqWURXWjZzYUtPV2ZyWnU4ZVFoR0MxLXZiNHd0bWFNUU10b0tUdkd1MzhmOHRCa3l4NVNBWXItcUU1bWtmZVU5Nk9wc3JvOElfdkx1X1RRUTdTZmluRWJDRnlWYURfOWZkUUV3dUVyMl9FS1oxVWgwalc3akhTLVc4LWRxMjlJQVZEWUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-06-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Key facts: Rocket Lab (RKLB) Iridium OK; Synspective 20-launch; ARK buys - TradingView",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMzM2LUR2TU1rYlE3a054LWpma0NoOWxPZlhBY0plWDRIUl9Ib1psay1KVmZ2SVNoSDZ0cDRyWnF2eENMQkp4YVp3OVU1OTNaNW05bnk5YUxLUTVuV0Q4NlJ1SF95d2tJQ29jOU14TWdpcnpFbzFCN1VLU2h0bjBCVWFDTDVCSTJjUkNXekEwTERqNW41R0k2ZHNKRGdsdnJOWWdJY3oyX292Mm8ybHgxQWdzajlCRmMxNGNPT0xpeTFyTWlDcm10UQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-06-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Lands Record-Breaking 20-Launch Deal with Synspective for SAR Satellite Network - Gagadget.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUEJyc0E3VUNpY1FNZEdmYzd3QkJBT3FQbEZQT29JZnhCUnZ4M2xmMDlzSFFLTU0yVTR5M0xYQ2RfWVlpQ2d1Ynh1T1VyZUVMZTZZOHJpYVphNHVDaE5kZ05LTjB4SG9tYS1BdjJZejkzSU1UaHlwWktqMll1RzZJdXFfMjQ1dEp0SlA5enJRMFBobjA5WFYzdXZuNVFNRE5YWkhGWWtOdnNESmtGRzhTSWtsXy1FcFoxQ0s3NG1fZ9IBxAFBVV95cUxNOGdvTHRnT3JhRmpiQlNlLU40aTR4OVg0ZDhiR2JxZ1NCNEdYYUF2YVhGQzZVc2hIeTlxSTNIVE9jZXprVHRibmxyQlp2bER5WkVraFF4Z2dfbHZJbXBwZ2dBSHE1a3NrN2s4ckFsZVhNRy14bUhmRHhzRlpEay0xT010RWRFSXN3YWdlZGloa3o2cTJsQVFuZUJxWVV3NXkyUzRoNk01X1RqazFESU5CNEZkREVYZUVnR0JaLUQ1YTZqbWhx?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Rocket Lab Capitalize on Falcon 9’s Exit Before Neutron Slips Again - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOTExQ0dSQW1lWU9jTEtRWDUzTmZ6WVpNNnVmOHU4aWZ0SWZBWTZnSVNRdUtVV0lJTVB3dXFmMXNvNUxFLWxWT0FmTnMwVHFuYWExbVZocU1UbFE5SEhPcXg2aEZZR216OWVsU0lkSWZ4eWtSTy10dVJDaWFqNzVBbFlmOFF6RDhqZUZuR2N3TC1IQ1NKb25SbnI0MA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock Forecast: 2 ETFs to Capture RKLB’s 50%+ Upside Potential as Cathie Wood Invests $16.6M - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1U1NEFCXzdLRHNHY0FzVEMtcXEzY210SWNKZDlBRjB2b1l3ZGVkOTlhcFlUOV9xUHo2em0zZ1lpN0FhOFBSRENJOWEwbkE0M2JqY1Zld216Ym1nMl9wREV0QWR1N09wODdDRXpVaE02dXMtVE5fLUF5WThEeVZDTk9Hck1IUUlOS2ItcndZaDhJRE9jclFCMkFxSWJKX3plODRJSzYwQWlEV0tHWTVtenBVX0lfZXlKSDRFVFlUVExfYmljOHln?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "boeing",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 158,
+    "too_old": 28,
+    "gate1_blocked": 11,
+    "gate2_blocked": 25,
+    "passed": 55,
+    "pass_rate": "46.2%",
+    "gate2_block_rate": "21.0%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.9% - Should You Sell? - MarketBeat",
+      "Intuitive Machines vs. Virgin Galactic: Which Has More Potential? - TradingView",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 1.3% - Here's What Happened - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Down 2.1% - Here's Why - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為火箭實驗室、AST SpaceMobile、行星實驗室相關動態：「AST SpaceMobile Climbs 3% as US and Japan Back Rakuten Sa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Climbs 3% as US and Japan Back Rakuten Satellite Tie-Up; Plan...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Key facts: Rocket Lab (RKLB) Iridium OK; Synspective 20-launch; ARK buys - Tr...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
