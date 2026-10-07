@@ -1,0 +1,16 @@
+{
+  "total_raw": 276,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 24,
+  "gate1_fail": 8,
+  "gate2_fail": 28,
+  "passed": 65,
+  "gate2_samples": [
+    "Intuitive Machines Stock Moves Higher: What's Going On? - TradingView",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+    "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "Intuitive Machines vs. Virgin Galactic: Which Has More Potential? - TradingView"
+  ]
+}

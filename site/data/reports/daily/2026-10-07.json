@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:58:35.574216Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-07-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Slips 2% on a Reported $40 Billion Chip Financing Plan; Rocket Lab Eases, AST SpaceMobile Falls 3% - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUc4Mk45ZDVZY3B5NUpkZGdteXlzYURvRGRGWGFmS1RqNndxZFp6dlE2M3lUMTZ6cGFldW9NV2VHMFhpMktPUTdISkxPcVlzS1ExZXZ6bk9zN3JQTjdxSU05blpNRWx1WnJ3WkhHanBBdGhCak9NVXF1ZUhDVndnMExqY3V0REt4S2hWQ0x6eEYwZ3U5eWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-07-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Redwire Falls 5% as Space Stocks Sell Off Together; Rocket Lab Drops 4%, Intuitive Machines Slides 6% - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "intuitive",
+        "redwire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUJERmdTeFE1V2J2cHJWWFpnREI3TFVIa21GRmhWN1U1ajdXOHphUEtwdG9YSTdOZTZhMjVxNUs0SzNvYzJHVWVZM3BKLXNDaGJrN3R6V2RNa1hmeWstZFJ6VEw3SURaSVM2VDRsMEJLSWtYMFJzTklkN211eGs5bFA1eWIyT2lSa0YwTDZPMFlVQ05XajRqVnBsb0dKLWpzLXd2WU9laVRIUVNGdWhlMDY3ZV9pbGtZdEpjUUc2UzByQ0ZFR0lNVmhyVDRBNzVHb2k3ZjYwcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-07-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Arctic Sea Ice Shrinks to Its 2026 Minimum",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab to expand operations at Wallops - Shore Daily News",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTXo2eWZmZ19JNnM2SkRmbWFYWDY4ZmwyWVF1aWppQjA2azROWnFWM0J5dFh5VUJtdlhmZk1uV21saVRBT0gwMXByZVdkYTVscU5OSG90TnJLTGllMWxqY3pENzhiczI0MnpYV0xNT0F4UTRqZTRaQ0pmNDFCeHFNVQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab: Ready For Liftoff (NASDAQ:RKLB) - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TNFQxNHB5bmp1WGYxVFQ2MWNmbjdtNFdGR28zREZRRGZDUWRwRnlRMkVQMDZLbUEyeHRzU0hRLUxHcGxCczdNMzRZQ041Sk1aWERmWnM1bWlCSkVYNHMzWm90NkJxdHJRdC0tUUJJVnVteS1KaUpicw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 9
+      },
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "intuitive",
+        "count": 3
+      },
+      {
+        "id": "redwire",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 276,
+    "dup_title": 151,
+    "too_old": 24,
+    "gate1_blocked": 8,
+    "gate2_blocked": 28,
+    "passed": 65,
+    "pass_rate": "52.0%",
+    "gate2_block_rate": "22.4%",
+    "gate2_samples": [
+      "Intuitive Machines Stock Moves Higher: What's Going On? - TradingView",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+      "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Intuitive Machines vs. Virgin Galactic: Which Has More Potential? - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「SpaceX Slips 2% on a Reported $40 Billion Chip Financing ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SpaceX Slips 2% on a Reported $40 Billion Chip Financing Plan; Rocket Lab Eas...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Redwire Falls 5% as Space Stocks Sell Off Together; Rocket Lab Drops 4%, Intu...（太空產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

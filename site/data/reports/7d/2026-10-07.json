@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-07",
+  "date_range": {
+    "start": "2026-10-01",
+    "end": "2026-10-07"
+  },
+  "generated_at": "2026-10-07T14:58:35.678484Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-10-01-011",
+      "date": "2026-10-01",
+      "title": "Rocket Lab Climbs 5% as Largest-Ever Electron Deal Lifts Backlog Past 100 Missions; AST SpaceMobile Ticks Up, SpaceX Holds Flat - 24/7 Wall St.",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "intuitive",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 154,
+      "last_week": 120,
+      "week_over_week_change": "+28%",
+      "sentiment_this_week": 0.02
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 51,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "ast_spacemobile": {
+      "event_count": 32,
+      "sentiment_avg": -0.05,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": -0.13,
+      "rank": 6
+    },
+    "l3harris": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ses": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "planet": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "spire": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "boeing": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "redwire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 364,
+        "last": 362,
+        "change_pct": 0.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-01",
+      "event_count": 98,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-02",
+      "event_count": 87,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-03",
+      "event_count": 13,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-10-04",
+      "event_count": 15,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-10-05",
+      "event_count": 68,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-06",
+      "event_count": 55,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-07",
+      "event_count": 28,
+      "sentiment_avg": 0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-01 ~ 2026-10-07）共 364 則事件，重點為「Rocket Lab Climbs 5% as Largest-Ever Electron D...」。太空產業通用、太空防禦、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 51 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 32 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 4 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
