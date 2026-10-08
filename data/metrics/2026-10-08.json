@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-08",
+  "total_events": 21,
+  "by_company": {
+    "rocket_lab": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "ast_spacemobile": {
+      "count": 3,
+      "sentiment_avg": -0.33
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": -0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

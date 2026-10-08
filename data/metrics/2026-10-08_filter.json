@@ -1,0 +1,16 @@
+{
+  "total_raw": 278,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 18,
+  "gate1_fail": 10,
+  "gate2_fail": 24,
+  "passed": 62,
+  "gate2_samples": [
+    "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.9% - Should You Sell? - MarketBeat",
+    "Open Architecture Is the Battlefield Advantage - L3Harris® Fast. Forward.",
+    "L3Harris Technologies (LHX) Lands $6b THAAD Work, Is It 31% Below Fair Value? - Yahoo Finance"
+  ]
+}
