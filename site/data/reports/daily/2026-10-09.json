@@ -1,0 +1,247 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:52:11.830660Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "planet-2026-10-09-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; Rocket Lab and Planet Labs Slip - Yahoo Finance",
+      "companies": [
+        "planet",
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTBJSTdWMEQwWEdGZWtERWFqdWl1LXJ6cXFkdUdUenNfMndjRzRRMFF2MG9Gdm5rQUNYVXZ5OG9sWG1JMS1fcmg4VEMwNzFabXpCdGJQdndacURycl8tWFA5R0lFT19pUmR1UUFabFlXSzlldkVDbnVqUzN6VExraFZpWlNBN0l6ck8wTFJyV0xZdDI0cE5rbkliNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "planet-2026-10-09-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; Rocket Lab and Planet Labs Slip - 24/7 Wall St.",
+      "companies": [
+        "planet",
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZDlrOEhlNWE0YXl4ZVk1dXBMVWllU0pTMFZLQVRXbHVZcnN3MldwWEZ1ckFGN1lmb3lWNV90cmlmNzlibDRvV1E0bS1WY3VVa3lqcEhudXRYOTNRODExRHltYTdWdnVGUF8wSG04ajlXN2U1U2VNOGxhMzVrQnV1dDVGdWVWVlo2WGh0OXBSNVE0Ylk1T091aG9VWGpZVXhJZEdqOVRKY2V6NW1EMlV4N0dWWVUzbTlhVGhyMGZhTV80bGdGNjhCVng4aG0yOGc4Y21sMng2QkVDQzJwOV8zZjRDblA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lockheed-2026-10-09-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Here Are Friday’s Top Wall Street Analyst Research Calls: American Express, Archer Aviation, Fastly, Jack Henry & Associates, Joby Aviation, Lockheed Martin, Palantir, Rocket Lab, SpaceX and More - 24/7 Wall St.",
+      "companies": [
+        "lockheed",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORndEdFJJY0R3aE14NVgzeTNZRExHeUlHQzBWbnRjSXg4eTYxSW40VE95ZWp5SXFfbU5UeEU3Nkw3bV9XVGM2OW4tVkREZHBYeDdFa1VMcXBpYWQ0OWZqajh5dk5pTHVKNzQxYWtNN01LOHlIaEdjMWZvU09BbjVfd1FhNkhTbm5QOURsYjQ4Zm1vem5rOE1sVlFyUmVuTTRnZFN4eXUxS0VYczVjOVJONUxUM3BabDA1bEdteS15M0kyc0QxYU9wZGhpU19yR2RlZmpReWtNY3RNUW0tMDhYNXJDcGlveFdpd1o1REIyX05rTnV5R3RtV0lHOFRmU3FPRUh4dXkzUFE1MzJiMWVOY0x2UUNoWjliVk1aTmlnQW1YekdURm1GUllvb1k2Ym5PQzhCTUVuazAtV1ZiMjRVNXk0LXJUMkU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Stock Eyes Rebound After Bullish Coverage - Schaeffer's Investment Research",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTUJmS3ZzUEdEQV9xcW0zN1pmdVMzVGNCQXdNRF82cUdKN2lsNGc5NDJ2QUhMaGs4NEE3WmtMQzRveUZCRlRzZ21CUGZmY2hnXzdieGhuZDRiV1JPU0RVZy1kQThsYzVGUi1PYlVzb3EzbWdzeEdIaTBZYmtQVEdVcFEyUWV1UUw2b3pYNlpHT2Q1ZUc5SXdDMjlxZ1FzajdqWVgxeXdCSEdEeXdKMGJjZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Is Getting Closer to SpaceX - TradingView",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSllidTBubHVTTHNQc1pHWlFfM3kzTnUzb21zV3JaQ1I4cEFEQVJnLUlzWkhDTC1uMy1iT09aek5oOFpvMFpiRDRGRXJlNWp1aG1neEg4cXVUbHR0NkpKZzBEYk5BT1BiWks4cDQtYzVBSnM1bU8tejNlSnBPb3lpbUNTZWtLcWNIbG1aaEsxNzNrN0JhMm1jNUFaVldLd2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "planet",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "planet",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 6
+      },
+      {
+        "id": "planet",
+        "count": 3
+      },
+      {
+        "id": "lockheed",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 275,
+    "dup_title": 158,
+    "too_old": 22,
+    "gate1_blocked": 15,
+    "gate2_blocked": 29,
+    "passed": 51,
+    "pass_rate": "43.6%",
+    "gate2_block_rate": "24.8%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+      "Intuitive Machines Stock Drops Wednesday: What's Going On? - TradingView",
+      "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.9% - Should You Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為火箭實驗室、AST SpaceMobile、行星實驗室相關動態：「AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes O...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile Falls 6% as SpaceX Spectrum Deal Closes Off Low-Band Option; ...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

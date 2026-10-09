@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-09",
+  "total_events": 22,
+  "by_company": {
+    "planet": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "rocket_lab": {
+      "count": 7,
+      "sentiment_avg": 0.0
+    },
+    "lockheed": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "l3harris": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "spire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 22,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "planet",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "planet",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
