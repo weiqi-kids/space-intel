@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T14:08:45.082112Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "northrop-2026-10-10-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+      "companies": [
+        "northrop",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (NASDAQ:RKLB) Raised to Strong-Buy at Barclays - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSU1rMTNMS3lEdFZVODYzVDQ1MkdjRzI3NndOR3VmZWVqMnhHdThmN0NFNU1tZG9nSWVqWE5OOEprMGdJZ3Q1N0VUaUpnY2ZzUjNzU1E3QVM3bExrMVZuOXRWY2xYMVlqWm1OOElvcEd1bEdPN3NSRjMwTzNBVFU1THM2dC1VYUhEaHZiWkJ5YXYtTTJtQk5NS3FDNURfSTJhU3FNWDFoTFEtNU1TV1lUdzBuVFowbVNz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-10-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines And 2 More Strong Balance Sheet Defense Stocks - Yahoo Finance UK",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUpobURlOHNXRFlmQk5UdGJzVHJuN1Jic1Z2SXlhYzF1ZFdyc0d1LUkzR0s4TVRsdTZ6M180X0pFemZWYWNhWUU4SzI4aTJtd0FqWmgyNFktTERudW9OV3R2R0JzTTZlSnVKYnI5NlFrSncwQ2tTSlVMQ3hLLWVkV21PLS13RlNz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "planet-2026-10-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "As companies pour billions into Earth-based AI infrastructure, Google taking the data center race off-planet - Fortune",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTzhfYkpTNjVCNnJvemwzOTlKRkRzNEkwWHZUS053NklQc29YYUlxZld5OHdVelJtVWVkeXI2WmZyZUpSbWlFOFhtRDA1X1lBallDNFF0aG0xb1gyRzFSQmNNbkp2d1pzQnByVVlmRS1wdER4aVJldWRVeXBwLXh5M2MxZTFsanMzNXE3dzZvY21LNVVkZ1loU2tOQ2JXNEhkOG5HdlB6SGQxZTJaNE13R2FvVkRBUG5xYkMxX2RaNGdid1lDQVdiZks4X1E0Tkt6M0dnTEJPakNxWWh1cWV2UE9XZGJnc24wZWdLSUhQQi1KWnBfekJlZWFmTXZKeXdU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-10-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (NASDAQ:ASTS) Reaches New 52-Week Low - Here's What Happened - MarketBeat",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTC1fWUVCTXM0WTZ6S1pMMXlSN1pSWUJRX3U1UVltb2ZLUDJzZ2FmVHAwR3Mta19tTjAtZXhWM0JLUTZPU0gtNW5QU2dScDU3eUNTdkQ3dXJxZTc2R1hiOTU5aHFOYW1BaW9UTmZEZ2hSd0l1a1NxRlJJNWM3eWw1Sm9RUjRTcHRsQnFJVmk1M1FBU3V3cEpGYV9wVHZsQ2x5YzJpci1Cc0xhajFISDZwcUc3eFJ5OUgzOWVRTmx2T2hScnhubWZmU0l2TQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      },
+      {
+        "id": "northrop",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 272,
+    "dup_title": 158,
+    "too_old": 24,
+    "gate1_blocked": 14,
+    "gate2_blocked": 30,
+    "passed": 46,
+    "pass_rate": "40.4%",
+    "gate2_block_rate": "26.3%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+      "Intuitive Machines Stock Drops Wednesday: What's Going On? - TradingView",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「Lockheed Martin unveils PAC-3 Edge interceptor designed t...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic...（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Rocket Lab (NASDAQ:RKLB) Raised to Strong-Buy at Barclays - MarketBeat（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

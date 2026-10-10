@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-10",
+  "total_events": 10,
+  "by_company": {
+    "rocket_lab": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "northrop": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "lockheed": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 9,
+      "sentiment_avg": -0.06
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
