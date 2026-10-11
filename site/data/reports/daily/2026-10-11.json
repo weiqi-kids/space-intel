@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:32:36.734758Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX Is Public. Here's What $1,000 in Each of These 5 Space Stocks Could Be Worth by 2030. - The Globe and Mail",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNSkJfc0Y2ZkZWekZFYlMwZ3ZQTjdLbm9xcXNCalEzMHVYVXZtSVZ0cERtQTBTSThiUDU3VDhHSkRRLUtPWURVa0Z1c2JRYVR1S0Rudm9tMmJYUmpmYmU2U2diV2JOT0k4eEVjVEVaMFdPSFhmT29qMFo2ckd2TmlZMU9WV3lJNkZxOTIxREM2akw5bnlLNkhlYlp2SVFQQkd6RmFkYnVQdUNXRm9GVnlTUjNPak4zV3lVbHVtNTNvc3cteTcwNGNNY0VnWm9JQnZFcnZGN2U2aDZzSnhoTVc2a25GTVpWeThMbE9JbWFYa0F4WUdDbERZaG5FQ2NwZGRIa1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies (LHX) Could Be 29% Undervalued On Its $6b THAAD Contract - Simply Wall Street",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQamUxMnlVMWMxT1U5azJmTkRPaTZFcTRKZ3BBMVhUeGg4cFR5ODZ2VzNMbzU2YXlqazU0ZFppeDRidXE0MFR4aXEydl9yVko3QlA2NzRDam9lM1VMTHVkTW1Wcm9acDllVl9ndzBQMHp0aDVIUFJQSFZJOU9rYi1Kb1QxSy01ZkszV0RBeGx2QkhETkRKblRGVzlyQUpWRWdfam05NWpBT2JVUXNfVXRRek02U3VIc3lLU3hKRGFGSEtCd0NaNC0wenl0UEFJUkp6elhfTGpIUF_SAd4BQVVfeXFMT0dPWlhpTUwtUm9WT25PLV9SMEJIeW5lelZhUVpnNUR3aTgtdEFTZXZGRHRDRFV0RGMwYWRGck1lZGQyVV9iR09DWWpCUGVPVjVKdkVSQ2Z4YmViUjJzQXdiM2lqOTlCVTNRcUo5QU1fd3lncFhWVUI4b1lWOGZ4WlduWFNIZE5fQnMwbFc3dF84cWx3bmpvcGl6eFhwa2dwMVV2Mko0ZE40OHlxd2pTOFRYblhFMEpuYXA5YUFmcE9NRG42VEt1ZXVfMFZpOWVTdUNXYWRQbnJTcXlVNlRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-10-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (ASTS) Could Be 70% Undervalued After TELUS Satellite Network Test - Simply Wall Street",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNl9iTkxzMXZjc1QwNHRnRERFeHowcWpwM2IzTkFzTWQ1c2lxc0tIX2pHN2N5QUhqcDlyMjRfd0E5ejBmTHRUcG5ua09vMnp4Ty11clVaN3k5QkdGTy1idzJOdjdSYi1uc05Qa2VqTzhCVHlqWklNX3B2aUU3SUNRMDRoeUJuMDNUWG5OM0lBdV9SLUlOU3ZqeWZ5V1pMckVJdWZQbTVkRm9lWFgzZmdjb0xWdVNhbXNPZWNRbHlZQV9VVFFvTGN5bjJGcV9qQdIB0wFBVV95cUxQQmVWS2ExeU5XWkZQZk8zTjdzRGVxMHV5bWlJTXZBNHRKQ25MOGw0MGIyb24tVmVwRE80M2otTWxfUk85MW9rQm5Iek9pTTlMYTJQVUoxM1pac1dpd3hBcWFuenZxV0piS2xKSHFuUllhaF9GalJnYzBCTlVBUTMxTlVudEN0Sm44RGV0aEUwS3I1VUhqLXhXazNsVEx1Vk0wTnVIMndtYjB5aVlvQnB2anFfY0w2aHdZbzVENXdJcmUtOGp0NmV0UmZnY05NenRXQTVV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Blue Origin Advances LC-36 Rebuild for Year-End New Glenn Return to Flight",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 272,
+    "dup_title": 190,
+    "too_old": 27,
+    "gate1_blocked": 12,
+    "gate2_blocked": 25,
+    "passed": 18,
+    "pass_rate": "22.0%",
+    "gate2_block_rate": "30.5%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+      "Jim Cramer Explains How He Would Approach L3Harris (LHX) - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為L3Harris Technologies、AST SpaceMobile相關動態：「SpaceX Is Public. Here's What $1,000 in Each of These 5 S...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX Is Public. Here's What $1,000 in Each of These 5 Space Stocks Could Be...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "L3Harris Technologies (LHX) Could Be 29% Undervalued On Its $6b THAAD Contrac...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

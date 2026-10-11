@@ -1,0 +1,16 @@
+{
+  "total_raw": 272,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 27,
+  "gate1_fail": 12,
+  "gate2_fail": 25,
+  "passed": 18,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+    "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+    "Jim Cramer Explains How He Would Approach L3Harris (LHX) - Yahoo Finance"
+  ]
+}
