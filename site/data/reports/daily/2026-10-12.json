@@ -1,0 +1,252 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:13:12.451225Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "intuitive-2026-10-12-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; Rocket Lab and Intuitive Machines Hold Flat - 24/7 Wall St.",
+      "companies": [
+        "intuitive",
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVQxS0N6Y1Nka1dXNFB3OGZWNlFkM3pIMmJBTWpyNUthRU8td1RxWUswV2JDMk5DT2ljcmZERW5RTXBZdVMtNDZuQlowaDFYZTVTYWJYbUxLemc0VjJNZ3ZOa1hVR0lHWlJ3UjdxNkxHNDI5N2l3OXRWc0daQ21SRHIxN2FudExPZXdXbkRsWGlQV1RoeDZFbWxmRVZnaWx0Sy1SdTQzeW8tNzY4Vk8xOV9zS08wamJDOHlHRTlidlRPMnFEOUJ1cUFGOUJrUlpqNmNUemZ6U0ZUalJVeTRNdWhNeXlGUDQ4Zk82NUFCdlBYUGtp?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-10-12-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; Rocket Lab and Intuitive Machines Hold Flat - AOL.com",
+      "companies": [
+        "intuitive",
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbjdiWHAwdXFieWMydENXR24xRDJ5Mk85M011LWxLYVU5UVp2SEFqR2RibjNnVE1BcTlYWFdQcUsyMno5azJVekNhbk9Tdnp1XzNkM2QtcE83UlQzZWpPb25YV1dQNnUzRTlLdHBEMm1KZWRzME5lY0huc3Z5NW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-10-12-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - The Motley Fool",
+      "companies": [
+        "intuitive",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJ0YW1xSExIUkprekYteXhrMnJSQzc5N0p6V1YxZDdOSmphZjBONXJMTkVVT2piUFZlVm91QnFOOFJCbTk2MFdYOUc5TnlwSXBUdjRjS3R3WTZrUG1uTnVfSXU5Y0w3S3dlbW5CU2piX0xrdjlDQ3lkODdnSkUzQlF3MF9FbElPSF9MbXpxSjNxR0pIeUQxUnp6eHAtVkxVckFQOUMzRkU5OHVFb2dOeS1YMi1NRU40UWU4MGlaQ1JwNWhBd0trbjBBT2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-10-12-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - The Globe and Mail",
+      "companies": [
+        "intuitive",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzZuakVRRVdiWXBmckZacGxMSVNvN2FvVHEzanUxa3VvVnA1VEMwQlJzWU5vMGE5WG5FSlhNdmt0Ym1Fb3JfVmZTQzRrTVBFOFlOYmstUHo0SzNTbmpOR1dGbDhYN2djZ3BGY0V4ZGNBV0k5YjZfcTJfckVnZHNXOXpWT1UtMmJuUVIxMUpQZzVWM01Oa2NibmNQemM2ME83OWZGWGtFekV1aGdJUldLMmZOaDVrMzdraUw2NGY1TkpmQ2liR0U0cGJvNlZWRWhsS2F3Z0N0dHA3WnBmYVNYdG9lb0hLTDlVV0hsZjRJZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-10-12-015",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - Yahoo Finance",
+      "companies": [
+        "intuitive",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWltRmZlTHlMQU9qM3ZZU2w5a2paNi1qcmJWSmp5Q1o4emRzXzdhektRRHdWbkRzV2NMQmdUUGtTQ3dhX0xCVExGOTdxYVlvdWI3WXpmUXU3ODdXQ09ObWwtQW42SklqXy1XVFRseklxUE90SkRZdVhJLTJrLVJETEptaUU2dnhSTnN4aElsaWE3c2x0SHllOWdiTWdaRzJFaF9FNg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "intuitive",
+      "relation": "co_mention",
+      "co_mention_count": 5,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intuitive",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 34,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 14
+      },
+      {
+        "id": "intuitive",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 159,
+    "too_old": 30,
+    "gate1_blocked": 22,
+    "gate2_blocked": 22,
+    "passed": 59,
+    "pass_rate": "44.4%",
+    "gate2_block_rate": "16.5%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+      "Goldman Sachs Adjusts Price Target on L3Harris Technologies to $361 From $405 - www.marketscreener.c"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為AST SpaceMobile、直覺機器、火箭實驗室相關動態：「AST SpaceMobile Rallies 4% as Next BlueBird Satellites Re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; ...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

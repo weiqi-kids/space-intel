@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 22,
+  "gate2_fail": 22,
+  "passed": 59,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+    "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Price Up 5.4% - Here's Why - MarketBeat",
+    "Goldman Sachs Adjusts Price Target on L3Harris Technologies to $361 From $405 - www.marketscreener.c"
+  ]
+}

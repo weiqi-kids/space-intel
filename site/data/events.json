@@ -1,5 +1,791 @@
 [
   {
+    "id": "intuitive-2026-10-12-001",
+    "date": "2026-10-12",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; Rocket Lab and Intuitive Machines Hold Flat - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVQxS0N6Y1Nka1dXNFB3OGZWNlFkM3pIMmJBTWpyNUthRU8td1RxWUswV2JDMk5DT2ljcmZERW5RTXBZdVMtNDZuQlowaDFYZTVTYWJYbUxLemc0VjJNZ3ZOa1hVR0lHWlJ3UjdxNk",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYVQxS0N6Y1Nka1dXNFB3OGZWNlFkM3pIMmJBTWpyNUthRU8td1RxWUswV2JDMk5DT2ljcmZERW5RTXBZdVMtNDZuQlowaDFYZTVTYWJYbUxLemc0VjJNZ3ZOa1hVR0lHWlJ3UjdxNkxHNDI5N2l3OXRWc0daQ21SRHIxN2FudExPZXdXbkRsWGlQV1RoeDZFbWxmRVZnaWx0Sy1SdTQzeW8tNzY4Vk8xOV9zS08wamJDOHlHRTlidlRPMnFEOUJ1cUFGOUJrUlpqNmNUemZ6U0ZUalJVeTRNdWhNeXlGUDQ4Zk82NUFCdlBYUGtp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-12-002",
+    "date": "2026-10-12",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Cathie Wood Keeps Buying Rocket Lab Stock as It Trades at Less Than Half Its Record - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVJM0tHcXN1aXplWjBoWkVpd1lXamZVdjVzQUIwVXluRV9oQVJ2TWRXMERIMDF6MWJkcnNrN0hQVHZQM1BrNkg4ZXU1a3NMemZjNnlVcE5weXRZSl81NHh3dnI0dkxYOTFsbklNcy",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNkVJM0tHcXN1aXplWjBoWkVpd1lXamZVdjVzQUIwVXluRV9oQVJ2TWRXMERIMDF6MWJkcnNrN0hQVHZQM1BrNkg4ZXU1a3NMemZjNnlVcE5weXRZSl81NHh3dnI0dkxYOTFsbklNcy1OR2VSMFh5bmpHVXFsajZIZ1gzMFdSX1BhODVOY3NTS1pIOFJoOFFxZlJEYTIyXzlyZWpyRTJYMFV6Q1Buc1pFc1JtVVhrS011TUNlNkZVSjROWklq?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-12-003",
+    "date": "2026-10-12",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Cathie Wood Keeps Buying Rocket Lab Stock as It Trades at Less Than Half Its Record - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHhhaFNYZVdmdjVaR09XMFNlcG5XSnhST3VrVUF2WHJXZ3FsNFBRRXEwbmJmM2Utb0FqZkNTWWVJSF9lS2YtZjkycy1XOXB1Mnk0N3JabzRiUmhnNVplOGZGcDZHclVCOVQxNzNYdU",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaHhhaFNYZVdmdjVaR09XMFNlcG5XSnhST3VrVUF2WHJXZ3FsNFBRRXEwbmJmM2Utb0FqZkNTWWVJSF9lS2YtZjkycy1XOXB1Mnk0N3JabzRiUmhnNVplOGZGcDZHclVCOVQxNzNYdU95OG05NFltSXA0V1ItckhRTw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-12-004",
+    "date": "2026-10-12",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Farther Finance Advisors LLC Buys 23,204 Shares of Rocket Lab Corporation $RKLB - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2ZselFNb1RwOWxLam0tbmVsSkJ1cVBXR1JGNlNyLXlpbzAydUNNeF91RHp5c3RnWHVmbXg5YjFFOFhaS0tUcmJHdFFGSHFsXzEzczE5SEhVWlJNd25Td0JpdE9uMkpLLWlHQk9Cdy",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd2ZselFNb1RwOWxLam0tbmVsSkJ1cVBXR1JGNlNyLXlpbzAydUNNeF91RHp5c3RnWHVmbXg5YjFFOFhaS0tUcmJHdFFGSHFsXzEzczE5SEhVWlJNd25Td0JpdE9uMkpLLWlHQk9Cdy1UU3RxNkpTRDc4TEhJYTJRd2xFYUlLYU5XRk1EV3BRNXJZU0hlcDVLTlk0cDhfaHpQLW5CV0JwSXZ2RWlvR3hkNmhLSGxHU3lPNlFoVFduUG5hRFQybXJfRHlrdEY3OG9ZWmdYSA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-10-12-005",
+    "date": "2026-10-12",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Rallies 4% as Next BlueBird Satellites Reach Cape Canaveral; Rocket Lab and Intuitive Machines Hold Flat - AOL.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbjdiWHAwdXFieWMydENXR24xRDJ5Mk85M011LWxLYVU5UVp2SEFqR2RibjNnVE1BcTlYWFdQcUsyMno5azJVekNhbk9Tdnp1XzNkM2QtcE83UlQzZWpPb25YV1dQNnUzRTlLdHBEMm",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wbjdiWHAwdXFieWMydENXR24xRDJ5Mk85M011LWxLYVU5UVp2SEFqR2RibjNnVE1BcTlYWFdQcUsyMno5azJVekNhbk9Tdnp1XzNkM2QtcE83UlQzZWpPb25YV1dQNnUzRTlLdHBEMm1KZWRzME5lY0huc3Z5NW8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-10-12-006",
+    "date": "2026-10-12",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJ0YW1xSExIUkprekYteXhrMnJSQzc5N0p6V1YxZDdOSmphZjBONXJMTkVVT2piUFZlVm91QnFOOFJCbTk2MFdYOUc5TnlwSXBUdjRjS3R3WTZrUG1uTnVfSXU5Y0w3S3dlbW5CU2",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJ0YW1xSExIUkprekYteXhrMnJSQzc5N0p6V1YxZDdOSmphZjBONXJMTkVVT2piUFZlVm91QnFOOFJCbTk2MFdYOUc5TnlwSXBUdjRjS3R3WTZrUG1uTnVfSXU5Y0w3S3dlbW5CU2piX0xrdjlDQ3lkODdnSkUzQlF3MF9FbElPSF9MbXpxSjNxR0pIeUQxUnp6eHAtVkxVckFQOUMzRkU5OHVFb2dOeS1YMi1NRU40UWU4MGlaQ1JwNWhBd0trbjBBT2M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-10-12-007",
+    "date": "2026-10-12",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzZuakVRRVdiWXBmckZacGxMSVNvN2FvVHEzanUxa3VvVnA1VEMwQlJzWU5vMGE5WG5FSlhNdmt0Ym1Fb3JfVmZTQzRrTVBFOFlOYmstUHo0SzNTbmpOR1dGbDhYN2djZ3BGY0V4ZG",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTzZuakVRRVdiWXBmckZacGxMSVNvN2FvVHEzanUxa3VvVnA1VEMwQlJzWU5vMGE5WG5FSlhNdmt0Ym1Fb3JfVmZTQzRrTVBFOFlOYmstUHo0SzNTbmpOR1dGbDhYN2djZ3BGY0V4ZGNBV0k5YjZfcTJfckVnZHNXOXpWT1UtMmJuUVIxMUpQZzVWM01Oa2NibmNQemM2ME83OWZGWGtFekV1aGdJUldLMmZOaDVrMzdraUw2NGY1TkpmQ2liR0U0cGJvNlZWRWhsS2F3Z0N0dHA3WnBmYVNYdG9lb0hLTDlVV0hsZjRJZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-10-12-008",
+    "date": "2026-10-12",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (LHX): Strategic Asset Sales and Corporate Restructuring as Re-Rating Catalysts - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDRRRUpRSDNLMl9ENE1OMVNpNlo4VDJweUw2dHc3b1Z4QVFCcHo0ellJTFYzeXJTWjhqcF9keUVFYmlPbWVfbk5lQU1aY09oUXBJbW5QSHJmR3g3UXJ3UG9vWTB3ZHB0cnNxREtiaz",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDRRRUpRSDNLMl9ENE1OMVNpNlo4VDJweUw2dHc3b1Z4QVFCcHo0ellJTFYzeXJTWjhqcF9keUVFYmlPbWVfbk5lQU1aY09oUXBJbW5QSHJmR3g3UXJ3UG9vWTB3ZHB0cnNxREtiazQ4Vi13Z1pUV2RXajNFV2ZuVnlBb2c2Zi1fOUl6YkxMb1lxT0FYdWdvNHktUG1td2ZnTy1ndGF1Y2hTUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-10-12-009",
+    "date": "2026-10-12",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Here's What to Expect From L3Harris Technologies’ Next Earnings Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzJJdzdnRUE5RnRGWFdUVFhhNTJNZWpKMkpRUkxsamN0eUdfbVU5UE9TYnpFWmtWblFkb0Rtem5DSU9jNzJwMFZiUDU1RXJfeGdMcDJuYTJlUHFCU1E2UHpmajAxam9MRnlveGxmS0",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZzJJdzdnRUE5RnRGWFdUVFhhNTJNZWpKMkpRUkxsamN0eUdfbVU5UE9TYnpFWmtWblFkb0Rtem5DSU9jNzJwMFZiUDU1RXJfeGdMcDJuYTJlUHFCU1E2UHpmajAxam9MRnlveGxmS0VXN0NRVnQtT29hVjFNU1I1OXl2NTFyV3k0blRHQW5ITVZ2YnMtRGthWTFxZWVWVkNqWjNfWjBNdmNBaGJWMVl3eXNhVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "l3harris-2026-10-12-010",
+    "date": "2026-10-12",
+    "companies": [
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "L3Harris Awarded Solid Rocket Motor Contract with Record Production - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclNqcEt5VEFYSDE5MTVSU3VQdlUwa3p1cTJGUTZQbnIwSUVpN2lZa01XZ1dSYXdoWXV0TjlFejc4VWZnRmdjVWRwQk90THpXNTRDeWd5ZGdsVElyd1ZMa25JbklFOXQ1NU90M20tTk",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPclNqcEt5VEFYSDE5MTVSU3VQdlUwa3p1cTJGUTZQbnIwSUVpN2lZa01XZ1dSYXdoWXV0TjlFejc4VWZnRmdjVWRwQk90THpXNTRDeWd5ZGdsVElyd1ZMa25JbklFOXQ1NU90M20tTk9UUi1MdVNfRTVrV1M5aXdwUzd1ZS05dXhPZ2tLZGJmMTcwTXZSbnIzVUxGaFJpcGNNSG53eE13NTFMalRXUm9vTGxRZ09JYWdfYjg0blc0XzAxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "lockheed-2026-10-12-011",
+    "date": "2026-10-12",
+    "companies": [
+      "lockheed",
+      "l3harris"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "L3Harris Technologies (LHX) Secures $250 Million Lockheed Martin Contract for Rocket Propulsion Units - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENSQ0Z3S2FZMWloR1BPZXd6MXAxaXlRRWxBZHR6dWppaVhTNGFJeWpJYzFoNkk5LVpZYjJXMzJwZVFNaW1LQkZDZVdNUU50cS1BZnFsX3NIdm92bTNORWRaM2lVa0V4cUZoR1ExUV",
+    "sources": [
+      {
+        "name": "l3harris",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMENSQ0Z3S2FZMWloR1BPZXd6MXAxaXlRRWxBZHR6dWppaVhTNGFJeWpJYzFoNkk5LVpZYjJXMzJwZVFNaW1LQkZDZVdNUU50cS1BZnFsX3NIdm92bTNORWRaM2lVa0V4cUZoR1ExUVpEMkpwNWFMQTlFVDRSa0kyaFp3Zk5ZbUIxR3ZYVHpXLXhXcUwwRDlCckc2NFNsMEVOTlpxQ294bC1fOHh0Q2JtaERiZmYwc1dQaDZncUJuRFc0cHdRbmp1US1TTTQ0QVVDNXVZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-012",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why SpaceX’s Spectrum Purchase Is Good for AST SpaceMobile Stock - Barron's",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDcwdDk3Ri1aSXljQnc2OExqUTJkd0FNQzBFM09vNWM1VTRpM1N5V1VPVzhOdFJHMlJzZ1ZQc1hEUWNQbFpWOXRFa2hfRkJ2M21XZE5XaU5uUDJ5N2QzdHd2bnlvOXI0Rk",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDcwdDk3Ri1aSXljQnc2OExqUTJkd0FNQzBFM09vNWM1VTRpM1N5V1VPVzhOdFJHMlJzZ1ZQc1hEUWNQbFpWOXRFa2hfRkJ2M21XZE5XaU5uUDJ5N2QzdHd2bnlvOXI0Rk10TkRiVlRNSGl0SUlJcnctQ1FOZ0cwbE43bml1Q2pXYlhBcDJacjc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-013",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why IREN and AST SpaceMobile Stocks Are Rising Today While Nebius Falls — and What Wall Street Expects Next - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUVQYXU2a2s1WWlBa3hKRVBkWGxUcmoxWW1YOGtxQjJPS1dJYmtFQ2lwWkZjemVkUnlxdFgzSjgwM1NZYWxaNUFxcFpUOFBKZXJqUDNSY3RfRkFKVXhXWmdQVWFnVkpmMGo2TGF6N0",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdUVQYXU2a2s1WWlBa3hKRVBkWGxUcmoxWW1YOGtxQjJPS1dJYmtFQ2lwWkZjemVkUnlxdFgzSjgwM1NZYWxaNUFxcFpUOFBKZXJqUDNSY3RfRkFKVXhXWmdQVWFnVkpmMGo2TGF6N0Z2Y3NrUV9pUV90RTgxV1NGdWw0RjJRc3dGVmQ5aHllekc5dUdHMm9pYjY5THJ4a0NNWGRkTkdaa2VGaHR1aUF2M01KOEh6OTFwSE16bmlPeXRUaEUwV05sQU5nRUNNM2xI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-014",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Buy the dip on this satellite stock as catalysts line up, says Deutsche Bank - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE52cXRXT0JFWElKcG1kZ2VoNENHd1FBd0szZGp3cXRsNnNPUlVra21TY3Q4MUdVdGxHeTFobW16TjFJQkJsOW1pcUZlaHROWkQyZUhIVGdKNjFORmU5dVhTaGpiYTEzd3hjeU4yXzktR3",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52cXRXT0JFWElKcG1kZ2VoNENHd1FBd0szZGp3cXRsNnNPUlVra21TY3Q4MUdVdGxHeTFobW16TjFJQkJsOW1pcUZlaHROWkQyZUhIVGdKNjFORmU5dVhTaGpiYTEzd3hjeU4yXzktR3FDaUhkQThaVGhtNWt3RFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-10-12-015",
+    "date": "2026-10-12",
+    "companies": [
+      "intuitive",
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile vs. Intuitive Machines: Which Space Stock Is a Better Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWltRmZlTHlMQU9qM3ZZU2w5a2paNi1qcmJWSmp5Q1o4emRzXzdhektRRHdWbkRzV2NMQmdUUGtTQ3dhX0xCVExGOTdxYVlvdWI3WXpmUXU3ODdXQ09ObWwtQW42SklqXy1XVFRsek",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWWltRmZlTHlMQU9qM3ZZU2w5a2paNi1qcmJWSmp5Q1o4emRzXzdhektRRHdWbkRzV2NMQmdUUGtTQ3dhX0xCVExGOTdxYVlvdWI3WXpmUXU3ODdXQ09ObWwtQW42SklqXy1XVFRseklxUE90SkRZdVhJLTJrLVJETEptaUU2dnhSTnN4aElsaWE3c2x0SHllOWdiTWdaRzJFaF9FNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-016",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Stock Surges After Deutsche Bank Upgrade - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUV2RjRhbFA2THltUWZLMktRblhJdUREYkViSVpacmdsUjk4Y19XazFvM001SkdBSzFESWdnQUl1ZlBEbFNrR0t4Y2dOYTQwMmtSdEo0QzJCaUxIVWdIMHFYNjQ3RTRPT0Q1ZTNNYX",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUUV2RjRhbFA2THltUWZLMktRblhJdUREYkViSVpacmdsUjk4Y19XazFvM001SkdBSzFESWdnQUl1ZlBEbFNrR0t4Y2dOYTQwMmtSdEo0QzJCaUxIVWdIMHFYNjQ3RTRPT0Q1ZTNNYXlxQm9Fd2huMkV3Yml5QnpVbnFWaXMxOHNVbk85OGNxQmRzX0gzaEQ0VzJLTHhYdXdzdmEyLUstdmFuZHhwcV9nbTNGdkJ5aW1F?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-017",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Has Lost 62% Since May: Deutsche Bank Sees 82% Upside - TIKR.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzRuamhKSE1EMG9aLWM4cGp0TmpPU3lSZFNma1NSR2tiNEtnT1l4VmpOVXdQV3JUYlVmdjNsNUhIbzFvQ1h5cms5ZzJFSEdRajYyVmJZWjVRbXU0Y01MYW83YWZkU2s4VWRGVWUwbF",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMzRuamhKSE1EMG9aLWM4cGp0TmpPU3lSZFNma1NSR2tiNEtnT1l4VmpOVXdQV3JUYlVmdjNsNUhIbzFvQ1h5cms5ZzJFSEdRajYyVmJZWjVRbXU0Y01MYW83YWZkU2s4VWRGVWUwbFp6cUp0NjRrdmFtdmxjN2Y1NDBZOGRzRnhwRm1VUlZGZURtOTZIUWxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-018",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile upgraded to buy at Deutsche Bank as selloff called misread - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPSEVrZS1GTjM1MWM3eGxFWVVXbUYwMkFjTno1bDhUZ2FOWGxtdnpHdjlBTUFKQnVlay1Md1c3MTBDSDI3bHhFNFU3cGc2dGYyN2tTMF9mUUNRcXc5UzFDQVlXWWV3VmFVZzBTajlkMV",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSEVrZS1GTjM1MWM3eGxFWVVXbUYwMkFjTno1bDhUZ2FOWGxtdnpHdjlBTUFKQnVlay1Md1c3MTBDSDI3bHhFNFU3cGc2dGYyN2tTMF9mUUNRcXc5UzFDQVlXWWV3VmFVZzBTajlkMVBsczZzeFgwX0RXaW1xdmsyMEljOGJpenZVQzc2ZVdVTXZ4OG13WXdGRExEVXlISHIxVldsY1ZtUFVvN183ejd0RDFBUDF6RTlEWjJoSDhJUnluQlZhaDVOY254QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-019",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Stock Rallying After Much-Needed Upgrade - Schaeffer's Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0ozQ1J6cGdtYms4QjFMOEc5b2FUOTNDS0VlV3c4cUtsSFE0WlFWVzRwUVd3bkdaUVNKZWNrNlhhUGVGdHV3QWhDTi1URkFiSE5Xanl2R3FFTDdTcFpaV2FTMzRIVk81NklzTzJDMH",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0ozQ1J6cGdtYms4QjFMOEc5b2FUOTNDS0VlV3c4cUtsSFE0WlFWVzRwUVd3bkdaUVNKZWNrNlhhUGVGdHV3QWhDTi1URkFiSE5Xanl2R3FFTDdTcFpaV2FTMzRIVk81NklzTzJDMHdiTk9JQlJjWVJLVnBkTE1LUldtMzVQOGV2eXcxdlpEbDhFSlRwUGtGYUdFVDE1SllpQklFTUtLRXdpbkg0TktaNEt3SlhSdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-020",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Banking Giant sets AST SpaceMobile (ASTS) stock price target - Finbold",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxObFJ1SWkyN2dXOFF0WHRtV1FOQnVyQmV0TzFoNlJBeEFtNFI1RGZzSzR0d1d4M2o2eEFlTkd4anNBTktCbF9EdXJXY0ZkdkVidDJveWpKUmFoMTdfME9VMXJIaU9oNnRTX0VTUUthZX",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObFJ1SWkyN2dXOFF0WHRtV1FOQnVyQmV0TzFoNlJBeEFtNFI1RGZzSzR0d1d4M2o2eEFlTkd4anNBTktCbF9EdXJXY0ZkdkVidDJveWpKUmFoMTdfME9VMXJIaU9oNnRTX0VTUUthZXVXMjlzWkVWeTdkdXdJNE8tV0RrQWFmUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-021",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile Stock Upgraded: Is it Time to Buy the Dip? - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjJvajNtTEFKbkxnbHFRbVVDYUx5cTZBY2ZsbEJpQkd3OElRbkJ6enlWYmp3RE1VN3pDdTE3S2ZmMG10MWR5elN0a0dkVFdobDM5SC02THhHaU1kRXZYSW03aGNyYkpGcl92UXJXRj",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjJvajNtTEFKbkxnbHFRbVVDYUx5cTZBY2ZsbEJpQkd3OElRbkJ6enlWYmp3RE1VN3pDdTE3S2ZmMG10MWR5elN0a0dkVFdobDM5SC02THhHaU1kRXZYSW03aGNyYkpGcl92UXJXRjIwbWVxS1A3WVNrSkhVdjI1VmZuYVBKUWNRSVNWZ2lDQUJ2WTh3cEZMNGRsdmhIUDJyLVZV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-12-022",
+    "date": "2026-10-12",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile gains after Deutsche Bank says the SpaceX spectrum threat is misguided (ASTS:NASDAQ) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcy1ESXhzRlhrcDR2Y1JRZ1pEUkV3MnpFVUtOelFmNUxpRTFFQ1FBODFMX3FacW56YWdpaTNlNXBHNE5uaVFiOWxrakNUVHJldE1hckU5c19PQ0xFS2l1cmI0V0pKZTA0SFdldjdZcm",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcy1ESXhzRlhrcDR2Y1JRZ1pEUkV3MnpFVUtOelFmNUxpRTFFQ1FBODFMX3FacW56YWdpaTNlNXBHNE5uaVFiOWxrakNUVHJldE1hckU5c19PQ0xFS2l1cmI0V0pKZTA0SFdldjdZcm5haGtkSElvT2pSU0xJM1FrTW9mNkFzOHY2THJ3ZmZHRV9MSldteVYydTk2c1NWXy1OOVhSSmxxS0NjUFQ5TGIzZFp5bTdDZ3hmOUFiSkQ4emVuZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-023",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+    "summary": "<figure><img width=\"719\" height=\"719\" src=\"https://i0.wp.com/spacenews.com/wp-content/uploads/2026/10/jenaoptronik.png?fit=719%2C719&amp;ssl=1\" class=\"attachment-rss-image-size size-rss-image-size wp-",
+    "sources": [
+      {
+        "name": "spacenews",
+        "url": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-024",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "The 'Halloween Fireballs' are coming. Here's what to expect from the Taurids this year",
+    "summary": "\n                             The Southern and Northern Taurid meteor showers will produce occasional bright, slow-moving meteors worldwide during October and November, with moon-free peaks in 2026. \n",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/meteor-showers/the-halloween-fireballs-are-coming-heres-what-to-expect-from-the-taurids-this-year",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-025",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Oct. 12, 1964: The Soviet Union launches Voskhod 1, the 1st multi-person cosmonaut crew, into space",
+    "summary": "\n                             On Oct. 12, 1964, the Soviet Union launched Voskhod 1, a 24-hour crewed mission that achieved several \"firsts\" for human spaceflight. Here's why it mattered. \n           ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-12-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-10-12-026",
+    "date": "2026-10-12",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Namibian salt flats look like an alien planet | Space photo of the day for Oct. 12, 2026",
+    "summary": "\n                             The Etosha Pan in northern Namibia, the largest salt flat in the country, looks otherworldly in this satellite photo. \n                                                   ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/earth/namibian-salt-flats-look-like-an-alien-planet-space-photo-of-the-day-for-oct-12-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-027",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How the impossible geometry of 'Tomb Raider III''s UFO level was made",
+    "summary": "\n                             Bigger on the inside? Where have we heard that before? \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-games/how-the-impossible-geometry-of-tomb-raider-iiis-ufo-level-was-made",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-028",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UAE unveils lander for bold 7-asteroid mission set to launch in 2028 (photos)",
+    "summary": "\n                             In March 2028, the UAE is set to launch an ambitious mission to the asteroid belt between Mars and Jupiter that will culminate with a landing attempt on a mysteriously re",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/asteroids/uae-unveils-lander-for-bold-7-asteroid-mission-set-to-launch-in-2028-photos",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-029",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 October 12 – Jupiter and the Moons",
+    "summary": "APOD Science APOD APOD: 2026 October 12 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a differ",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-030",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Antarctic Sea Ice Grows to Its 2026 Maximum",
+    "summary": "The ice reached its third-lowest maximum extent since satellite observations began.",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-031",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mine hunting goes remote as the Navy replaces minesweepers with robots",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uplo",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/mine-hunting-goes-remote-as-the-navy-replaces-minesweepers-with-robots/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-032",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AGVs vs. UGVs: A new class of ground autonomy takes the field",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field/\"><img width=\"600\" height=\"300\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/agvs-vs-ugvs-a-new-class-of-ground-autonomy-takes-the-field/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-033",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US-Norwegian startup Heaviside launches Tyr loitering munition",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/us-norwegian-startup-heaviside-launches-tyr-loitering-munition/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/site",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/us-norwegian-startup-heaviside-launches-tyr-loitering-munition/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-034",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Army again tweaks acquisition structure to remove unwanted layer of bureaucracy",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-con",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/army-again-tweaks-acquisition-structure-to-remove-unwanted-layer-of-bureaucracy/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-035",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Three years of war, 100,000 targets struck: IDF releases new conflict data",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/upl",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/three-years-of-war-100000-targets-struck-idf-releases-new-conflict-data/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-036",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anduril unveils Steelfin interceptor as cheaper option to PAC-3 missiles",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/10/anduril-unveils-steelfin-interceptor-as-cheaper-option-to-pac-3-missiles/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/up",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/10/anduril-unveils-steelfin-interceptor-as-cheaper-option-to-pac-3-missiles/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-037",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
+    "summary": "New Delhi is seeking new customers in a region long supplied by Russia and increasingly by China.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-038",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "US Army, GM Defense agree to add 12,000 Infantry Squad Vehicles to fleet",
+    "summary": "GM Defense announced on Monday that the Army has expanded orders for the Infantry Squad Vehicle from the initial 649 to nearly 12,000.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/news/your-army/2026/10/12/us-army-gm-defense-agree-to-add-12000-infantry-squad-vehicles-to-fleet/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-039",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Powerus unveils fully autonomous drone interceptors",
+    "summary": "Once a threat is detected, the new Guardian 3 interceptors are immediately launched toward it. They strike using advanced AI and navigational systems.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/newly-public-company-unveils-fully-autonomous-drone-interceptors/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-040",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Patriot interceptor deliveries to Poland will be delayed, top general says",
+    "summary": "Deliveries of some U.S. weapons systems to Poland are set to be delayed, including interceptors for the Patriot air defense system.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-12-041",
+    "date": "2026-10-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US Army gets first mobile cannon to replace M777 howitzer, officials say",
+    "summary": "The U.S. Army has taken delivery of its first Korean-made mobile tactical cannon less than a year after first issuing a solicitation.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-10-11-001",
     "date": "2026-10-11",
     "companies": [],
@@ -87,6 +873,142 @@
       {
         "name": "nasaspaceflight",
         "url": "https://www.nasaspaceflight.com/2026/10/blue-origin-lc-36-rebuild-new-glenn/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-11-006",
+    "date": "2026-10-11",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab: The Biggest Test In Its History Is Coming (NASDAQ:RKLB) - Seeking Alpha",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjFUUXBlRGFxSm84Z2Rhek94ME5kQ0NGU01WUDBnYW9acXlQMG0zOVFWZnl5ZXRKX2RPQ1ZOZ3dxTllMVmktM0VxZ2t5R3FhTFc1LXdFZEpISFFpcC1IbHFaVWFHcmVXMl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjFUUXBlRGFxSm84Z2Rhek94ME5kQ0NGU01WUDBnYW9acXlQMG0zOVFWZnl5ZXRKX2RPQ1ZOZ3dxTllMVmktM0VxZ2t5R3FhTFc1LXdFZEpISFFpcC1IbHFaVWFHcmVXMldFckI3Z2RDb0tQUnRuOFh1cUw1ZzlsZ2tvYlNReEZfU0hIVlA1Y1ZvNFZ4OUJJVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-11-007",
+    "date": "2026-10-11",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TD Cowen Cut Its Rocket Lab Target. It Still Sees 32% Upside - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNdi1IbUFVQnRwRGRYZzBxZDNaUmVGTFA4a3F5V2M2WWMxTERSSnNvVjRjT25RekxwV2JNalZoQVFLYWNFSHlvVko1YVpDbXJfdXZZWER0RzJmQVNYOVdMV3FpaUhvajVvVkdnT2VnOU",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdi1IbUFVQnRwRGRYZzBxZDNaUmVGTFA4a3F5V2M2WWMxTERSSnNvVjRjT25RekxwV2JNalZoQVFLYWNFSHlvVko1YVpDbXJfdXZZWER0RzJmQVNYOVdMV3FpaUhvajVvVkdnT2VnOUQxbkY0ek40emVocFJENVA0MEhQcTE3U2RleUUtdHRwQm9wdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-11-008",
+    "date": "2026-10-11",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Reasons Rocket Lab Stock Could Double in 2027 -- and 1 Reason It Might Not - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGppZExOX2EtRUlPa181WGhDa2NZRm1GaHMxZGQ1aTlyUmdpd081dXJldkFyN0g0S2ZaZWkzQ0NwaEVsU2ptaWNtVEYxSndYaXJCUHBINWpxc2xOZ2xhSzB6eUM3YkNWVnhnZ2xhM1",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbGppZExOX2EtRUlPa181WGhDa2NZRm1GaHMxZGQ1aTlyUmdpd081dXJldkFyN0g0S2ZaZWkzQ0NwaEVsU2ptaWNtVEYxSndYaXJCUHBINWpxc2xOZ2xhSzB6eUM3YkNWVnhnZ2xhM1dDYUhESHlONHQxVnVmNEVCMDNaWEZ4UFFKMWdFTHFidlhYaW1S?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-11-009",
+    "date": "2026-10-11",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Rocket Lab (RKLB) Undervalued As Its 20 Launch Deal Tests Long Term Demand? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVcxRlp1TEFKb003ZHdSbnRnOGl4dlZyZ3NLY2dWODJReGRPWW1GZDZvb0p2TWtmSzZOajFaVjZvRXNHN0dKQW4zODlWRjN6M3ZVd3ZRczk1bGMxS0xxRXZGMFBpTm00NVFkWlBQaz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVcxRlp1TEFKb003ZHdSbnRnOGl4dlZyZ3NLY2dWODJReGRPWW1GZDZvb0p2TWtmSzZOajFaVjZvRXNHN0dKQW4zODlWRjN6M3ZVd3ZRczk1bGMxS0xxRXZGMFBpTm00NVFkWlBQazBKdDgzeXVadmdnRGRxNTFBTDg1RF9JYms5WjJQUlBIV0hkdlEzZlVDejVJQWEzMDJ0V05PeHlScURDbW53NEFtZWFjUWw2X01DTUlrS0ZqZVJiN1B2TzVYR0hQWEwyT0nSAdQBQVVfeXFMUHJ4S2dIeDFPQTF3OHdOb3paeGxxUVE3ZEtuY3pweXBhV29DSzRSOVNjc3pzSmhMcnk1emEtWGk5SExZMkpWQmsxNGh2SDZQeEhnQmFYR3lnLXJpTnB1X3VnaW1IVWVMdmxzc0JzT0lkbFJDa0dCWXR6YzhpTG1SejVvU1VaVmx3STNrTFJIREozeHZzbXlwYUNrMEIydHI5TEdqak4zemN3ajVjQmI5VmVIQXhoeklHYWZFOGlRbDhVOXhqM0FzaUhLMXE2ZFYyTmk1VFQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-10-11-010",
+    "date": "2026-10-11",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile (ASTS) Stock Now Has A Bigger Question After FCC Satellite Ruling - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFJqa2RaZHpycXlxT3Yya2dfRXFCa1puTUxlR3BtVWdmTEM1VG9KMnJnNXJQX05vVS0yVXZqLVNTeGh4SU9rUGVacG9VSkhmRVpPZGFfTjEzemhZZmgtU29RUzl0dlp5dkJSbkhuY2",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeFJqa2RaZHpycXlxT3Yya2dfRXFCa1puTUxlR3BtVWdmTEM1VG9KMnJnNXJQX05vVS0yVXZqLVNTeGh4SU9rUGVacG9VSkhmRVpPZGFfTjEzemhZZmgtU29RUzl0dlp5dkJSbkhuY2hLbzVjRzM2NzFDend6NlNaSGhwSE5ZM3lSUTg1U3l5SEFlX0EyZV9oTFNibw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-11-011",
+    "date": "2026-10-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Oct. 11, 1968: Apollo 7 launches into space, NASA's 1st Apollo astronaut crew in orbit",
+    "summary": "\n                             On. Oct. 11, 1968, Apollo 7 launched into space with NASA astronauts Wally Schirra, Donn Eisele and Walter Cunningham. Here's why it mattered. \n                          ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-11-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-11-012",
+    "date": "2026-10-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Webb and Hubble observe stellar nurseries, galaxies, and gravitational lensing in new images",
+    "summary": "<p>Teams using the James Webb Space Telescope and the Hubble Space Telescope &#8212; both jointly&#8230;</p>\n<p>The post <a href=\"https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/\">Webb",
+    "sources": [
+      {
+        "name": "nasaspaceflight",
+        "url": "https://www.nasaspaceflight.com/2026/10/jwst-hubble-images-1026/",
         "type": "rss"
       }
     ]
@@ -431,6 +1353,121 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVi1STEJHcnhTRF9vQk9DdlZDbXhzdXdrRUl6WUtjZzVqUGE0ZVJTZ1R0UWFjSFNzZU9WU3UxNVJXN2xKTHYxbzBMOFlOcmlCZ2dqeTNTaERmOFprdDhMMEF1T1ZaYVBST2Y0OHRPV1MzZUViMWlseS1pa09zbFV3TGl4SDFMLW1UeTFVcUVQZW5tQk1QT0t5NjFZb0t4b0FGN2pLdHMxVWhSYzFQS0xHRXJGSGtMQjhUZ3ZuaXlSbmkyZHAwNVlKXzZuNldKZ25JSXA1cTAwcV9kZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-10-019",
+    "date": "2026-10-10",
+    "companies": [
+      "rocket_lab",
+      "redwire"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Redwire vs. Rocket Lab: Which Industrials Stock Is a Better Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmVtNGcydHhkclBMZzFjZDRRYVE5ZWkyMi1LZFVIUkhmeXlPeEJTM2FQT2V1b0tYdFp3aVM1S3JXYUNJMjVpMW4xOXNHd19KZGVCb1V3eWRuNk45cTVqNThjdlJkZC02TGtOdm9yTT",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdmVtNGcydHhkclBMZzFjZDRRYVE5ZWkyMi1LZFVIUkhmeXlPeEJTM2FQT2V1b0tYdFp3aVM1S3JXYUNJMjVpMW4xOXNHd19KZGVCb1V3eWRuNk45cTVqNThjdlJkZC02TGtOdm9yTTZnWm5uVVoxV0RLeGZwWTVGSE5yVFUtcG1oaXNIOXlVWUFRczlTRDlLcWR0aE5RODA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-10-10-020",
+    "date": "2026-10-10",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Firefly Aerospace vs. Rocket Lab: Which Industrials Stock Is a Better Buy in 2026? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQckJCSFVxeFYxcTQ0WnJQZnJIT1FSclVRYUxPMFdjWnY5YktBclFoc0gxT3cyRTBmaXBkNVlFdEJoRUJvSFdpUkV6eEdPMVg1b0Nlb2FYdGthQ0NpQXpUc3drbjZoR3R4NVFWazA4Uj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQckJCSFVxeFYxcTQ0WnJQZnJIT1FSclVRYUxPMFdjWnY5YktBclFoc0gxT3cyRTBmaXBkNVlFdEJoRUJvSFdpUkV6eEdPMVg1b0Nlb2FYdGthQ0NpQXpUc3drbjZoR3R4NVFWazA4UjdTeXE3TnhvLW5WSF9zRHlDNU4yQzA5MWxEejhGR0J5Sm9acEVpcmt6OU5PeHo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-10-10-021",
+    "date": "2026-10-10",
+    "companies": [
+      "intuitive"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intuitive Machines And 2 More Strong Balance Sheet Defense Stocks - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNbUtVZVNpQWRKSXpDU2ZrODVHWjdsRm80bEJjdG1XTHVzQkFQZ2dSd0d5X0lvU01oMmE4NWpKM0tZLXVsRV8tX2RKRDNNQ1JBX0d0SXIwQWVxTUxwbGp6WjdkX25hbTB6SGVkVW5KNU",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbUtVZVNpQWRKSXpDU2ZrODVHWjdsRm80bEJjdG1XTHVzQkFQZ2dSd0d5X0lvU01oMmE4NWpKM0tZLXVsRV8tX2RKRDNNQ1JBX0d0SXIwQWVxTUxwbGp6WjdkX25hbTB6SGVkVW5KNUZBSFlEWk5WTnpWaUhoZldsaDNqLU9pMUhNZ3o4VDhBY1BrUXktZVo0QUpTbzRkdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-022",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This Week In Space podcast: Episode 231 — Sailing the Stellar Seas",
+    "summary": "\n                             On Episode 231 of This Week In Space, Rod Pyle and Tariq Malik take a dive deep into their favorite space si-fi across the ages. \n                                        ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-231-sailing-the-stellar-seas",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-023",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Oct. 10, 1967: The Outer Space Treaty is ratified to lay out how countries can use outer space",
+    "summary": "\n                             On Oct. 10, 1967, the international Outer Space Treaty on how countries can use outer space ratified. Here's why it mattered. \n                                           ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-10-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-10-024",
+    "date": "2026-10-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "SpaceX launches 21 satellites to orbit for the US military after 5-day delay (video)",
+    "summary": "\n                             SpaceX launched 21 \"data transport\" satellites for the U.S. military today (Oct. 10), sending them up from California's central coast. \n                                  ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-rocket-launch-data-transport-satellites-military-proliferated-architecture",
         "type": "rss"
       }
     ]
@@ -1495,6 +2532,96 @@
       {
         "name": "rocket_lab",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPclMtSldfY0xhZFphd0lIZWtNbDVpY0gwdVE1RGctSXRJVE00MmNFQ0VjQ19sZDNPVVZfdmY2R3ZmQ2x2LUpDQU1STl9ESklRdE55Y0dGRzJXcVlnak5tb1VJT192SDlpUF9nWGdZbHQyem53Mm5oWTg3TVJ6ZWxDSGFzSy1oZnFZSGY4TWJyZ19yVHNaemRTWl9tNjVmQU01SHpjVEhtZEdicE9FYTJPRklBekdRV2lkX1RkRE8tbW1uVlRzNDFIbGpxYXFuQ0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-056",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Stocktwits Space Race Weekly: SPCX Flies Solo In Green — RKLB, ASTS, RDW And PL Fall Back To Earth - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTl9ZNlM0WlA1TkpSSVZ1cG52ckhGVF9uSHNwdE1HVmpUQjI1SFpwNHFrR2g2bU9xa1JSbmE0ZHZqM1pVbktGNm0taFZHZDJpTElEMjhnWExHMFNKWWNrU1lXcnFIMUdmdUd1VXB1TG",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTl9ZNlM0WlA1TkpSSVZ1cG52ckhGVF9uSHNwdE1HVmpUQjI1SFpwNHFrR2g2bU9xa1JSbmE0ZHZqM1pVbktGNm0taFZHZDJpTElEMjhnWExHMFNKWWNrU1lXcnFIMUdmdUd1VXB1TGhlam5TRTFlSlYyRHotNnUyZGxiMGxUTVF2X19JaTJhYnpFRmRzMGlRcC1vN3B6MENyMUZUaE9sRVRCTFdDTEZwWURWdTZvbnZhRDRhN0ZnTDMzdG05RHlmWU1Kc2d3MW1fM0tSQkY2QVQyX2RRcUltTlo2ZDVYRkV6M0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-057",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is Orion lying down? How The Hunter taught me how the sky moves",
+    "summary": "\n                             We learn constellations from diagrams that stay conveniently upright. The real sky has other ideas — as I discovered when Orion returned looking distinctly wonky. \n      ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/why-is-orion-lying-down-how-the-hunter-taught-me-how-the-sky-moves",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-058",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Oct. 9, 1992: Peekskill meteorite hits car in New York after streaking through the atmosphere",
+    "summary": "\n                             On Oct. 9, 1992, a space rock the size of a bowling ball fell out of space and crash landed on a woman's Chevy Malibu in Peekskill, New York.  Here's why it mattered. \n  ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-october-9-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-059",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scientists engineer microbe to help humanity settle Mars",
+    "summary": "\n                             A new genetically engineered microbe may one day help humanity settle Mars, a nonprofit biotechnology research startup suggests. \n                                        ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/mars/scientists-engineer-microbe-to-help-humanity-settle-mars",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-09-060",
+    "date": "2026-10-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did the Soviet Union really fire a cannon from a space station?",
+    "summary": "\n                             According to some reports, at the height of the Cold War, the Soviet Union mounted a rapid-fire cannon aboard a secretive military space station. \n                       ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/did-the-soviet-union-really-fire-a-cannon-from-a-space-station",
         "type": "rss"
       }
     ]
