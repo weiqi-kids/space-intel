@@ -1,0 +1,270 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:28:56.002453Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-13-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Sinks 9% as Piper Sandler Cuts to Neutral on SpaceX Direct-to-Cell Threat; Planet Labs Drops 4%, Rocket Lab Slips - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "planet",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNMXNuODJjWl9mZjVxNmRxQ1VxQWU4cmpMRi1tUi0tNHhmNEpXQThwcUZ0elp3Y2hhSzdKRGYtaEFkZW9aRGQxYmZRYW5wX0hQcUdvQi1RMk9ocXRQUV9VNFF3TFFycDZGaUF2MEt3bnJmUlZySllwLXZLTEF6aWRVZE5LYmc3dTVSejJvUEdZRFhGYnRvMTRYNkVUdUtEak15S3FXNHo1LXk0cUZPS1NDVGdvdWZTYlFhZGJ1S1hfWEFOcUV6RmtrNlZjd3poTkFweExrbHdGYmkyb21ySE52dkRXTVZwV2RjcFVVQUhXY1hFS0NINjI5eTVHOURrdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "lockheed-2026-10-13-008",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "L3Harris wins record GMLRS rocket motor follow-on from Lockheed - Dealroom",
+      "companies": [
+        "lockheed",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmhENWpJc1lBYjVuZi10QUdaaTZuemJUMG5jcUxnOVg1WnJSX3RxLXNTanV4UmlZSDlJakdpV3huUWxZMG9fWGhFUVRSNUVWM1BXeExObTZoODhURk5RZ3hMdndJOUZlMFdpMDEtZnlaUzBlRFpTaURQeDBtZkdhV2k0VnNOY2hVUEdRQkxqVHFfWjB2OFJta0tQOTFPZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "lockheed-2026-10-13-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "L3Harris Secures $250M Contract Extension With Lockheed Martin in Camden - Arkansas Money & Politics",
+      "companies": [
+        "lockheed",
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DN1RhVjJJZlFtV0toSHhzUjJ6ajdQaUxrMkNkdDFrMEszMDNTTi1mY0stVVNqVTZ1aHhuWk5OYXRJUG1pUkkyYzFvNElMR1dlZFp6VlhWT2xUT1VjYk9taWxNX3BBUmpONGY5aTdGc2xTUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "planet-2026-10-13-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NASA's Perseverance Mars rover breaks interplanetary driving record — and it's far from done",
+      "companies": [
+        "planet"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.space.com/space-exploration/mars-rovers/nasas-perseverance-mars-rover-breaks-interplanetary-driving-record-and-its-far-from-done"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "18 Launches Down, 9 More to Go for Rocket Lab. But That's Not the Big Story. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbWRINzZmY3pDbERNZFRPb2tTQVZXYVFPbE1oeEdRemN1cXQ1ZGxQQVlMc3ZSdEk1dEdTTDd0RDZ3cHBzNFp2MHFOTk5jZVJPZFZ5TEVxbXNXUnR5d1FpaWUzM2h5TGlTbTd0SGNNUTBHejcwT2dySm9WRldwWnBsdkNUYzJzT3hmVHlwV2FBVlJfQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "l3harris",
+      "to": "lockheed",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 37,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 7
+      },
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "planet",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "lockheed",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 4
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 151,
+    "too_old": 33,
+    "gate1_blocked": 19,
+    "gate2_blocked": 19,
+    "passed": 71,
+    "pass_rate": "50.0%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+      "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 37 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「AST SpaceMobile Sinks 9% as Piper Sandler Cuts to Neutral...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Sinks 9% as Piper Sandler Cuts to Neutral on SpaceX Direct-to...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "L3Harris wins record GMLRS rocket motor follow-on from Lockheed - Dealroom（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

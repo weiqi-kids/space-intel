@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 151,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 19,
+  "gate2_fail": 19,
+  "passed": 71,
+  "gate2_samples": [
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+    "Is Intuitive Machines Inc (LUNR) a Bargain After 3.7% Drop? GF V - GuruFocus",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+    "Intuitive Machines (NASDAQ:LUNR) Stock Falls 4.9% - Time to Sell? - MarketBeat",
+    "L3Harris to Provide Night-Vision Systems to US Army - L3Harris® Fast. Forward."
+  ]
+}
