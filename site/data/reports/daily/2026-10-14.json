@@ -1,0 +1,200 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:14:20.287156Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "planet-2026-10-14-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock? - The Motley Fool",
+      "companies": [
+        "planet",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [
+          "planet"
+        ],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFhXUUF6b1haWjB5Q1JzX21MSnp3dG9PNjYwTk82ZWhwVEVrcHdTRTlGOFVVYi05TUczSHhINzVBMF9pQ05DV293T2NvMDFMamhSWDRnZmxmLVNudktqTzd5X2dzVVRjQmt6VEEwRllISFdJMnZiUFZaakdLcWZHT1FRbVZ1Ri01R2prcG0zOHV0a0tjMklZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Rocket Lab Stock Ready For A Neutron Delay? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZkZRWUVPRzd3NUZwUjVxVGVaWjltYk1CZ0xObHBhcEZpLWlsR0Q2UWM0cG82alV3ZnlNLTJWSnM2b2praEVtUFBIMFA4NmVBWHVFY2diX3FZa1RJMXZzaTdKbjVfX1FZSnlrRV83OXh2Tnl5Z3k4TW1heW9aSFI0Nk9uaDVUOHB5ZmNLWmVsdElrOVp2MWpqM2pTQ3hKdWJ0OUdNcWNzR3lyZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Climbs Overnight: Rocket Lab Targets 12 Hypersonic Tests As US Pushes For Faster Weapons Development - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX0UwLUNoUFZVcU9BZjVlWF9xdV9md0wxejFrNEEwb2tDTjV6WC1IOXlrTTVwZjdZcGxwNU9jeTRDX0tPc1JKVXV4X1lUWjZqRjdSaFY4R200WC16cUkwOElqbmhweklHb0pNNXpseGFyMWgtbTNleV9DNEJjUXpRY0wzZDN3cTRhaDd1STZvUkZtSXB5bXNQcGFOTUw2ejRC?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "7,766 Shares in L3Harris Technologies Inc $LHX Purchased by ASK Capital Investment Managers LLC - MarketBeat",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT05iakJDQzJsME1mNUpLTEtqblJ4SHppeWJHU0U0X1dTR3MwbFoyaFg0U2RKZEtCUXVwUEl6SFNHRm9DN3p5NVdGS3l1Z2pYb09wOWhRNmtXSThwS3hGSGFYeVg3c1FEM2tvZmczaG1QQWUzZ3ZBa1VFTFQwNXB0SXVaLXZmOXBQdEJlYjN3ckNuNUVpUzRlSHR2b0wzSjB0bzdvU0ZfLXhCak9aQ2JyX095eHNVM3FRLTE5ZWZrZkN0VmVGRTFMektMZkVoTC1jdDBJTU5KSVpTRkpxcGlwWW5lcE5SdHQxcXc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-10-14-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is L3Harris Technologies (LHX) Expanding Its Missile And Drone Defense Footprint? - Simply Wall Street",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNY0pUeDZ0cV9wV1NMVWNld0R5NjE5dVBMT3YtakpPQTU0RkdsMzc3NnZqelBJV2dGV0NzajFOLTVHb2NFbnNjVTZLeW4yOG9EaUZUc01GSkNlNVZWSUUzeDdyWXBvalVJNVhBWFZlaFBJbGlxT2oybjQ1YmczQWNTbDB3RjZmUmhGQ3p2SVpRUFBWaGtBeGJBSTU5XzF6clVHUW9pVWtkV0FOM2ZEUDdGQ2g2WXM0V2YwWlVfN05SV3RBWHpZNnJ6SFpORXdxX2FfNTg1bUVPcHNpZ9IB3wFBVV95cUxNOThNMnRWeEpKTkN1QkRhNWU1QVlsanF3ZDBrVVU4S0otUmpqdmV0Z0lJNms2WlhnWXhxRU5XNzFRUGZYVjA0V2FkLXVDb3NEbWhDMGd6QjlOUkF5bzEzMDh2NTctVTlQaXdBQkNEb2YxclVfcHF5X2Jydk9IU2Z0bHNDSXhWSjVNQXVnbDl2RGpLQlNKVm1qb2NEYTVTaW9uVERqbFBGX1RGZ0VUNHgzNzhqR0phVVU3UmFqY3l0LXZob0N3d1dqOEVUVm0zUjEzbVBSdEc3TTVVNW81ZXQ0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 274,
+    "dup_title": 144,
+    "too_old": 30,
+    "gate1_blocked": 15,
+    "gate2_blocked": 18,
+    "passed": 67,
+    "pass_rate": "51.5%",
+    "gate2_block_rate": "13.8%",
+    "gate2_samples": [
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat",
+      "L3Harris and US Army Successfully Demonstrate First Red Wolf Flight from an MH-60 - L3Harris® Fast. "
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為L3Harris Technologies、火箭實驗室、行星實驗室相關動態：「Should Investors Buy Planet Labs Stock Instead of Rocket ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Should Investors Buy Planet Labs Stock Instead of Rocket Lab Stock? - The Mot...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Is Rocket Lab Stock Ready For A Neutron Delay? - Trefis（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
