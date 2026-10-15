@@ -1,0 +1,16 @@
+{
+  "total_raw": 294,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 29,
+  "gate1_fail": 18,
+  "gate2_fail": 23,
+  "passed": 79,
+  "gate2_samples": [
+    "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+    "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+    "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat"
+  ]
+}

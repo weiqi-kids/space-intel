@@ -1,0 +1,208 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:00:15.896954Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hynix & more - CNBC",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Z2T1A1Z0ttUldwQnJmQUZJU3hlRHBPcjFyakJ5X21wNU9tX2dGcm1FcEZkTUx2MjVRa2pvemlCWXhLMEdWY2puelVKUmlBa1FEWFNvSkswQjVLUmpHaVBCLTZiS3NrSW05NHROSmFDWkRRRlhFOWdRUHFpeG5EZXVfU0dOMXBWbUlMZk1sS1lxallSVmpCTg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Stocks to Watch: CoreWeave, TSMC, Rocket Lab - WSJ",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOGY1b1FWandtN2s5YmtFZG85S2ZQdlVkLV9fMXpUTlpiVGNoQURJNUVuRGFuYkZEcUlWNl9EU19EbVNDTFlnbUxURmVSU0VhTkVCc29CcTM1MlJUOUVfblRfZkNHSl94UHpRbjFKck5YWGVhZWRJRkZEbVkxQTZ0Rm1URlVlVnJoUk1hWDBuNTlObWFlU0ZpNW5aX2NEZXRaYWlFOFl1dXNVWlpWZG9PbmZRSkdINW5VMG9lSUtjVWRrcDRJT1RzYm91cEhRX3h5QmE5TENQaUlOVUp2a1NFWThn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "S&P 500 Futures Fall in Premarket Trading; Rocket Lab, SK hynix ADR Lag - Barron's",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUZaMkh0RDVrazYxampXVFNVbzhCWXpqX0hQcFlCZ0lTZjQ3R3ZsMklBekM5U0F2dGVmYjh3NGtxMFlINENfN0x1VW53LWRrM2hmNi1rSTlUWU5peTVwUllENVVycW1VQ1pHS3BWa25odEh3N2JIaFE5ZTQtTUNqQ2hMT2c3TVZkb1dmdFVNQTZrdUxvVUJIdXU5am1RMDMxSVBRSFhKVU02UU51VjdVMQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Social Buzz: Wallstreetbets Stocks Fall Pre-Bell Thursday; Rocket Lab, CoreWeave to Open Lower - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNU9Qd2Z4U3ZQRTZ2SVVmUGZvYUdBV1JoU21EeThXS21YanNFOVlfY0I5aWVNV2s0TDkydmlPRHNYdFRnMXZqaThLVllIbngyRXVOZVdBcGhqSlY3b0NaWHRENS0xcms5VmlMaGY2YzdLd3FINDE4ZXZ5dFRUMUY3ajdTdzJscUp3NHN1dVNxdkxoWFBJWkViQVNKM1B5UmVpdEFEYjRR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab delays first Neutron launch again - SpaceNews",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wNm9rcnFRVkFoZXlyek5hU1ZsQ2NIaVE1SjA5RF96UUdVZFVIT2lyLWNZeU00c0RDMW9BTUJZbXQ3MlFZX29ZUEdvczhKWGxxOHExMTFMa0NHdkJMUk8wTm1rYlNkM19jU1FoVmFCVHhJdlgyclE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "launch_cost",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 294,
+    "dup_title": 145,
+    "too_old": 29,
+    "gate1_blocked": 18,
+    "gate2_blocked": 23,
+    "passed": 79,
+    "pass_rate": "53.0%",
+    "gate2_block_rate": "15.4%",
+    "gate2_samples": [
+      "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 3.7% - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為火箭實驗室、AST SpaceMobile、Spire Global相關動態：「Stocks making the biggest moves premarket: CoreWeave, Roc...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Stocks making the biggest moves premarket: CoreWeave, Rocket Lab Corp, SK Hyn...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Stocks to Watch: CoreWeave, TSMC, Rocket Lab - WSJ（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
