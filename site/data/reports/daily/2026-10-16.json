@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:56:07.615682Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-16-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ARK Investment Management Purchases Rocket Lab Shares Following Sharp Declines Amid Rocket Delay to 2027 - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNME5EcllDV1NnbnNxMEtsR0xMSkVMX0VNQ3YtZlg4aEdadlJfNElZV05ZaWJqVkViYzZxai1xdlNtaU5WQXl4d0xSakFsc0FvWVJ3UGxRX29sM25uUVdjQUdGRXRDS0xfT1FaQjBHd1ZyVkhreUdlcVBILUlUM3N6MHhjVTBIZGlVbndrbGZTVkZNX0tkTTdRTEtQMWpOcWdmQlR4Qi1JQmQtOFk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-16-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab's Neutron Won't Launch Until 2027. Is the Stock a Buy 65% Below Its Record? - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcDhFaWg1YUw1bmhKRy01OUdBZUJhVng5Vml6SkxtdEJfWkE5VmcwdnB1UjByR2pVUVcwa0x5TUhhdDFiUVlYMnpma1dNUFJYOTQ1TGNUalBYeWgyZDFhTktaODN1Umt5WjAtYkFoV1pXSDFraEJBZWFVbWFvTmxYOFBRazhVYXVhOXlFZXdKM1BPV3FmNE5UYVd5bmlpQ1VjV0V6ZVJxOHRLcF84R0thM1pKTHZQYzVEMjl5VWx3aWtLSkNo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-16-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "It's time to reassess the size of our solar system, scientists say",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.space.com/astronomy/solar-system/its-time-to-reassess-the-size-of-our-solar-system-scientists-say"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab shares price target maintained at $120 by Needham after Neutron delay - Investing.com UK",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZVk1aUczVDByd0JqRUcteXdYWm5tOTFlQTZ2WWRkZzJZUFEtcGRUX2tIZTdDYUtXSHZSZE9VaDJxOVhXbklocEpiT1U0TWRSUUFLeFYwWnN3X1p2U3pkMVY4b3dmOVVEQ1RoMkhIcUVoSEZNZk5zRWhIN1I1TTIyRzU4d3dBQkNZd3FuQlZ6T3AzbnM4QzNJVjhqcUF1Vl8zNmNHMGNWeWxDbHJJWFZWLVdXdnZQWGFrNlRMcUJRVVV1ZEVjYWRLVURINE82T2NuSzg2eTBJWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Tumbles on Yet Another Neutron Delay. Time to Bail? - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRTJpN094dzVfSDhabDNsXzJIZnY0c2hlVkNpbG1oZE1RMUcyaEF4c2FVZTNJd0xCc2ZTcE5VWXJsbEpIU0R4azF6R3RPNE1MODB4RkRyRlJyRjNTaVFVRUY3N09KQ3pjRDdtUFNtVzhtUG9WeUNFd0RvMkJaTk5WdHp1d1lRcHl2TFR3aldtM0x3VHB5cEJ6eEtDSWN3Q3VCc3Jzb0hFVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 7,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 150,
+    "too_old": 33,
+    "gate1_blocked": 25,
+    "gate2_blocked": 20,
+    "passed": 65,
+    "pass_rate": "45.5%",
+    "gate2_block_rate": "14.0%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+      "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「ARK Investment Management Purchases Rocket Lab Shares Fol...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ARK Investment Management Purchases Rocket Lab Shares Following Sharp Decline...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab's Neutron Won't Launch Until 2027. Is the Stock a Buy 65% Below It...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

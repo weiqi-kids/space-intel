@@ -1,0 +1,16 @@
+{
+  "total_raw": 293,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 25,
+  "gate2_fail": 20,
+  "passed": 65,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+    "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+    "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+    "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+    "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat"
+  ]
+}
