@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:55:02.371111Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Booked Its Biggest Contract Ever (Again) - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlJaZExLV3dDS0YwQ1g4NVRaY2g2blFLcmdYbkl3TmNjVU5Gank5ZG91Vy1iNm5tTGpFaTNXcXZFcGlWa0U0bmdzLXFYZ2FuRDBqcVVtN3gtcDlaOGlGRldEQlNUaDhlOUpHUnJrN1JZczJiN1kwY1hROUlwY1JRMWptWmlFOVpBdm1NMU5QQ3d3WDlkVEtxY2k1MA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Booked Its Biggest Contract Ever (Again) - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeTMwamFOc1ZsYXdHR1E0TmVYdExFeXJhUlFYMUFvQ3h4eGo2cjJpWWpHMTIwdDlMZ1BDTkY4UzNadHVvS1FCQ0RmWTQwdVYyTEswUTY2cEExOXNKU3Nfb0NNYWVjWW5hWjhmSGhHTW5FNTRhaHVWS0dUcC1nNnhWU0MxLVZUYk1taDlwRmFUeGhubUdETzgxMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "8 Red Days In A Row: Rocket Lab Stock Is Down 32% - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2dTSEtSNjU1MEJTMzgxM3JCQlMtOExLRXMzT1BhMk1wT1B2d3VTRTFCUzM4cXBYVnl4ZG1XbEVVeE5qNlZ3UFN1UmNjaEhPdnh0a2ZSNmNOaGFLSzZQd0x4VTJLUHdkZ0U5dGp0MkwwQmFGVEJtU2FmQ0dCaTZiRE1EdGMyN2ExT3Bma2VOWTNvMlBYbEtmbWU4SVJJUFJndWV6c0hlel9oY1Fa?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Neutron Delay: 3 Rivals Gain a 2027 Edge [2026] - https://tech-insider.org/",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nU0FQUzJqdWV1Tlo0ZGN4Z19UN0ZfTV9UNWQ3MFNqNEtFZjB0c0VGeDh5UzFaNm0yU3VUS1FCMlQxekRsaHB4dWFVaUtCLVVMV2gtSEJIa3BRZ21TMmNnZEVDXzRoc2J2MzRkUkUtS2VrbEZ4cnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-10-17-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Did Missile Contract Wins Just Shift L3Harris Stock Investment Narrative? - Simply Wall Street",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMUI5SEhMbmJiS2tRN0FYcEFyYUt6MEtyM25qWFc4bTZKWHc3RndpaVFFbXNneXlNd0dsUVJxZlpXZllZR1AwS19PY1JDTWRkWUlnbklMUTdsOXZ0U2NYNHVJWmE5R1B1VjNVMG5zOTlLSlRpeTVpNHE4YU94UFg1ZGRGZ011b3JiZDhtYXdRcnFMUlZoRS12NUtjZVVZS2NNRHI4Z0FsbHNmNW9NQkt6NFpnUmNUd05Ub1pBeTRDaXFpeFBPNWY0NmdiQTNJZllrTEFxRlZHeFhBeEZ2b2pZ0gHfAUFVX3lxTE4xQjlISExuYmJLa1E3QVhwQXJhS3owS3IzbmpYVzhtNkpYdzdGd2lpUUVtc2d5eU13R2xRUnFmWldmWVlHUDBLX09jUkNNZGRZSWduSUxRN2w5dnRTY1g0dUlaYTlHUHVWM1UwbnM5OUtKVGl5NWk0cThhT3hQWDVkZEZnTXVvcmJkOG1hd1FycUxSVmhFLXY1S2NlVVlLY01EcjhnQWxsc2Y1b01CS3o0WmdSY1R3TlRvWkF5NENpcWl4UE81ZjQ2Z2JBM0lmWWtMQXFGVkd4WEF4RnZvalk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 166,
+    "too_old": 32,
+    "gate1_blocked": 22,
+    "gate2_blocked": 16,
+    "passed": 57,
+    "pass_rate": "44.9%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「Rocket Lab Just Booked Its Biggest Contract Ever (Again) ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rocket Lab Just Booked Its Biggest Contract Ever (Again) - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Just Booked Its Biggest Contract Ever (Again) - The Motley Fool（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
