@@ -1,0 +1,158 @@
+{
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:21:50.856269Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation (NASDAQ:RKLB) Stock Rated \"Moderate Buy\" by Wall Street Analysts - MarketBeat",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUVmcTNpUDlJbDd4RmpvUEFoYmlScVRTNFpvRjVlR0dSTURJWmhhVnpPRW04S1JVV2RMeHJXUjBEbDRQaGNOQjVTX1BFQ0FNT0hoM0liaGZsQmxEVW5CdzFtT1pnZGljVFRpTXZSWWFIZlB2dXJXTFFfajJsZ2duQnhyU3M4b2FKQlhiU0cxRVk3QW4zcDduQ3NBSFQwRFZ5WHp0MUlsVXZ5MjhJc3hWV1N0NUlaTi0xbC1ldVNkWS13TUNheS1zUi1WZDBWZWdDREtXNXdiQm5uS3VNc19PUw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "spire-2026-10-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Alliance Global upgrades Spire Global stock to Buy at USD 15.00 - ad-hoc-news.de",
+      "companies": [
+        "spire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnBKVkNLUHllWUNteE0xME9wWXZQeDZWU2lNQ1ZxM3FDZTdjbEtLME1ueHl2bVFLOTNjUUktQlFFdEFGVDR6ZTYtTGw3MWtmUXVqdnZidkJ4c3BnLW9MSWxWcXdzRUFINFFBaVBFd0tjQzFPY2NwQXJybV9uVDh2RXhFV2V3djJudk0wblRWdlRVUzhEaEdtWE9CYWVNSkd2dm94TjA4OUVUakN6QmFDM2pXQmJTQWkzb1c5aWdaZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 294,
+    "dup_title": 199,
+    "too_old": 28,
+    "gate1_blocked": 24,
+    "gate2_blocked": 20,
+    "passed": 23,
+    "pass_rate": "24.2%",
+    "gate2_block_rate": "21.1%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines Inc (LUNR) a Bargain After 5.3% Drop? GF V - GuruFocus",
+      "Intuitive Machines (NASDAQ:LUNR) Shares Down 2.5% - Time to Sell? - MarketBeat",
+      "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為火箭實驗室、Spire Global相關動態：「Rocket Lab Corporation (NASDAQ:RKLB) Stock Rated \"Moderat...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Corporation (NASDAQ:RKLB) Stock Rated \"Moderate Buy\" by Wall Stree...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Alliance Global upgrades Spire Global stock to Buy at USD 15.00 - ad-hoc-news.de",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
