@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-19",
+  "date_range": {
+    "start": "2026-10-13",
+    "end": "2026-10-19"
+  },
+  "generated_at": "2026-10-19T15:11:20.411454Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-10-13-002",
+      "date": "2026-10-13",
+      "title": "AST SpaceMobile Sinks 9% as Piper Sandler Cuts to Neutral on SpaceX Direct-to-Cell Threat; Planet Labs Drops 4%, Rocket Lab Slips - 24/7 Wall St.",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 118,
+      "last_week": 139,
+      "week_over_week_change": "-15%",
+      "sentiment_this_week": -0.0
+    },
+    "satellite_constellation": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 4,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 35,
+      "sentiment_avg": -0.06,
+      "rank": 1
+    },
+    "planet": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 22,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": 0.04,
+      "rank": 3
+    },
+    "lockheed": {
+      "event_count": 3,
+      "sentiment_avg": 0.5,
+      "rank": 6
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "spire": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "intuitive": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 362,
+        "last": 349,
+        "change_pct": 3.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-13",
+      "event_count": 97,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-14",
+      "event_count": 74,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 74,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 66,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 16,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-13 ~ 2026-10-19）共 362 則事件，重點為「AST SpaceMobile Sinks 9% as Piper Sandler Cuts ...」。洛馬表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 35 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "行星實驗室",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 22 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

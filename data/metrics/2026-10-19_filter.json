@@ -1,0 +1,16 @@
+{
+  "total_raw": 251,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 24,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 35,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure - Yahoo Finan",
+    "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+    "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+    "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+    "L3Harris Technologies Inc $LHX Holdings Boosted by Vontobel Holding Ltd. - MarketBeat"
+  ]
+}

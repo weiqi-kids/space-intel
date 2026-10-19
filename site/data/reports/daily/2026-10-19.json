@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:11:20.266617Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-19-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Rises 4% as Europe’s Largest Carriers Explore Joint Satellite Spectrum Bid; SpaceX and Rocket Lab Edge Higher - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHBqOUZUY3NKSXhQM0J0TDRBS1pOMXA0UURESVhFaDJ4aDJQX3hMbWlseHhRMnhxUnUxTmFUWnp4dWNqYTVPUE9YN1M1RzN5dnhaNzRWUThDcDdCcFdHSlB3NTI5Y2VzLUVyQkpxaUUwT3FRMHduaVhmMDNEVmNGeS1TY1VFSDl1TzdRSFQ4clZxOWRWMEwtMEVEZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-19-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Rises 4% as Europe's Largest Carriers Explore Joint Satellite Spectrum Bid; SpaceX and Rocket Lab Edge Higher - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQ2hsSjVxS2NfcmZKYmpTQ19vTDl0ZEFkUmg0YkR0SGQtenY2TmpGdEhfeHpnbjhLem1udzFscVJEQXVsRVZENFlNc0hWeTRrNWhyaUh5a0N6bmlhbnVPV3B5bjJiOXNXZ1lkODEzRlVZbmNDR3BTMnYxak9XcXBmRTNGWmEzbHBmV3dPU29iOXNJTll3N21YUFRnOFhzZlQ3dVVtQ1h5ZVBEYlc1bGdNN1ZSS2FEXzJaSERKY2VLdERLcjVrMm56YjQ1NzUyc2RVeXdxMVBBaGNTQjNMNmNaV0VJM2FuRFplTnB0bFh2dUVXZUFCYUluWGxR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-10-19-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "RKLB Stock Suffers Worst Week Ever: AST SpaceMobile Partner Challenges Iridium Deal — Claims Rival Uses FCC To Block Competitors - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVU9BMzdNQzBRSm5hNHViVm1zQ2VMcUJPYndlLTIwWm4yVHR2ZWVCZ2J4YVRhVzZHRnFhSVROQnRQUVROSlV3UGlzM0d0eVFXZFduYmtySnZWR3ZKcXB0cWJBWmJVOWVyRFJiUFZaSHJPTEl4cFVSNkM2WlhYYUx6SEVwRVdOMDd0Z2F2WTgtRVJsSjF4dTQzU2RB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘The Right Call,’ Says Investor About Rocket Lab Stock - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOXzZJNm1YRWhKeVBGWDVIWTJIbjlKNzR0UkpqU0w1LTlTdDJKVEg0MkZobVNtdmJSQVVSTVItb3pocERsQlphcUNOOUtMd3RsVS1oak84dmRoY1ZuUThIZUt3UHp4Z2JsOVEyRlpySmFUZ3JrbmI2S0dxb1BuV2wwMWhyWWlIZmlGTFVUN1dWamVzWEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Buying More Rocket Lab After Wall Street Endorsement - RealMoney Pro",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMFB0YjJZZTBpdVFXaVp5bGp6cmZYS2FVSWRvVmNPbnY2cnhCampkcnctRWJ1dGxQXzNkQ3hZQUFFS1ZwQ29sV0hOTW5YT0t3d3h0S3M1bDBTZmNDVHRTNGUtSTJYb3JKd01RcFptQmEwYlhTZ0Y2QV9Bekw2V1FKY3M2cDdlUWYxRFUtMTMwcWJRSnUw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 9
+      },
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 251,
+    "dup_title": 162,
+    "too_old": 24,
+    "gate1_blocked": 14,
+    "gate2_blocked": 16,
+    "passed": 35,
+    "pass_rate": "39.3%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure - Yahoo Finan",
+      "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+      "Intuitive Machines (NASDAQ:LUNR) Downgraded by Zacks Research to Strong Sell - MarketBeat",
+      "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+      "L3Harris Technologies Inc $LHX Holdings Boosted by Vontobel Holding Ltd. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為AST SpaceMobile、火箭實驗室、銥星通訊相關動態：「AST SpaceMobile Rises 4% as Europe’s Largest Carriers Exp...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Rises 4% as Europe’s Largest Carriers Explore Joint Satellite...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile Rises 4% as Europe's Largest Carriers Explore Joint Satellite...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
