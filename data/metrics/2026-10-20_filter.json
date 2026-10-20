@@ -1,0 +1,16 @@
+{
+  "total_raw": 296,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 17,
+  "gate2_fail": 18,
+  "passed": 68,
+  "gate2_samples": [
+    "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+    "Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure - Yahoo Finan",
+    "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie",
+    "Is Intuitive Machines (LUNR) Undervalued Or Is Its Premium Already Priced In? - Simply Wall Street",
+    "Intuitive Machines tokenized stock (xStock) Price History and Historical Data - CoinMarketCap"
+  ]
+}
