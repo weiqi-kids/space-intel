@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 31,
+  "gate1_fail": 19,
+  "gate2_fail": 10,
+  "passed": 81,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure - Yahoo Finan",
+    "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+    "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+    "L3Harris’ “Rock Lobster” Acoustic Communications System Advances AUKUS Undersea Warfare Capabilities",
+    "L3Harris Technologies Inc $LHX Stock: TD Waterhouse Canada Inc. Trims Holdings - MarketBeat"
+  ]
+}

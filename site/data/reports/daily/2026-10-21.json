@@ -1,0 +1,232 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:21:21.841444Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-21-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket Lab and AST SpaceMobile Edge Higher - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZWR2Ni1BdFM0UHBwZTczUENFb2p3NGZkZ0lWYVB1b3FhZE1acHJjTE1MVGlXNkRycHY1NG1jR1QxZjRmN000V3NnNkVONFlUT2ZqTmRlR19yczA4bzNSek5tVGxiWVUzVldiLVczdTA3Tkc3akx4b2NsWkJ6Ymwwa3dCN1NKWjZRZ3ZVMlFhVlVJQVJJcVhSOEM4NHVpUHBVVWhtWFM2U2NIYThRQ19NOWR2OFhxTEtFLXdVYm5xdVhwZjhfaWl1VU1MeGktbGdKdHhwdmpMYlB0SzVyeVlUWWF1V0V6anc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-21-021",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket Lab and AST SpaceMobile Edge Higher - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVHp1T1d0c2VXY2J2OGREVkJpUFBSQWMxLUdDNjhLV2RoRWZUOV9qZ3pseVJSOVNfZGVWbkRXdHA4bTBFS3NOYlhIMkhlNXhERk1ld2NNX0VDdlVrT2JUNnFMWDlQRC1NejFUZnlmalZMMkdFa3NieDZvTnZicDl5aURMWHR0c0JmdXZBUnNYN1NSbEdr?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-10-21-022",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "ROSEN, LEADING TRIAL ATTORNEYS, Encourages AST SpaceMobile, - GlobeNewswire",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNLVVLZC1QUzN2TXRBNEJFS2hSWjEtVHpBbEI3LUdZSW1zNEhNRVZzLVh0bHZOVXYzRDB1cHRYakRVV25YYUJpUWxiTFJELW1Wa1g4YWZkZFNOV0JGSTVpV3JzQmd5cGpUa1lJVkNMSkxlcW1ObV9oeWhUS3JqT0pfeWVSWXJRbXZyaXJ1OC0wUVpSbzhjd3poZVRBNUZzdk82WFN6ODZzQTB5S1F6akJpMHlGRHgteXFPVnJCZ0p0aUFDakFOWWJGeUNWbU42NHByd2lNckFNQmg1cE11d3lKUUswMmMyanFfWUU2VV9ib3FudjlBZnk2eGZ5MDFiaFRUS3hzcXZVVDNmZG92NEFQZEIyaDFZcUpNaDRId1Zwa1pVR0tPNDhTQ1dYNVZ5RzhuZVd2VFh4UXI0Ukk2NkZj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Shares Rise 3% After Hours Ahead of Q3 Earnings Report - Rocket Lab (NASDAQ:RKLB), SpaceX (NAS - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUZwMWk3RmVKYTB4SUY3dTcyNTJMMG1JbC1BWll4Szk0VG1KaV91X0wzTTctd1JrUmdRWFN6OVdhYzYyNHE0TXd4MGNuRjBBVGV5N1dfd0RIRzNBV1U5S1c0TE1oSkxycUl3aktFRnhYVXRWUkJ4SDZjbjBNT0JSMHhiM0JwR3M3cU1sc0lscjJHZUxROUpOVWJtLWI2OHl0ZUtpTDNsS3RzeTZRRmNJM1RhaUc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Jumps Overnight: Rocket Lab Is About To Attempt A Mars Maneuver That’s Never Worked Before - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQmtPekc3OTBSbWVEYld5OXUzYWFGZ1pMRGI5RHo1THlkbjE5WEppMVl3S3owdW5aVlBGWU0yU2RmM3FWbW5NcWxMLVVSSGxWd0VtRl9pRWtMWVpfRkx0X1lsVkJoXzNlbnF1LUVBWnFmNTd5RDBZMkNuU0JYODF5UmdiWmUya0hfbXphWFNzMm9Ba2JHM25pb180akJxOHNDM0wtenUyVGh2a1FOSFdNX0ViamVEWlRWWjZSWk9BYm5OM2xLX3c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 33,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 11
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "planet",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 145,
+    "too_old": 31,
+    "gate1_blocked": 19,
+    "gate2_blocked": 10,
+    "passed": 81,
+    "pass_rate": "57.4%",
+    "gate2_block_rate": "7.1%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Could Be 47% Undervalued Despite Recent Share Price Pressure - Yahoo Finan",
+      "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+      "L3Harris Technologies Inc. stock underperforms Monday when compared to competitors - MarketWatch",
+      "L3Harris’ “Rock Lobster” Acoustic Communications System Advances AUKUS Undersea Warfare Capabilities",
+      "L3Harris Technologies Inc $LHX Stock: TD Waterhouse Canada Inc. Trims Holdings - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Me...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket La...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SpaceX Jumps 8% on Q3 Revenue Beat as Musk Backs Tesla Merger Idea; Rocket La...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
