@@ -1,0 +1,16 @@
+{
+  "total_raw": 297,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 30,
+  "gate1_fail": 23,
+  "gate2_fail": 17,
+  "passed": 66,
+  "gate2_samples": [
+    "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga",
+    "Intuitive Machines Stock Lifts Off: What's Happening? - TradingView",
+    "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+    "Intuitive Machines Initiated at Outperform by Macquarie - Moomoo",
+    "Intuitive Machines, Inc. Stock 12‑Month Price Target Cut to $30.45, Implies 163% Upside - TradingVie"
+  ]
+}
