@@ -1,0 +1,202 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:00:01.445316Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-23-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "El Niño Then and Now",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligence - Space",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVjI2SFl4UDBrSG9CSERUekIzLW1VWnFoNHpIOWRuZkJIaTFMcHhodkxxaXB6R1RVM0EzRmFRaVJ4UjNlX0J6U2RHSnJFdk1ENU02ejBtTC1LZk1xSWtoT00zRDV5OXFKd3VXc1A3S2gxM21peXl4M3FwMDJaREdrazl5TnAzZVh4czUtUXllWEJ5UzNoeWhrdzJQMVd3bzBCMmhuUlF5azZWMHlGc0dHQ0pwQVoxRWFveVlPV2ZaOFF0SVBDQVdVUmh2Y1RnM3AxS0Ew?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HawkEye 360 launches six satellites to expand customer-dedicated intelligence services - SpaceNews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjNmSjd2Q09MZ1N5QnZfZFUzbTVsRktqaTFtQTFQQmNNOFpLcEc3aVNYMVFObE1lX2VESUN2eF80LWpaRWFYdDZxeEhIbnp4WDJuLVNHalJoX0VTMV92S0JEYlZxZTJRN2xYVEdlbzZxZWU3SlU2RUtCVHRrY1lqWmFTUW9MR3ZUSFZjQXJiVDBDUENIZWNyNUY0ZkRTeElRbENvRG95cWRqbTNhTGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Launched 3 Satellites On An Electron Mission Today - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbUFDZnl6cmtyTFNzZjJ2X2dzQUpDeUVEMGpGMXRaakRqcGFmVjIyNktOOVRHd1dDSGpOZm91TGx2X3lGamEtWlAyZ1pzbl95cU9yMjRucWNwZVBTZkZ2QWo3aDBIMnhUN0U1dGp1aXRBd1k0Ni1tZl9VLWVyQ0ZONXhKZmRxSzFia2lSd281WTMtRFBtLWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-23-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "MISSION SUCCESS: Rocket Lab Launches 98th Electron Mission - The Daily Tribune News",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMDRDTmM4am4zSEdqeWtBM2JJTVNiN1UtSnJrX2NDN1hDMHFWLU9EOGZSY25lMk1tU3FkQWMyNDZpSC1BSmlvcUxWUnZObDlzazdqWU1lenc2ZWZ4Vk5WaUw0RGs0dzFJYzFmeXhZVmxobWVDUzhhNzRMM0F0bURoLXZBVUE1ck9XbzFDREE4OUFBMzJoVXE5UTNtTUdkenV1RU5ZSWpqVmpGU0pleEhBNTJmMy1rSHVJUnRid0c5M0JvanhuZmJ4T1B6VFFxanVHbGpldjBEb2hoaEM4cG5tVEJqRlZuUE1HMFF2a0owVGxUdlJNcUtnbDFUZmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "space_debris": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "space_debris",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 159,
+    "too_old": 33,
+    "gate1_blocked": 23,
+    "gate2_blocked": 17,
+    "passed": 60,
+    "pass_rate": "45.1%",
+    "gate2_block_rate": "12.8%",
+    "gate2_samples": [
+      "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+      "Intuitive Machines Appoints Dr. Christopher Scolese To Board Of Directors - TradingView",
+      "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga",
+      "Intuitive Machines names former NRO director to board of directors - StreetInsider",
+      "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「El Niño Then and Now」。主要關注主題為太空產業通用、太空碎片，市場情緒中性。",
+    "signals": [
+      {
+        "text": "El Niño Then and Now（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab launches 3 'Hawk' satellites to orbit to gather signals intelligen...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

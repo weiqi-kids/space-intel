@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 23,
+  "gate2_fail": 17,
+  "passed": 60,
+  "gate2_samples": [
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines Appoints Dr. Christopher Scolese To Board Of Directors - TradingView",
+    "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga",
+    "Intuitive Machines names former NRO director to board of directors - StreetInsider",
+    "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis"
+  ]
+}
