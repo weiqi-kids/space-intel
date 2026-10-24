@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 13,
+  "gate2_fail": 20,
+  "passed": 45,
+  "gate2_samples": [
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga",
+    "Intuitive Machines Stock Lifts Off: What's Happening? - TradingView",
+    "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+    "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan"
+  ]
+}

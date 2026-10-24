@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:23:21.430617Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-24-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Is Buying Iridium, and Guess What? Iridium Just Beat Earnings! - The Motley Fool",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbTdPRE5naEVFWGVnZmN3NklpYnpsdGpIU2ZwOG5hcmkzVnFwWHlmYW5TcXJQcTREcnRTX0xfR1Q0UW5KSXpETkdJQ0JMazFGYmc1YVlmR1ZJU1h5eWpXWFFOQTlxakozb1g4REVqNUl0VFRha0Fpa1hQUzhwQ2FLZXltc0JvVEQ0aDNlaUw0RFFudDZvZEQ2Vg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "l3harris-2026-10-24-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Lockheed Martin, RTX, L3Harris, HII Land Fresh Pentagon Contracts This Week: Stocktwits Defense Watch - Stocktwits",
+      "companies": [
+        "l3harris",
+        "lockheed"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN0lMenVxczlWQXAtY0dsc09WeXdGQndLd0xmakVnd0ZlM1VGZmw2MVgxaEZjcmpDclJhaXBZcHZHNlhXQi1FTXoyc210VDZXMWkxS2tmM0g3X09DMXlKOF96a1dCSmx6WEphT2ZUazhVNWctTEI2ZnliX1hhSFpxdHJjc19HQkc4djlqazVNdFFrcVpMNFc5S3phdjZDVjc2RFU4TXlaejhRQ3dHQjI1X01HaHZoeFFEM2FUYzllTnluNTYycnY4QlBGTGJUM20z?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab's New Solar Cells Could Solve A Big Bottleneck For Spacecraft - BGR",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYS1xdGZic1l2NlN2UXdlSVdnNFJLRlZ4U2xXUWJTWDlRN1VpQXI5a3BUV1prNXhrVWI5Vl9Xc1RjR1ZVcUtSQnZJd1ZlRXp6YzhoVHpOZEtPczl4UFk4Qi1Ob0NKZ2VkVzNoWXVjd1RZalpJSW9vZW5QOGFUVmJkcnEyemk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US Army advances ramjet interceptor for longer-range drone defense - Interesting Engineering",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHVmRFhVeEt4dTYtd21XWTk4MGFBbllfcDdBSWhzVDFVc2s1NW41WV8wQ1h5aXlWVHFxcFBxamVfZ05MNlh3NmZSMU1kdlF4ZHlTaHNRVmxiYlZWMVhDRHZqdEthTmh1NDJ2X01jNHR0Q0pkS2JxcFFLVmVBTVA2ZVp3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 October 24 – Rosetta’s Selfie",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "lockheed",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 173,
+    "too_old": 33,
+    "gate1_blocked": 13,
+    "gate2_blocked": 20,
+    "passed": 45,
+    "pass_rate": "40.5%",
+    "gate2_block_rate": "18.0%",
+    "gate2_samples": [
+      "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+      "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga",
+      "Intuitive Machines Stock Lifts Off: What's Happening? - TradingView",
+      "Who Is Paying For Intuitive Machines’ Cash Burn? - Trefis",
+      "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為火箭實驗室、銥星通訊、L3Harris Technologies相關動態：「Rocket Lab Is Buying Iridium, and Guess What? Iridium Jus...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Is Buying Iridium, and Guess What? Iridium Just Beat Earnings! - T...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Lockheed Martin, RTX, L3Harris, HII Land Fresh Pentagon Contracts This Week: ...（太空產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
