@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-25",
+  "date_range": {
+    "start": "2026-10-19",
+    "end": "2026-10-25"
+  },
+  "generated_at": "2026-10-25T12:54:06.792117Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-10-19-005",
+      "date": "2026-10-19",
+      "title": "AST SpaceMobile Rises 4% as Europe’s Largest Carriers Explore Joint Satellite Spectrum Bid; SpaceX and Rocket Lab Edge Higher - Yahoo Finance",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "ast_spacemobile",
+      "company_b": "viasat",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 133,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": -0.02
+    },
+    "space_defense": {
+      "this_week": 1,
+      "last_week": 3,
+      "week_over_week_change": "-67%",
+      "sentiment_this_week": 0.0
+    },
+    "space_debris": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 1,
+      "last_week": 4,
+      "week_over_week_change": "-75%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ast_spacemobile": {
+      "event_count": 22,
+      "sentiment_avg": 0.05,
+      "rank": 2
+    },
+    "iridium": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "rocket_lab": {
+      "event_count": 39,
+      "sentiment_avg": -0.04,
+      "rank": 1
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": -0.25,
+      "rank": 5
+    },
+    "spire": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "northrop": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "planet": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "viasat": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "l3harris": {
+      "event_count": 15,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 366,
+        "last": 413,
+        "change_pct": -11.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-19",
+      "event_count": 69,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 82,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-10-21",
+      "event_count": 72,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-22",
+      "event_count": 64,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 58,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 12,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-19 ~ 2026-10-25）共 366 則事件，重點為「AST SpaceMobile Rises 4% as Europe’s Largest Ca...」。直覺機器情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "直覺機器",
+        "reason": "本週情緒偏負面（-0.2），共 4 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "銥星通訊",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

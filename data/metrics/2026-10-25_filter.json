@@ -1,0 +1,16 @@
+{
+  "total_raw": 283,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 26,
+  "gate2_samples": [
+    "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance",
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines names former NRO director to board of directors - StreetInsider",
+    "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+    "Norris Perne & French LLP MI Buys 4,020 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}

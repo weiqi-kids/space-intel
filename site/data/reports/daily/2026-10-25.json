@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:54:06.632578Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should You Ignore the SpaceX Hype and Buy Rocket Lab Instead? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkdRdTRaT3BkMnhFZEV6V09GZ0R4aENRLS0wV0JpcS1BNnltZVp6WVRrNlEyWXNCY3NuWDROZnlEWnlVcVhDdW53YWZaWTZBdVFNLUllQ0NaNVIyWU9jSzZTbXc1V0FsSGgzY0NLTzFsbXBEcVh3YjltT3NOSGlwanU3RFYzOHhVcTFLWkJhYm5GYkR5TGllbFhR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Postponed Its Neutron Launch. Again. - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUFzNTI1VUZaX29kSGE0cjFseHhqb1hqb092V245TG5GUjB1Q2I1a0wzaGdnR0Y2TUlIQmNaWEVRNS1SeUJ2X2gxMlFMamZSNjJJTmRBdTQ2TEhObkhPQ3hHNkJvTkdpNVJZck9qMldiRkV4bUtfeFdKWmhYNW5xdFRHdDVJTEdaVXp1UENZN1dPcFhTTmxoWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab vs SpaceX: $30B vs $2.2T Cap [2026] - https://tech-insider.org/",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aOTVfWERYd1dqbkhOOVFYRjRrWDRnRkVCR3lVMTFnUzRaRmJMbXpmZHZlcXlaZENqTEpiU2dfWWN1OURzdzR4Nk83SG5GRVNRSWdONDZaZTljSEFveWZKaG9ZSUt5RmhNaXBhbVR3TnkwMTRCT1NJSFJ2TVdpblE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should You Ignore the SpaceX Hype and Buy Rocket Lab Instead? - AOL.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56OG82aFZKU1JWeFdtNHpmREUxeEJzdE5KS3IwM3FzTHp3WVZ6Ry1pdzZ2NXJmXzU1N1hXN2RLMEVTcXhxQ2Q0UVc1RGptUF9qVE5qT0FjT1pGUG5LMFhJRHVITE9CQmVZclFyb3dVdk5nbmJ4bGZERkkwdjg3QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-25-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Postponed Its Neutron Launch. Again. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSVVtTlJRWVBqdEJXbTdydlhzOFhZMnRCTk5Kams1VDFJNnkwczJlMHZLSS15RUdyWWExeUNocWg2NVRsM21RSXBZcUJ1Ukk2ZGtIVUFGZHZIb3RrOE03OUxrSDZCM2JnM29NbGJmYU9PcXVmUzRVOXJoYTdLOWpyTEtTZndLem5JUTBJb0MtVV9RanVfQVdoc0xLVGlEZDg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 195,
+    "too_old": 38,
+    "gate1_blocked": 12,
+    "gate2_blocked": 12,
+    "passed": 26,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "13.6%",
+    "gate2_samples": [
+      "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance",
+      "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+      "Intuitive Machines names former NRO director to board of directors - StreetInsider",
+      "L3Harris Technologies, Inc. Estimates – NYSE:LHX - TradingView",
+      "Norris Perne & French LLP MI Buys 4,020 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為火箭實驗室、L3Harris Technologies相關動態：「Should You Ignore the SpaceX Hype and Buy Rocket Lab Inst...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Should You Ignore the SpaceX Hype and Buy Rocket Lab Instead? - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Just Postponed Its Neutron Launch. Again. - The Motley Fool（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
