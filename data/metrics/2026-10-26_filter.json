@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 12,
+  "gate2_fail": 18,
+  "passed": 39,
+  "gate2_samples": [
+    "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance",
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines Appoints Dr. Christopher Scolese To Board Of Directors - TradingView",
+    "Intuitive Machines (LUNR) Gets A New Board Voice As Narrative Value Stays In Focus - Simply Wall Str",
+    "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga"
+  ]
+}

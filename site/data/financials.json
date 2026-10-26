@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:54:02.686449Z",
+  "updated_at": "2026-10-26T14:43:55.475740Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -109,34 +109,34 @@
       "name": "洛馬",
       "ticker": "LMT",
       "currency": "USD",
-      "ar": 3356000000,
-      "ar_prev": 2322000000,
-      "ar_qoq": "+45%",
+      "ar": 3096000000,
+      "ar_prev": 3356000000,
+      "ar_qoq": "-8%",
       "ar_period": "QoQ",
-      "inventory": 4411000000,
-      "inv_prev": 4251000000,
-      "inv_qoq": "+4%",
+      "inventory": 3987000000,
+      "inv_prev": 4411000000,
+      "inv_qoq": "-10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "northrop",
       "name": "諾格",
       "ticker": "NOC",
       "currency": "USD",
-      "ar": 2311000000,
-      "ar_prev": 1806000000,
-      "ar_qoq": "+28%",
+      "ar": 2080000000,
+      "ar_prev": 2311000000,
+      "ar_qoq": "-10%",
       "ar_period": "QoQ",
-      "inventory": 1415000000,
-      "inv_prev": 1450000000,
-      "inv_qoq": "-2%",
+      "inventory": 1361000000,
+      "inv_prev": 1415000000,
+      "inv_qoq": "-4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "planet",

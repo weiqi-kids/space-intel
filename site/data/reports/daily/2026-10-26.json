@@ -1,0 +1,192 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:43:59.486461Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-26-029",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Defense startup wants to make genetically enhanced military dogs",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.defensenews.com/industry/techwatch/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Put Rocket Lab Ahead Of Its Industry? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0g4eG45dnRpdmxCU3VvS21mdDZhNEFQWWdwOVFqcmp3NDNFX3RJNGNDTWx2ak9ZQ1IxNDhZTFA1ZWxkbVNjbDhIaVVsb05zYkduYVF1SWFsVXkwQUJVNVp6QzdJUHVrbEFPLU5mdGhVWDlLQUdSNHY3M2N2OHVYNDV5dDI1azAtODZpR3MyQ19tQXVqdVBzVWttTjlvaTBiVzNNWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Shed 25% Over 3 Months: 150% Returns Sure to Come According to This Wall Street Pro - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVW4xbXR1SDNmTnh4Z2tEODRrTVFRT2wzUVJFdjZJVUltM2diNW1RZWl3LXRQdW01clo3V1ViUldOUVAxZzZuZDhncTlSY0FJYy12cXdxZmRMT3M3eGd4Y2tHaHFxcjdld0pWS3FOYUllQzRiRnV5aDFtNloxSU9GczJsX0FjOUh0cEgtQW1Ma2piRE1KdTNzTy0xdUZvTnNPR0FWaWNOYzZnTmJWcnowVzZLYl9kdDJJZk4zVXZhTXEwbV9UZVVnNUhSQmdyZXRX?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab completes 98th Electron launch for HawkEye 360 - space & defense",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU25vWGg0SGtMZ1g3dmlCbS0ybndTRzFQV1RreXZEekx2cFlDdWtQYl9BNi1qbkUyZ2d0cU5yay0tUmV5b2VwT2IxQXJZd09qTWN0REZxX2Vkdlp3QlpBN2lGS2xmOE53N1dXb0s0WGRyaTM5TWZQODVVNlB4QWMwTmg3cmxsaEhSQUJRQjh3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sierra Space Hires CFO From L3 Harris to Help With Defense Pivot - Bloomberg.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3VjVDBySzVZWGhQNG9RZnhLZkVhMnRzNzlGWEhvTkstMjM5Vjhxcmo1MDVHR1M4UHpGcGxqY2E4cGYwTEM4TC1nNUFFU1BNTl9hZlZQZGdWcklJa25TVzIwY3RCenFybnRpMEJtbDV3T3FzaUFoX3RwOGdIR2dPQjE3RjYwU2FmTUppN3JyeUNPNk5zajVvaV9PczFVSWMwSTgyWjRaZGluRS04anU0Qm1RT3FtZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 25,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 182,
+    "too_old": 35,
+    "gate1_blocked": 12,
+    "gate2_blocked": 18,
+    "passed": 39,
+    "pass_rate": "37.5%",
+    "gate2_block_rate": "17.3%",
+    "gate2_samples": [
+      "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance",
+      "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+      "Intuitive Machines Appoints Dr. Christopher Scolese To Board Of Directors - TradingView",
+      "Intuitive Machines (LUNR) Gets A New Board Voice As Narrative Value Stays In Focus - Simply Wall Str",
+      "Intuitive Machines Stock Lifts Off: What's Happening? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為AST SpaceMobile、火箭實驗室、L3Harris Technologies相關動態：「Defense startup wants to make genetically enhanced milita...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Defense startup wants to make genetically enhanced military dogs（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "What Put Rocket Lab Ahead Of Its Industry? - Trefis（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
