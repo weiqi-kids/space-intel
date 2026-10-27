@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 44,
+  "gate1_fail": 13,
+  "gate2_fail": 15,
+  "passed": 55,
+  "gate2_samples": [
+    "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+    "Intuitive Machines Appoints Dr. Christopher Scolese To Board Of Directors - TradingView",
+    "Director Christopher Scolese receives 11,798 stock units from Intuitive Machines (LUNR). - Stock Tit"
+  ]
+}
