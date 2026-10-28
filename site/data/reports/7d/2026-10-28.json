@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-28",
+  "date_range": {
+    "start": "2026-10-22",
+    "end": "2026-10-28"
+  },
+  "generated_at": "2026-10-28T14:45:59.190013Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-10-22-020",
+      "date": "2026-10-22",
+      "title": "Long Rocket Lab, Short AST SpaceMobile: One Owns Its Path, The Other Rents It From SpaceX - Seeking Alpha",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 119,
+      "last_week": 123,
+      "week_over_week_change": "-3%",
+      "sentiment_this_week": 0.0
+    },
+    "space_debris": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 29,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 13,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "planet": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 17,
+      "sentiment_avg": -0.06,
+      "rank": 2
+    },
+    "lockheed": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 300,
+        "last": 395,
+        "change_pct": -24.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-22",
+      "event_count": 66,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-23",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 61,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 59,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 24,
+      "sentiment_avg": -0.04
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-22 ~ 2026-10-28）共 300 則事件，重點為「Long Rocket Lab, Short AST SpaceMobile: One Own...」。太空產業通用、衛星星座、太空碎片為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 29 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 13 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "行星實驗室",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

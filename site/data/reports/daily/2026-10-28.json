@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:45:59.037817Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-10-28-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SPACEMOBILE, INC. INVESTORS WITH LOSSES HAVE UNTIL - GlobeNewswire",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNb3lNM1ROY3BTbDJuUmFhZnlHYXlEbjRUSFBERGx3eVZiTXE4T0FlcEVteFZzbWJlNlFFZXJlR29NTU5UdmpxdmtTbjh4Ulo5YUo2UGRSazhkV1VMMFhja3VYV2laWks2SXJZeG1YRDNWRHhsLXZ2Ump4SDRzQ2Fya2tYSDlkOGNOVlJ2Zk1PY3NrendLV05Xd0NUQjdqdFlYdGVoZGh6TlczRjBxbE1IVUVnM1U5d2pYTWpjVU5TNTFzZEdvdUpOdXNvcVZRN1V6UWtucHdLNHdtVWpYRUoxZUNFb1JhaU1XQlhYX08yaEFSRHpqN0NuMTZ5NUJWa0FYMFhZaDVGblpVcnNESXdVcld5d3VteDcwWlNWaTFXUWN5cTNUMFFCOUZMUXBadVVGTno4OUZlaFVpOHM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Shares Rise After Hours as Neutron Advances - Rocket Lab (NASDAQ:RKLB) - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdlI1c0JncnVFbTVOUGxWRzN5MnVyZ3NTNXE2VXFQX2Rfa3NfS2xaY2VKQU9HUHdVOGVfdzhGZ092bkRJQU1hYnBOUG8wSmd2UTVldFBoTno1bzRCTU5wZVVhZDlLQjRSenl4b1AtbnhpZktFRmFaT0E3MktwXzVNanhUNkZob0o1RVQyZGtrWEJyUUE2N0x2RWNZb2NfbDRPSnFsR2NXV2FBUm11T01r?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Corporation (RKLB) stock price, news, quote and history - Yahoo Finance UK",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpOUFlMlNkTEllYUI1Yy1rOXNDeEtCYmhPQzFXWUF1SzN2Q2RSZHg1bkNRNmQzVUpOLXVLRmZqXzhhdHNUOHhYbnFNRVhVZ1pvTFE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Climbs Overnight: Rocket Lab Touts $515M Military Push — 8 Of 18 Satellites In Production - Stocktwits",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNVJPTW5Nb25pbm9PSHJCXzg3VlNCTE1WNkZBc2dZRW5XWEJVcElRaUlvem5nQzN1cVlxWFFpLVFjbUZDc0dsdk9MYV9BeS1YOUJXMVhuUDVTelp4ajMwZ0JIRVlEMHRiNmNYY1ZaVGlZVUF2YU1NWEFSenJ2c2piVnlYVmFtbFN5eFhlZnpTYTZHTkM3Nm44b0ZwLVhQcXVuQjExNjlmeU83dGlvdnduRlg4aWRvR0tWWUlfZlNlQ1laZVRzWV85Z0ZSeFI1eFBza01B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab's $515 Million Military Satellite Order Hits the Factory Floor as 8 of 18 Spacecraft Enter Build - BigGo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6YnBIenF2NHRhV3FhYWxQazVCaDhJWHZFeHZiZS1HTndDelprbzg2R3FIc0lETXU0VG5PeUlqRWJYNGxCWlFzYXdOd09Gb0NYUndsMDluVnc3UlkwdWkteFZxbXNzdWFHaHRwXzU3V1FybTZqNGc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "planet",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 149,
+    "too_old": 42,
+    "gate1_blocked": 12,
+    "gate2_blocked": 14,
+    "passed": 64,
+    "pass_rate": "48.5%",
+    "gate2_block_rate": "10.6%",
+    "gate2_samples": [
+      "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+      "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+      "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+      "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+      "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance Singapore"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為火箭實驗室、AST SpaceMobile、行星實驗室相關動態：「AST SPACEMOBILE, INC. INVESTORS WITH LOSSES HAVE UNTIL - ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AST SPACEMOBILE, INC. INVESTORS WITH LOSSES HAVE UNTIL - GlobeNewswire（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Rocket Lab Shares Rise After Hours as Neutron Advances - Rocket Lab (NASDAQ:R...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 149,
+  "no_date": 0,
+  "too_old": 42,
+  "gate1_fail": 12,
+  "gate2_fail": 14,
+  "passed": 64,
+  "gate2_samples": [
+    "Former NRO Director Christopher Scolese Joins Intuitive Machines Board - GovCon Wire",
+    "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+    "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+    "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "Intuitive Machines Appoints Dr. Christopher Scolese to Board of Directors - Yahoo Finance Singapore"
+  ]
+}
