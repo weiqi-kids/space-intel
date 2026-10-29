@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-29",
+  "date_range": {
+    "start": "2026-10-23",
+    "end": "2026-10-29"
+  },
+  "generated_at": "2026-10-29T14:52:25.605073Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "rocket_lab-2026-10-24-002",
+      "date": "2026-10-24",
+      "title": "Rocket Lab Is Buying Iridium, and Guess What? Iridium Just Beat Earnings! - The Motley Fool",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 118,
+      "week_over_week_change": "+3%",
+      "sentiment_this_week": 0.01
+    },
+    "space_debris": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 1,
+      "week_over_week_change": "+200%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.0
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 2,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 30,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "l3harris": {
+      "event_count": 22,
+      "sentiment_avg": 0.07,
+      "rank": 2
+    },
+    "ast_spacemobile": {
+      "event_count": 20,
+      "sentiment_avg": -0.05,
+      "rank": 3
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "planet": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "viasat": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 297,
+        "last": 387,
+        "change_pct": -23.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-23",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-24",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-25",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-26",
+      "event_count": 61,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-27",
+      "event_count": 61,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-10-28",
+      "event_count": 53,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-29",
+      "event_count": 32,
+      "sentiment_avg": 0.05
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-23 ~ 2026-10-29）共 297 則事件，重點為「Rocket Lab Is Buying Iridium, and Guess What? I...」。太空產業通用、衛星星座、太空碎片為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 22 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 20 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

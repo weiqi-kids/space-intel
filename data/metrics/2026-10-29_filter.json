@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 63,
+  "gate2_samples": [
+    "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+    "Intuitive Machines xStock Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in ",
+    "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+    "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com"
+  ]
+}

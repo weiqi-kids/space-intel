@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-29",
+  "generated_at": "2026-10-29T14:52:25.469542Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-10-29-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bid, Satellite Consultant Says: Musk-Bezos ‘Cage Fight’ Looms - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "viasat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMndnd1ZYOWtoQno3dXMwNFI1WXBxNG55QmxJczVrZWRlc1hHclZRYkswNTNUNWlKY1hjZ3J1endvNVc3R1dTTllWNGNJUUM4T1ZVZUxjTk1xS1JXbkNwazFMZlAxSU5xVHNjcjhvd05fOWdlVnJiZ1dtNGl6VW9tYTJjSlZJaDFycVl5WGtCaXQ3bUFuTnpN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-10-29-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bid, Satellite Consultant Says: Musk-Bezos ‘Cage Fight’ Looms - Stocktwits",
+      "companies": [
+        "ast_spacemobile",
+        "viasat"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQc244aXBETjB1SmNJRzNUWXp4QmdlQjk4SUk1ekxZcmgtdXJnWmgwNTVBRG8zdmxNQ2RKWjBCUlVmN2JOTmlPb2tLVkUwOUNwa2RQLWVkOFRiTWZ1aC1uMnFmS1NodXZ6dEw0cjc0cl9OMHhEQS1jTVkxLXVxNFdjODdLY1Q0TmstYU5mNWoxdlAxNjB4M0VWNGwzakFiWlVIeFljUmNZbU5JcjZBb2JSRTVOZGxqUVlwMk9abzBzNVR6c0NFUGJremQ0ZEVsMWhNeHg2bHNWaGplb2dQTUFmTXFXWTVTMTZQeWV2MU9xeElLNTZVd1hMRVpqZF9CVnlYeXpxSEIxQW8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-10-29-004",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris raises outlook after record backlog in Q3 2026 earnings - Quartz",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSjl1cy00R0RBZjFhVjlaczd6MUhjd1BfZlpIc2RZbHJNM3VJZFpRN1BuUmJ5eEZDemlUN1NiLVRmcVRReGFFSVNubXNrMUlKS1RPMXBuU2lFeWEzOGZYY19LbVI0TW1Rb0RISTRHRzZVc1llaUxDQ1FNNUMzUnVaSg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "l3harris-2026-10-29-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris Raises Yearly Guidance After Notching Record Backlog - WSJ",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTNwaUxfdEhsazI0M0llOV9DMElyVXRlTC1xYzdJY1E1OGJFdmcxN0dJWFU5bmJ6WFlXTTRNSG9UT09SSmxLd3kwcDd1TG5DNTBidUhMZnhUb1JaUkozSjJrY0h1TlNmeDV1c1hvcVJmbWxPTmZmb2s1bndCSy1vVkxHaEJpSFFRWkRWV0pOcEh5OGtaQmlWbHVlVDhwYW02QU5tVXRYTGNXZUts?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-10-29-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris (LHX) Surpasses Q3 Earnings and Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT3VobUtIakd5Q0FsQlJySUJGcDJnNldfZHctSURCcldLT3I5d2JKR0dvWG9DY21yTkVBR1dVSmlXVlZqTmF1c0ZPYm9HcTBvT3E4YkhtQ3FpTUVtU0FuWHE0MUVzSFFBU05uRFlUWEs2aHlvNWR4X2JfUVNkdXo5Y0FPcTAwQlZFenIxeFlqaDdRRHAyUE8wSWZuM0NCR0NN?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "viasat",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "space_defense",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 32,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 27,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 14
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "viasat",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 154,
+    "too_old": 41,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 63,
+    "pass_rate": "49.6%",
+    "gate2_block_rate": "9.4%",
+    "gate2_samples": [
+      "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+      "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+      "Intuitive Machines xStock Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in ",
+      "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance",
+      "L3Harris Technologies : Third Quarter 2026 News Release - www.marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 32 則事件，焦點為L3Harris Technologies、AST SpaceMobile、火箭實驗室相關動態：「Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bid, Satellite Consult...（太空防禦、太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Amazon Could Buy Viasat As AST SpaceMobile Tries Rival Bid, Satellite Consult...（太空防禦、太空產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
