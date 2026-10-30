@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:44:28.772934Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-10-30-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris Technologies Inc (LHX) Q3 2026 Earnings Call Highlights: Record $53 Billion Backlog ... - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONFRWY0dialZmVmpFMmJDbDJWSFRWZjA3aWRWa29IUlIxT2FXZjladkNJT0VfZXBhR0Fyc01aSlp3Z08ybExTLUhkUHV3aVJzM3l2ZUJNeDI2M25XVmtDd056VXJpMl92dzZfVVFOM0M4Z19SSFZyeGNRd0FjbXhGTkNwUHNpb2R3MUFDZEFzV2xxcnZRV0oybktpajRPdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-10-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "RKLB Stock Tests Bulls’ Patience — Rocket Lab’s NASA Robot Eyes Repairs As Neutron Advances, 100th Electron Ships - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa29mUVUtbzFjMWpDTWVkQ2lsVkN1Z1I1aGR1dVRZVVdxNV8ySkU5UC1zMlV1SmktU2F3N1NyMzAxRFppMVFNc2lWR01EYlZ4eHpEZlAxMUNNY0hwMHltTjQtcEZjd1BmOGh1a2ZXVG90RDRMOFZTZ2pyaTBiZ2d3TnBZOXpuMDI1OHNZb3hCRTJQakFtdjJOVEJBUGk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-10-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab: The Neutron Delay Changes The Timeline, Not The Thesis (NASDAQ:RKLB) - Seeking Alpha",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUTh4UUdEUjlvRjBFSnRBZ2hqQWt2QlBGSTRPNFZ2TDc1OURfalZkRE5ETzN5UWNWdHRERF96MWJsX1BEeGdBaWVVb1VHM3NpZTByZHp5V2tkaDlSX0hHN2NrUUFhbXBxQVg2T2pqakRoS25EaTFjN01Yck5IeDVVOWxKRWlZVVlaX3kxcUNVcVJaM2JvUmViLWZjY1BGSmJWZjU5WVpyeUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-10-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab: Is It Finally Time to Buy Below $60? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmhuUlhLN2Q3dTY3eElyWmR4VTE4X2FoTmprUnZPME9nWFFKVklYMk9MUDhXeGdTaDNFZF9qdV8wbDhOWHdRNUJqSFQ4a1U0aFpYUnlXSkRfTGlCZXFQLXhvcVJ4ZXFrMFp2Q3F6ME9yZHgyUjNGTUpzRTFpQXVsZFN6U3F2dUg5VUFsdlZ4LXZiUGtiYXY4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-10-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Robotic Arm That Can Walk Across Spacecraft? Rocket Lab Built It - Rocket Lab",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkJDT3REV3I2MUZWY1BGSmxDeFMwQ1Z4WFhoRjlKcXhNYkRuUzdqVEpvaEd1bmpueDBlVnpVeVVyNXFGdm5xdnB5YlZMTHhCbEFuZG1BV1ZRTGJGa0U1TGRJY2VrUDJGUzNXczkzZ2ZxaXNIdHMwVDMxLVcwTzdVVnJpRHB5Y3dCWmQ2bWNZdksxbmcyV2lzbnFYaG1CckxqZ0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 282,
+    "dup_title": 147,
+    "too_old": 41,
+    "gate1_blocked": 16,
+    "gate2_blocked": 21,
+    "passed": 57,
+    "pass_rate": "42.2%",
+    "gate2_block_rate": "15.6%",
+    "gate2_samples": [
+      "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+      "Intuitive Machines xStock Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in ",
+      "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+      "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Intuitive Machines, Inc. (LUNR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為火箭實驗室、L3Harris Technologies、行星實驗室相關動態：「L3Harris Technologies Inc (LHX) Q3 2026 Earnings Call Hig...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Technologies Inc (LHX) Q3 2026 Earnings Call Highlights: Record $53 ...",
+        "level": "green"
+      },
+      {
+        "text": "RKLB Stock Tests Bulls’ Patience — Rocket Lab’s NASA Robot Eyes Repairs As Ne...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

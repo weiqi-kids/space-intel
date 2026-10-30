@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-30",
+  "total_events": 17,
+  "by_company": {
+    "rocket_lab": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    },
+    "l3harris": {
+      "count": 2,
+      "sentiment_avg": 0.5
+    },
+    "planet": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.07
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
