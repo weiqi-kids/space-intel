@@ -1,0 +1,16 @@
+{
+  "total_raw": 287,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 14,
+  "gate2_fail": 16,
+  "passed": 53,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. Tokenized Stock (Coinbase) price today, LUNRc to USD live price, marketcap ",
+    "Intuitive Machines Inc (Derivatives) Price (LUNR/USD) Today | Live Price, Market Cap & Chart - Binan",
+    "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Intuitive Machines, Inc. (LUNR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:44:24.813586Z",
+  "updated_at": "2026-10-31T14:09:46.709844Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -92,17 +92,17 @@
       "name": "L3Harris Technologies",
       "ticker": "LHX",
       "currency": "USD",
-      "ar": 1950000000,
-      "ar_prev": 1912000000,
-      "ar_qoq": "+2%",
+      "ar": 1640000000,
+      "ar_prev": 1950000000,
+      "ar_qoq": "-16%",
       "ar_period": "QoQ",
-      "inventory": 1272000000,
-      "inv_prev": 1234000000,
-      "inv_qoq": "+3%",
+      "inventory": 1278000000,
+      "inv_prev": 1272000000,
+      "inv_qoq": "+0%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "lockheed",
