@@ -1,0 +1,16 @@
+{
+  "total_raw": 283,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 43,
+  "gate1_fail": 13,
+  "gate2_fail": 12,
+  "passed": 25,
+  "gate2_samples": [
+    "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+    "Intuitive Machines, Inc. (LUNR) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Intuitive Machines, Inc. (LUNR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "UBS Adjusts L3Harris Technologies Price Target to $293 From $264, Maintains Neutral Rating - Moomoo",
+    "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance"
+  ]
+}

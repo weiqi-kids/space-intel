@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-01",
+  "generated_at": "2026-11-01T14:39:39.388328Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-01-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "$10,000 in Rocket Lab at Its Record High Is Worth About $3,900 Today. Here's What Gets That Money Back. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZFJnNDlheTJCNmsyWUpCa3ZUdWVuN010Xy10Ty1sS3l0Vm9JRHd6U2dxUkxOU0NmeDRyMHI0SFd4eDVFWk5tMEpNZHZ0YlNuNjJCRmVYNTBZQmwzT0tkYjk2ZUN2Rm92VS05NnFmOXhuRm1jM0ZldGxfNnhEd1AxZm5IY2c5LTFWVVVNVXVXcFNQWXM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-01-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.space.com/space-exploration/missions/nasas-swift-space-telescope-is-about-to-crash-to-earth-where-will-it-fall"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-11-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines, Inc. $LUNR Shares Newly Bought by Mirae Asset Global Investments Co. Ltd. - MarketBeat",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOX3h5OVhUb0ZCYjI2akFIV1JQZmtNNGVPSWl6UUdTSENOb0FCcHltaDRMaGc0VEctWUZZS1lmMy05RDFoazNYcVRFWW9JNHlJSUhHTnVxcXZYNm5QQmFHYzVUMDlJMUFQWmlXc19ZY1BtenpxSzJBQTJqTVhJcVUxRnA4Ri15aWM1ZUFhTkpTbFp6R0R5MnAzdW5FNXNmZHpqN2d1ZGs4UEYzRHozUldxOUpGeGlneW90WmZGM1pqVk95Rm1CeHY2Z285Q0tiV014WVAzb0Foc0xJV3hXWmk5cnNXbw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-11-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intuitive Machines Stock Gets NASA Veteran Board Pick - Simply Wall St",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd01NQlBKSEwwZGstX3JmdHc4eXMzejFSTXRzOTRsdkZfZVdGdjNyUnVaUnNlNnlHUlYybVUzZlBna2VCa0RZRi1BMmwxVkVYbGtpemNmclpJYi1VU1kxclp0cmV2S3hnMVE1cW1ZLTR5NHJscnNVejNpZFhocjg0Q2JpNm9wLUd5dElqcUtOQUMxdmtZSWdIeGp3ajFHdFJzZmZqb01SVVpmU3h6NGR5Rkd4UVgxZWFpc3FSS0NSUWJVVVJJTWkxYmNIS012VU1z0gHWAUFVX3lxTE9XWDFZMHVhV0JEWWlSRjVBc2Rsd2M3ek02YlJsNU5tM3g0bHYtZ3NUVUVGMFJFVzJ6R2JLNUlFUFpXY0FsdGsxZW9mQk5fS2VXZThxajBKQ0h2NGpLWVR6VGVvc1N3dFZNUXVQNmlhN25WbU1RR2hGT1JkUmRsWVRHYWg4YWF5Nk54cGxRTkFEaS1hYnJ2YTdxRndvTnhjNUhwZS1tYmctS193aUVxREVNZHZ0LTNpamh4ZjY5Vy1MaWE0RFpqNmpGNmlqZ1VUdkxPYTBLaUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-01-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Q3: A Strong Buy After The Earnings Surprise (NYSE:LHX) - Seeking Alpha",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNjBURlBaRF9OMGpIbmVSeXg1SU15UHJXaThFYlVidFg4T1ZrRDFQRGIwRjNTZXY1Umo5M2duaGtxQ2ROTTRYTDA5MjlaaUIxTVZ4NEtVTERfd2dYVmprclNaZWpUSDFmVG9HdDZvWi1tT0JqMVFkNUpiVVEyYXFUamVCaUcxYmZOWUpEcmhrWmhiVXFzaUFwdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "l3harris",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "ses",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 190,
+    "too_old": 43,
+    "gate1_blocked": 13,
+    "gate2_blocked": 12,
+    "passed": 25,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "12.9%",
+    "gate2_samples": [
+      "Intuitive Machines Just Dropped 30% in a Month. Is It Time to Sell? - 24/7 Wall St.",
+      "Intuitive Machines, Inc. (LUNR) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Intuitive Machines, Inc. (LUNR) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "UBS Adjusts L3Harris Technologies Price Target to $293 From $264, Maintains Neutral Rating - Moomoo",
+      "What Could Rare Earth Supply Risks Mean For L3Harris Technologies (LHX)? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為L3Harris Technologies、直覺機器、火箭實驗室相關動態：「$10,000 in Rocket Lab at Its Record High Is Worth About $...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "$10,000 in Rocket Lab at Its Record High Is Worth About $3,900 Today. Here's ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "NASA's Swift space telescope is about to crash to Earth. Where will it fall?（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
