@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 9,
+  "gate2_fail": 19,
+  "passed": 57,
+  "gate2_samples": [
+    "KeyCorp Has Lowered Expectations for Intuitive Machines (NASDAQ:LUNR) Stock Price - MarketBeat",
+    "Is Intuitive Machines (LUNR) Cheap Following Its Board Reshuffle? - Simply Wall St",
+    "Intuitive Machines, Inc. (LUNR) stock price, news, quote and history - Yahoo Finance Singapore",
+    "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga"
+  ]
+}

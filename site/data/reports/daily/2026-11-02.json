@@ -1,0 +1,230 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:39:30.659011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-02-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Climbs 4% on Reported Boost Mobile Talks; AST SpaceMobile Falls 4%, Rocket Lab Dips - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEt2QTJTTm9ZdHMxRkRUOFR6WDNhalpOLWR2eS1haWRPcHQ4bkVTX0owbTBTeGZaZnRsaEZHZVo4ZFRSaHhXYmdDSEcxVVdJY09STHlIQWlOY09oM3hXZ2dzQlFOSWU5aVRCTWstcFJhS2M3b0RHSmt3UnhCTlJ0Zk1QaG1MXzFaRWxobDhlcXIzekRwZTI5b2liTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-02-026",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Climbs 4% on Reported Boost Mobile Talks; AST SpaceMobile Falls 4%, Rocket Lab Dips - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU1RVSEUzWUxUVzA4X3ZDVmpvYzVxWGNrV2VaTkhDUGVSTHUxYlAxNlRKOUt5SmhQdTlGN05UVEVZVi1kZDI1dHpBWGlPNWZ6bGFUOXkwSjFlemRxVWlVTjVaODdHTUlIbkFHR1JXaERQTWh6bmY2M0w2N0V6d09uclNxcExKSTBPSGhNWHJabEJJbDJxZEF3MVZqTHZwY2Y5b2NaWlBuLWtTV2FVM1JQblhMMkdHT011WnhKVVR4cWpHaThkVGFSYkFn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab (RKLB) Is Emerging As A Key Launch Option For Commercial Stations - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjgyNTVtZzNGNlg3UW1faGZBNGs5ZFdNVll5QnZQMXk2anVrVnVTS0dTdVFGRGNZRXJGZUxxYktLX0hYWXBtR0lXQTVwMHhqcnJQZVN2R1pmMWJ0TGJURDlSTmMzQXZXblU3NlQtRjNnS3kxQ0hiN0lCa1ZZZXN0REJ0akVBMEZUa0h6elVyRi1FMDg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "'The Sea God Surveys': Watch Rocket Lab launch Japanese Earth-observing satellite today - Space",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUkZ4eEx0enoxWnNWNGZsMjFNa080bTBtMF8wcFU4aFdkeGx5OFBJUndlRzNUSi1yTVpsS1l1Vm85WnA0dVFTZUFSRHVWaTRSNlVkQ182QmU3SjU5TjZFblZ5eTlKeGRGZVBoc3hSY1FxRGhxelE3aHEyTGp2UXFHc3d3VjhqbXhFTG9PX3BQUWZHSWxXX2hVdUV5OEhMM1Q1WUF0WVk1NFhrajRfZmtPdTRJU0p1dG9WQ2J4WjRmZkY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "I’m Eying Ocular Therapeutix, Rocket Lab; Also Small Caps Steady - RealMoney Pro",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVWxlcG9LQmZpRU9Hd2twVFZLWGlGbGhrZjZ1SGNtM01DNXg3SE5YRDZuOVpVWkJpczVSX2llOUpqWUlHZXVIUHRBQ3gxOElUdnhYNzNUTUEycHExNFdBWDd3SzJFdXNYMEpqVF9iRVVrdll6eDVDUkNfZk96Q0YtcXBtR2xDaHZ1Rl9DYkVkb3lFQ2RGMkhEZmllWHF0VS1x?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 38,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 47,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 44,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 13
+      },
+      {
+        "id": "l3harris",
+        "count": 6
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 5
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "planet",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 38
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 165,
+    "too_old": 36,
+    "gate1_blocked": 9,
+    "gate2_blocked": 19,
+    "passed": 57,
+    "pass_rate": "47.1%",
+    "gate2_block_rate": "15.7%",
+    "gate2_samples": [
+      "KeyCorp Has Lowered Expectations for Intuitive Machines (NASDAQ:LUNR) Stock Price - MarketBeat",
+      "Is Intuitive Machines (LUNR) Cheap Following Its Board Reshuffle? - Simply Wall St",
+      "Intuitive Machines, Inc. (LUNR) stock price, news, quote and history - Yahoo Finance Singapore",
+      "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 47 則事件，焦點為火箭實驗室、L3Harris Technologies、AST SpaceMobile相關動態：「SpaceX Climbs 4% on Reported Boost Mobile Talks; AST Spac...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SpaceX Climbs 4% on Reported Boost Mobile Talks; AST SpaceMobile Falls 4%, Ro...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SpaceX Climbs 4% on Reported Boost Mobile Talks; AST SpaceMobile Falls 4%, Ro...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
