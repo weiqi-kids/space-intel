@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 13,
+  "gate2_fail": 15,
+  "passed": 62,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "B of A Securities maintains L3Harris Technologies at Buy, raises price target to $375 from $325 - Tr",
+    "L3Harris tapped to supply new mast systems for European submarines - Interesting Engineering",
+    "Orlando Magic Host Seats for Soldiers Night Presented by L3Harris Tonight - NBA.com",
+    "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga"
+  ]
+}

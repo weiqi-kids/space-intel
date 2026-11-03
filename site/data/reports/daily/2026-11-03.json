@@ -1,0 +1,221 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:41:34.523522Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "globalstar-2026-11-03-007",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Yahoo Finance",
+      "companies": [
+        "globalstar",
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbklGMjZQSWNDa21yVFQ1RHQzMHJFZUhGNURuMkNjYmdCal8xRzJfcUxpQTV3bDZrRDZ6ZGQ2QUNuQjdyMWVjb2xKMXgzRkltRHdoaVRHWGVlZnhTb0FEcHJ1SldYMkJnWVlZZllJT3RYRjV5WUN0YXV1UGFob0padE9uT0xHSnhzckFCUHFlUGJ6RHZBTl9Yaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-03-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Plunged 7% Amid Amazon Fears — but That Could Be the Best Reason to Buy - Barchart.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNXF4a29COXA2X2wyQjdxOHlHMWZVdmhVT1o5dTN0aEZTWjNsVUpqeEtLSmZ6NlY3Qjd4VDR4UzFsa2prcGpaTHVpYTdpMDRJZW9MLV9LckhkOHdzRnByX2RNalF6N3d6MTM0LXdYNTRGTkVZdWFzNHR1bWVrSWhLVjZTQ2Jod0NDa0ZpQ2lOeDVMR0dlcWJYM1F5b3k5M0lLd280UUdVLV9xbWF2YkpQUGNuYmo0TVV2MEpEcThNQ0M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-11-03-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "NOVEMBER 13, 2026 DEADLINE: RGRD Law Announcees that AST SpaceMobile, Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit - ASTS - The Daily Tribune News",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOODVTUWpzM1BQMUFHcUh5dkhDMlRkbnZLeVBiTUJneVB1T01YVDYzM1BpblpqVHBBRjFDaFRGVVZTajJzeV9Pek5sS1VaV2I2NGJzd19ad3I0eFBob2h1QXZkLWJPV2VhTFI5T1pZRmJoNDV0REo1eDMzNk9YX3FOd2FnVk5RV1pGcTQxOTZjNEx0RGdrYVFOdjNMMkRSNzdDVWxXSVhobU1iNEZOME1HOXJnaU5aTmt2RzlfQWxKVHd6OE8telZNMVBJcTFGUmd6VFJWR0ZIOUFveU5kSDFBYWJGTTFQakk2ZVc4TEVWM0FpU1lhQWtQOE9rckFuYzBwYU1fVW93eG5JOVlYY05Vc19sQTdyQkd0UmJ3V0txUzdRWGxlR0xLOHk3UG9RMTJseENjNWxYbnZ5Yk0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-03-021",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AT&T takes a big step towards a major satellite breakthrough with help from SpaceX rival - PhoneArena",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWjBWMlkxNWVYMWlSTjFUUmkzTlQwYWRsM0MzaXo5TDN6ajZWd25DTGR5bUh0UXZTZWRWMnBtOGxRblMyTHVQTmprMldQdWlodG1ibG84WkxpTTR5emU3emhfNXRtQUxHS01PQXNpZ1pRYUR0cjZ0S1g4SV92aUlDdHVWNnFaRGRHeHBoYmNQWWNReEw0SmtGa09xc0tjRjBGZDRWNTRrcHVzaUtibFZTTnNtUmhLZk1tbE1J?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The 10-Year Treasury Eased to 4.9%. Here's Why Oklo, Archer, and Rocket Lab All Got Crushed -- and Which One I'd Buy Anyway. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQy04N2g2WFY0U2lTNVV2Z0doc2RBOUMzRDhuUVN4ZjJNRTdWa09iaHplMkhCZWk2NzltSl84NmE1YmlQendmcVhyeVlxQVRQNjNYTXRxVWdPVkNXbXlLcmlpd1U0NG5OSVhZdkllS19CMmhQUWYyanNLUDc3T3YzbEYxQWt3cWxuOVhnOVN0MA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 39,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 34,
+      "negative": 4
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "intuitive",
+        "count": 6
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 6
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      },
+      {
+        "id": "globalstar",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 163,
+    "too_old": 33,
+    "gate1_blocked": 13,
+    "gate2_blocked": 15,
+    "passed": 62,
+    "pass_rate": "50.4%",
+    "gate2_block_rate": "12.2%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. (LUNRW) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "B of A Securities maintains L3Harris Technologies at Buy, raises price target to $375 from $325 - Tr",
+      "L3Harris tapped to supply new mast systems for European submarines - Interesting Engineering",
+      "Orlando Magic Host Seats for Soldiers Night Presented by L3Harris Tonight - NBA.com",
+      "Here's How Much $100 Invested In L3Harris Technologies 15 Years Ago Would Be Worth Today - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 39 則事件，焦點為火箭實驗室、直覺機器、AST SpaceMobile相關動態：「RKLB’s Iridium Deal Draws Heat As Globalstar Echoes Space...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Plunged 7% Amid Amazon Fears — but That Could Be the Best Reason t...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
