@@ -1,0 +1,16 @@
+{
+  "total_raw": 260,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 45,
+  "gate1_fail": 8,
+  "gate2_fail": 12,
+  "passed": 62,
+  "gate2_samples": [
+    "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+    "L3Harris Technologies (LHX) Stock Gets Fair Value Boost After Split Analyst Views - Yahoo Finance",
+    "L3Harris: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "L3Harris says ReconneX combines passive RF sensing to improve emitter tracking across military netwo",
+    "L3Harris Technologies Inc $LHX Shares Sold by Focused Investors LLC - MarketBeat"
+  ]
+}
