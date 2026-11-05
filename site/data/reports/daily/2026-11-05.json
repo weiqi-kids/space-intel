@@ -1,0 +1,271 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:59:14.101937Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-05-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX vs. Rocket Lab vs. AST SpaceMobile: 3 Space Stocks Compared on the Only Numbers That Matter - The Motley Fool",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNb1BHcVg4RzhKYzFEb2VSUjlzcm11SURoYm1obWlyRWJmLUUyWEFUN2ZWWnoxejRXOHowNFo2a1NmeXRPempvNTJoeVZCbXAyQ1BCeHJRNzF6UVA1M0dxQ0RKMVdNbzNRTFhhanEteFdtWDl0a2RpUjF5eVZibDJ6ajMwTVlqZ2hVbTN1alVpNmhJUUhMOV9vVg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-11-05-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Better Space Stock: Rocket Lab vs. AST SpaceMobile (Hint: It Comes Down to Dilution) - The Motley Fool",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYUxvZEhwVlBOZ25wMVFfemhpeVBnZk41Vk5wWC1CbVBBb3BIZUFqRWgyZ1Jjcjg0YVhkQ0dZcFpsZUh6UV9iOVVFX0VXUHJINVJ2UnJHSGxfNEV4a1BnUERia2tfYXFaV2tRbkhsbUlOYjJneEhselVGdDNHWTE0Wnk5VTF3M24tMWhwMXotak1LRGdEYkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "iridium-2026-11-05-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab (RKLB) Stock Could Be Above Fair Value After Iridium Deal - Yahoo Finance",
+      "companies": [
+        "iridium",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1ozQ1pTaWwxV0tOOUxhelVNNzhyRlU1TTdHb0g2dXZNZS1wV1c5RS1GbE1QOG1STUlwS0FZVUZnNTJlaXlxMnJ4QWlYS180bVdyZnlFNVF6djNtQzZudXF4UWl4Wng5eFYxekluS0dNeHdXUEFhQnljWXdnbXhBdW1oVGNmWDJQdXRPMkZJeGxZSDBkZXVr?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-05-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Intuitive Machines and Rocket Lab: A Comparison of Spiking Sales Versus Steady Revenue - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcHBaYmJwUzhMQWtLWXBJOVpvVmxEQjRRb0Zna3lPdkg2MXFMODV1X2dpbUpmNXBqbU1SLUlIdFNRRHNucDFKRjBCRGRIYmZmWjFENi00NzFTZjZZeXpHMENJXzNUWHlZbFBjTGdIQWZGYzZTX2V1NjdjRGVkY3NYeDBIcWZldENVSHZncUxUeVJyQVNFbnVBV3BidW96aUppWUNMcWYtTG8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-05-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Intuitive Machines and Rocket Lab: A Comparison of Spiking Sales Versus Steady Revenue - The Motley Fool",
+      "companies": [
+        "rocket_lab",
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPblFDMko2X2dGVmxWYzN1aE9HNWtQcUZfaHdzY0JRcVkyd0JmeXphbThEclhjTnhnS0xtVTJEX2h0NGNaQW9LUVNrX205M1BseTh6UWxpWWJEM0hGbWUzSENPMW1wTzFzSVBSV3Bfemluc2phWUpiQ1Y1ZlJRQWdJY3FRLTJVTWpoTjNzR1FCRVp5RHNvRG5vZnpuNk02M0lGTzlnTzhTTUc1enlNa0pKME9fUk1BamtxWXBfRDI5SEkxc2t2NnFNcEtHTXlRQW8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.07,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intuitive",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 31,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 12
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 8
+      },
+      {
+        "id": "intuitive",
+        "count": 4
+      },
+      {
+        "id": "ses",
+        "count": 4
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "space_defense",
+        "count": 5
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 256,
+    "dup_title": 134,
+    "too_old": 39,
+    "gate1_blocked": 9,
+    "gate2_blocked": 20,
+    "passed": 54,
+    "pass_rate": "44.3%",
+    "gate2_block_rate": "16.4%",
+    "gate2_samples": [
+      "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+      "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+      "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+      "Form 8K L3Harris Technologies Inc For: 5 November By Investing.com - Investing.com UK",
+      "ProShare Advisors LLC Acquires 4,123 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「SpaceX vs. Rocket Lab vs. AST SpaceMobile: 3 Space Stocks...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SpaceX vs. Rocket Lab vs. AST SpaceMobile: 3 Space Stocks Compared on the Onl...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Better Space Stock: Rocket Lab vs. AST SpaceMobile (Hint: It Comes Down to Di...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

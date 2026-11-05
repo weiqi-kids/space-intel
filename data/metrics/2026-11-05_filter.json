@@ -1,0 +1,16 @@
+{
+  "total_raw": 256,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 9,
+  "gate2_fail": 20,
+  "passed": 54,
+  "gate2_samples": [
+    "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+    "A Look at L3Harris Technologies Inc (LHX) After 6.5% Decline -- GF Value $272.14 vs Price $259.74 - ",
+    "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+    "Form 8K L3Harris Technologies Inc For: 5 November By Investing.com - Investing.com UK",
+    "ProShare Advisors LLC Acquires 4,123 Shares of L3Harris Technologies Inc $LHX - MarketBeat"
+  ]
+}
