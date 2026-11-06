@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-06",
+  "generated_at": "2026-11-06T15:31:39.133565Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-06-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobile Sinks 8%, Rocket Lab Gains 2% - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONU9pZjFXbFhJZU11TU9ISm5Cb2M2SGFYYzdwQS03TUVlTXJBWWJQN0hQeDR5YkNRNmhkNHEybXJOMmhEZlhkbWo3cXhBNkxfZzduWFlyd1hDMWJWV0RIaHN0WG96OHhyV0cwOXRyeVdmYVlyTmw4eW5WNnBHeXpZWElCR1dDbGlqZW1TTmMta2tlYnY4ODJXLW9hck9hQjdGWnprTDg1WmxiMDRNY1k0bzNZdmVBcEpuZUcyVnFzSDdwdVVUaVRoSTdGRzU4WXduVk1qZFhfcEFlVWlPUzdnT1pn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-06-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Stock Has Lost About 70% From Its Record. Is It Finally a Buy? - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGVTeUdhd1hZN3c1Z09BdnNac0lBVWxfNjFyM2dMVTFXeTB4cnduZVNtUFFnamU2SEdveHppZXVjWDVfRHRWRHV2OGFXTllUanYza1E5Z0VCR1pOdVhRWUN5bXBRNjNudVdaWUdGQklwQ0VEekpzZzRJOWNJOFR3Q0w1b3Z2cW9xeVhoUmNrT09JV0sxSWRhNURwOE9rdWU5VDNWSDBGeHVQQ0FCQjFZNzFSNA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Earnings Ahead: What Past Reactions Say About The Stock - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1FxSmJXMERvd1dYU2RzVjBEbklDdHl2ekpHdjlEOEs3SGdlZ0FnQnNIenJ6M1Q1Y1Q3M1JBNjFVUzgwaExYaHZWRTBxOFhOT1VHbERjak93N2Q0SmFzUzE1ZFJzWVA4QlNBYTVJbzB6bk84bTJXeVFfNDNkUF9kMkl0U1RJSzY1LTVBdUhmVWxnREJUVExVOTk5VnBwaXVOQnhEZzcxMWZqcnAyRThzV1VLVTFGamhseDlYcUdhSVk3UHVT?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Reports November 9. The Quarter Has to Show It Can Fund Growth Without More Dilution - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb19nV1lpVFVqN3htcDNUTXZLWHpaNTZtQzMyOFEzMDJ5d2tielJWSldMU3hHZjFjYVJUaFhVRXpIcUlnWEdhRHpuMGp6WTV6NjJPNTZRTTJaMmpDa1I2UEd3c1ZxSTJtaXA2QXZYbjJFUkh1LXJyaV9NSDJacGpRdnV0bnl6OUNjQkhzbm5mVG1JQ0xZYXVGLVJn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Sinks 12% as AI Stock Sell-Off Hits Space: “Absolute Slaughter” - TIKR.com",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcEcySGdyYXJLSTBHeGxLTmdSaktsODFfLTdFbE5lRDZIUDFGTERIc2k1bGpjT0RRUFptRmpRSkEyQmh5UFd1bW9IQXVVVW9pdFlLVjZNNmJkQ0VyNndHNnpBT2N4b25UVzVXWTNGMEZhYTAxVEhqaWlxVGxyaGlkYnlwNFctZTNkdzltc0FnNHlSWFZOcEhpNlVDVG4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 30,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 13
+      },
+      {
+        "id": "rocket_lab",
+        "count": 11
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "launch_cost",
+        "count": 2
+      },
+      {
+        "id": "space_defense",
+        "count": 2
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 128,
+    "too_old": 42,
+    "gate1_blocked": 13,
+    "gate2_blocked": 23,
+    "passed": 75,
+    "pass_rate": "49.0%",
+    "gate2_block_rate": "15.0%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+      "Intuitive Machines, Inc. (LUNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+      "L3Harris Technologies (LHX) Stock Gets Fair Value Boost After Split Analyst Views - Yahoo Finance",
+      "L3Harris Technologies Inc $LHX Shares Newly Purchased by Freemont Management S.A. - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「SpaceX Rises 4% as Tech Stocks Rebound From Post-Election...」。主要關注主題為太空產業通用、發射成本、太空防禦，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX Rises 4% as Tech Stocks Rebound From Post-Election Rout; AST SpaceMobi...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Stock Has Lost About 70% From Its Record. Is It Finally a Buy? - T...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 2 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

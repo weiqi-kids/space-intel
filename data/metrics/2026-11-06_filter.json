@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 42,
+  "gate1_fail": 13,
+  "gate2_fail": 23,
+  "passed": 75,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+    "Intuitive Machines, Inc. (LUNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+    "L3Harris Technologies (LHX) Stock Gets Fair Value Boost After Split Analyst Views - Yahoo Finance",
+    "L3Harris Technologies Inc $LHX Shares Newly Purchased by Freemont Management S.A. - MarketBeat"
+  ]
+}
