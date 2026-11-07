@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:34:31.445465Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Built a Space Robot - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjVqUzZzLVFYS1QzV3MxNGFpRTNXcnJXUVNYcjJkT0VrMmtJRU1XcjB3QVdwcERtU18ycDlBelRPcGJ6MlloeElQTWxXclVIV2JfSU5xc2FMR0s3LVZzeHBsWmNnVTFRZE1rcWRnUEw4bW41TzlqZVk5U1VMV0JmNUU5VDZ6d3g2a0VlbEUzS3Zydw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Sent Rocket Lab Stock Higher? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkQtaXZJdURJYm1pejVyRnhuSkN6anpjVl9BbFg1MkNCVHVFaDZqcjlFcDZZZGhoRk9yR09KRnBXXzFyZTR1S21KdFJURnV4ZzRFOUsyX1NsYU1VM3VpM0p0cHR6Um1ISC1PMDJXMDA1d0Y0QmsyZkhUVUYySkQ0ZzVxaFpQMWZxQUtRR0dTQURGaG5Wb295LXJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Built a Space Robot - The Motley Fool",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOazV3U0N6YnNUVXNwM2VEdFJPQmE0R3Y1bFF5ZktaRHV4STMwUGpoR3p4a09JQUFRWlFuYUFvc2JNeXgtSEJwNWVQWndSU2hNN2FLZEdzZTFsdUlVSE0xMHNwdFBYcDEya3ItTVJ3aHdKM2ktbWV0b2dVR05BMVZGYWZ5dUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Neutron Delayed to 2027: Stock -11% [2026] - https://tech-insider.org/",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbEw2bHVLcGE3VXg5MDQ3TFNwY0RyaDdBNXRZamtLRE9YM19xU3NiMDI1MFFoc0V5djAtdGszQkVZbnBEcUtybnFOSlZMVi13bnFtc2ZKd1g3Nmc3M3diYWR5dGllendrXzU5QXFKRUFZNG5FVHI0OFd5b2phZVExckZuZlctNUg2clVNOW9JcHJwNVFEcEdZdDJ3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Built a Space Robot - The Globe and Mail",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY1ItWDRDSmYxY1BnMlBRLVNKUjRvTzlZOWlnLTU2cm5xUUpkRVB1OEZCV09sWVU2UTBTR0hIOGRlYW9tMUZ0ZzlMZTdZdF9FTHdUZFdYZDRCei12Sy1nWjZoOHkyR3VyMUdIcFpQWTlEVVRmMWVMeXlzUFctTmNfdllNdTFaMk5UYUVNRFJEOFVYWnpjUDhMS1ItYkVZUWxzUTgyRGZUXzliVUVEeng5MWNPbFVMbzNKa2QwR2Jn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 281,
+    "dup_title": 147,
+    "too_old": 46,
+    "gate1_blocked": 15,
+    "gate2_blocked": 18,
+    "passed": 55,
+    "pass_rate": "41.0%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+      "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+      "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+      "Orlando Magic Host Seats for Soldiers Night Presented by L3Harris Tonight - NBA.com",
+      "A Layered Approach to Drone-Threat Protection - L3Harris® Fast. Forward."
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為火箭實驗室、AST SpaceMobile、直覺機器相關動態：「Rocket Lab Just Built a Space Robot - Yahoo Finance」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rocket Lab Just Built a Space Robot - Yahoo Finance（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "What Sent Rocket Lab Stock Higher? - Trefis（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

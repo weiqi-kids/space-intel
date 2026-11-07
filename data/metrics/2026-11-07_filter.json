@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 46,
+  "gate1_fail": 15,
+  "gate2_fail": 18,
+  "passed": 55,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+    "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+    "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+    "Orlando Magic Host Seats for Soldiers Night Presented by L3Harris Tonight - NBA.com",
+    "A Layered Approach to Drone-Threat Protection - L3Harris® Fast. Forward."
+  ]
+}
