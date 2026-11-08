@@ -1,0 +1,199 @@
+{
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:41:23.148667Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "globalstar-2026-11-08-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Stocktwits",
+      "companies": [
+        "globalstar",
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMlExbWlDazFDUjFZc2VIdWNVRXdvUVk4Ym0xWjJmQmo2cDNoclI4TE5YRXAzZTNhVzA2NHA2eHd2bUVOS1Nxenc2Z3YxRkkwcjZvLU9oZDVRZlNnOGJnQmRYWUpMUW1kQThUb3NzMGNKYWpqUUpWS1R4VVZXQk5HbTROOHpaMi0xM3V6U05rTmNQdnBhdzdDM3hpaVRXaTNraHBCNEt1QlhXS3FsWWxGdjZWck82SDFvWWM1SUlDRXg1cHBRcHdtcWdxRmcxOXlVRlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Earnings: $234M Q2 Revenue, AST Next [2026] - shattered.io",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZm00aGNHSThnN0NuVDhfWmJFc3ZqUkhLVmNoT001RDhhUTdkVkZjSGlyZkJneHBMUFpjbTJJMV9ZY0d2YWVjdXdBSkVONTFWWVlsMFo0akdiTmhXbFMzQV94Mjd1ZXdUZGJBTjhJSFAzRzh3VGtuNkFRc3VmOW0tN1dpUF9GTXRUR0RTanF6RV9IUEE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "intuitive-2026-11-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Intuitive Machines (LUNR) Is Up 21.5% And What's Next - Simply Wall St",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdUZvRmRBdlRBck9JLTNRWGFNQ2I4VVAyQW9aa2dhaExUSERkWV9QQ3RyNjVnRGVwRmo1OUJaQjNvclU3MGdHZ1BaTUplT25Wa28xeEJrbEdMVnUtV2lTRFczdkUxbFVQR0Y4UWYxcDZyRVdlSWV5NVItUkZ4NmtkeWswTDhEb1pQb3NMWU1Ud3Y4ckZDWXlqUVZ6dVVGWDZ5X2pVbHg2bmJOUDFMaDMzaV9tWHRicWNaWlNuNWoxYjIzWk9BZms1Y09iNHEtUXPSAdQBQVVfeXFMT1ZNV0x6SzlUZ1ZTcUpSanFyUVBVZ1lPQ2FJc0xIU2JTWllJYUF5MHlQNGs0X0tPRmJrSE42c0dDUFRVZ1dsOTRwMjRpeHVtRmNoNFRpNHZpZnBERHFZYzVmcHNSajQ0NnZKaWxlT1ctSGFjUlkxaTZMRXZXRTBoTEJHSWdiVGpjYk52VGx2NVJtLVNfQ3YtS0xNc1BCV1hjSmtjdEJiWUNUQ2FRLVJvZlkwZHR3OGdhNDl2UGdSUnJQUEVsSllNeVBlU2hLSDFNNGJ5dXI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ast_spacemobile-2026-11-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile Blacklift Rocket: $1.3B Deal [2026] - https://tech-insider.org/",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVVxNUZQWVVtQ3hGUi1MRm5mRkkyY0hfVGx3am9Qc1FYc2dMVV9DOXprSzRTcDQxcmo4ZWNCQ0dRcXlEeTJEODlkSUxwSGM4QVlRaU1VV0xIWkswcVpoSHhZdnB4dzU5eDAwWEtUMUpramZIMHA2cXI0N2N5OV9VRGZzT1hkLXZqQklYUHNrWTJsQ2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Who is King Ghidorah? The cosmic connections of Godzilla Minus Zero's foe",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/entertainment/space-movies-shows/who-is-king-ghidorah-the-cosmic-connections-of-godzilla-minus-zeros-foe"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      },
+      {
+        "id": "globalstar",
+        "count": 1
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 279,
+    "dup_title": 178,
+    "too_old": 44,
+    "gate1_blocked": 15,
+    "gate2_blocked": 16,
+    "passed": 26,
+    "pass_rate": "25.7%",
+    "gate2_block_rate": "15.8%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+      "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+      "Should L3Harris Stock Holders Look At Lockheed Martin Instead? - Trefis",
+      "Analysts Are Bullish on Top Industrial Goods Stocks: SIA Engineering Co (SEGSF), L3Harris Technologi",
+      "Orlando Magic Host Seats for Soldiers Night Presented by L3Harris Tonight - NBA.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為火箭實驗室、Globalstar、銥星通訊相關動態：「RKLB’s Iridium Deal Draws Heat As Globalstar Echoes Space...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Earnings: $234M Q2 Revenue, AST Next [2026] - shattered.io（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
