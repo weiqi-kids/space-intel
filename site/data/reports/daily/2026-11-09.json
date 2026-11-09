@@ -1,0 +1,252 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:05:39.978267Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-09-030",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab and AST SpaceMobile Stocks Set to Report Earnings This Evening — Analysts See Only One as a Strong Buy - TipRanks",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVlVJd1ktMHpra2F5ODZHVXZEQWdaN1R3ZVFObEE5N3hPczBkLUhJNzJBUEYxVVR2SDVFMlhyQjQxQzF1T2RLMGFMbmdaT05oQ3oweGZlbGhGY0ZNTS02ZXlNaHY5aWxnRDdURVFYTFZzdjBoNmxSZXU2bVNzcDhJdVpaQmc1RXhsblVramZmRnF0X1NDMEFqSURtWmZ2czY1d3FNRGllbmREbkFnNE91Nk9YZ09VTXgyTkJtSU9fai04bFdvU0xoVHNJSHAwLU9TNGdqbXJUMjNkTVdIQ3MtbmNnNA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-11-09-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Rakuten; SpaceX Rises 6% - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX2pHNEFYaHlMd0xLeWF3Y1dEUjN5enVRc19GWHl4bTNGbzF5X0RkMHJ2Y09VanBnekdnNFVMcXA4S0FhQllpdVZLX0hJYzI3TkEwVjBUa1ZBYXRkRkxyWkVUalJfUWNEc1dNQTQ4NVdJcmVYZXJBLVpUWnFBYm5RSGlfQVF3NWhyOHdxOGZJdWFoY1k?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-11-09-037",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Satellite Venture With Rakuten; SpaceX Rises 6% - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORlVQcE5kSFRrTzZ6b051X2VqeXdQdWRFS18zTlpDejlObVlyMDQwSFRNSW5LcjNxakRMOUQ5NE5LLU1BTV9XUDFIb0R4RmtfWWZnMWhuc0hMR2pzcVRmTXJDeTdCR3ZKVEd1aExJWmFCZzR0ZXlfVUdXRjJQVUpXaG40X21la0x4Q1Q0THVwVHhIS1VRMFJOZTRBblRQd1lXV2gyV2tiUlNKXzZUNVRvSzZXYzlOU2JYQjJvb2cyUmRnWDBraVNXcjQwNVE0eDNYWHEtMnVNUTVDZ0hXZmdQaXJTNlE0SDczTkZOZUx2NkVITUU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Earnings Loom: Here’s What Investors Need to Know - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOHExQ0Y0bU1WT0I5bHhWSG5MTEVaUFMwS0ItSDJNLUxSWDBaUzdzMWNjb0lSZk1SMEpYa0s5bVpiZFlrN3dUUDVTZ0w2YXI2cDVYTTM5ZjhCRmZNV2Q1TGJlcl92Z0h6ZzdYR3dPR3lKMWRMcmlxNmlLZTByZ0ROUVkzQ0JGUnVpSElGR0hUbXd3dU5YSjAwbm1rUVZmOVlnMGNBVFVHUDRuWVJBQUJ4cnJERTR2Qm5XeERV?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX, Rocket Lab blast higher as NASA hands out $10 billion in moon base awards - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMWEtYXNDaFBOa2M3TlhLaV9wRFFRUG5oVUNXZzdBM1BybnJCZmZtRFZCdldUcXFYdVBIalhsWW9oRzRLX3NpbjgzbDRtcFJ6Rm9acWhydHMxT0VveGR6dXRvRW1uQnpKeGFfQ1RTYnlIQUJqNFltUTFCbFlrQ09PRGQ4c0FLUkN2YVVxelBQTDBfNEVENkRSRnlTdFVrMWdxOVR1T1hhbVFmYndaWXBsNnFzczN5NXJfb2FfNS1Jc0N1dEg0UkJ6cGdiTWFieGt2Z1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 58,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 62,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 59,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "planet",
+        "count": 11
+      },
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 10
+      },
+      {
+        "id": "intuitive",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 58
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 279,
+    "dup_title": 138,
+    "too_old": 38,
+    "gate1_blocked": 16,
+    "gate2_blocked": 16,
+    "passed": 71,
+    "pass_rate": "50.4%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Intuitive Machines, Inc. (LUNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+      "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+      "L3Harris Technologies (NYSE:LHX) Stock Rated Buy in New Coverage at Citigroup - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 62 則事件，焦點為行星實驗室、火箭實驗室、AST SpaceMobile相關動態：「Rocket Lab and AST SpaceMobile Stocks Set to Report Earni...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab and AST SpaceMobile Stocks Set to Report Earnings This Evening — A...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Jumps 9% Ahead of Earnings, AST SpaceMobile Surges 11% on Japan Sa...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

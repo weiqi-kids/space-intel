@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-09",
+  "date_range": {
+    "start": "2026-11-03",
+    "end": "2026-11-09"
+  },
+  "generated_at": "2026-11-09T18:05:40.128954Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "globalstar-2026-11-03-007",
+      "date": "2026-11-03",
+      "title": "RKLB’s Iridium Deal Draws Heat As Globalstar Echoes SpaceX Concerns — Rocket Lab Seeks Fast FCC Approval - Yahoo Finance",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "iridium",
+      "company_b": "rocket_lab",
+      "co_mention_count": 4,
+      "rank": 2
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "globalstar",
+      "company_b": "rocket_lab",
+      "co_mention_count": 3,
+      "rank": 3
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 204,
+      "last_week": 135,
+      "week_over_week_change": "+51%",
+      "sentiment_this_week": -0.01
+    },
+    "space_defense": {
+      "this_week": 10,
+      "last_week": 2,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 3,
+      "last_week": 5,
+      "week_over_week_change": "-40%",
+      "sentiment_this_week": 0.0
+    },
+    "launch_cost": {
+      "this_week": 4,
+      "last_week": 2,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 57,
+      "sentiment_avg": -0.07,
+      "rank": 1
+    },
+    "globalstar": {
+      "event_count": 2,
+      "sentiment_avg": -0.5,
+      "rank": 8
+    },
+    "iridium": {
+      "event_count": 3,
+      "sentiment_avg": -0.33,
+      "rank": 7
+    },
+    "intuitive": {
+      "event_count": 24,
+      "sentiment_avg": -0.02,
+      "rank": 3
+    },
+    "l3harris": {
+      "event_count": 12,
+      "sentiment_avg": 0.08,
+      "rank": 5
+    },
+    "planet": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ast_spacemobile": {
+      "event_count": 48,
+      "sentiment_avg": -0.01,
+      "rank": 2
+    },
+    "ses": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 6
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 380,
+        "last": 361,
+        "change_pct": 5.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-03",
+      "event_count": 68,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-04",
+      "event_count": 59,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-05",
+      "event_count": 77,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-06",
+      "event_count": 72,
+      "sentiment_avg": -0.03
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 28,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 14,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 62,
+      "sentiment_avg": 0.01
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-03 ~ 2026-11-09）共 380 則事件，重點為「RKLB’s Iridium Deal Draws Heat As Globalstar Ec...」。銥星通訊、Globalstar情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Globalstar",
+        "reason": "本週情緒偏負面（-0.5），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "銥星通訊",
+        "reason": "本週情緒偏負面（-0.3），共 3 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 57 則相關事件且情緒偏負面，需特別關注。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

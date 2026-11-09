@@ -1,0 +1,16 @@
+{
+  "total_raw": 279,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 38,
+  "gate1_fail": 16,
+  "gate2_fail": 16,
+  "passed": 71,
+  "gate2_samples": [
+    "Intuitive Machines, Inc. (LUNR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga",
+    "Intuitive Machines Stock Climbs Tuesday: What's Happening? - Benzinga",
+    "L3Harris Technologies (NYSE:LHX) Stock Rated Buy in New Coverage at Citigroup - MarketBeat"
+  ]
+}
