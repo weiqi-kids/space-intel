@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:05:36.192056Z",
+  "updated_at": "2026-11-10T15:59:19.189828Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "Globalstar",
       "ticker": "GSAT",
       "currency": "USD",
-      "ar": 20529000,
-      "ar_prev": 19762000,
-      "ar_qoq": "+4%",
+      "ar": 22314000,
+      "ar_prev": 20529000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
-      "inventory": 10938000,
-      "inv_prev": 10078000,
-      "inv_qoq": "+9%",
+      "inventory": 11198000,
+      "inv_prev": 10938000,
+      "inv_qoq": "+2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "intuitive",
@@ -160,17 +160,17 @@
       "name": "Redwire",
       "ticker": "RDW",
       "currency": "USD",
-      "ar": 27495000,
-      "ar_prev": 24342000,
-      "ar_qoq": "+13%",
+      "ar": 28905000,
+      "ar_prev": 27495000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 85364000,
-      "inv_prev": 69350000,
-      "inv_qoq": "+23%",
+      "inventory": 99778000,
+      "inv_prev": 85364000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "rocket_lab",
@@ -228,17 +228,17 @@
       "name": "Viasat",
       "ticker": "VSAT",
       "currency": "USD",
-      "ar": 530060000,
-      "ar_prev": 539758000,
-      "ar_qoq": "-2%",
+      "ar": 536031000,
+      "ar_prev": 530060000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
-      "inventory": 293788000,
-      "inv_prev": 281220000,
-      "inv_qoq": "+4%",
+      "inventory": 308784000,
+      "inv_prev": 293788000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }

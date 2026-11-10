@@ -1,0 +1,16 @@
+{
+  "total_raw": 277,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 34,
+  "gate1_fail": 12,
+  "gate2_fail": 16,
+  "passed": 77,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+    "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "A $10 Billion Reason Why Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+    "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga"
+  ]
+}

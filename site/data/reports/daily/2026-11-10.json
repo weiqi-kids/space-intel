@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:59:23.198568Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-10-005",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA Price Target Cut; SpaceX Slides 3% - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdkg3eHJPbzZ6SjBZS1ZaX3ozV0JqS1dSRHIyZHBfdXY4cTQtcHowSXBibzRjMDgwdGNyaFJsM0s5c3NodnVaNFFNeFlYUmNadUgzcFdpeG5vazdpcFVQZUQxYl93X3dLV0F2cHZYQXMxeUUxNU5ObVVBa3FIbHdTS0tVcFNneGNLOGJ1TmNVTU40YlRSWVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-10-006",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA Price Target Cut; SpaceX Slides 3% - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVnBKbWFlUGhoV3BaVFZ3MXBra3NudTZHQ1RlMXB1X2x4R0R1QW01T1BadVUxOWxRSzJPTWNlM2pnQjR5TXQwRFV3bXJmbVA3cEtjWWVzQnBsSElxQUlETC03d1BxaUJYQlI2STVNR05GTFR1SE5hd2puT3gyVXc3MlI1M0Y1cmJSZ29rb3hmTmU3QXV2eHF3MGw5Q3FGeWpzLWZSYW5taEFvdnNsYnB6NmJhbldhUTd2Wnljd2pkYlpZV25wVVFySjFXQ2RST2I1SEk5dVRjM09KSnJDOG5MZk0zRXA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ast_spacemobile-2026-11-10-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "How Top 3 Space Stocks Stack Up on Revenue Visibility After November 9: SpaceX (NASDAQ:SPCX), Intuitive Machines (NASDAQ:LUNR) and AST SpaceMobile (NASDAQ:ASTS)? - kalkine.ca",
+      "companies": [
+        "ast_spacemobile",
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVEZ4Yk9STExVWE43ek5PRzN4V09IYjZtX212RDFiZHNER1BZdHJDQmJFdTBoRVo5WURJVDd2VTR6ZXMxWHdRSVRGeUZfYTlXaDNkWktPR2VuU25SUHRscXZ4aFBwOEc1OElqUHZNVXF5UktKLVlPS1BrR3VEbTdPTUUyUW1mR2hrSi1aTnJWY2ZWR1h3bTNWc3BITjdpV1pQSFlWaFhQYmdjdzF0Ym9JQU1MUDVUdG9tbGI0TTkzaDFpNmpmQ3pPOWVKSURTM3pSX0xhSVdhUGlDd0d2Z2VGRGpRMFZPeXBNQVhNREx0THFNRndKVmF2YUZjbURzZVdKMWdKSURrUXNFNi15aFlJMHlacw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-10-027",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab vs. AST SpaceMobile – Which Space Stock Is a Better Buy After Q3 Results? - TipRanks",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYl9yM2RiZzBsSjZNcjJDUk9TVTAtOXNya2VPMkY4MXRodm9wMWhUaHhhdHJQLXZLUUJQN3pfTUQ3MC16QjBYNC1GZUpkNWg0bXJsRk0wSWpGTV9Wd3BJOTBQdHJvcTcyVnFrWUFXZ2wxM3czcFpBRG9TZGFncFo2VVcwa3IyMnVTYXFnbUFULTM2c0xBNHNudWZnaExUOEh2bC1xU1BlV1Q2QjdaSlpRNENLLTBDc0t5bUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-10-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Rocket Lab Shares Fall Over 5% After Q3 Earnings Miss Despite 73% Revenue Growth and Record Backlog - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFlTVloxUGdZXy03ZlVXMTZZelBmR2d4dDdPQnNCTEpMaTJVc0RKTEUtMFN0TEZSWWhTYUM2Y0VSV3dTTlVKcDhCWVJCRHBEQy13bzRBMzRFeTJJWUF6NkoyYzRnTWRDblhqeUtNZEF4QmZvYW05MDYxSGR2YThrTG03LXhLdXVTbXc3VEFwckNpcmhrQzV3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "launch_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 36,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 38,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 15
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 12
+      },
+      {
+        "id": "l3harris",
+        "count": 5
+      },
+      {
+        "id": "intuitive",
+        "count": 3
+      },
+      {
+        "id": "planet",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 36
+      },
+      {
+        "id": "launch_cost",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 277,
+    "dup_title": 138,
+    "too_old": 34,
+    "gate1_blocked": 12,
+    "gate2_blocked": 16,
+    "passed": 77,
+    "pass_rate": "55.4%",
+    "gate2_block_rate": "11.5%",
+    "gate2_samples": [
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+      "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "A $10 Billion Reason Why Intuitive Machines (LUNR) Stock Is Up Today - Yahoo Finance",
+      "Why Is Intuitive Machines Stock Gaining Friday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為火箭實驗室、AST SpaceMobile、L3Harris Technologies相關動態：「Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab Sinks 9% Despite Record Backlog, AST SpaceMobile Falls 6% on BofA ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "發射成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
