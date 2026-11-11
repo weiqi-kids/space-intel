@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:59:19.189828Z",
+  "updated_at": "2026-11-11T15:45:31.093105Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -7,17 +7,17 @@
       "name": "AST SpaceMobile",
       "ticker": "ASTS",
       "currency": "USD",
-      "ar": 79297000,
-      "ar_prev": 27453000,
-      "ar_qoq": "+189%",
+      "ar": 104062000,
+      "ar_prev": 79297000,
+      "ar_qoq": "+31%",
       "ar_period": "QoQ",
-      "inventory": 28417000,
-      "inv_prev": 16756000,
-      "inv_qoq": "+70%",
+      "inventory": 78988000,
+      "inv_prev": 28417000,
+      "inv_qoq": "+178%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "boeing",
@@ -177,17 +177,17 @@
       "name": "火箭實驗室",
       "ticker": "RKLB",
       "currency": "USD",
-      "ar": 112889000,
-      "ar_prev": 74955000,
-      "ar_qoq": "+51%",
+      "ar": 118311000,
+      "ar_prev": 112889000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 266931000,
-      "inv_prev": 183146000,
-      "inv_qoq": "+46%",
+      "inventory": 280885000,
+      "inv_prev": 266931000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": true,
-      "quarter_date": "2026-06-30"
+      "alert": false,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ses",

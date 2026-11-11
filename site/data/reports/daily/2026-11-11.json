@@ -1,0 +1,204 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:45:35.745990Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-11-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "RKLB Vs. SPCX: Which Space Stock Has More Upside As Rocket Lab’s Iridium Deal Deepens Spectrum Feud? - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTHJvcGxVWDE2SUJpOU94SEJpS1NDOVlFdDg3Vk1PN1hwVkUwaTkyTDNmZ1h4M2tUa3NneDRZXzRCS3htc1Z2M2ZHX2FnRlQ2UEZGcjdNX0dUVmZFa1RteXFMSWx3dGNmRHFNblZHbkFyRUZkWFR3UXg2Sk9Ydl9UOURpRFFxZ2lYQ0c4dWVoTmRmNUk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-11-11-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "$10,000 in AST SpaceMobile Stock at Its Record High Is Worth About $2,770 Today. Here's What Gets That Money Back. - The Motley Fool",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQm55UEpkWFhja3ROM3ZKYld4Y2tucGlSYUpOS0pPX1R4SGtscjE0WGdmWGYzeDNGUUNQUnVqWEE1c0k1Ujk4b0RTUG95eEFEa0pNMlZ1ZlVHNk9JRVNILUlQZUwzbGJNLVJiX3VjWlljaFJsV1ZrcGtDUVFWLUFCQVNPcHU3czRMUkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Did Rocket Lab Stock Jump? - Trefis",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnhvX0hPMmQzVGV3MUJxaXZ1UjJ2U05nbzJYU0xsdG5KQmVnU21HUk9icU03anBuTWZ3ZV8tc0VqZnZNUmNJRHVlZ0R3Y0VSckZBM0JiVXRaaUdDUnNobEpHZEMxdEJLR1BvUHhEaUQwQkNCUGJNLXc1MzRrRVJmSi1QdmJtbFhVQjRuOUJZdHM3cVkt?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Needham maintains Rocket Lab at Buy, lowers price target to $100 from $120 - TradingView",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0ktNWlYcnVraDl6UktWSHZkWUJmQy1lT21xUnFTcmJqN2l5d0owYURZWjJabzd5dkhSR1NWMDFVTFRyYU1WVWdJdWxxRW1IQmZranlrWjZBVDd4U0lIeVA0b01EWk1RajdZOGlwbjlCNHZRUW5QeEJJREVYVEgyWEFkcExSemZqdXZ3SDI3cUtxVkNOVDhBajdCM0xNdkVBMFd4QmxES0ZpUm9GbzFxU1A5NjgzNnJ4aGtlMTVDMjh6dEhRZVhha1N5UUk5dw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tracking Cathie Wood: Buying Archer Aviation and Rocket Lab, Selling BYD ADR and Block - Moomoo",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWNwSzRfQmtNMm1YN2NObjcwNlZNRXgyTmdLTHF2ek13VzAtNHJaWWtJUkxHRVBhZkJoNjRYRFlMUFZvdkZoTkw2Z0MwUVNVS0dvMmphU0x5d2NDRU4tMG5CZGZqN0JiY3B3Q1lkcXZKY2ktSFdGZXhMZmc0b2lqWUdEMXhTNXpPaFB2NDQ4VnJwQU02VDBGYlhKSlNKX3hpbGdGcFBNSkJMaHRObHY2M2xOZk5ha2tuV3pxbA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 9
+      },
+      {
+        "id": "rocket_lab",
+        "count": 4
+      },
+      {
+        "id": "spire",
+        "count": 3
+      },
+      {
+        "id": "intuitive",
+        "count": 2
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 280,
+    "dup_title": 134,
+    "too_old": 33,
+    "gate1_blocked": 15,
+    "gate2_blocked": 19,
+    "passed": 79,
+    "pass_rate": "54.1%",
+    "gate2_block_rate": "13.0%",
+    "gate2_samples": [
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+      "Why is Intuitive Machines stock climbing today? - Investing.com",
+      "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+      "L3Harris Technologies, Inc. (LHX) latest stock news and headlines - Yahoo Finance Singapore",
+      "A Look at L3Harris Technologies Inc (LHX) After 4.4% Gain -- GF Value $272.14 vs Price $271.42 - Gur"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為AST SpaceMobile、火箭實驗室、Spire Global相關動態：「RKLB Vs. SPCX: Which Space Stock Has More Upside As Rocke...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "RKLB Vs. SPCX: Which Space Stock Has More Upside As Rocket Lab’s Iridium Deal...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "$10,000 in AST SpaceMobile Stock at Its Record High Is Worth About $2,770 Tod...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

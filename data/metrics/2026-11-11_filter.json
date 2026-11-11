@@ -1,0 +1,16 @@
+{
+  "total_raw": 280,
+  "dup_title": 134,
+  "no_date": 0,
+  "too_old": 33,
+  "gate1_fail": 15,
+  "gate2_fail": 19,
+  "passed": 79,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+    "Why is Intuitive Machines stock climbing today? - Investing.com",
+    "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+    "L3Harris Technologies, Inc. (LHX) latest stock news and headlines - Yahoo Finance Singapore",
+    "A Look at L3Harris Technologies Inc (LHX) After 4.4% Gain -- GF Value $272.14 vs Price $271.42 - Gur"
+  ]
+}
