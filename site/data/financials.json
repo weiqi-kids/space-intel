@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:45:31.093105Z",
+  "updated_at": "2026-11-12T16:29:23.555183Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -211,17 +211,17 @@
       "name": "Spire Global",
       "ticker": "SPIR",
       "currency": "USD",
-      "ar": 6378000,
-      "ar_prev": 7040000,
-      "ar_qoq": "-9%",
+      "ar": 3375000,
+      "ar_prev": 6378000,
+      "ar_qoq": "-47%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "viasat",

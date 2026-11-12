@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 20,
+  "gate2_fail": 22,
+  "passed": 74,
+  "gate2_samples": [
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+    "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "LUNR: Intuitive Machines Inc. filed SEC Form 8-K: Results of... - Quantisnow",
+    "L3Harris Technologies, Inc. (LHX) Latest Press Releases & Corporate News - Yahoo! Finance Canada",
+    "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com"
+  ]
+}

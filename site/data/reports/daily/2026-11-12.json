@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:29:28.356869Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-12-001",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3%, Rocket Lab Slips 2% - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab",
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbmRjVWd5OEphODNPU1otZFJCazZvemVjbHZEdVRNSDNnd3JrOC04M1FwNzlZWFBfVUliTE5hMTQxdE9VOGVSX25aNUR6bHVmT2hGQzRjR1E5c3dlMTdMOWh2VWxPLThjMTY5TnFsc2VsSEZTMHgtMEtzWjc2eW9uQndsYnhCelNXSW8ycFJ0aFc3RkxrMzNEaHVsTmtIWjEweUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ast_spacemobile-2026-11-12-007",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3%, Rocket Lab Slips 2% - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab",
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "rocket_lab"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNbVY0V1lkT2c0MkQ1STBrc1BCTDF3ci15d3lVWFVvX0VFVnJJZ3lpZmU1ZW8yX2szbmlnYnF6eDRNSzhxang4MkxJeG8yWC1OZ3p3UlM0V2JFME1ySjd0UEhHUG94VXJ1NHN5dFVZNFB6SVlKdEZPaEstdEttbzNWRVIwUDdvemdZNDVFSml5aHNMYlhGMl94VWtqNkFsX2kyeDJKSFBkTTBWdUpmMVM1R2kxdUR4OXZzVi1JQVBVRnM0aDYzS1VtenlBTWg4RWNwVXJGVWc2NmZWbG5SSkdld1k3aWE1V3F3OFFQT1NsVU4yckk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-12-005",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Other Satellite Companies Not Excited About Rocket Lab-Iridium Deal - Broadband Breakfast",
+      "companies": [
+        "rocket_lab",
+        "iridium"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUlFWUE42T3Y1UVI1T1NnWmRQc0pReWcxaHAtN1pCM09JWkZ2MFhKWFpUeHJCTTdjamRZcDQ1TWQ3TlhLWXctOVV2SjVwOC1rQjJzem95aG10dGpMLURLRHR5QV9uUmVJRm1aNFBSakVSUjMwUm41eGNKRjc4RDlWQXp1c0RQT1lxV2haakJwektpUzNtR0hDZHgwT1Y1Y3B3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "intuitive-2026-11-12-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intuitive Machines, Inc. (LUNR) Reports Q3 Loss, Beats Revenue Estimates - Yahoo Finance",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVU9XRjJPR0ZJcFJwYkdTcU41SGNCN0U5TVJfNGFCN1h4elFWYzctc0U0b1p5c1VOcW45YWZhQndhRXVWeUtkbVdXSnlpXzRlNHU3TUhiXzdCaEFzQTgtSXFPbU85Mm8tR181S2drSkROY0ZDM09CRVNYTk05b19nM09oQ1BUektGd1VaLWRQa2FHSTRhUWRYa3Izb0hNSVRXeFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "intuitive-2026-11-12-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Intuitive Machines jumps 14% as record revenue and backlog beat expectations - Yahoo Finance",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbTJUVWpwU1NyakJNSVFMTTVOSzlDUVB6cVUxWTJCN2hYb1RFaVc5ZnVoOXlzdEFGZ1diaEJraVJzVUZKZkFqN05wenpyOTc1dW5tYk5ZeTlrNmxHSHdYUXZqeDUxWHUwQ3F3OEM4cnExdnlVMmk2UmZVWTJ6b3BOLU5NR292RjQxd2dqTkxQTldxV0sxelJ3dWtWVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "ast_spacemobile",
+      "to": "intuitive",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    },
+    {
+      "from": "intuitive",
+      "to": "rocket_lab",
+      "relation": "supplier_customer",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 42,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 33,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "intuitive",
+        "count": 15
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 7
+      },
+      {
+        "id": "rocket_lab",
+        "count": 7
+      },
+      {
+        "id": "l3harris",
+        "count": 4
+      },
+      {
+        "id": "iridium",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 284,
+    "dup_title": 131,
+    "too_old": 37,
+    "gate1_blocked": 20,
+    "gate2_blocked": 22,
+    "passed": 74,
+    "pass_rate": "48.4%",
+    "gate2_block_rate": "14.4%",
+    "gate2_samples": [
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+      "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "LUNR: Intuitive Machines Inc. filed SEC Form 8-K: Results of... - Quantisnow",
+      "L3Harris Technologies, Inc. (LHX) Latest Press Releases & Corporate News - Yahoo! Finance Canada",
+      "Alembic Global Adjusts L3Harris Technologies Price Target to $349 From $383 - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 42 則事件，焦點為直覺機器、AST SpaceMobile、火箭實驗室相關動態：「Intuitive Machines Surges 16% on Record Quarter and Posit...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; ...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
