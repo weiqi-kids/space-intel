@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 77,
+  "gate2_samples": [
+    "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+    "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+    "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance"
+  ]
+}

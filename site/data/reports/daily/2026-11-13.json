@@ -1,0 +1,242 @@
+{
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T15:50:09.759544Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-13-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "AST SpaceMobile faces class action lawsuits: Can ASTS avoid deeper losses? - Traders Union",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZV9PT08tVXhOd25tRWlfMHVlcld6WmtrcFZGMmlIeVVWTTVoR0tvalVmUF82cDAxQTk1dHM3aTJ6SUtxUXdYbnBUWXNESmxUNmFYLXZQTzNpMGhBZm5RNlhvcmZtTW5jRmlIdm1EcVo4LWlxSGFsVlptcGJGRWN1eWx3d0JTUHd3X1JJWHdySjU5UHla?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX's Starship Flight 15, Rocket Lab's Electron Ready For Milestone Missions - Investor's Business Daily",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY1o4UW9WUTN5NEsxRmE5bWJWMFNCY29uZzBneER1OTJHREdoUzJmSjRhRlNjX05WN3NPdWtSLS1IWmxmdDlVSWtHQkR2QTlrV21lSE1NQmhnak1iUktyLW42NWlRbzQwQkdxZVh0ck5HRWhoVWpHQXRzcVlsejU5N3hRSmRpSkg0bWQ4MXY4V3ZTVEFTOGVRYkg4QUpQLUNLb2RPSGwzWWQxQ0hGX3czbl9WZFRWMXpTSlh2Rmx5RVY5RWd0cFY3X3l4NHE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cathie Wood Buys the Dip in CoreWeave, Sells Palantir Stock: Ark Also Trades Archer Aviation, Rocket Lab, Amazon - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVWpuRGxaUW5JTlJBdWV4aVNsemJNWXlsdGFuYzlqU2hiWVBTd1FXS3hwSU84SlBTMDNqTWZFeUFBa0g2QS1tWWdvbE5MSy1zQ0J4cEp4R0NSNmg0cUxkams5dzhfYl9UaGcyVlVfMTVIOVNnRlZRdnF0U1ZMaEhHY1pGVVk5eUlXUUdxQ1YyOUpfVEtqQml1LUdYdUVSNEVqSU1PR0E3dGNJU2tDamFXMkI2VUVSa3VySnRkU09zZ3FUaUtRVVFwa3AwZDByaWVEY1ZV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab CEO Peter Beck: Fastest commercial rocket to reach 100 launches - CNBC",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1lGaWRDSTF6OThFZ0JmLUt4SWtGcDhaY0hRWTRDNHhEMVNQb2x6eTQ2SFZ3eHZNeTRhZTZCRS1ZVGRmWXpranF0cHk5dEVyQTlnQzJKUU1oTDY2LW5HM3hvQnJEdTBlY2ltZmhXNGprak8tXzQ2QkFjQzJaTnA4ZkpQOGRlOWdlVWtuNzh0V2FGWXZ2T084b1gybzBDSFh5WVBocU5vRVFCUFNVa2pjY2tqV1doQjQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why the Rocket Lab CEO would never board a rocket - NZ Herald",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT2tkNWd3V25IWC1rUEhrXzRVQ0Y0dXoyVk1YSmdFUFlhVVRNTG5jajljZEJiOTA1M2N3WUl0SU1QdDlWNU5yYlhIdXlCeFdiLUdMSGxnNktzc3lRaEtxS2xEbndBUGNrdmw1a2Qxdy1qRWNOR1MybHBhS3hXZ2RVYmV3QU1RZktvOWc0WExZWnRPVjJ3ODlzZHBRY3FUVTZBeGRUZ1JpNFhMd0tNZjNjS0pkRjlKenpoTkR6NGZfVGpTaFBs?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "satellite_constellation": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "space_defense": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 33,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 10
+      },
+      {
+        "id": "rocket_lab",
+        "count": 9
+      },
+      {
+        "id": "ses",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "satellite_constellation",
+        "count": 4
+      },
+      {
+        "id": "launch_cost",
+        "count": 3
+      },
+      {
+        "id": "space_defense",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 131,
+    "too_old": 41,
+    "gate1_blocked": 18,
+    "gate2_blocked": 19,
+    "passed": 77,
+    "pass_rate": "49.7%",
+    "gate2_block_rate": "12.3%",
+    "gate2_samples": [
+      "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+      "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+      "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為AST SpaceMobile、火箭實驗室、SES S.A.相關動態：「AST SpaceMobile faces class action lawsuits: Can ASTS avo...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile faces class action lawsuits: Can ASTS avoid deeper losses? - ...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SpaceX's Starship Flight 15, Rocket Lab's Electron Ready For Milestone Missio...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 3 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
