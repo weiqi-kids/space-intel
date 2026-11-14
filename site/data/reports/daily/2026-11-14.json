@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T14:41:22.501985Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "l3harris-2026-11-14-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "L3Harris Shares Climb as Rocket Motor Demand Drives Record Backlog - Daily Voice Of Asia",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUDREUktKWVVwVWFVbk8wLXNIMHFyd2hTb2g3T3EyUlJGVkRCSGJiLW1DMGhMNm91MEFQM2dDbDAzYTNJdkRlQVNHWWZ3WU5jR1pMRjNGT3JjeEtwdFZRZV91cmhNd2ZydGN5LWVzQ1U1bnpOcExLcEhyREJkd0ZHRjBhanlDMmlUakdFSWZkazR0U1RpempFMVJKUmhTU2pJaEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceX Just Lost a Starship Booster. Is Rocket Lab Stock the Better Bet? - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTRpNHduZWk1YlZqVy02a3hpOUxsSjlMbDRPeVVUbGUwTGJmZFVsQW96RW1vZlpYR3dVWjVtY1QzaWg0WGx2YkdSU0NWYXVBVU4xV0NjeVliRnpHMmxSWlFyd1dTRkp4MmlWakNhWGJtRDM5WFIxT2dHWmhyenNrMlo0bnpGOE5lT2pxZkNMaDZEYzd1VDJ6T2VsVmJNMFU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "100 launches! Rocket Lab sends Earth-observing satellite to orbit on milestone mission (photos) - Space",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaHRJak5LbWpldzc5ZGZSWXQtdzVCN3ZPU0dHTW9fQ2k4dDJLeld1QnNMZEphdS1lT2ptTm9TcUlLeVJWU2stYjlfbkluUzRfU3dOSkJfTDhGTW5RY0hzOXlHWlY4alVDbTdlRHBfOG1icnpxM1NIWkFsc0FmUmlyZm1mT0MtQXRDa3JNcW4yaXNCTkNxZFhtWF83am1KZXpyZEd6WWpvWFpzQXNITXhaeQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Hits 100 Electron Launches, Fastest Commercial Rocket to Reach the Milestone - Rocket Lab",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdzlCRk12QmNDU2p6V3ktUFBqR3dkMTVMVjRfdGVnVFQzWVNGTUVvNnU1cEU2TWZQZC1NblF2bkU4X3kyMVVjbEIwd3h6T1FSaUxON292aFdwWVc2R3F5ZXFpZGI4Wjd4MWxXbjJzaGE5Mi00NG1mVDE2YXprcjE3WnRHeF9SWnhfNTFTUEV5ZmhUOEZhdklMTDdaOUlxczgzSWUyeWo0M1FCbWpnMTVhdmlnMzVtLUZtSElKYk5n?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Benzinga Bulls and Bears: Nvidia, Rocket Lab, Nebius - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXBoYXpYQ1NPem9sQ1dxTW9CQl9MWnhNRzY1V3ZSS3hyOHAyc0ExWWFKVWFXUl9MQlF2R3pvQjlQOGlTMnlaNkducHZPYVVueEEtanB2WWpva0xnTjcySDBzOHd0VlBKc1QyTFVROGNJdndtT1dPTW42OE1FN2pCVlZ4ZXljVzBTaVN1cW96c0xrZlkzaUhoVmQ3M0Q4M0s4cjZZbm8tRzN0Smw2MmJVRS1R?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 8
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "planet",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 282,
+    "dup_title": 156,
+    "too_old": 46,
+    "gate1_blocked": 19,
+    "gate2_blocked": 19,
+    "passed": 42,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "15.1%",
+    "gate2_samples": [
+      "What Is Driving Intuitive Machines Stock? - Trefis",
+      "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "Roth Capital maintains Intuitive Machines at Buy, lowers price target to $20 from $30 - TradingView",
+      "Dear Intuitive Machines Stock Fans, Mark Your Calendars for November 12 - Barchart.com",
+      "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為火箭實驗室、直覺機器、L3Harris Technologies相關動態：「L3Harris Shares Climb as Rocket Motor Demand Drives Recor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "L3Harris Shares Climb as Rocket Motor Demand Drives Record Backlog - Daily Vo...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SpaceX Just Lost a Starship Booster. Is Rocket Lab Stock the Better Bet? - Ya...（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
