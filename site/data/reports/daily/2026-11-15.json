@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:10:25.808665Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-15-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "SpaceX IPO Fallout Opens A Door For Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: ASTS), And Redwire (NYSE: RDW) - Foreign Policy Journal",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab",
+        "redwire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdldfU3NRZVB0ekRYN3I5VlpISDdjVTg1YjlYSG9uZmF1cVFBMkZfQTI5OU1qTFVQcU1ETlhfWGRqWDhhV05PUk9UaF9WTDZCWUExVUFvZmxuS3J2QklYZ2pvWFRha1NidFNGQ3Joc2ZpbDFUZl9iVzZabll6X2JpX0JEWm1BZXRhTXZNSDlwbHQtdFBzcmI3Y1l3Z0JTbGpFRndEQUlYZGJWOFRlZTh1RFUxU3Q2anF6Q3V3dFN1YnFhSloxT01hQS1hTGxyWkdNTHFZRjZfdUt2ZDJINE40T0pzR3QzOVZNY3V0NQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab hits 100th Electron launch - TipRanks",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDVTV3Q0VUxHcGtGYl81MFAzeFlaSHhlZUNYRGNjUHVYcmhncjVSbXp1TUhoMFAxeFVfMGRXVkJGSFJ2MHdxVTM1cWpiQ2F5NkVMNWZkeERqbnptSExkeU5PTDBxbU56VHNnZjFuOE5XU0RzT0hzOGJvak9BZUpDU0J4QWxHd011TE5KQnR6Q0M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Electron Hits 100 Launches, Hypersonic Test Flights Included: 59 Wins Since Last Failure - Tech Times",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU3BaX3lDZkN1aS1qUHVDbEI3QUtXdDlsSGVzaHN0a2pSLU1wSzRVclhNcDFtNHB2V1FYVWlwNEhNdGYzVG1CNGV0Mk1HRmc3eGJMNmRRSmhGajVDd1JSX2tkN1JDaWhkU25yOU5TbmVuZVpOeHpncWpkdkFnZXBLM3p1WjFpSVN6SHp5WDlDbG5aS1JJSG5mZDFCaE1lREg4b1JjM2Iwc0dwLTFRaTBhS01MU1hWLS1PdVcyNk9JMjBPSG4tbUtPOUFXb3lKWVhGNHpNNVFlSTR3LXJxQm42TDZXeDBkTHc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SpaceTech Weekly Recap – November 9–15, 2026 - Cyclop SpaceTech",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtRFRBSkp0MHhoYkpab1YyVlhPdEw5OXR5cTY2MEx1YTFxWms4X3Mwa0s3Q0tQQUFZcG43ZW1Zc0E0UE54eUJFT3RXbmR6Q3djNG9Kd3k1Nzlpcm4zeHRoZmNwVVAzS2oyblVIZ2ZfMjk3NS1HOWFSRWpaX25yQVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "l3harris-2026-11-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "A Single Router Brought Down U.S. Air Travel: FAA Ground Stop Traced to L3Harris Equipment - BigGo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xbmF0SEhmQUVtNzI4NGxmM2VjUjVWR2FZZklFOTJYM2VIS1lmaE04aU1GemRJOU5WOFVCODZIQ285a3MzZ1NxRjRBdjFsYzFjUzZjS3lSOTZQZVZQeXdja3A2V0duUmY0UzVDS1dycGstMnpPOHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 3
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 2
+      },
+      {
+        "id": "redwire",
+        "count": 2
+      },
+      {
+        "id": "l3harris",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 283,
+    "dup_title": 172,
+    "too_old": 36,
+    "gate1_blocked": 23,
+    "gate2_blocked": 21,
+    "passed": 31,
+    "pass_rate": "27.9%",
+    "gate2_block_rate": "18.9%",
+    "gate2_samples": [
+      "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+      "What Is Driving Intuitive Machines Stock? - Trefis",
+      "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+      "Duffy Probing Possible L3Harris ‘Incompetence’ in FAA Meltdown - Bloomberg.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為火箭實驗室、AST SpaceMobile、Redwire相關動態：「SpaceX IPO Fallout Opens A Door For Rocket Lab (NASDAQ: R...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SpaceX IPO Fallout Opens A Door For Rocket Lab (NASDAQ: RKLB), AST SpaceMobil...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Rocket Lab hits 100th Electron launch - TipRanks（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

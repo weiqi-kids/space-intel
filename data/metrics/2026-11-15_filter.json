@@ -1,0 +1,16 @@
+{
+  "total_raw": 283,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 36,
+  "gate1_fail": 23,
+  "gate2_fail": 21,
+  "passed": 31,
+  "gate2_samples": [
+    "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "Here’s Why Intuitive Machines (LUNR) is Surging Double Digits - Yahoo Finance",
+    "Duffy Probing Possible L3Harris ‘Incompetence’ in FAA Meltdown - Bloomberg.com"
+  ]
+}
