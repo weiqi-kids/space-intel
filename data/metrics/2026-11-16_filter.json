@@ -1,0 +1,16 @@
+{
+  "total_raw": 282,
+  "dup_title": 136,
+  "no_date": 0,
+  "too_old": 42,
+  "gate1_fail": 18,
+  "gate2_fail": 19,
+  "passed": 67,
+  "gate2_samples": [
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+    "Intuitive Machines’ Business Is Taking Off—Will Its Stock Follow? - Yahoo Finance",
+    "Intuitive Machines: 3 Key Takeaways for Long-Term Investors - Yahoo Finance"
+  ]
+}
