@@ -1,0 +1,192 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:16:41.338538Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-17-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "'It looked like every star in the sky was falling': Eyewitnesses remember the great Leonid meteor storm of 1966",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.space.com/stargazing/meteor-showers/eyewitnesses-remember-the-great-leonid-meteor-storm-of-1966-it-looked-like-every-star-in-the-sky-was-falling"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LUNR Earnings Review: Intuitive Machines Shoots for the Stars - CMC Markets",
+      "companies": [
+        "intuitive"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMUd0Q0xWSTJLMWlEM3RmOUh6T1VQSGNxR3VWRzNMeFk3QWZyUkJzTmwzM25tVFlPVVB4QnVpQzNGcHhubnJMdXcxZFB0ZnZucmRzRVJ3cVF4a0hsdVpOdVJmXzhsM3JCNV9ZR2hrLV9iMmVRRDZPLWpIM3JoNzVqVVBqV2dSdExmZVJqMEdlanNhTUVrcEQ0eTZmOVh0WlU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "l3harris-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "L3Harris Technologies (LHX) Router Outage Puts Air Traffic Upgrades In Focus - Yahoo Finance",
+      "companies": [
+        "l3harris"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSm5TaFAzSDJSclc0MzVFWXdxSWdteFVSU3dQbjVhOE12TDhESjNSSzVQRkFRMnA0bFdvQVpmNlF0WWk5MTlIaS10elVGOXUtVWtyNWxsc1dtUGt4NnNkY1VMZUJvQk1nRExJSEdtUVNEdUlvd0NXRHBKUVFDeFRaZ2dzeV83YmRQcllMOXlNTjJ4OXBMaHY0ck1SR09peFpuU0NOdVZZdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Firefly Aerospace: Benefiting From The Launch Crunch (NASDAQ:FLY) - Seeking Alpha",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVGNWTmF1Y1RfVlpHVlpwekxndlRZSWxBWmJTa3RJRTQyOUF2RmZSWmg2bzBaVF9zcm5vNVVUX2pac0l3LTdGN1NYQ3ktcl9zNTJxSFc2Q05CM01HaUdOZWhhS2psU3B2dDBieXd1TUpYMUpwVzRGbjI3Q3ptdXN1S19QTFNaWGZiN3l2TG1QTGVmX1RnazdzRQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ast_spacemobile-2026-11-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "AST SpaceMobile (ASTS) Takes a Beating. Here’s What Happened - Yahoo Finance",
+      "companies": [
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1ZkbmR3OWl5RnhyMnZzT3pqelBfcXdyT2dEdE4zTlFKNDQ4OERtVklFMVQwSlV0WlNxYkEzc1M0ZnMyVVFMbXhEYnE3U3NvSzBIZzBWNGZtT1lMcWJBdVdZR2ZHU2Itajk3NFhYR0FaNDh1ZmJqS1pOVzBFalJ2VzdWZnBmTHlfM1NDX3piYXpVNXVienZXekdIR1FRTUhh?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 28,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 7
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "l3harris",
+        "count": 1
+      },
+      {
+        "id": "rocket_lab",
+        "count": 1
+      },
+      {
+        "id": "spire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 216,
+    "dup_title": 109,
+    "too_old": 21,
+    "gate1_blocked": 15,
+    "gate2_blocked": 17,
+    "passed": 54,
+    "pass_rate": "50.5%",
+    "gate2_block_rate": "15.9%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance",
+      "What Is Driving Intuitive Machines Stock? - Trefis",
+      "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+      "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+      "Roth Capital maintains Intuitive Machines at Buy, lowers price target to $20 from $30 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為AST SpaceMobile、直覺機器、L3Harris Technologies相關動態：「'It looked like every star in the sky was falling': Eyewi...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "'It looked like every star in the sky was falling': Eyewitnesses remember the...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LUNR Earnings Review: Intuitive Machines Shoots for the Stars - CMC Markets",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

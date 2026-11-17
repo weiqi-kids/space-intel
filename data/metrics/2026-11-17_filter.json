@@ -1,0 +1,16 @@
+{
+  "total_raw": 216,
+  "dup_title": 109,
+  "no_date": 0,
+  "too_old": 21,
+  "gate1_fail": 15,
+  "gate2_fail": 17,
+  "passed": 54,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance",
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "Why Is Intuitive Machines Stock Surging Thursday? - Intuitive Machines (NASDAQ:LUNR) - Benzinga",
+    "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+    "Roth Capital maintains Intuitive Machines at Buy, lowers price target to $20 from $30 - TradingView"
+  ]
+}

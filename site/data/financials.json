@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:44:54.939054Z",
+  "updated_at": "2026-11-17T17:16:38.594029Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "直覺機器",
       "ticker": "LUNR",
       "currency": "USD",
-      "ar": 119670000,
-      "ar_prev": 105788000,
-      "ar_qoq": "+13%",
+      "ar": 86961000,
+      "ar_prev": 123322000,
+      "ar_qoq": "-29%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "iridium",
