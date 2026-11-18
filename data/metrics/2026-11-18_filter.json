@@ -1,0 +1,16 @@
+{
+  "total_raw": 286,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 21,
+  "gate2_fail": 15,
+  "passed": 70,
+  "gate2_samples": [
+    "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "What is L3Harris, the Florida company behind the FAA ground stop? - Florida Today",
+    "Why L3Harris Stock Lost Altitude After the FAA’s Nationwide Groundstop - Barron's",
+    "What's Going On With L3Harris Stock on Monday? - Benzinga"
+  ]
+}

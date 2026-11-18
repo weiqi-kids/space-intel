@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-18",
+  "total_events": 27,
+  "by_company": {
+    "rocket_lab": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "ast_spacemobile": {
+      "count": 13,
+      "sentiment_avg": 0.0
+    },
+    "intuitive": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}

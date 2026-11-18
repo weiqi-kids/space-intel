@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:52:16.850314Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-18-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’; SpaceX Rises 3%, Rocket Lab Holds Steady - Yahoo Finance",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbW9adXlpVXFEM3FLYlZIMGtXV0g5TGNKNlpSNzBJUGpwSk1meUs2TjZ3UHVQVTZya3BzM2ZUSWJ2MFhkbmNFV0czSzZHOWh5dEtoTmZUYWVBRmlpRFNCbU5kVWMyNmQ1Q3d3MkoyRVNKMGdWOHdxVEpPTzcxV3BuUlc0VVRia210clRid3JYZnFuSHZuU1dn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-18-006",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "AST SpaceMobile Falls 5% After Jim Cramer Calls It 'a Very Hard Stock to Own'; SpaceX Rises 3%, Rocket Lab Holds Steady - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab",
+        "ast_spacemobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdzF3U2pfOG4yWElWbnpLTkRCcXZaZjMyV0YwNmZ4cHpFOVpYdFVTSWZlNWg5Wm0tcVlQY0NmSW1TbzNSZGxjcktwai1XVHoxbFVucERnMEdXWnVsZ3dNbVo3WkRtY1FUZTRhbUFCd3BOeEZQMnVrU2hUTjBOV2J1MlZYSWtXS2w1M1FsNkc0U0Q5bTJpWjZCcGtqSk1qaGJZaXl0bHlMbDZOdDZiQjNuci1HaG5NWWw0R1FTYkFVMEtWRGpaM2Q1RFNjYld3MGhuTE9Fcmc1cFVwWkxjQ0Nya3U3NXdLbmRDbVFsd09n?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "There Are 8 Billion Reasons to Buy Rocket Lab At $50 - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlZISFlfc0R2NkJmUTNVZmFBa2ZHR3BvaGttamNvX1VVQk5ueGFtX3FqMnJhQ0h3TV9Lb0FnQkVHc29YVnVlbld5Z21KSllIaUI2T0dnU0ZlWjNlcUMzR2djNG5KRFNUemwtajBneVN2aUhwU2l2VUw2VmFyc3dkNUUyalBHWkZ2YjNaTm51Qm5jN0dsOVFzSg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "There Are 8 Billion Reasons to Buy Rocket Lab At $50 - 24/7 Wall St.",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORloxcF9lOHYzR0hXUkFPQjVfZjd1ZWhxOHdsTW15ODY5N3oxeWFSQ1hGNTgyLTRxSmtfMzROZjdRLU1obGVNWEhfcUc2cVV4WjdORVVsWUxkcFR3UzM1TUJ1V0xBNnNRQ21ENThrZzRPb29aSGduWUczR29oS0xsdWpXRjd3SnRsem9idFRIb3FqU2d1SXZhWlBlYw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Little Rocket Lab receiving Nintendo Switch 2 physical release - Nintendo Everything",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOa094cDhfbjVkVXB3dEFvSjJuV2ozY2FZM2RLSDMtdUF4RnQzaUVpRF9jb1h6WWg1ellJWkZ0NDBmNlRLY2xsTzEtLXdKYUNfbDhiWnRWbU56WV9SNWtXcmpMTnlfbmFVcFE5RjRBZlRFN2lCNmVpTXZxMDVKMXlMVDBaWlRXT19fVFdtVzA4RVI3dldBVVdVU1pR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ast_spacemobile",
+      "to": "rocket_lab",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 13
+      },
+      {
+        "id": "rocket_lab",
+        "count": 6
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 286,
+    "dup_title": 132,
+    "too_old": 48,
+    "gate1_blocked": 21,
+    "gate2_blocked": 15,
+    "passed": 70,
+    "pass_rate": "45.5%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+      "What Is Driving Intuitive Machines Stock? - Trefis",
+      "What is L3Harris, the Florida company behind the FAA ground stop? - Florida Today",
+      "Why L3Harris Stock Lost Altitude After the FAA’s Nationwide Groundstop - Barron's",
+      "What's Going On With L3Harris Stock on Monday? - Benzinga"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為AST SpaceMobile、火箭實驗室、直覺機器相關動態：「AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Ver...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "AST SpaceMobile Falls 5% After Jim Cramer Calls It ‘a Very Hard Stock to Own’...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AST SpaceMobile Falls 5% After Jim Cramer Calls It 'a Very Hard Stock to Own'...（太空產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

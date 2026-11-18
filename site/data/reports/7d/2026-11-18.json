@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-18",
+  "date_range": {
+    "start": "2026-11-12",
+    "end": "2026-11-18"
+  },
+  "generated_at": "2026-11-18T16:52:16.980572Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-11-12-001",
+      "date": "2026-11-12",
+      "title": "Intuitive Machines Surges 16% on Record Quarter and Positive Free Cash Flow; AST SpaceMobile Falls 3%, Rocket Lab Slips 2% - Yahoo Finance",
+      "importance_score": 1.0
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 179,
+      "last_week": 205,
+      "week_over_week_change": "-13%",
+      "sentiment_this_week": 0.02
+    },
+    "space_defense": {
+      "this_week": 2,
+      "last_week": 9,
+      "week_over_week_change": "-78%",
+      "sentiment_this_week": -0.25
+    },
+    "launch_cost": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": -0.1
+    },
+    "satellite_constellation": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": -0.06
+    },
+    "space_debris": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ast_spacemobile": {
+      "event_count": 50,
+      "sentiment_avg": -0.0,
+      "rank": 1
+    },
+    "rocket_lab": {
+      "event_count": 47,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 18,
+      "sentiment_avg": 0.17,
+      "rank": 3
+    },
+    "iridium": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "l3harris": {
+      "event_count": 11,
+      "sentiment_avg": 0.18,
+      "rank": 4
+    },
+    "spire": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ses": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "planet": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "redwire": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "boeing": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 375,
+        "last": 448,
+        "change_pct": -16.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-12",
+      "event_count": 84,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-11-13",
+      "event_count": 68,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-14",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 24,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 74,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 65,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 27,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-12 ~ 2026-11-18）共 375 則事件，重點為「Intuitive Machines Surges 16% on Record Quarter...」。太空產業通用、衛星星座、發射成本為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "AST SpaceMobile",
+        "reason": "本週出現 50 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 47 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 18 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
