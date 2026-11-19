@@ -1,0 +1,208 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:59:05.901898Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-032",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Lake Pelku",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.nasa.gov/image-article/lake-pelku/"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lightning Round: Rocket Lab has gotten too cheap, says Jim Cramer - CNBC",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2RDX1ZkVUdNRHppOWdEVVRscU9rNklSNVR1bmljYXFlbi1OeUZBNU11RnJhVmN0TGZZMFU0TjJBWTlWM3hsLW0zTW5NUjk5S1IxdnhUUDRrdmVQZlpJRGRkM1N3U0JTZWNUblpBZVp5ZDAycUlOZEs1a0VEc1J6VkQ5ZDFtbzl2MzRpWS16cnBIOU4yQ1J5alNGa1lKY1BNVmh3NmFXRVR3QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "rocket_lab-2026-11-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Sold Out Neutron Through the 2030s Before It Ever Flew. Here’s Why the Stock Fell After Earnings Anyway. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb1VrR2c2WFBwVTUxOFBEaUttaTRieUxlQVBWZFhLTU1kN2ZhaS02dW9EdG1xVHRxMi12RVplU2ctZlB2TFVsLUFvUU5IdjFvMjZPcTdtUm5vQU5sSjBleVY0di1NeXlPZDdMSHFHemYzM21kN1V0M1Y1SEsxdXdCdVJsYkw5VFFSbnpZNHJLY25yS3lYUFdTV2hn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Has 2 Big Opportunities Ahead. Either One Could Change the Stock’s Trajectory - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdTdpVDNySkNkZHl4elZCZEhIbzl2cGp1MGZwYkZmM2pPa1pYMWJ1X2RZLVhKTG9uLWdNQjdzSXRDdno3ZEtTOEp1dEtSQXIwa056QldjVlNGTnkyYy0tWnhqQUFpUnI2b0RKb1NHVVctUkd2Mi1IaEwxbG5Ybm02dWRCSVN6RVpMYmY5LUt1MzZtWE1PV3ZDMHhQTQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-19-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Jim Cramer: Rocket Lab Is 'Too Cheap,' Recommends Buying This Tech Stock - Benzinga",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcklfTzRxakVXTV9mRTFXVW1WSnVFaGU5cTNOWVhfaTN1bUxrbndjLUZPcGxPeWoyUUQ2djZHYS14bFhjWnNtdDF1YWRmOFFvaUR1U2sxbVVBRGlnT3B0UlNmMEZ6ejNLSGxMSXdqRHNxYmdZNC14QU5VLVZDUDZTVzBES2wtZk9EejdveXNsc2NhU0NGSlFUZ05pNnRYZmJqbFpVaG9oRjhPZEtRU2NOQmtqWWhiSG9meVR4ZVJhSk02WVVYRzJHenIwaVljUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 43,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 44,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 43,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ast_spacemobile",
+        "count": 12
+      },
+      {
+        "id": "rocket_lab",
+        "count": 10
+      },
+      {
+        "id": "planet",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 43
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 289,
+    "dup_title": 132,
+    "too_old": 48,
+    "gate1_blocked": 21,
+    "gate2_blocked": 20,
+    "passed": 68,
+    "pass_rate": "43.3%",
+    "gate2_block_rate": "12.7%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance",
+      "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+      "What Is Driving Intuitive Machines Stock? - Trefis",
+      "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+      "Roth Capital maintains Intuitive Machines at Buy, lowers price target to $20 from $30 - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 44 則事件，焦點為AST SpaceMobile、火箭實驗室、行星實驗室相關動態：「Lake Pelku」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Lake Pelku（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Lightning Round: Rocket Lab has gotten too cheap, says Jim Cramer - CNBC（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

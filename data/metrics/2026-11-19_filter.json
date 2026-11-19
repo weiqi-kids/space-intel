@@ -1,0 +1,16 @@
+{
+  "total_raw": 289,
+  "dup_title": 132,
+  "no_date": 0,
+  "too_old": 48,
+  "gate1_fail": 21,
+  "gate2_fail": 20,
+  "passed": 68,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance",
+    "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "Intuitive Machines stock jumps after record $269 million quarter beats estimates - Startup Fortune",
+    "Roth Capital maintains Intuitive Machines at Buy, lowers price target to $20 from $30 - TradingView"
+  ]
+}
