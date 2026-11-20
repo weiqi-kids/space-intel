@@ -1,0 +1,156 @@
+{
+  "date": "2026-11-20",
+  "date_range": {
+    "start": "2026-11-14",
+    "end": "2026-11-20"
+  },
+  "generated_at": "2026-11-20T16:34:12.278789Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ast_spacemobile-2026-11-15-002",
+      "date": "2026-11-15",
+      "title": "SpaceX IPO Fallout Opens A Door For Rocket Lab (NASDAQ: RKLB), AST SpaceMobile (NASDAQ: ASTS), And Redwire (NYSE: RDW) - Foreign Policy Journal",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 184,
+      "last_week": 203,
+      "week_over_week_change": "-9%",
+      "sentiment_this_week": 0.02
+    },
+    "launch_cost": {
+      "this_week": 5,
+      "last_week": 7,
+      "week_over_week_change": "-29%",
+      "sentiment_this_week": 0.0
+    },
+    "satellite_constellation": {
+      "this_week": 4,
+      "last_week": 5,
+      "week_over_week_change": "-20%",
+      "sentiment_this_week": 0.0
+    },
+    "space_debris": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "rocket_lab": {
+      "event_count": 49,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "intuitive": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "l3harris": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 4
+    },
+    "planet": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ast_spacemobile": {
+      "event_count": 50,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "redwire": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "boeing": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "lockheed": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "spire": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 350,
+        "last": 448,
+        "change_pct": -21.9
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-14",
+      "event_count": 33,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-15",
+      "event_count": 25,
+      "sentiment_avg": -0.08
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 77,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 66,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 50,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 72,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-14 ~ 2026-11-20）共 350 則事件，重點為「SpaceX IPO Fallout Opens A Door For Rocket Lab ...」。太空產業通用、發射成本、衛星星座為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "火箭實驗室",
+        "reason": "本週出現 49 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "直覺機器",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "L3Harris Technologies",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

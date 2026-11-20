@@ -1,0 +1,16 @@
+{
+  "total_raw": 284,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 40,
+  "gate1_fail": 18,
+  "gate2_fail": 22,
+  "passed": 59,
+  "gate2_samples": [
+    "Undercovered Dozen: Annaly, Vertiv, Intuitive Machines And More - Seeking Alpha",
+    "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance",
+    "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+    "What Is Driving Intuitive Machines Stock? - Trefis",
+    "Intuitive Machines’ Business Is Taking Off—Will Its Stock Follow? - Yahoo Finance"
+  ]
+}
