@@ -1,0 +1,16 @@
+{
+  "total_raw": 269,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 47,
+  "gate1_fail": 15,
+  "gate2_fail": 14,
+  "passed": 11,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+    "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+    "Canaccord Genuity maintains Intuitive Machines at Buy, lowers price target to $38 from $39 - Trading",
+    "Intuitive Machines’ Business Is Taking Off—Will Its Stock Follow? - Yahoo Finance",
+    "FAA: L3Harris router in Arkansas sparked nationwide ground stop - WXXI News"
+  ]
+}

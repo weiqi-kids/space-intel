@@ -1,0 +1,176 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T15:50:05.459017Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "rocket_lab-2026-11-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "September 2027 Will Be The Real Test For Rocket Lab's (NASDAQ: RKLB) Deep-Space Ambitions After Mars Burn Success - Foreign Policy Journal",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeW50VEJuNWtFdmVTWTBKRTJFRWVINFRMbXZNMllGV1JwN1ZsaHlDaDJRTk1DdHRZcTFZdmpuSUozUTIwLWkzRXh4dC1XandMWW8yYjVrY19LR19uUW0xS1hQQkM3RDB1RnRfaVZ3NGJWOU5CM2h1YkFyNzJiWnRIMFdBZFZONUFfYVlJNC1DbGlyc21JUGlieldHSmRYbVpUNHFmb2V5SUx2NjZwbW1ORWZWVExKRDQtcllEODRIY04zX09QWE9iWnM4cVFhNUtmUHpxZ3owaDNDNkp3aFJGbWNmU3VvSEtJV3piQ3Y1cw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "rocket_lab-2026-11-22-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Report: $10,000 in Rocket Lab Is $33,000+ After 60% Crash - shattered.io",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTd1MnFzRWNHYTNmRjh4d2FKVGJsd2NwZ3ZseTVYclBaeWhLRlpkd1REVnJrV3J2WVFtdlNwYlN2M2hpLXV6a3o1S1dKMXFGTEE2Ym12RUt0eE5qQ3BoUFU1MllhU0NMWXBZaHJ3TVU3RTQyOHhVUDRUSlc2eHVuRWpzYmdERFhhVEVV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.space.com/on-this-day-in-space-november-22-2026"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-22-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 269,
+    "dup_title": 182,
+    "too_old": 47,
+    "gate1_blocked": 15,
+    "gate2_blocked": 14,
+    "passed": 11,
+    "pass_rate": "12.6%",
+    "gate2_block_rate": "16.1%",
+    "gate2_samples": [
+      "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+      "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+      "Canaccord Genuity maintains Intuitive Machines at Buy, lowers price target to $38 from $39 - Trading",
+      "Intuitive Machines’ Business Is Taking Off—Will Its Stock Follow? - Yahoo Finance",
+      "FAA: L3Harris router in Arkansas sparked nationwide ground stop - WXXI News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為火箭實驗室相關動態：「September 2027 Will Be The Real Test For Rocket Lab's (NA...」。主要關注主題為太空產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "September 2027 Will Be The Real Test For Rocket Lab's (NASDAQ: RKLB) Deep-Spa...（太空產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Report: $10,000 in Rocket Lab Is $33,000+ After 60% Crash - shattered.io（太空產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,99 @@
 [
   {
+    "id": "rocket_lab-2026-11-22-001",
+    "date": "2026-11-22",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "September 2027 Will Be The Real Test For Rocket Lab's (NASDAQ: RKLB) Deep-Space Ambitions After Mars Burn Success - Foreign Policy Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeW50VEJuNWtFdmVTWTBKRTJFRWVINFRMbXZNMllGV1JwN1ZsaHlDaDJRTk1DdHRZcTFZdmpuSUozUTIwLWkzRXh4dC1XandMWW8yYjVrY19LR19uUW0xS1hQQkM3RDB1RnRfaVZ3NG",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeW50VEJuNWtFdmVTWTBKRTJFRWVINFRMbXZNMllGV1JwN1ZsaHlDaDJRTk1DdHRZcTFZdmpuSUozUTIwLWkzRXh4dC1XandMWW8yYjVrY19LR19uUW0xS1hQQkM3RDB1RnRfaVZ3NGJWOU5CM2h1YkFyNzJiWnRIMFdBZFZONUFfYVlJNC1DbGlyc21JUGlieldHSmRYbVpUNHFmb2V5SUx2NjZwbW1ORWZWVExKRDQtcllEODRIY04zX09QWE9iWnM4cVFhNUtmUHpxZ3owaDNDNkp3aFJGbWNmU3VvSEtJV3piQ3Y1cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-22-002",
+    "date": "2026-11-22",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Report: $10,000 in Rocket Lab Is $33,000+ After 60% Crash - shattered.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTd1MnFzRWNHYTNmRjh4d2FKVGJsd2NwZ3ZseTVYclBaeWhLRlpkd1REVnJrV3J2WVFtdlNwYlN2M2hpLXV6a3o1S1dKMXFGTEE2Ym12RUt0eE5qQ3BoUFU1MllhU0NMWXBZaHJ3TV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeTd1MnFzRWNHYTNmRjh4d2FKVGJsd2NwZ3ZseTVYclBaeWhLRlpkd1REVnJrV3J2WVFtdlNwYlN2M2hpLXV6a3o1S1dKMXFGTEE2Ym12RUt0eE5qQ3BoUFU1MllhU0NMWXBZaHJ3TVU3RTQyOHhVUDRUSlc2eHVuRWpzYmdERFhhVEVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-003",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "This viral star projector has been hyped to Mars and back, but we hunted down the best version you can buy",
+    "summary": "\n                             The AI adverts for the Zanbix 2 in 1 Galaxy Projector Night Light are downright bizarre — we cut through the hype to bring you a version that actually delivers \n         ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/skywatching-kit/this-viral-star-projector-has-been-hyped-to-mars-and-back-but-we-hunted-down-the-best-version-you-can-buy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-004",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Nov.22, 1989: NASA launches space shuttle Discovery on classified STS-33 mission for the US military",
+    "summary": "\n                             On Nov. 22, 1989, the space shuttle Discovery launched on the secret mission STS-33 for the U.S. military. Here's why it mattered. \n                                      ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/on-this-day-in-space-november-22-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-005",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
+    "summary": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a diffe",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-11-21-001",
     "date": "2026-11-21",
     "companies": [
@@ -240,6 +334,44 @@
       {
         "name": "breaking_defense",
         "url": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-21-014",
+    "date": "2026-11-21",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "If You’d Invested $10,000 in Rocket Lab 5 Years Ago, Here’s How Much You’d Have Today -- Even After a 60% Crash - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZE9aS0FHcmt6VWV1OVA2dkR2WEJyeWxzajNSd1hqeU90QjFLb01LV20wTF9mYmNFOHlOREFFMlR2ck12TnJWWmx4UmxqQk9ydFlhNzNueU5UYmlXUnAwVHRFWGoyQUcwUlpSM1lnTl",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZE9aS0FHcmt6VWV1OVA2dkR2WEJyeWxzajNSd1hqeU90QjFLb01LV20wTF9mYmNFOHlOREFFMlR2ck12TnJWWmx4UmxqQk9ydFlhNzNueU5UYmlXUnAwVHRFWGoyQUcwUlpSM1lnTlp1TFFhd0pWNG5qR09IX1hEcklHQTdndlczUTBzNUNESERFRUd2T2ZlSEp6UzBLajhhb2dTT3dubV9aNV93TWs4MThxaXozdFM5YWtJLUpOMHhVbTNZZ1RMQTVQUWJJaGxsdk10Wm1lZmJwRmtRaDhZeWdWalJ2Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-015",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Nov. 21, 1676: Danish astronomer discovers speed of light — by accident — while observing Jupiter's moon Io",
+    "summary": "\n                             On Nov. 21, 1676, the Danish astronomer Ole Rømer discovered the speed of lightwhile observing Jupiter and its moon volcanic moon Io. Here's why it mattered. \n           ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
         "type": "rss"
       }
     ]
@@ -2678,6 +2810,63 @@
     ]
   },
   {
+    "id": "planet-2026-11-19-074",
+    "date": "2026-11-19",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Planet Labs Teams Up With Stoke Space -- Just In Case SpaceX Really Retires the Falcon 9 - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_wFBVV95cUxORmwzNEZISnBmTkc2YkZqWEIxdWdDQW1BbVNNQmZnVnZySjRuNnFuM0hCMm93TWRXRlhLZHZOeVEwcl9SOTlIbWdHd0psSjZIa2pwbDFaZEpaRGFDLWkzOGxNaENQOFVuTzJZNUhONE",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORmwzNEZISnBmTkc2YkZqWEIxdWdDQW1BbVNNQmZnVnZySjRuNnFuM0hCMm93TWRXRlhLZHZOeVEwcl9SOTlIbWdHd0psSjZIa2pwbDFaZEpaRGFDLWkzOGxNaENQOFVuTzJZNUhONE5lSWRRaGswX1E0di10N1ZpMkFGcGtUTHVUbFJIaXpTUFR4SElTQ0NoZVN1T2NqMmhHWFdrODFRbzJhQjNTRy1OdVFyTGdiQkpaRzJYSVMtVy1icHNvYWh3TV9GbHRNX1pteC1NOFh6RTJmbFFPbVRnaHJTdHV1V2tIRlljVXY4WUZ2LS15V0d2YXV3VWFVVnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-075",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation",
+    "summary": "The mission was the latest in the series of ‘R’ missions tasked by the U.S. Space Force. Liftoff from pad 4 East happened on Friday, Nov. 20 at 8:20 p.m. PST / 11:20 p.m. EST (0420 UTC on Saturday, No",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/11/19/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force-2/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-076",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Pawan Kumar Chandana Is Taking India’s Private Space Industry to New Heights - Time Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZSTERURnRqNHBXSVh4X0RqRzcxdW1nVkt1dDRnZ3FtSkV0QS11SVFhZmRwY0xxYm9MWWlnWEphM3hmUUFxVG94Mm54YS1GcVpsY3hPUDYyVWNFa0FfQnk3NU5ISUY0ekNhT05nMF",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZSTERURnRqNHBXSVh4X0RqRzcxdW1nVkt1dDRnZ3FtSkV0QS11SVFhZmRwY0xxYm9MWWlnWEphM3hmUUFxVG94Mm54YS1GcVpsY3hPUDYyVWNFa0FfQnk3NU5ISUY0ekNhT05nMFB5WkVPZHVybTR4V3cyRl8ySzNYYUc1VHllbmhlMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-11-18-001",
     "date": "2026-11-18",
     "companies": [
@@ -3640,6 +3829,27 @@
       {
         "name": "ast_spacemobile",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1VjZjhsVzlNcXR4Ym5adDVQd2d5c2taOWJCbWZ0elBhZ19FRHdWSGp5OW5CUHBBVnRyNFBxaXVndHRZNFBvenJHVExmZmdZU0dOdUJVZUFmMkRROWFsTnIxVDd5VUJIN1djdEhlb242TWZOMVNaQ21sekN4bFhwaUQwV1FQWUFXZzNoR2RxTUFIRVNkdjRSbm43NTV0QlIteXEtZ2RpeXpTVGJlNlJYMnhMTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-18-052",
+    "date": "2026-11-18",
+    "companies": [
+      "planet",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How To Structure Rocket Lab and Planet Labs as a Space Play Flywheel in a $40 Billion Addressable Market - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTmYwVHN4VUtrNEpGaEF2d3RQNjFZR3E5UUdSR0ZmZ05pVzNDVzBER1gyX01DRlU5SE9XTXY4eHJqVlN3NmJIeW5MVlhkWGl1cEUxN1NMZnU5b1ZtOEZ6WDhqcGRMVHo1eWk4QTR0bW",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTmYwVHN4VUtrNEpGaEF2d3RQNjFZR3E5UUdSR0ZmZ05pVzNDVzBER1gyX01DRlU5SE9XTXY4eHJqVlN3NmJIeW5MVlhkWGl1cEUxN1NMZnU5b1ZtOEZ6WDhqcGRMVHo1eWk4QTR0bW84LVp3LWN3N0x3Y0V4aVgzTHVyUW44c3R1aHdJend3R3g3djUtSkJabVhyd0lmZw?oc=5",
         "type": "rss"
       }
     ]
