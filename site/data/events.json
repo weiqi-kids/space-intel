@@ -1,5 +1,876 @@
 [
   {
+    "id": "rocket_lab-2026-11-23-001",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Just Raised Prices on a Rocket It Hasn't Launched Yet. Here's What That Means for SpaceX. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDFWajFGeW13ZTc4S2taRVk0SklSbDJvSXdRZS1CeDJWU0VFb0NHcklaZkhhMzhSandOeTFBam82a09ENUNvaFpMTUwxQTRZZEQzNVVHbTUwU3ozWHhNTHJaMzJKaWpNdGg2OEkyZz",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDFWajFGeW13ZTc4S2taRVk0SklSbDJvSXdRZS1CeDJWU0VFb0NHcklaZkhhMzhSandOeTFBam82a09ENUNvaFpMTUwxQTRZZEQzNVVHbTUwU3ozWHhNTHJaMzJKaWpNdGg2OEkyZzFXcHphdDdTSXZZSVJLM3VKR1lQdnZKYjNuYWU1ZEVGd3FVaVJo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-002",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Rocket Lab's $515 Million Neutron Deals Lift Its Launch Backlog? - Zacks Investment Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE04a1psZDNBTVVNVEpUSkFUckV1aU1yVXpFeFJ0THlRQ1JvUTRCZzlEUUpmVE5Dd3RyZFdnbWxmWGdvZXdhNUl4bnVwal9zdkhTd3NYRWpNZUlRMTJBZkxvaVNWMWVQbFc0Ym9YSD",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE04a1psZDNBTVVNVEpUSkFUckV1aU1yVXpFeFJ0THlRQ1JvUTRCZzlEUUpmVE5Dd3RyZFdnbWxmWGdvZXdhNUl4bnVwal9zdkhTd3NYRWpNZUlRMTJBZkxvaVNWMWVQbFc0Ym9YSDNDdU04cnhPZ1BFRTFuNjN5RW0xWm81Zjk1XzY0UnVXN1p6Y0J2VXRlQmp3LVc5QWQxV3d1aUNaZWdZUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-003",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Space Stocks Soar. They Have a Long Way to Go. - Barron's",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHRJUHBzYmdmRHl0VlFMRTBWV0FieUkxQ2FMd29UYnNWTnkwRkZ6eERJci1NS0pYWXFicnFYRkMtblU2b1JYNWdZRUt4aEE2a1pHZ1B4MVBULUpxOEtydkM2TXdvTmJURWUtQXBQRV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHRJUHBzYmdmRHl0VlFMRTBWV0FieUkxQ2FMd29UYnNWTnkwRkZ6eERJci1NS0pYWXFicnFYRkMtblU2b1JYNWdZRUt4aEE2a1pHZ1B4MVBULUpxOEtydkM2TXdvTmJURWUtQXBQRVRlMVdHUkJ6dHFFUUl0TVdaN1ZfWkdISkNk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-004",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RKLB Stock Soars Pre-Market: Rocket Lab CFO Sees ‘Very Strong’ Electron Demand Ahead - Rocket Lab (NASDAQ - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjVxT0dZMDFJNGxaclJjX0pIMVNKOG1jR3B5UDlIZzllZnhZLUd0cmFjSzJMVU5VRFlsbnpQWlJqM0NaeHRjRWNCRzhYaG9xVGN2X2EtT1F0S0xDbDh3Vm4yc1Nxc2N3N1JzOTEtX1",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMjVxT0dZMDFJNGxaclJjX0pIMVNKOG1jR3B5UDlIZzllZnhZLUd0cmFjSzJMVU5VRFlsbnpQWlJqM0NaeHRjRWNCRzhYaG9xVGN2X2EtT1F0S0xDbDh3Vm4yc1Nxc2N3N1JzOTEtX1JpUUpJWFNIMXNPNGxCV2NUV2xnUE5GVjRmT2d2M3BXSl83bEhCMGxoOFdFZ1EyMTFBUWdWMVdESEtiQkhPdnBmWHYwWjl0Y0s2NEZNaHJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-005",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab and Nebius Are Each About 66% Below Their Highs. I'd Buy Both and Hold Through 2030. - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGFvc0FuZ2s4Y1ZVUU1Pell5elFJZ3pHNk9KMHVKaUhtZmtzQlpYaFpWdDFYR3Z4b01sYTVqMUpONVFZeDRZcU9zem51UDVzTGI5VEFXcUF2TFRNSzJtbUNIN0RaWk94Q2hXNjdjaV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGFvc0FuZ2s4Y1ZVUU1Pell5elFJZ3pHNk9KMHVKaUhtZmtzQlpYaFpWdDFYR3Z4b01sYTVqMUpONVFZeDRZcU9zem51UDVzTGI5VEFXcUF2TFRNSzJtbUNIN0RaWk94Q2hXNjdjaVhtQVk4NFhacnFIVC1nWXZKSy1xYk5wSmF0OVpSTTIzeC1tczd3Ymc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-006",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Just Raised Prices on a Rocket It Hasn't Launched Yet. Here's What That Means for SpaceX. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFhQRFNvdy11U3VkUmFxZkhYSUFxU0w5elJaZ1F3NUpMOFFuN0dZOGFDSFptcGdaQUcxYWRJSDZoUmh6SW14TWx5a2c0RFVqSTVfaUo3MXVEdE5kSDRHTU54RGhaaDllYnJJUERVbE",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFhQRFNvdy11U3VkUmFxZkhYSUFxU0w5elJaZ1F3NUpMOFFuN0dZOGFDSFptcGdaQUcxYWRJSDZoUmh6SW14TWx5a2c0RFVqSTVfaUo3MXVEdE5kSDRHTU54RGhaaDllYnJJUERVbElQWE5EbDBzUTluT0twWXFRanFEbngyN3dQUnN3djBaZWhqWDlCbktNamE3b2NQSXR0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-007",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Did Rocket Lab Stock Fall Again? - Trefis",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUtSbl9EeVpPZ1ZDY3NwcWdhTlR5OExCaEJCYlZKMTVncFAyVzA1SGNXYko2YjVsQWZvN3hCMEx3am9hVklORXVPUXU0bldTR2tmT2NqZnM4ZkhqS2Z0cHg2UU04MUFWdWhsbWNYUV",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQUtSbl9EeVpPZ1ZDY3NwcWdhTlR5OExCaEJCYlZKMTVncFAyVzA1SGNXYko2YjVsQWZvN3hCMEx3am9hVklORXVPUXU0bldTR2tmT2NqZnM4ZkhqS2Z0cHg2UU04MUFWdWhsbWNYUVZrdUx2RGlpeEViaEtGcDVxdkpaMGt1RDNOYVA5ZXlpcENJcVI5Q2JKYXdIcng?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-11-23-008",
+    "date": "2026-11-23",
+    "companies": [
+      "ast_spacemobile",
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Rallies 11% After Its Worst Week Ever as CFO Eyes Higher Electron Prices; AST SpaceMobile Jumps 14%, SpaceX Surges 9% - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTHphT24wWV9sMEhTQVYwRWhwYXNTNGpGcDFOVC1XOERTMEo4S0NOeUp4aG9Ud0gwT05VenZJc281WGZYa21uZk5xeTVIS1ZjSEFaOU9CTnB5c0pOMHRiMXgxaFhNR0VMOHlQaUJMMD",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTHphT24wWV9sMEhTQVYwRWhwYXNTNGpGcDFOVC1XOERTMEo4S0NOeUp4aG9Ud0gwT05VenZJc281WGZYa21uZk5xeTVIS1ZjSEFaOU9CTnB5c0pOMHRiMXgxaFhNR0VMOHlQaUJMMDNUdHY0bHl6NGVCZ2RyTVhteExLbGNNOWtWb3pRTklhb0hjUjZINS1TLW1sc0lnYzBhUEkwcEhYLW5ZN1lldHE2MTZ5V3dsdlF5T3NRcUMydGhqUlpQMk1UYUtQQXZxSXJ1MlpZenVONnpfOEdjM25tU1phZ3ltek9fcGtaMXdURkdoTGhIZmNhZFF6TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-009",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Neutron Price Hits $70M, Falcon 9 at $74M - shattered.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObktHeDFaU1FqRlUtY2NXY0RwZFBwREtUQ3JaTzg3TkcxNE1mMTloaFlZQmc2TEJ0a0VDYkVmUjRFZDFreXY5SndjbExYckdJLUtadXFsRnMwMEdLVkJXOXQwWkFYR2NWaE5VMzBPbj",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObktHeDFaU1FqRlUtY2NXY0RwZFBwREtUQ3JaTzg3TkcxNE1mMTloaFlZQmc2TEJ0a0VDYkVmUjRFZDFreXY5SndjbExYckdJLUtadXFsRnMwMEdLVkJXOXQwWkFYR2NWaE5VMzBPbjcyenZjQWVLYU1hcGtpcFhWTVgtMDRCSlo3UERvOHhIYktIV185NjBBRmNqdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-010",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Rocket Lab's $515 Million Neutron Deals Lift Its Launch Backlog? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNmem5HczJWSEJWRVdqMEFPYW1Sc0dtZ0VsWndtMWREWVdkWWQxSHk1YzU3UTRSX0pZdTdmdl9EM1NhUVd0MG01VHhGTzU1MHNmcVlNMWRIQmtOWS1LMThrbVMwaFRFSWtOeFgwd0",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVXNmem5HczJWSEJWRVdqMEFPYW1Sc0dtZ0VsWndtMWREWVdkWWQxSHk1YzU3UTRSX0pZdTdmdl9EM1NhUVd0MG01VHhGTzU1MHNmcVlNMWRIQmtOWS1LMThrbVMwaFRFSWtOeFgwd0NITk1ONDctV0x0QnNDQUQyQUhrTk0wLV9hU1JfeE5Hb2Z4ZW9CWXJTbm9CdFlJZzdGN05Wczg5OF9mNnhzdmhMdmhuVUFMMnM3S3J6SEp6Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-011",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab CFO Says Electron Pricing Could Jump 6-9 Months Out as SpaceX Rideshare Slots Dwindle - BigGo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTDhzTlF3UEhsNWU5bUVtM2VMLWYzUTdRUjBUUGRVckRXd2QzSUxKNVdWOElHWE5meE04TmxuMm15OTJjN0xHNmxZeFhLcjVnNEVnWlB5TDR2U0RKclFwbmJGMnZZZk14RERjZ2JkdH",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLTDhzTlF3UEhsNWU5bUVtM2VMLWYzUTdRUjBUUGRVckRXd2QzSUxKNVdWOElHWE5meE04TmxuMm15OTJjN0xHNmxZeFhLcjVnNEVnWlB5TDR2U0RKclFwbmJGMnZZZk14RERjZ2JkdHVVOU45NEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-012",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Why Rocket Lab Stock Rose After Neutron’s Launch Was Delayed to 2027 - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzVzN19VeEY0Xy1SR1V4TDViNGhxd1hUT0VQOFdqd0VDOVBLU0dHbGVYMHNSc2JqUVRoSG8zZ0hEOWVqRnJIVVJod0dGNE9yU0NqMGtaNmx5bm8wSHhVTmM4ODFVZTVMc0NjTlJyNW",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzVzN19VeEY0Xy1SR1V4TDViNGhxd1hUT0VQOFdqd0VDOVBLU0dHbGVYMHNSc2JqUVRoSG8zZ0hEOWVqRnJIVVJod0dGNE9yU0NqMGtaNmx5bm8wSHhVTmM4ODFVZTVMc0NjTlJyNWtGbzR3bkU5Q0F6OGQ2d2l2YjY3VXdMNEJzVUo4N0FHTDVJTjZpWkZ5WmxNa3lLYmdqYlgxNnJ4b3FES2o0WC1Vaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "rocket_lab-2026-11-23-013",
+    "date": "2026-11-23",
+    "companies": [
+      "rocket_lab"
+    ],
+    "topics": [
+      "launch_cost",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Rocket Lab Neutron Launch Price Hits $70M, Nebius Eyes $12-13B - shattered.io",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGhfX3NCR2JNZW5adWtwemp4eENJN2dZdDByOXBOaEZ3MUI4TlBoVnd4aGhjXzRLU2ZfWW1HWDkwQmNTZkJaWFQ3Z0VLY3Z6TUNmTmtDdUZpOUgyWGswSDlKWS1UTVc4U0JBX2xVcn",
+    "sources": [
+      {
+        "name": "rocket_lab",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTGhfX3NCR2JNZW5adWtwemp4eENJN2dZdDByOXBOaEZ3MUI4TlBoVnd4aGhjXzRLU2ZfWW1HWDkwQmNTZkJaWFQ3Z0VLY3Z6TUNmTmtDdUZpOUgyWGswSDlKWS1UTVc4U0JBX2xVcnhtNnY5dEZnMG1pVXNZVDFvQzhJeVk3Y0xuMHRnaW8ybGk0SmpDZVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "intuitive-2026-11-23-014",
+    "date": "2026-11-23",
+    "companies": [
+      "intuitive",
+      "redwire"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Intuitive Machines vs. Redwire: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWpEMmt3ck9vR0R2RzlPR0xoMHJrMUxYcnpjTXo2dUF6SkdOX1N5eUVWM0IydHBBMUFCY2JrNWRMLWFQaWc4OTFfY2FJNGROVjJJY3E0UzhHQURSWlNfOE4wSzdUYi1jTWZ2SDJIZG",
+    "sources": [
+      {
+        "name": "intuitive",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWpEMmt3ck9vR0R2RzlPR0xoMHJrMUxYcnpjTXo2dUF6SkdOX1N5eUVWM0IydHBBMUFCY2JrNWRMLWFQaWc4OTFfY2FJNGROVjJJY3E0UzhHQURSWlNfOE4wSzdUYi1jTWZ2SDJIZGl3cjNzLXppZ0d6SUJOTG1Bc0F1WFpOano4MzVTUGJPMXNCdW9mZ2lLWC1iT0FrZF85S29iZjRHOXFYOUV6c2pkajdsYUJiZHRKaG45VGJYMm5VWkY2eXVySE1CRWFja1daUjVnZU9QTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-23-015",
+    "date": "2026-11-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Planet Labs 45% Downturn in 2026: Why This Prominent Analyst Expects 375% Gains From Here - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNa05EcXdiSFpLMDNxeVFJQmVBT2VzUWRacER5MEtneFcxZEZyWmgtUm1YNGFHUFFPZUUxR3d1ZjRtQXdiOXJVRTBxeEFUSDlZZHp3MUpDM3pBT3Y0WDRJMGpmTHlBQ2xpM0ZjTWJXSE",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNa05EcXdiSFpLMDNxeVFJQmVBT2VzUWRacER5MEtneFcxZEZyWmgtUm1YNGFHUFFPZUUxR3d1ZjRtQXdiOXJVRTBxeEFUSDlZZHp3MUpDM3pBT3Y0WDRJMGpmTHlBQ2xpM0ZjTWJXSEM1dURNZFNOdXpWcUp2Vk4yck44c3BCOXo4LTBUekhKZXJJbHdBODhyRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-23-016",
+    "date": "2026-11-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Planet Labs Is Down 68% From Its High and Just Won a European Space Agency Pilot. Here's Whether a $1,000 Investment Makes Sense Now. - The Motley Fool",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFZoblJCRWdCVWZRbU5pNnBKYTVUTWpRQlQ5VGt1V3g5VGN0Vkp5ZGJpOFJMQXI5TEotanozSE02RDZCQjNvMEkxTmxnc2lGUlo2WkZaajF6ZC1DNmJPckdqVTAyUVRZckJYR3M3a2",
+    "sources": [
+      {
+        "name": "planet",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFZoblJCRWdCVWZRbU5pNnBKYTVUTWpRQlQ5VGt1V3g5VGN0Vkp5ZGJpOFJMQXI5TEotanozSE02RDZCQjNvMEkxTmxnc2lGUlo2WkZaajF6ZC1DNmJPckdqVTAyUVRZckJYR3M3a2MtdVI2eUhxeVhPQXF0SGg5TWpncXdqSl8tUGliTEZyQXBUcFFWUHlv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-11-23-017",
+    "date": "2026-11-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Vodafone, AST SpaceMobile plan joint D2D research in Spain - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnVHa3Ewb21ybW1tb3lUT3RoOWFCU2dYZTJLdWJwc3dXN0h1bWFwSkJrWGh5RGFzTlpNaFBzUEhmNkxpUFh4OFdGZ0ZRYlUxeVlMem9kYVJKcXNsNEpCVzEycVdJOWtCeDhCUnQ4VV",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnVHa3Ewb21ybW1tb3lUT3RoOWFCU2dYZTJLdWJwc3dXN0h1bWFwSkJrWGh5RGFzTlpNaFBzUEhmNkxpUFh4OFdGZ0ZRYlUxeVlMem9kYVJKcXNsNEpCVzEycVdJOWtCeDhCUnQ4VVFpQzVyMHJTcFNhMHFRZEdJZ3haVkF2TjBJRjBzczhULUZEOWIyaFlzVExBYVFQSkRyRC1JRlU3UHh3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-11-23-018",
+    "date": "2026-11-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is AST SpaceMobile stock up 14.5% today? - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUNXZ19YLU5SMTZfUTVWaVJyT3BiUlhhY0lsNFFqdUNMU1FRQTNIazI1bGtaTFJvV19BMUQ0VnVKWDVWMllEMUxNakVDanhFaEZqc01ZUkdpZE1aRFNXRm0zczJISzFIYmUxLTdjWn",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeUNXZ19YLU5SMTZfUTVWaVJyT3BiUlhhY0lsNFFqdUNMU1FRQTNIazI1bGtaTFJvV19BMUQ0VnVKWDVWMllEMUxNakVDanhFaEZqc01ZUkdpZE1aRFNXRm0zczJISzFIYmUxLTdjWnFRRW1wWi1fc2VFSWhWYWlXOEdqRW5MMUtoY3hVajNMbW1MSmxfNUlz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ast_spacemobile-2026-11-23-019",
+    "date": "2026-11-23",
+    "companies": [
+      "ast_spacemobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone and AST SpaceMobile spin up Málaga Satellite Centre - Telecoms",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQazN0YjJ2Q0RpSUZlaV9DYmVDNGljcUo1cFNPVEVpazc3cndTaG02VEJpWFJiNTNpWE9NdVJmMFhGREJVUXlBUDdYd01qY0czZUpaMV9MdmZ4dTV1Z1R4V2ZoaUJlVEJyUjdPYUtDYj",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQazN0YjJ2Q0RpSUZlaV9DYmVDNGljcUo1cFNPVEVpazc3cndTaG02VEJpWFJiNTNpWE9NdVJmMFhGREJVUXlBUDdYd01qY0czZUpaMV9MdmZ4dTV1Z1R4V2ZoaUJlVEJyUjdPYUtDYjFMTEpGdmlSQWEzeFVnSFFRamM3ZUkyZkhUZTF3dUk4WDRGTllRY1ZUbUtTMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-020",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone and AST activate resilient satellite research ‘Earth-space station’ - Telecoms Tech News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFlJRC1NT2RqcFBuaUZWWjhxN3EyckY1NkFuZUlBdDR0UDVfUU1TbncwTjZCREx0MVZNMnREcE9NaW1yd3BhSDR5Z3JJbHZBSDJWVmNaY0FoNzVNRHo2cERnck9QYms2MXY5bmo1Rk",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWFlJRC1NT2RqcFBuaUZWWjhxN3EyckY1NkFuZUlBdDR0UDVfUU1TbncwTjZCREx0MVZNMnREcE9NaW1yd3BhSDR5Z3JJbHZBSDJWVmNaY0FoNzVNRHo2cERnck9QYms2MXY5bmo1Rk42dXk4bWhtZkNWS3liMGk2cDV4UTlfVlppNHFoT2h5NWlLMVp0cTBoUGI5QVJZcEdp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-021",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How sci‑fi imagines sports in microgravity, and how zero‑g sports might actually work",
+    "summary": "\n                             How realistic are the zero-g sports we see in sci-fi? We talk to Les Johnson, former Chief Technologist for NASA, to find out. \n                                          ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/entertainment/how-sci-fi-imagines-sports-in-microgravity-and-how-zero-g-sports-might-actually-work",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-022",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "On this day in space! Nov. 23, 2015: Blue Origin sticks 1st-ever rocket landing from space with its suborbital New Shepard rocket",
+    "summary": "\n                             On Nov. 23, 2015, a Blue Origin rocket made a historic landing after launching into suborbital space. Here's why it mattered. \n                                           ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-23-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-23-023",
+    "date": "2026-11-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Weird 'potato chips' and 'ghostly rocks' on Mars spotted by NASA rovers Curiosity and Perseverance",
+    "summary": "\n                             These strange geological features may offer clues to the Red Planet's watery past. \n                                                                                      ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/mars/weird-potato-chips-and-ghostly-rocks-on-mars-spotted-by-nasa-rovers-curiosity-and-perseverance",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-024",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The remains of a long-dead volcano on Mars | Space photo of the day for Nov. 23, 2026",
+    "summary": "\n                             Just imagine the ancient, Martian lava flowing. \n                                                                                                            ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/mars/the-remains-of-a-long-dead-volcano-on-mars-space-photo-of-the-day-for-nov-23-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-025",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "I’m planning my first dark sky trip, and all because this educational star projector showed me what I’m missing",
+    "summary": "\n                             This budget-priced projector reminded me what light pollution has taken from us \n                                                                                         ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/skywatching-kit/im-planning-my-first-dark-sky-trip-and-all-because-this-educational-star-projector-showed-me-what-i-am-missing",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-026",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What did the Soviet Union's final deep space probe actually see on Mars?",
+    "summary": "\n                             Conspiracy theories surround the odd-looking appearance of a shadow seen in the final images captured by Phobos 2, the Soviet Union’s last mission into deep space. \n     ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/astronomy/mars/what-did-the-soviet-unions-final-deep-space-probe-actually-see-on-mars",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-027",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Be ready to get a better view of the night sky in your backyard with 25% off the Celestron Cometron 7x50 binoculars in this Black Friday deal",
+    "summary": "\n                             For Black Friday week, Amazon has slashed the price of these budget family binoculars down to $36, their lowest price since April. They are great for viewing the moon and",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/stargazing/skywatching-kit/be-ready-to-get-a-better-view-of-the-night-sky-in-your-backyard-with-25-percent-off-the-celestron-cometron-7x50-binoculars-in-this-black-friday-deal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-028",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Studying Cancer Cells in Microgravity",
+    "summary": "This Nov. 19, 2026, image shows gastric microtumors grown within an Encapsulates biochip. The Encapsulate-1 investigation studies patient-derived tumor samples aboard the International Space Station t",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/image-article/studying-cancer-cells-in-microgravity/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-029",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon",
+    "summary": "NASA is seeking industry partners to develop and test the first nuclear reactor designed to provide electricity on the Moon, a major step toward establishing a sustained human presence on the lunar su",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-030",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA+ Documentary Captures Europa Clipper’s Journey Into Deep Space",
+    "summary": "NASA invites the world behind the scenes to witness the story of Europa Clipper’s journey from a far-off vision to a cutting-edge deep space exploration mission with the release of the agency’s newest",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/missions/europa-clipper/nasa-documentary-captures-europa-clippers-journey-into-deep-space/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-23-031",
+    "date": "2026-11-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+    "summary": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the e",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-032",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+    "summary": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a d",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-23-033",
+    "date": "2026-11-23",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laser Focus at the Top of the World",
+    "summary": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-034",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As it happened: NG-25 preview news teleconference",
+    "summary": "Live launch coverage and running updates from the Spaceflight Now team. Between broadcasts, Launch Pad Live streams 24/7 from Cape Canaveral. <a class=\"mh-excerpt-more\" href=\"https://spaceflightnow.co",
+    "sources": [
+      {
+        "name": "spaceflight_now",
+        "url": "https://spaceflightnow.com/2026/11/23/as-it-happened-ng-25-preview-news-teleconference/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-035",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch live today: Amazon launching 1st batch of internet satellites since Vulcan Centaur failure - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1NhTElEekZkMHVsR3NNYVlrZWVvTUgyQkNsYUVBdlg1dWlMdW5PamFBcXFzdnlETEp5RVljbzZ4UEp4OFppeUcyMF81eVdzcFdmbDR5eWR3N3pvTlJCVFEydUdhVFhZeXQ1NTA5dE",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ1NhTElEekZkMHVsR3NNYVlrZWVvTUgyQkNsYUVBdlg1dWlMdW5PamFBcXFzdnlETEp5RVljbzZ4UEp4OFppeUcyMF81eVdzcFdmbDR5eWR3N3pvTlJCVFEydUdhVFhZeXQ1NTA5dElPclh6MzFBZmRtaWp2SHZYUTRTa3F1NWxYYUtCNklhN1p6TkdGU1Nib2E4LWhHdHl0aEV2b3RJbDF2X0s0T1NaRVh5dFIzbzhF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-036",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kremlin Dismisses Reports About Alleged Nuclear-Armed Satellite Launch - The Moscow Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkl5TjE5N0tlTC1XaklSQVBKa3ZIVXpaTC1RRGV3T0EzamZOVHhRX1I2bEppeExnNE5NRjdsQTRscmlLeWZvYlF1c3lRdFZfMDVPYmxwTW1MOUNEYWhsUEZ0cjg4NkJVM0VtLU1YUl",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkl5TjE5N0tlTC1XaklSQVBKa3ZIVXpaTC1RRGV3T0EzamZOVHhRX1I2bEppeExnNE5NRjdsQTRscmlLeWZvYlF1c3lRdFZfMDVPYmxwTW1MOUNEYWhsUEZ0cjg4NkJVM0VtLU1YUlVLMjhHR2hDbVMxN181cGVwMDZ4Rm1qU2Zudmd3aVF4T3BKcW5hRnBuWUljcG9yOFR5RDV5RnBWSDhvZDY2dVhPWGRLNU12c1EwU3A0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-037",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video) - Space",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONEZiYjVhWTBHd18zRFRDbUVLa2NTZ01tb1ZmZ1dQYzhuR0tqbkVELWRfX1ppSEJiZENiSWdJaW9aSE1RdzlfTUwzelNKOXphaVptMENyenR2TEJySXRMb2VYcUpwMjN4bUdzSGRpeF",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONEZiYjVhWTBHd18zRFRDbUVLa2NTZ01tb1ZmZ1dQYzhuR0tqbkVELWRfX1ppSEJiZENiSWdJaW9aSE1RdzlfTUwzelNKOXphaVptMENyenR2TEJySXRMb2VYcUpwMjN4bUdzSGRpeFloS1M2QnV2cGVsT2ZpWVdhdzNKQ0VPWDJzTTZlUnpIQUJ3RklLNm9QYmN1RTVtQUxDb0REY2sxOGd5b0kxN0xTSjB5NmcxcmF6dElqeUxFYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-038",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Russia ‘planning to launch satellite with nuclear weapon into space by end of the year’ - The Independent",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjAyUzhGRHFtVDhBOGlDVFRJRUJYTm5JbHExVXBDSV9hUWRsVWNuejNfbXBsb3A5STFFeW9zZFJGODNQLURxOFZSTmRmNjg2T0tHSE9ScHNCczhUZE9MQWl2Q29tbUswc3pSN1BDQT",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbjAyUzhGRHFtVDhBOGlDVFRJRUJYTm5JbHExVXBDSV9hUWRsVWNuejNfbXBsb3A5STFFeW9zZFJGODNQLURxOFZSTmRmNjg2T0tHSE9ScHNCczhUZE9MQWl2Q29tbUswc3pSN1BDQTRkYWFnMmdnMC1wbGNvWTFlUFFWcjJxSjJIMXpFaFZBX1lfMUlIaWZnMS1JNUVRcjR1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-039",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "South Korean Startups Prove Reliability in Satellite, Components, Launches - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHVUVjlhNW1FOHctaGR4bkRhLTVHcEE3Q2pjRW5ZY3VUQ2JyMkpvVEh4TEdya2pJamRWNTRrVEUwWlhHLUJ0WDNGVC1GYmNyeUFta29HTUNPNVpoWXMtZzBSTGkzZ0dxbm5PLWdYQ0",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaHVUVjlhNW1FOHctaGR4bkRhLTVHcEE3Q2pjRW5ZY3VUQ2JyMkpvVEh4TEdya2pJamRWNTRrVEUwWlhHLUJ0WDNGVC1GYmNyeUFta29HTUNPNVpoWXMtZzBSTGkzZ0dxbm5PLWdYQ09VMlVWVTRGZWNvZWpCU3M0bkVoZDFLTDQz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-040",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Army publishes guidebook for defending critical infrastructure at local installations",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/army-publishes-guidebook-for-defending-critical-infrastructure-at-local-installations/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-041",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Congress is ‘out of time’ to decide on reconciliation, needs to settle topline spending: Sen. Coons",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdef",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/congress-is-out-of-time-to-decide-on-reconciliation-needs-to-settle-topline-spending-sen-coons/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-042",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Umbra, ICEYE tout higher-resolution radar imaging with new satellites",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/umbra-iceye-tout-higher-resolution-radar-imaging-with-new-satellites/\"><img width=\"1024\" height=\"535\" src=\"https://breakingdefense.com/wp-content/upload",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/umbra-iceye-tout-higher-resolution-radar-imaging-with-new-satellites/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-043",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beijing’s takeaway from the midterms: Will to fight and AI skepticism",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-044",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yes, no, maybe? The countries that can (or can’t) deliver Ukraine’s 40 requested F-16s",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/yes-no-maybe-the-countries-that-can-or-cant-deliver-ukraines-40-requested-f-16s/\"><img width=\"1024\" height=\"577\" src=\"https://breakingdefense.com/wp-con",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/yes-no-maybe-the-countries-that-can-or-cant-deliver-ukraines-40-requested-f-16s/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-045",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
+    "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can launch planes faster ",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-23-046",
+    "date": "2026-11-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+    "summary": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is on.",
+    "sources": [
+      {
+        "name": "defense_news",
+        "url": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "rocket_lab-2026-11-22-001",
     "date": "2026-11-22",
     "companies": [
@@ -89,6 +960,80 @@
       {
         "name": "nasa_breaking",
         "url": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-006",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone activates resilient integrated terrestrial and satellite connectivity at new Earth-space station - Vodafone",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE81cENjRFBQTzZCQmlHTjNBLVcyZElKc21GM0FqbGdTa09JcF9qZVdqMDJKMW5McHo3QzVjVWM0blNsZHBsVXJoODROUk5VdmJzdldnOTFmVFU4NTJLenpOdHhjSW5KYTBMOWg0M2xJLX",
+    "sources": [
+      {
+        "name": "ast_spacemobile",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81cENjRFBQTzZCQmlHTjNBLVcyZElKc21GM0FqbGdTa09JcF9qZVdqMDJKMW5McHo3QzVjVWM0blNsZHBsVXJoODROUk5VdmJzdldnOTFmVFU4NTJLenpOdHhjSW5KYTBMOWg0M2xJLXBFNlYxaGJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-007",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "launch_cost",
+      "satellite_constellation",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ariane 6 rocket launching 36 Amazon Leo satellites to orbit on Nov. 24 after delay: Watch it live",
+    "summary": "\n                             An Ariane 6 rocket will launch 36 Amazon Leo satellites to orbit early Tuesday (Nov. 24) after a one-day delay, and you can watch the action live. \n                      ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-008",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video)",
+    "summary": "\n                             SpaceX just launched two rockets from the same California pad 32 hours apart, breaking its own turnaround record by about 13 hours. \n                                     ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-136-proliferated-architecture",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-22-009",
+    "date": "2026-11-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "65 Years of Human Spaceflight at NASA Johnson",
+    "summary": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research ",
+    "sources": [
+      {
+        "name": "nasa_breaking",
+        "url": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
         "type": "rss"
       }
     ]
@@ -372,6 +1317,44 @@
       {
         "name": "spacecom",
         "url": "https://www.space.com/space-exploration/on-this-day-in-space-november-21-2026",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "planet-2026-11-21-016",
+    "date": "2026-11-21",
+    "companies": [
+      "planet"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "European-Japanese BepiColombo mission becomes 2nd ever to arrive in orbit around Mercury",
+    "summary": "\n                             The BepiColombo spacecraft finally arrived in orbit around Mercury on Saturday (Nov. 21), more than eight years after leaving its home planet. \n                          ",
+    "sources": [
+      {
+        "name": "spacecom",
+        "url": "https://www.space.com/space-exploration/missions/esa-jaxa-bepicolomobo-mission-mercury-orbit-arrival",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-21-017",
+    "date": "2026-11-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Despite Hegseth memo, Canada hasn’t seen changes to defense relationship with US, says DefMin",
+    "summary": "<p><a href=\"https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/\"><img width=\"1024\" height=\"576\" src=\"https://breakingdefense.com/wp-content/upl",
+    "sources": [
+      {
+        "name": "breaking_defense",
+        "url": "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
         "type": "rss"
       }
     ]
@@ -2862,6 +3845,25 @@
       {
         "name": "google_satellite_launch",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEZSTERURnRqNHBXSVh4X0RqRzcxdW1nVkt1dDRnZ3FtSkV0QS11SVFhZmRwY0xxYm9MWWlnWEphM3hmUUFxVG94Mm54YS1GcVpsY3hPUDYyVWNFa0FfQnk3NU5ISUY0ekNhT05nMFB5WkVPZHVybTR4V3cyRl8ySzNYYUc1VHllbmhlMg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-19-077",
+    "date": "2026-11-19",
+    "companies": [],
+    "topics": [
+      "space_defense",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX launches satellites for the U.S. Space Force’s data network constellation - Spaceflight Now",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbktEejlaa2VQdktxTDNTN3dYWld4QW5vMjhpMWFJZ1N6WGRLM3RteUFUTllWVXRNVENlXzF5TWhTbEdiWHhpNUxUUGYzX3NZbWpVbFJPOEtiU2ZhS0FmdTQ1ejZtOG4tTDJKWkk5bH",
+    "sources": [
+      {
+        "name": "google_satellite_launch",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbktEejlaa2VQdktxTDNTN3dYWld4QW5vMjhpMWFJZ1N6WGRLM3RteUFUTllWVXRNVENlXzF5TWhTbEdiWHhpNUxUUGYzX3NZbWpVbFJPOEtiU2ZhS0FmdTQ1ejZtOG4tTDJKWkk5bHhvMWhBRHVuNzRFTm9US1JVYlBLWUFoMXFGcWpwN1RnNzlPbWNDeUUxSlVmdEw1TXpGSDl6ZDVVT1daaHgtQmFDOHRQZ24?oc=5",
         "type": "rss"
       }
     ]

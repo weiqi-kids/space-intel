@@ -1,0 +1,16 @@
+{
+  "total_raw": 273,
+  "dup_title": 139,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 18,
+  "gate2_fail": 14,
+  "passed": 53,
+  "gate2_samples": [
+    "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+    "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+    "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+    "What Could Shape Intuitive Machines (NASDAQ:LUNR) Next Business Milestone? - Kalkine Media",
+    "Intuitive Machines shows strong growth potentia... - Pluang"
+  ]
+}

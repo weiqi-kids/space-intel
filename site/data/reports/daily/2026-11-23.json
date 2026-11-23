@@ -1,0 +1,223 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:43:21.439436Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ast_spacemobile-2026-11-23-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Rocket Lab Rallies 11% After Its Worst Week Ever as CFO Eyes Higher Electron Prices; AST SpaceMobile Jumps 14%, SpaceX Surges 9% - 24/7 Wall St.",
+      "companies": [
+        "ast_spacemobile",
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTHphT24wWV9sMEhTQVYwRWhwYXNTNGpGcDFOVC1XOERTMEo4S0NOeUp4aG9Ud0gwT05VenZJc281WGZYa21uZk5xeTVIS1ZjSEFaOU9CTnB5c0pOMHRiMXgxaFhNR0VMOHlQaUJMMDNUdHY0bHl6NGVCZ2RyTVhteExLbGNNOWtWb3pRTklhb0hjUjZINS1TLW1sc0lnYzBhUEkwcEhYLW5ZN1lldHE2MTZ5V3dsdlF5T3NRcUMydGhqUlpQMk1UYUtQQXZxSXJ1MlpZenVONnpfOEdjM25tU1phZ3ltek9fcGtaMXdURkdoTGhIZmNhZFF6TQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "intuitive-2026-11-23-014",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Intuitive Machines vs. Redwire: Which Space Infrastructure Stock Is a Better Buy for 2027? - The Motley Fool",
+      "companies": [
+        "intuitive",
+        "redwire"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQLWpEMmt3ck9vR0R2RzlPR0xoMHJrMUxYcnpjTXo2dUF6SkdOX1N5eUVWM0IydHBBMUFCY2JrNWRMLWFQaWc4OTFfY2FJNGROVjJJY3E0UzhHQURSWlNfOE4wSzdUYi1jTWZ2SDJIZGl3cjNzLXppZ0d6SUJOTG1Bc0F1WFpOano4MzVTUGJPMXNCdW9mZ2lLWC1iT0FrZF85S29iZjRHOXFYOUV6c2pkajdsYUJiZHRKaG45VGJYMm5VWkY2eXVySE1CRWFja1daUjVnZU9QTQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-037",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SpaceX launches 2 rockets from same pad 32 hours apart, smashing turnaround record (video) - Space",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONEZiYjVhWTBHd18zRFRDbUVLa2NTZ01tb1ZmZ1dQYzhuR0tqbkVELWRfX1ppSEJiZENiSWdJaW9aSE1RdzlfTUwzelNKOXphaVptMENyenR2TEJySXRMb2VYcUpwMjN4bUdzSGRpeFloS1M2QnV2cGVsT2ZpWVdhdzNKQ0VPWDJzTTZlUnpIQUJ3RklLNm9QYmN1RTVtQUxDb0REY2sxOGd5b0kxN0xTSjB5NmcxcmF6dElqeUxFYw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "rocket_lab-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rocket Lab Just Raised Prices on a Rocket It Hasn't Launched Yet. Here's What That Means for SpaceX. - Yahoo Finance",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNDFWajFGeW13ZTc4S2taRVk0SklSbDJvSXdRZS1CeDJWU0VFb0NHcklaZkhhMzhSandOeTFBam82a09ENUNvaFpMTUwxQTRZZEQzNVVHbTUwU3ozWHhNTHJaMzJKaWpNdGg2OEkyZzFXcHphdDdTSXZZSVJLM3VKR1lQdnZKYjNuYWU1ZEVGd3FVaVJo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "rocket_lab-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Can Rocket Lab's $515 Million Neutron Deals Lift Its Launch Backlog? - Zacks Investment Research",
+      "companies": [
+        "rocket_lab"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVE04a1psZDNBTVVNVEpUSkFUckV1aU1yVXpFeFJ0THlRQ1JvUTRCZzlEUUpmVE5Dd3RyZFdnbWxmWGdvZXdhNUl4bnVwal9zdkhTd3NYRWpNZUlRMTJBZkxvaVNWMWVQbFc0Ym9YSDNDdU04cnhPZ1BFRTFuNjN5RW0xWm81Zjk1XzY0UnVXN1p6Y0J2VXRlQmp3LVc5QWQxV3d1aUNaZWdZUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 45,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "launch_cost": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 44,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "rocket_lab",
+        "count": 12
+      },
+      {
+        "id": "planet",
+        "count": 5
+      },
+      {
+        "id": "ast_spacemobile",
+        "count": 4
+      },
+      {
+        "id": "intuitive",
+        "count": 1
+      },
+      {
+        "id": "redwire",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 45
+      },
+      {
+        "id": "launch_cost",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 273,
+    "dup_title": 139,
+    "too_old": 49,
+    "gate1_blocked": 18,
+    "gate2_blocked": 14,
+    "passed": 53,
+    "pass_rate": "39.6%",
+    "gate2_block_rate": "10.4%",
+    "gate2_samples": [
+      "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+      "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+      "Tracking Cathie Wood: Adding Intuitive Machines and Kodiak AI, Reducing Solana and Ether Staking ETF",
+      "What Could Shape Intuitive Machines (NASDAQ:LUNR) Next Business Milestone? - Kalkine Media",
+      "Intuitive Machines shows strong growth potentia... - Pluang"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為火箭實驗室、行星實驗室、AST SpaceMobile相關動態：「Rocket Lab Rallies 11% After Its Worst Week Ever as CFO E...」。主要關注主題為太空產業通用、發射成本，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Rocket Lab Rallies 11% After Its Worst Week Ever as CFO Eyes Higher Electron ...（太空產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Intuitive Machines vs. Redwire: Which Space Infrastructure Stock Is a Better ...（太空產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "發射成本話題出現 1 則，需持續關注供應鏈壓力。",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
