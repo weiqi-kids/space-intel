@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-24",
+  "total_events": 50,
+  "by_company": {
+    "rocket_lab": {
+      "count": 9,
+      "sentiment_avg": -0.11
+    },
+    "ast_spacemobile": {
+      "count": 11,
+      "sentiment_avg": -0.09
+    },
+    "intuitive": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "redwire": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "planet": {
+      "count": 5,
+      "sentiment_avg": 0.4
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 49,
+      "sentiment_avg": 0.02
+    },
+    "satellite_constellation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "launch_cost": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

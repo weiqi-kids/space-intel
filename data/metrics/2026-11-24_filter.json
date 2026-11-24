@@ -1,0 +1,16 @@
+{
+  "total_raw": 281,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 45,
+  "gate1_fail": 13,
+  "gate2_fail": 19,
+  "passed": 71,
+  "gate2_samples": [
+    "Mizuho initiates coverage of Intuitive Machines at Outperform, sets price target at $15 - TradingVie",
+    "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+    "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+    "Undercovered Dozen: Annaly, Vertiv, Intuitive Machines And More - Seeking Alpha",
+    "Intuitive Machines (LUNR) Takes a Beating. Here’s What Spooked Investors - Yahoo Finance"
+  ]
+}
