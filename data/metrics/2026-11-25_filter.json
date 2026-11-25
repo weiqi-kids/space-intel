@@ -1,0 +1,16 @@
+{
+  "total_raw": 256,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 37,
+  "gate1_fail": 10,
+  "gate2_fail": 18,
+  "passed": 58,
+  "gate2_samples": [
+    "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+    "Intuitive Machines (LUNR) Stock Sees Fair Value Cut As Analysts Turn More Cautious - Yahoo Finance",
+    "Mizuho initiates coverage of Intuitive Machines at Outperform, sets price target at $15 - TradingVie",
+    "Intuitive Machines (NASDAQ:LUNR) Sets New 52-Week Low - Should You Sell? - MarketBeat",
+    "Undercovered Dozen: Annaly, Vertiv, Intuitive Machines And More - Seeking Alpha"
+  ]
+}
