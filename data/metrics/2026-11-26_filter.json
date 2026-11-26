@@ -1,0 +1,16 @@
+{
+  "total_raw": 279,
+  "dup_title": 164,
+  "no_date": 0,
+  "too_old": 39,
+  "gate1_fail": 9,
+  "gate2_fail": 16,
+  "passed": 51,
+  "gate2_samples": [
+    "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+    "Mizuho initiates coverage of Intuitive Machines at Outperform, sets price target at $15 - TradingVie",
+    "L3Harris (LHX) Stock Still Looks Cheap Despite Its 46% Run - Yahoo Finance",
+    "Mizuho initiates coverage of L3Harris Technologies at Outperform, sets price target at $310 - Tradin",
+    "Should Early Debt Repayment Require Action From L3Harris Technologies (LHX) Investors? - Simply Wall"
+  ]
+}
