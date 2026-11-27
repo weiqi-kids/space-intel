@@ -1,0 +1,16 @@
+{
+  "total_raw": 257,
+  "dup_title": 153,
+  "no_date": 0,
+  "too_old": 41,
+  "gate1_fail": 13,
+  "gate2_fail": 6,
+  "passed": 44,
+  "gate2_samples": [
+    "Mizuho initiates coverage of Intuitive Machines at Outperform, sets price target at $15 - TradingVie",
+    "L3Harris (LHX) Stock Still Looks Cheap Despite Its 46% Run - Yahoo Finance",
+    "L3Harris to Host Investor Site Visit and Webcast - Business Wire",
+    "L3Harris to Host Investor Site Visit and Webcast - The Joplin Globe",
+    "SES S.A. (SESGP.XC) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore"
+  ]
+}
