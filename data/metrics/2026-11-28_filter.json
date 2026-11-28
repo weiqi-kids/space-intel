@@ -1,0 +1,16 @@
+{
+  "total_raw": 226,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 35,
+  "gate1_fail": 15,
+  "gate2_fail": 16,
+  "passed": 17,
+  "gate2_samples": [
+    "Intuitive Machines (LUNR) Could Be 8% Undervalued As START Review Clears - Yahoo Finance",
+    "Intuitive Machines Lobbying Profile, 2026 - OpenSecrets",
+    "Intuitive Machines: The Market Is Underestimating What's Coming Next (NASDAQ:LUNR) - Seeking Alpha",
+    "Intuitive Machines, Inc. Futures Price | LUNR Perpetual Price, OI & Funding - CoinGlass",
+    "Mizuho initiates coverage of Intuitive Machines at Outperform, sets price target at $15 - TradingVie"
+  ]
+}
